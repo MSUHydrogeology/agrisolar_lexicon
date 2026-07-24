@@ -13,7 +13,9 @@ This borrows the land-sharing / land-sparing framing from conservation ecology, 
 | **S3 — Substituted function** | Ground layer delivers ecological rather than agricultural function | Pollinator habitat, prairie/buffer |
 | **S4 — Sparing** | Array occupies ground removed from production because it was low-yielding or already idle | Marginal-land siting, previously disturbed land |
 
-**Why this axis and not another.** It is structural rather than an outcome; it is non-evaluative; and it separates the four [settlements](5-settlements.qmd) cleanly where scale alone does not. The [ecovoltaic](4-general-terminology.qmd#term-ecovoltaics) literature already reaches for land-sharing language, so this connects to an existing conversation rather than coining a private one.
+*Some entries in the right column — pollinator habitat, native grassland — name [cross-cutting restorative functions](6-cross-cutting-functions.qmd), not fixed positions. They are reachable across several positions (roughly S2–S4); §6 defines them as functions rather than pinning them to S3.*
+
+**Why this axis and not another.** It is structural rather than an outcome; it is non-evaluative; and it separates the four [archetypes](5-archetypes.qmd) cleanly where scale alone does not. The [ecovoltaic](4-general-terminology.qmd#term-ecovoltaics) literature already reaches for land-sharing language, so this connects to an existing conversation rather than coining a private one.
 
 ### 2.2 The feasible region is a wedge, not a rectangle {#sec-wedge}
 

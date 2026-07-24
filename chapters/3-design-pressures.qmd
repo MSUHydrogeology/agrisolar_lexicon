@@ -1,6 +1,6 @@
 # 3. Design Pressures {#sec-pressures-ch}
 
-**The heart of the document.** Every site is a [settlement](5-settlements.qmd#sec-settlements) of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
+**The heart of the document.** Every site is a [settlement](5-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
 
 ### 3.1 The pressures {#sec-pressures}
 

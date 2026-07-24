@@ -1,0 +1,55 @@
+# 6. Cross-cutting Restorative Functions {#sec-functions}
+
+::: {.callout-note appearance="simple"}
+**Draft for review.** The hydrologic entry is worked in full; the other three are drafts to be expanded once the register's shape is agreed. See the note on scope and the social register below.
+:::
+
+The two axes — the [scale transect](1-the-scale-transect.qmd) and the [sharing–sparing axis](2-the-sharingsparing-axis.qmd) — and the [archetypes](5-archetypes.qmd) they produce are the document's **structure register**: a coordinate system, mapped by Figure 3. But neither axis is about restoration, and the document is titled *Restorative*. The restorative content is a second register that the structure does not capture: a short vocabulary of cross-cutting **functions** — capacities the land can be made to deliver — that do not sit at a single point on the scale × sharing plane. They are obtainable, to varying degrees, across many structural positions at once.
+
+**A category correction.** Some terms are used as if they named a structural position when they really name a function. *Pollinator habitat* is often treated as position S3, but it is a function reachable at S2 (wildflower interrows over grazing), at S3 (dedicated habitat), and even on a restored S4 parcel. *Native grassland* is the same. Once function and position are separated, the confusion dissolves: positions are **rows**, functions are **columns**, and a real project lights up a *bundle* of function-cells rather than occupying one.
+
+**The relationship is a matrix, not a third axis.** Archetypes (rows) × functions (columns); each cell is the degree to which an archetype makes a function reachable. This is the working-landscapes view — that a mosaic of positions can carry many functions at once rather than trading them off wholesale (Kremen 2015; Grass et al. 2019 — *trace before citing*). A full grid is deferred alongside the Levers × Scale-Zones matrix (§7, open issue 6); the columns are defined here first.
+
+**A palette of capacities, not a scorecard.** These functions are a palette. There is no ranking, and nothing here implies that a good project maximizes every column — most sites can advance only a few, and some functions trade against each other and against generation, capital, and agricultural continuity. Each function's availability is site- and design-conditional, exactly as §2.2 treats the climate-conditionality of full sharing. Naming the functions gives the "restorative" in the title a structural home; it does not prescribe one.
+
+**Scope: biophysical.** The functions below are the biophysical capacities the *land* delivers. The social and economic dimension of restoration — community prosperity, local benefit, and the securing of social license — is real and co-equal in this project's framing, but it is carried by the [design pressures and institutional levers](3-design-pressures.qmd) (the forces-and-instruments register), not by a land function. That parallel register (including where *screening* and *community benefits* belong) is treated separately and is under active drafting.
+
+Each entry is tagged with **(a)** its mechanism, **(b)** its design dependencies — the levers and positions that enable it, **(c)** where on the structural map it is most vs. least available, and **(d)** its evidence status, following the verified / *trace-before-citing* discipline of the [Sources](sources.qmd).
+
+---
+
+### 6.1 Hydrologic function {#sec-fn-hydrologic}
+
+**Mechanism.** An array reshapes the site water balance. Panels intercept rainfall and redistribute it — concentrating flow along drip lines at panel edges while sheltering the ground beneath — which alters the partition between infiltration, runoff, and evaporation. Shade lowers soil-surface evaporation and plant transpiration, so soil moisture is generally retained; altered cover and compaction change infiltration capacity; and the net effect on deep percolation, groundwater recharge, and stormwater runoff depends on how the ground layer and grading are designed. Restorative hydrologic design uses the array and its ground layer deliberately — to raise infiltration and recharge, to slow and filter runoff (reducing erosion and nutrient export), and to buffer soil moisture through dry spells.
+
+**Design dependencies.** Ground-layer composition is primary — deep-rooted perennial cover infiltrates where bare or gravel ground sheds. Panel and row geometry set where drip concentrates; grading and the placement logic of the [buffer-integrated archetype](5-archetypes.qmd) (siting along hydrologic features) put infiltration where runoff collects; the operational regime and the choice of ground cover carry the rest. The instrument migrates along the transect exactly as the [restoration modes](1-the-scale-transect.qmd#sec-siting-latitude) do — siting-led along hydrologic features at A2–A3, management-led through ground cover at A4–A5.
+
+**Where on the map.** Broadly available, because water moves through every site — but most *legible* where the ground layer is designed for it (S2–S4: grazing, prairie/buffer, restored marginal ground) and least so under bare-ground or gravel management. The buffer-integrated archetype is its characteristic siting-led case; managed perennial cover is its characteristic case at scale.
+
+**Evidence status.** The microclimate-to-soil-moisture link is **verified**: panel shade raises soil moisture and cuts evaporative and transpiration losses in drylands [@barrongafford2019], semi-arid grassland arrays show measurable aridity mitigation [@sturchio2025], water is the primary ecological variable in a water-limited framing of ecovoltaics [@knapp2024], and soil-moisture retention is documented in desert array interspaces [@pinos2026]. The *infiltration / recharge / stormwater-runoff* side — how panel drip and altered cover reshape the water balance at depth and at the plot-to-watershed scale — is **thinner and partly trace** (a solar-hydrology review, Yavari et al. 2022, *trace before citing*). This is an active research frontier, and it is precisely what the REAL project's own instrumentation is built to close: measured panel drip and runoff, soil-moisture profiles, and a solar module in the Landscape Hydrology Model. The honest statement is that the hydrologic function is real, partly evidenced on its microclimate side, and partly a frontier this project is funding.
+
+---
+
+### 6.2 Soil & carbon function {#sec-fn-soil}
+
+*Draft.* **Mechanism:** perennial, low-disturbance cover under and between panels can build soil organic carbon and aggregate stability relative to tilled row-crop baselines, while the array's shade and reduced traffic alter decomposition and moisture regimes. **Design dependencies:** ground-layer composition, no-till establishment, grazing regime and stocking, avoidance of compaction during construction. **Where on the map:** most reachable under perennial/grazed cover and native-grassland restoration (S2–S3), least under annual tillage inside full-sharing systems or frequent disturbance. **Evidence status:** early soil-carbon and soil-surface gains are documented in early-stage ecovoltaic grassland restoration [@krasner2025], but outcomes are time-dependent, can show early losses from construction disturbance, and are site-conditional — much of the longer-term evidence is still *trace before citing*.
+
+### 6.3 Biodiversity & habitat function {#sec-fn-biodiversity}
+
+*Draft.* This entry is the natural home for the category correction above: *pollinator habitat* and *native grassland* are functions reachable across S2–S4, not fixed to S3. **Mechanism:** ground-layer plantings and their management provide floral resources, nesting and cover, and structural heterogeneity that support pollinators, arthropods, and grassland birds. **Design dependencies:** seed-mix composition, mowing and grazing *timing* (not just presence), and fragmentation geometry / [influence-zone](4-general-terminology.qmd#term-footprint-influence) edge — several small sites differ from few large ones. **Where on the map:** obtainable across the productive-ecological middle and the spared end; the buffer-integrated and grazed-habitat archetypes are characteristic cases. **Evidence status:** **verified** for grassland-bird gains [@walston2025], insect-community response to habitat establishment [@walston2024], and bee-species diversity [@bruningasocolar2025] — but *context-dependent*: the marginal habitat benefit is greatest where surrounding semi-natural habitat is sparse, so it is not a uniform good.
+
+### 6.4 Microclimate & thermal–water buffering function {#sec-fn-microclimate}
+
+*Draft.* **Mechanism:** panels redistribute radiation, lowering daytime soil and canopy temperatures, raising nighttime minima, and reducing vapor-pressure deficit under the array — buffering thermal extremes and coupling tightly to the hydrologic function (shade-driven moisture retention). **Design dependencies:** module geometry and height, row spacing and ground-coverage ratio, tracking schedule, and — for crops — the shade-tolerance match. **Where on the map:** pronounced in hot, water-limited settings and for shade-tolerant ground layers; muted to adverse in cool/humid settings, and itself scale- and geometry-dependent (the design tipping-point noted in §1.1). **Evidence status:** **verified** for the principles and dryland effects [@sturchio2023; @sturchio2025; @pinos2026]; the crop-facing magnitudes are covered under the shade-tolerance sources in §4 and remain climate-conditional.
+
+---
+
+### Associated Terminology
+
+Terms this section introduces; cross-referenced terms link to their home section.
+
+- **Cross-cutting function** — a restorative capacity of the land (hydrologic, soil & carbon, biodiversity & habitat, microclimate) obtainable to varying degrees across many structural positions; a *column* of the archetype × function matrix. Defined here.
+- **Function register / structure register** — the two composing registers: structure = the scale × sharing–sparing axes and the [archetypes](5-archetypes.qmd) they produce; function = these cross-cutting restorative capacities that overlay them.
+- **Archetype × function matrix** — the descriptive model relating the two registers: archetypes as rows, functions as columns, cells as the degree to which an archetype makes a function reachable. A palette, not a scorecard.
+
+---

@@ -12,7 +12,7 @@ This lexicon is therefore descriptive, not prescriptive. It aims to let two peop
 
 Four figures carry the argument: the transect (@fig-transect), the mode shift across it (@fig-siting), the feasible region formed with the sharing–sparing axis (@fig-wedge), and the pressures themselves (@fig-pressures). Source SVGs are in `figures/` and may be reused independently.
 
-The four design templates in circulation are not the object of this lexicon. They are **settlements** — four ways the pressures have been resolved, at particular scales and sharing postures. Naming the forces is what lets a fifth, sixth, and twentieth settlement be described in the same language.
+The four design templates in circulation are not the object of this lexicon. They are **archetypes** — four ways the pressures have been resolved, at particular scales and sharing postures. Naming the forces is what lets a fifth, sixth, and twentieth archetype be described in the same language.
 
 ### What we learned from *The Lexicon of New Urbanism*
 
@@ -20,7 +20,7 @@ That document is not a dictionary. It is the terminological layer of a regulator
 
 Four transferable lessons:
 
-**The transect is the load-bearing device, and it came from ecology.** The rural-to-urban Transect organizing the SmartCode traces to Humboldt's geographic cross-sections, used to analyze natural ecologies across shore, wetland, plain, and upland. Duany borrowed it for human settlement. Applying transect logic to agroenergy landscapes returns the device to its origin discipline.
+**The transect is the load-bearing device, and it came from ecology.** The rural-to-urban Transect organizing the SmartCode traces to Humboldt's geographic cross-sections, used to analyze natural ecologies across shore, wetland, plain, and upland. Duany borrowed it for human archetype. Applying transect logic to agroenergy landscapes returns the device to its origin discipline.
 
 **Codes must be calibrated, and not every zone appears everywhere.** Transect-based codes require local calibration, and a given place may have more or fewer zones than the model — most towns have no urban core at all. Our scale zones work the same way: a region with no transmission-adjacent land simply has no A5, and the lexicon must not imply a deficiency.
 

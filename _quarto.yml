@@ -24,8 +24,9 @@ book:
     - chapters/2-the-sharingsparing-axis.qmd
     - chapters/3-design-pressures.qmd
     - chapters/4-general-terminology.qmd
-    - chapters/5-settlements.qmd
-    - chapters/6-open-issues.qmd
+    - chapters/5-archetypes.qmd
+    - chapters/6-cross-cutting-functions.qmd
+    - chapters/7-open-issues.qmd
     - chapters/sources.qmd
   appendices:
     - chapters/index-alphabetical.qmd

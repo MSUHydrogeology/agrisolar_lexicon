@@ -1,6 +1,6 @@
-# 5. Settlements {#sec-settlements}
+# 5. Archetypes {#sec-archetypes}
 
-The templates, restated as resolutions of competing pressures at a scale zone and sharing position. Following New Urbanism's Archetype → Prototype → Type → Stereotype progression, these are **Types**: real, transformable instances, not an exhaustive set.
+The recurring resolutions — combinations of competing pressures settled at a particular scale zone and sharing position that keep reappearing across real projects. Archetypes are the **structure register**: what the two axes (scale × sharing–sparing) produce, paired with the [cross-cutting restorative functions](6-cross-cutting-functions.qmd) that overlay them. We use *archetype* in its plain sense — a characteristic, recurring, transformable pattern, not an exhaustive set. (In New Urbanism's *Archetype → Prototype → Type → Stereotype* ladder these sit at the **Type** rung; we keep *archetype* as the register's plain-language label.)
 
 **Overstory Agrivoltaic** *(vineyard, orchard)*
 [A2](1-the-scale-transect.qmd#sec-zones), occasionally [A3](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
@@ -26,14 +26,14 @@ A2–A3 · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *siting-led*
 *Yielded:* generation yield (marginal ground is rarely optimally shaped or oriented).
 *Signature levers:* placement logic within field, ground layer determined by what marginal ground supports.
 
-> **Note the kinship.** This settlement and the buffer-integrated one share an economic engine: prairie strips pay because they cost less than farming consistently low-yielding ground, which is the same partial-budget logic driving marginal-land solar siting. They differ mainly in whether the spared ground carries a designed ecological function or an energy function. Both are siting-led, and both depend on the A2–A3 latitude that makes choosing the ground possible at all — which is precisely why neither scales upward without changing into something else. Two settlements, one insight, and a good illustration of what the pressure framing reveals that a template catalog hides.
+> **Note the kinship.** This archetype and the buffer-integrated one share an economic engine: prairie strips pay because they cost less than farming consistently low-yielding ground, which is the same partial-budget logic driving marginal-land solar siting. They differ mainly in whether the spared ground carries a designed ecological function or an energy function. Both are siting-led, and both depend on the A2–A3 latitude that makes choosing the ground possible at all — which is precisely why neither scales upward without changing into something else. Two archetypes, one insight, and a good illustration of what the pressure framing reveals that a template catalog hides.
 
 ### Associated Terminology
 
 Defined here (this section is their collection point):
 
-**Settlement** — A way the [design pressures](3-design-pressures.qmd#sec-pressures-ch) have been resolved at a particular scale zone and sharing position; the four templates above are settlements, not the object of the lexicon.
+**Archetype** — A way the [design pressures](3-design-pressures.qmd#sec-pressures-ch) have been resolved at a particular scale zone and sharing position; the four templates above are archetypes, not the object of the lexicon.
 
-**Type** — Following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the settlements are Types: real, transformable instances, not an exhaustive set.
+**Type** — Following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances, not an exhaustive set.
 
 ---

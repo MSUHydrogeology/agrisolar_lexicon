@@ -108,7 +108,7 @@ under **S**.
 
 **Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [1. The Scale Transect](1-the-scale-transect.qmd)
 
-**Settlement** — a way the design pressures have been resolved at a particular scale zone and sharing position — [5. Settlements](5-settlements.qmd)
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position — [5. Archetypes](5-archetypes.qmd)
 
 **Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production or spares low-value ground from it — [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 
@@ -124,4 +124,4 @@ under **S**.
 
 ## T
 
-**Type** — following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the settlements are Types: real, transformable instances — [5. Settlements](5-settlements.qmd)
+**Type** — following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances — [5. Archetypes](5-archetypes.qmd)

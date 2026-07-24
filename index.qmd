@@ -32,13 +32,13 @@ site must settle. This is where the document's normative energy lives, deliberat
 pressures are supposed to have direction.
 
 The four design templates in circulation are not the object of this lexicon. They are
-**[settlements](chapters/5-settlements.qmd)** — ways the pressures have been resolved
+**[archetypes](chapters/5-archetypes.qmd)** — ways the pressures have been resolved
 at particular scales and sharing postures.
 
 In one line: three structural devices (scale, sharing–sparing, pressures) →
 **[general terminology](chapters/4-general-terminology.qmd)** →
-**[settlements](chapters/5-settlements.qmd)** →
-**[open issues](chapters/6-open-issues.qmd)**.
+**[archetypes](chapters/5-archetypes.qmd)** →
+**[open issues](chapters/7-open-issues.qmd)**.
 
 To look a term up directly, see the **[Index — Alphabetical](chapters/index-alphabetical.qmd)**;
 the built-in search box at the top of every page complements it.
@@ -50,7 +50,7 @@ the built-in search box at the top of every page complements it.
 This is a working draft circulated for comment. Two things in particular are unresolved:
 
 - Several citations are **[not yet verified](chapters/sources.qmd)** and are marked as such.
-- The **[open issues](chapters/6-open-issues.qmd)** list records decisions the document
+- The **[open issues](chapters/7-open-issues.qmd)** list records decisions the document
   has deliberately not made.
 
 Corrections, disagreements, and proposed terms are welcome as GitHub issues or pull requests.
