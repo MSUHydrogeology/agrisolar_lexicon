@@ -1,0 +1,65 @@
+/*-- scss:rules --*/
+
+// Shared scale-transect palette (A1→A5, light→dark), lifted from
+// figures/fig1_scale_transect.svg so the tables match the figures.
+// Zone greens:  A1 #EAF3DE · A2 #DCEBC8 · A3 #C0DD97 · A4 #AED483 · A5 #97C459
+// Greys:        header #d3d1c7 · sub-header #e8e6dd · accent green #639922
+
+// ===== Levers × Scale-Zones matrix (Table, §3.4) =====
+#tbl-lever-matrix table {
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+#tbl-lever-matrix table th,
+#tbl-lever-matrix table td {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0.35rem 0.5rem;
+  vertical-align: top;
+}
+
+// grey header row, with a green accent bar previewing the zone columns
+#tbl-lever-matrix thead th {
+  background-color: #d3d1c7;
+  color: #2c2c2a;
+}
+#tbl-lever-matrix thead th:nth-child(n + 2) {
+  border-bottom: 3px solid #639922;
+}
+
+// green zone columns (column 1 is the lever name)
+#tbl-lever-matrix tbody td:nth-child(2) { background-color: #eaf3de; } // A1
+#tbl-lever-matrix tbody td:nth-child(3) { background-color: #dcebc8; } // A2
+#tbl-lever-matrix tbody td:nth-child(4) { background-color: #c0dd97; } // A3
+#tbl-lever-matrix tbody td:nth-child(5) { background-color: #aed483; } // A4
+#tbl-lever-matrix tbody td:nth-child(6) { background-color: #97c459; } // A5
+
+// lever-name column: subtle neutral
+#tbl-lever-matrix tbody td:first-child { background-color: #f6f5f1; }
+
+// grey sub-header rows (Structural / Land & ecology / Institutional)
+#tbl-lever-matrix tbody tr:nth-child(2) td,
+#tbl-lever-matrix tbody tr:nth-child(6) td,
+#tbl-lever-matrix tbody tr:nth-child(10) td {
+  background-color: #e8e6dd;
+  font-weight: 600;
+}
+
+// ===== Zones table (§1.2) — same palette, one green band per zone row =====
+.zone-table table {
+  border-collapse: collapse;
+}
+.zone-table table th,
+.zone-table table td {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0.35rem 0.5rem;
+  vertical-align: top;
+}
+.zone-table thead th {
+  background-color: #d3d1c7;
+  color: #2c2c2a;
+}
+.zone-table tbody tr:nth-child(1) td { background-color: #eaf3de; } // A1
+.zone-table tbody tr:nth-child(2) td { background-color: #dcebc8; } // A2
+.zone-table tbody tr:nth-child(3) td { background-color: #c0dd97; } // A3
+.zone-table tbody tr:nth-child(4) td { background-color: #aed483; } // A4
+.zone-table tbody tr:nth-child(5) td { background-color: #97c459; } // A5

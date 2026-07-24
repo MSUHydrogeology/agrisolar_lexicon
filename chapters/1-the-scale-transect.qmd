@@ -24,6 +24,7 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 
 **A1–A5**, notation deliberately echoing T1–T6 so practitioners fluent in transect codes read it instantly.
 
+::: {.zone-table}
 | Zone | Indicative capacity | Interconnection | Decision unit | Ground-layer management |
 |---|---|---|---|---|
 | **A1 — Farmstead** | <100 kW | Behind-the-meter, net metered | Single owner-operator | Existing farm labor and equipment |
@@ -31,6 +32,7 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 | **A3 — Parcel** | 1–10 MW | Distribution; community solar, mid-market PPA | Multi-party: landowner, developer, offtaker, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
 | **A4 — Landscape** | 10–50 MW | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
 | **A5 — Regional** | 50 MW+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
+:::
 
 ![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient — which is what makes it a transect rather than a set of size bins.](../figures/fig1_scale_transect.svg){#fig-transect}
 
