@@ -10,11 +10,19 @@ Each archetype below states its *dominant* and *yielded* pressures; read across 
 *Yielded:* [capital discipline](3-design-pressures.qmd#sec-pressures) (high clearance is expensive), [generation yield](3-design-pressures.qmd#sec-pressures) (row spacing serves the crop).
 *Signature levers:* high clearance, possibly semitransparent modules, row geometry set by crop light requirements.
 
+The overstory archetype inverts the usual siting priority: the perennial canopy is fixed and long-lived, so the array must yield to it rather than the reverse. High clearance — enough to clear harvesters and tractor cabs — is the load-bearing lever and also the costliest, which is why capital discipline and areal generation density are the pressures conceded. Within the archetype the resolution varies along a light-management axis: fixed semitransparent modules over crop-set row spacing at one end, dynamic tracked louvers that ration radiation by phenological stage at the other. The characteristic tension is that every metre of steel and every widened row buys agronomic continuity and social license by spending generation yield — the structure exists to keep the parcel legibly a vineyard or orchard first, a power plant second.
+
+**Application:** Domaine de Nidolères, Tresserre, Pyrénées-Orientales, France (inaugurated November 2018; 2.1 MW dynamic array over ~4.5 ha and ~28,600 vines) — described by its developer as the world's first agrivoltaic vineyard power plant, its high-clearance tracked louvers steered by phenological stage to ration light to the vines rather than to maximize export.
+
 **Grazed Habitat Array**
 [A4](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S2](2-the-sharingsparing-axis.qmd#sec-positions)–[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 *Dominant pressures:* generation yield, [operational simplicity](3-design-pressures.qmd#sec-pressures) — grazing approaches cost parity with mowing rather than beating it outright, its vegetation-management advantage back-loaded to the mature-project years once the establishment invoices are behind, with restorative benefit following.
 *Yielded:* agricultural continuity in the strong sense (grazing is a service contract, not the farm's own operation).
 *Signature levers:* contract-enterprise management regime, rotation logistics, fence-gate topology, water access.
+
+The array is designed for generation and O&M first, then a grazing tenancy is layered onto ground that would otherwise be mowed or sprayed. Because the vegetation is procured as a service rather than farmed by the landowner, the decisive levers are contractual and logistical rather than agronomic — the security-perimeter fence doubles as flock containment, internal cross-fencing and gate topology define the rotation cells, and water points and panel-clearance height set what class of stock can work beneath the modules. The habitat layer is a co-benefit of low-input ground cover, not the organizing purpose, which keeps the ecology contingent on the maintenance contract that funds it. The characteristic tension is scheduling sovereignty: the plant wants vegetation held below a fixed height on its timeline, the shepherd needs to move animals on the flock's.
+
+**Application:** Aurora Solar, Minnesota (2017; 150 MW-dc across 16 pollinator-habitat sites) — utility-scale generation whose grounds are maintained by contracted sheep grazing beneath a low-growing pollinator understory, the grazing a vegetation-management service tenancy rather than the landowner's own farm operation.
 
 **Buffer-Integrated Array** *(prairie strips)*
 A3 · **S3** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
@@ -22,11 +30,19 @@ A3 · **S3** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 *Yielded:* some generation yield to buffer geometry.
 *Signature levers:* placement logic along hydrologic features, ground-layer composition, conservation payment stacking.
 
+The organizing move is that the native planting is not amenity but infrastructure: its species mix, root depth, and placement are sized to a named hydrologic outcome — a design-storm runoff volume, a sediment or nutrient load — rather than to bloom or optics. That reframes the generation yielded to buffer geometry as the price of a service the site is contracted or permitted to deliver, which is what lets conservation payments and avoided-basin savings stack onto the energy revenue. The archetype varies by where the water is: on deep sandy soils the whole under-array ground layer can act as the infiltration surface and the "buffer" dissolves into full-site cover; on tighter or sloping ground the logic collapses back to discrete strips and basins along the drainage the water actually follows. It only holds where a service target is explicit enough to be priced, and it does not survive the jump to A4–A5, where siting latitude narrows.
+
+**Application:** Ramsey Renewable Station (Connexus Energy), Ramsey, Minnesota (~3.4 MW solar-plus-storage; DOE PV-SMaRT case study, 2022) — a mid-scale site on sandy (hydrologic Class A) soil whose deep-rooted native ground layer was engineered as the stormwater control itself: University of Minnesota modelling found the vegetation infiltrated runoff through the 2-, 10-, and 100-year design storms with no conventional detention basins.
+
 **Marginal-Land Diversification Array**
 A2–A3 · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *siting-led*
 *Dominant pressures:* farm economic resilience, capital discipline.
 *Yielded:* generation yield (marginal ground is rarely optimally shaped or oriented).
 *Signature levers:* placement logic within field, ground layer determined by what marginal ground supports.
+
+This archetype coheres around a siting decision taken before any generation-optimization: the farm concedes the array to ground already unproductive — a flood-prone corner, a rocky headland, a poorly-shaped remnant — and accepts whatever orientation and layout that ground dictates. What varies within it is what the marginal parcel can still carry as a working surface: rough grazing where it drains, naturalized or pollinator cover where it does not. Its characteristic tension is between capital discipline — put the panels on land that costs nothing in foregone yield — and generation yield, since that same ground is rarely shaped, oriented, or drained for optimal output and can force compensating expense (elevation above a floodplain, ballast on rock, longer interconnect runs). The resolution holds only when the diversified income stream outweighs the yield penalty the marginal siting imposes.
+
+**Application:** Cozy Cove Farm, Gurley, Alabama (2013; 50 kW, 208 panels) — a llama-and-alpaca farm placed its array on a flood-prone corner of riverside pasture and raised the panels about seven feet, so the herd grazes and shelters beneath while the farm sells generation to TVA: marginal ground diversified into income without surrendering the pasture.
 
 > **Note the kinship.** This archetype and the buffer-integrated one share an economic engine: prairie strips pay because they cost less than farming consistently low-yielding ground, which is the same partial-budget logic driving marginal-land solar siting. They differ mainly in whether the spared ground carries a designed ecological function or an energy function. Both are siting-led, and both depend on the A2–A3 latitude that makes choosing the ground possible at all — which is precisely why neither scales upward without changing into something else. Two archetypes, one insight, and a good illustration of what the pressure framing reveals that a template catalog hides.
 

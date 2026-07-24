@@ -61,6 +61,12 @@ nocite: |
 - **Kremen, C. (2015).** Working-landscapes framing behind the archetype × function matrix — reframing the land-sparing/land-sharing debate for biodiversity conservation. Venue (reportedly *Annals of the New York Academy of Sciences*) and full citation **unconfirmed**; trace before citing.
 - **Grass et al. (2019).** Working-landscapes / connectivity framing (land-sharing–sparing for ecosystem services and biodiversity), reportedly *People and Nature*. Full citation **unconfirmed**; trace before citing.
 
+**Archetype exemplars (the Application: cases in §5)** — real projects, mostly documented in developer pages, NGO case studies, and extension case studies (gray literature); trace named figures to these before citing.
+- **Overstory Agrivoltaic — Domaine de Nidolères**, Tresserre, France. Sun'Agri project page (sunagri.fr/en/project/nidoleres-estate) and *L'Écho du Solaire*; the "world's first agrivoltaic vineyard power plant" phrasing is the developer's. Peer-reviewed corroboration of dynamic-agrivoltaic tree-crop effects: Juillion, P. et al. (2022), Shading apple trees with an agrivoltaic system, *Scientia Horticulturae* 306 (HAL hal-04185057).
+- **Grazed Habitat Array — Aurora Solar**, Minnesota (150 MW-dc, 16 sites, operational 2017). Enel Green Power project page; Fresh Energy case study; NREL InSPIRE pollinator research.
+- **Buffer-Integrated Array — Ramsey Renewable Station** (Connexus Energy), Ramsey, MN. Fresh Energy case study and the DOE **PV-SMaRT** project (University of Minnesota stormwater modelling); the no-detention-basin result is from PV-SMaRT modelling of the site.
+- **Marginal-Land Diversification — Cozy Cove Farm**, Gurley, AL (50 kW / 208 panels, elevated ~7 ft, TVA offtake). NCAT AgriSolar Clearinghouse case study.
+
 *A note on method, since this document argues for shared language: the first draft of this list contained two citation errors, both introduced by supplying author names from memory where a source gave only a title. Both were caught by checking. The habit is worth keeping.*
 
 ## References {#refs}
