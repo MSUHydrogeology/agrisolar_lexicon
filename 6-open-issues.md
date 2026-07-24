@@ -11,6 +11,6 @@ nav_order: 8
 4. **Pressure set completeness.** Seven pressures. Is there a missing one — decommissioning and reversibility? Water rights? Labor availability?
 5. **Whether the lexicon takes a metrics position.** Staying descriptive is safer and matches Lesson 4; but a community with no shared success metric may not cohere. Possible middle path: name the candidate metrics and their blind spots without endorsing.
 6. **Matrix layer (future §7).** Levers × Scale Zones, marking viable combinations — the closest analog to New Urbanism's Urban Standards. Defer until terms stabilize.
-7. **Alphabetical index.** Add once term count exceeds scannability.
+7. **Alphabetical index.** *Addressed.* An [alphabetical index]({{ '/index-alphabetical/' | relative_url }}) of every defined term now exists, backed by a maintainable term list in `_data/terms.yml`. A fuller taxonomy index — terms grouped by structural device rather than by letter — remains partial and would follow the matrix layer (#6) once terms stabilize.
 
 ---

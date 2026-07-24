@@ -5,7 +5,7 @@ nav_order: 5
 
 # 3. Design Pressures
 
-**The heart of the document.** Every site is a settlement of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
+**The heart of the document.** Every site is a [settlement]({{ '/5-settlements/#5-settlements' | relative_url }}) of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
 
 ### 3.1 The pressures
 
@@ -15,7 +15,7 @@ nav_order: 5
 
 **Operational simplicity** — minimize management burden across a 25–40 year asset life. Pulls toward uniform, mowable or gravel ground cover and predictable maintenance. *Note it can oppose capital discipline: native seeding raises capex and lowers long-run opex.*
 
-**Agricultural continuity** — keep working land working. Pulls toward high clearance, equipment access, production ground layers, farmer contracts.
+**Agricultural continuity** — keep working land working. Pulls toward high clearance, equipment access, production [ground layers]({{ '/4-general-terminology/#ground-layer' | relative_url }}), farmer contracts.
 
 **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation. Pulls toward wider rows, diverse ground cover, lifespan management, and operational choices made partly for the ground layer.
 
@@ -31,7 +31,7 @@ nav_order: 5
 
 The lexicon's usefulness lies in making these legible rather than letting them surface as vague friction.
 
-**Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/ecovoltaics dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
+**Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/[ecovoltaics]({{ '/4-general-terminology/#ecovoltaics' | relative_url }}) dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
 
 **Operational simplicity vs. everything.** The strongest quiet force in the field. Gravel and herbicide are simple; diverse perennial cover is not. Most restorative design is lost here, not in the initial design meeting.
 
@@ -45,12 +45,30 @@ The lexicon's usefulness lies in making these legible rather than letting them s
 
 The degrees of freedom through which pressures get settled. Modular and separately extensible.
 
-*Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · pore-space configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
+*Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · [pore-space]({{ '/4-general-terminology/#pore-space' | relative_url }}) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
 
 *Land and ecology:* ground-layer composition · placement logic within parcel · landscape configuration (few-large vs. many-small) · ecological service target · management regime through lifespan · operational regime (tracking schedule, curtailment behavior).
 
 *Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime.
 
 **Coupling note.** Row geometry and ground-layer composition are a single coupled choice, not two. Crops sort into shade-sensitive, shade-neutral, and shade-tolerant classes — C4 and grain or fruiting crops (maize, wheat, many fruiting vegetables) sensitive; leafy and root horticultural crops (lettuce, spinach, chard, potato) and many forage grasses tolerant, some benefiting under moderate shade — so light environment and planting selection must be decided together.
+
+### Associated Terminology
+
+Terms this section introduces (defined above; this is their collection point):
+
+**Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates. The seven:
+
+- **Generation yield** — maximize energy per unit land.
+- **Capital discipline** — minimize installed cost per watt.
+- **Operational simplicity** — minimize management burden across a 25–40 year asset life.
+- **Agricultural continuity** — keep working land working.
+- **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation.
+- **Social license** — secure and sustain community acceptance.
+- **Offtake conformity** — satisfy whoever buys the power, attributes, or tax position; the channel through which external parties impose pressures on a design.
+
+**Pressure conflict** — the framing that treats these disputes (e.g. agricultural continuity vs. restorative ambition; operational simplicity vs. everything) as legitimate forces in genuine tension rather than definitional errors.
+
+**Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled; modular and separately extensible.
 
 ---

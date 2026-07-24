@@ -40,6 +40,14 @@ The four design templates in circulation are not the object of this lexicon. The
 **[settlements]({{ '/5-settlements/' | relative_url }})** — ways the pressures have been resolved
 at particular scales and sharing postures.
 
+In one line: three structural devices (scale, sharing–sparing, pressures) →
+**[general terminology]({{ '/4-general-terminology/' | relative_url }})** →
+**[settlements]({{ '/5-settlements/' | relative_url }})** →
+**[open issues]({{ '/6-open-issues/' | relative_url }})**.
+
+To look a term up directly, see the **[Index — Alphabetical]({{ '/index-alphabetical/' | relative_url }})**;
+the built-in search box at the top of every page complements it.
+
 ---
 
 ## Status

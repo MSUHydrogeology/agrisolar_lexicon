@@ -1,0 +1,314 @@
+# Canonical term inventory for the Lexicon of Restorative Agroenergy Design.
+# Single maintainable source for the alphabetical index and future tooling.
+# Fields: term, page (slug), anchor (kramdown heading id), gloss, synonyms, source.
+# Sorted alphabetically by term. Zone codes A1-A5 and position codes S1-S4 are
+# grouped under their letter. Glosses are drawn from existing page text; no new
+# facts are introduced here.
+
+- term: "A1 — Farmstead"
+  page: 1-the-scale-transect
+  anchor: 12-the-zones
+  gloss: "Scale zone: <100 kW, behind-the-meter and net metered, single owner-operator, managed with existing farm labour and equipment."
+  synonyms: []
+  source: ""
+
+- term: "A2 — Field"
+  page: 1-the-scale-transect
+  anchor: 12-the-zones
+  gloss: "Scale zone: 100 kW-1 MW, behind-meter to distribution, landowner with possibly one lease counterparty, existing equipment modestly adapted."
+  synonyms: []
+  source: ""
+
+- term: "A3 — Parcel"
+  page: 1-the-scale-transect
+  anchor: 12-the-zones
+  gloss: "Scale zone: 1-10 MW, distribution / community solar / mid-market PPA, multi-party decision unit, purpose-built ground-layer management."
+  synonyms: []
+  source: ""
+
+- term: "A4 — Landscape"
+  page: 1-the-scale-transect
+  anchor: 12-the-zones
+  gloss: "Scale zone: 10-50 MW, distribution to sub-transmission with queue position, developer-led institutional capital, contract-enterprise management."
+  synonyms: []
+  source: ""
+
+- term: "A5 — Regional"
+  page: 1-the-scale-transect
+  anchor: 12-the-zones
+  gloss: "Scale zone: 50 MW+, transmission with merchant or utility PPA, utility/IPP across jurisdictions, contract enterprise at ranch scale."
+  synonyms: []
+  source: ""
+
+- term: "Agricultural continuity"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: keep working land working; pulls toward high clearance, equipment access, production ground layers, farmer contracts."
+  synonyms: []
+  source: ""
+
+- term: "Agrisolar"
+  page: 4-general-terminology
+  anchor: agrisolar
+  gloss: "Agroenergy specific to photovoltaics; this lexicon's primary term of art, neutral across the sharing-sparing axis."
+  synonyms: []
+  source: ""
+
+- term: "Agrivoltaics"
+  page: 4-general-terminology
+  anchor: agrivoltaics
+  gloss: "Crop or livestock production within the array footprint (S1-S2); terminology is regionally fractured."
+  synonyms: ["agrophotovoltaics", "photovoltaic agriculture"]
+  source: ""
+
+- term: "Agroenergy"
+  page: 4-general-terminology
+  anchor: agroenergy
+  gloss: "Energy infrastructure sited and designed to interact intentionally with agricultural or ecological land function; umbrella term, not solar-specific."
+  synonyms: []
+  source: ""
+
+- term: "Capital discipline"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: minimize installed cost per watt; pulls toward standard racking, low clearance, minimal ground preparation, conventional geometry."
+  synonyms: []
+  source: ""
+
+- term: "Carrying capacity"
+  page: 1-the-scale-transect
+  anchor: 13-why-the-transect-earns-its-place
+  gloss: "Season-long forage the land sustains over time; a grazing design variable that diverges from instantaneous stocking density."
+  synonyms: []
+  source: ""
+
+- term: "Co-location"
+  page: 4-general-terminology
+  anchor: co-location-vs-integration
+  gloss: "Panels and a land use share a parcel without functional interdependence; contrasted with integration."
+  synonyms: []
+  source: ""
+
+- term: "Contract grazing"
+  page: 1-the-scale-transect
+  anchor: 13-why-the-transect-earns-its-place
+  gloss: "Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up as a logistics enterprise."
+  synonyms: []
+  source: ""
+
+- term: "Covarying attribute bundle"
+  page: 1-the-scale-transect
+  anchor: 11-why-scale-and-why-a-transect-rather-than-bins
+  gloss: "The set of attributes that move together along the transect, so naming a zone tells you many things at once; nameplate capacity is an indicator, not a definition."
+  synonyms: ["bundle of covarying attributes"]
+  source: ""
+
+- term: "Design levers"
+  page: 3-design-pressures
+  anchor: 33-design-levers
+  gloss: "The degrees of freedom - structural, land-and-ecology, institutional - through which pressures get settled; modular and separately extensible."
+  synonyms: []
+  source: ""
+
+- term: "Design pressures"
+  page: 3-design-pressures
+  anchor: 3-design-pressures
+  gloss: "The competing forces every site must settle; unlike axes they have direction, conflict, and advocates."
+  synonyms: []
+  source: ""
+
+- term: "Ecovoltaics"
+  page: 4-general-terminology
+  anchor: ecovoltaics
+  gloss: "Solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation (typically S3)."
+  synonyms: []
+  source: "Sturchio & Knapp 2023"
+
+- term: "Feasible wedge"
+  page: 2-the-sharingsparing-axis
+  anchor: 22-the-feasible-region-is-a-wedge-not-a-rectangle
+  gloss: "The feasible region across scale and sharing: all four sharing positions stay open through A3, but the space narrows toward A5 where land assembly governs siting and sparing becomes largely unavailable."
+  synonyms: ["feasible region"]
+  source: ""
+
+- term: "Footprint"
+  page: 4-general-terminology
+  anchor: footprint-vs-influence-zone
+  gloss: "Land physically occupied by racking, panels, and access infrastructure; paired with influence zone after New Urbanism's Domain/Range."
+  synonyms: []
+  source: ""
+
+- term: "Generation yield"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: maximize energy per unit land; pulls toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage."
+  synonyms: []
+  source: ""
+
+- term: "Ground Layer"
+  page: 4-general-terminology
+  anchor: ground-layer
+  gloss: "Whatever occupies the surface beneath and between panels; primary carrier of restorative function."
+  synonyms: []
+  source: ""
+
+- term: "Influence Zone"
+  page: 4-general-terminology
+  anchor: footprint-vs-influence-zone
+  gloss: "The larger, typically asymmetric area whose hydrology, microclimate, soil, or wildlife movement is measurably affected; paired with footprint."
+  synonyms: []
+  source: ""
+
+- term: "Integration"
+  page: 4-general-terminology
+  anchor: co-location-vs-integration
+  gloss: "Functional interdependence - panel height set by livestock clearance, spacing by forage light, tracking by photosynthetic timing; the threshold a design crosses to be restorative in more than name."
+  synonyms: []
+  source: ""
+
+- term: "Land Equivalent Ratio (LER)"
+  page: 4-general-terminology
+  anchor: land-equivalent-ratio-ler
+  gloss: "Standard dual-use productivity metric; captures production co-yield but handles S3 ground layers poorly, so it should not become the field's default success metric by inertia."
+  synonyms: ["LER"]
+  source: ""
+
+- term: "Management-led"
+  page: 1-the-scale-transect
+  anchor: 14-siting-latitude-and-the-restoration-mode-shift
+  gloss: "Restoration mode in which placement is a given and ground cover, grazing regime, and operational schedule carry everything."
+  synonyms: []
+  source: ""
+
+- term: "Offtake conformity"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: satisfy the criteria of whoever buys the power, attributes, or tax position; the channel through which external parties impose pressures on a design."
+  synonyms: []
+  source: ""
+
+- term: "Operational simplicity"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: minimize management burden across a 25-40 year asset life; pulls toward uniform, mowable or gravel ground cover and predictable maintenance."
+  synonyms: []
+  source: ""
+
+- term: "Pore Space"
+  page: 4-general-terminology
+  anchor: pore-space
+  gloss: "The three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space rather than leftover."
+  synonyms: []
+  source: "Toledo & Scognamiglio 2021"
+
+- term: "Restoration mode"
+  page: 1-the-scale-transect
+  anchor: 14-siting-latitude-and-the-restoration-mode-shift
+  gloss: "Whether restorative work is delivered by choice of ground, array geometry, or operation - Siting-led, Structure-led, or Management-led - shifting as siting latitude falls up the transect."
+  synonyms: ["restoration mode shift"]
+  source: ""
+
+- term: "Restorative"
+  page: 4-general-terminology
+  anchor: restorative
+  gloss: "The frame of the whole lexicon: ecological, hydrological, or economic ground-layer function as a design objective co-equal with generation, not an incidental byproduct."
+  synonyms: []
+  source: ""
+
+- term: "Restorative ambition"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: make ecological, hydrological, and economic resilience a design objective co-equal with generation."
+  synonyms: []
+  source: ""
+
+- term: "S1 — Full sharing"
+  page: 2-the-sharingsparing-axis
+  anchor: 21-the-positions
+  gloss: "Sharing position: production continues within the array footprint, in the same ground (overstory agrivoltaic; crops between rows)."
+  synonyms: []
+  source: ""
+
+- term: "S2 — Functional sharing"
+  page: 2-the-sharingsparing-axis
+  anchor: 21-the-positions
+  gloss: "Sharing position: ground layer is productive but subordinate to the array; grazing, forage (solar grazing at any scale)."
+  synonyms: []
+  source: ""
+
+- term: "S3 — Substituted function"
+  page: 2-the-sharingsparing-axis
+  anchor: 21-the-positions
+  gloss: "Sharing position: ground layer delivers ecological rather than agricultural function (pollinator habitat, prairie/buffer)."
+  synonyms: []
+  source: ""
+
+- term: "S4 — Sparing"
+  page: 2-the-sharingsparing-axis
+  anchor: 21-the-positions
+  gloss: "Sharing position: array occupies ground removed from production because it was low-yielding or already idle (marginal-land siting, previously disturbed land)."
+  synonyms: []
+  source: ""
+
+- term: "Scale Transect"
+  page: 1-the-scale-transect
+  anchor: 1-the-scale-transect
+  gloss: "A single gradient from farmstead to regional that most other terms are read against; defined by covarying attribute bundles rather than capacity thresholds."
+  synonyms: []
+  source: ""
+
+- term: "Settlement"
+  page: 5-settlements
+  anchor: 5-settlements
+  gloss: "A way the design pressures have been resolved at a particular scale zone and sharing position; the four templates in circulation are settlements, not the object of the lexicon."
+  synonyms: []
+  source: ""
+
+- term: "Sharing–Sparing Axis"
+  page: 2-the-sharingsparing-axis
+  anchor: 2-the-sharingsparing-axis
+  gloss: "The second, scale-orthogonal dimension: whether the array shares land with production or spares low-value ground from it; borrows the land-sharing / land-sparing framing from conservation ecology."
+  synonyms: ["land sharing / land sparing"]
+  source: "Green et al. 2005; Phalan et al. 2011"
+
+- term: "Siting latitude"
+  page: 1-the-scale-transect
+  anchor: 14-siting-latitude-and-the-restoration-mode-shift
+  gloss: "The designer's freedom over where the array goes; what governs it migrates from opportunistic placement to land-assembly and grid topology up the transect."
+  synonyms: []
+  source: ""
+
+- term: "Siting-led"
+  page: 1-the-scale-transect
+  anchor: 14-siting-latitude-and-the-restoration-mode-shift
+  gloss: "Restoration mode in which the restorative work is done by the choice of ground; requires A2-A3 latitude."
+  synonyms: []
+  source: ""
+
+- term: "Social license"
+  page: 3-design-pressures
+  anchor: 31-the-pressures
+  gloss: "Design pressure: secure and sustain community acceptance; pulls toward visual screening, local benefit, farmer visibility, and engagement in design."
+  synonyms: []
+  source: ""
+
+- term: "Stocking density"
+  page: 1-the-scale-transect
+  anchor: 13-why-the-transect-earns-its-place
+  gloss: "Instantaneous animals per unit area at a moment; diverges from season-long carrying capacity with forage growth, utilization, and climate."
+  synonyms: []
+  source: ""
+
+- term: "Structure-led"
+  page: 1-the-scale-transect
+  anchor: 14-siting-latitude-and-the-restoration-mode-shift
+  gloss: "Restoration mode in which array geometry is the instrument: clearance, row spacing, module transmissivity."
+  synonyms: []
+  source: ""
+
+- term: "Type"
+  page: 5-settlements
+  anchor: 5-settlements
+  gloss: "Following New Urbanism's Archetype -> Prototype -> Type -> Stereotype progression, the settlements are Types: real, transformable instances, not an exhaustive set."
+  synonyms: []
+  source: ""

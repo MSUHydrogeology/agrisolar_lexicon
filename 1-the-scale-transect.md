@@ -16,12 +16,12 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 - Interconnection posture (behind-meter → distribution → transmission)
 - Decision-making unit (single landowner → multi-party → utility/IPP with queue position)
 - Permitting burden (by-right → site plan review → full environmental review)
-- Ground-layer management mode (existing farm labor → purpose-built → contract enterprise)
+- [Ground-layer]({{ '/4-general-terminology/#ground-layer' | relative_url }}) management mode (existing farm labor → purpose-built → contract enterprise)
 - Capital structure (owner-financed → tax equity and offtake → project finance)
 - Community interface (neighbors → township → regional stakeholder process)
 - **Siting latitude** (opportunistic → strategic → constrained by land assembly and grid topology)
 
-**The physics scales too.** The transect is not only an institutional gradient; the agrivoltaic microclimate benefit is itself geometry- and scale-dependent. Soil-temperature reduction and moisture retention are broadly consistent across systems, but air-temperature effects are variable and site-specific, and a meta-analysis of design tipping points (Zhang et al. 2025) reports a system-size threshold beyond which the net temperature effect reverses from cooling toward warming — evidence that scale changes the physical design problem, not just the ownership-and-permitting one.
+**The physics scales too.** The transect is not only an institutional gradient; the [agrivoltaic]({{ '/4-general-terminology/#agrivoltaics' | relative_url }}) microclimate benefit is itself geometry- and scale-dependent. Soil-temperature reduction and moisture retention are broadly consistent across systems, but air-temperature effects are variable and site-specific, and a meta-analysis of design tipping points (Zhang et al. 2025) reports a system-size threshold beyond which the net temperature effect reverses from cooling toward warming — evidence that scale changes the physical design problem, not just the ownership-and-permitting one.
 
 > *Needs verification.* The specific size threshold (~2 ha, taken here from secondary summaries of Zhang et al. 2025) has not been confirmed against the primary text and should be read there before it is quoted.
 
@@ -51,7 +51,7 @@ Take one ground-layer function — **sheep grazing** — across the zones. The l
 - **A3:** grazing becomes a contracted service. New York distributed solar (1–20 MW on 6–120 acres) is where vegetation-management contracts appear, paying roughly $300–500/acre/year. Design must now accommodate a party who does not live there.
 - **A4–A5:** grazing is a logistics enterprise. McCall et al. (2023) report median per-activity vegetation-management costs across 54 utility-scale sites: mowing ran about $113/acre/yr at sheep-grazing sites, $121 at native-vegetation sites, and $203 at turfgrass sites, while herbicide application was highest on gravel at $293/acre/yr. The design questions at this zone become flock rotation across non-contiguous parcels, water access, and fence-gate topology — none of which exist as design problems at A1.
 
-**The more important finding from the same study is a caution, not an endorsement.** While per-activity costs at native and pollinator-friendly ground covers were *lower* than at turfgrass, total combined vegetation O&M was slightly *higher*, because more separate activities are required through the first three to five years of establishment. Restorative ground cover is not cheaper from day one; it is more expensive during establishment and competitive afterward. Any argument for restorative practice that leads with cost savings should expect to meet an operator who has seen the establishment-phase invoices.
+**The more important finding from the same study is a caution, not an endorsement.** While per-activity costs at native and pollinator-friendly ground covers were *lower* than at turfgrass, total combined vegetation O&M was slightly *higher*, because more separate activities are required through the first three to five years of establishment. [Restorative]({{ '/4-general-terminology/#restorative' | relative_url }}) ground cover is not cheaper from day one; it is more expensive during establishment and competitive afterward. Any argument for restorative practice that leads with cost savings should expect to meet an operator who has seen the establishment-phase invoices.
 
 > *Citation caution.* These figures circulate widely in secondary sources with the activity labels transposed — the mowing cost incurred *at* grazing sites is frequently reported as the cost *of* grazing, and per-acre figures are converted to per-hectare without relabeling. A concrete, good-faith instance: Stewart et al. (2025, *Small Ruminant Research*) report McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 that number is the median *mowing* cost at sheep-grazed sites — the grazing activity itself ran a median of about $50/acre/yr. The two readings coexist in the primary literature and the per-hectare conversion compounds the ambiguity; McCall's own Table 4 is the arbiter, so practitioners quoting these figures should go to McCall et al. directly.
 
@@ -84,5 +84,22 @@ The two therefore cross somewhere between A3 and A4. This yields three restorati
 This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing, while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
 
 *Open question (see §6).* Whether siting latitude declines monotonically or peaks in the middle. The case for a peak: at A1 the binding constraint is the parcel boundary, so the operator has very little ground to choose among even though the array is small. Opportunistic placement is real but is not the same thing as strategic latitude, and the lexicon should decide which it means.
+
+### Associated Terminology
+
+Terms this section introduces. Each is defined above; this block is their collection point.
+
+- **Scale Transect** — A single gradient from farmstead (A1) to regional (A5) that most other terms are read against; defined by covarying attribute bundles rather than capacity thresholds.
+- **Covarying attribute bundle** — The set of attributes (interconnection, decision unit, permitting, management mode, capital, community interface, siting latitude) that move together along the transect, so naming a zone tells you many things at once; nameplate capacity is an indicator, not a definition.
+- **A1 — Farmstead** — <100 kW, behind-the-meter, single owner-operator on existing farm labour and equipment.
+- **A2 — Field** — 100 kW–1 MW, behind-meter to distribution, landowner with possibly one lease counterparty.
+- **A3 — Parcel** — 1–10 MW, distribution / community solar / mid-market PPA, multi-party, purpose-built ground management.
+- **A4 — Landscape** — 10–50 MW, developer-led institutional capital, contract-enterprise management.
+- **A5 — Regional** — 50 MW+, transmission, utility/IPP across jurisdictions, contract enterprise at ranch scale.
+- **Siting latitude** — The designer's freedom over where the array goes; what governs it migrates from opportunistic placement to land assembly and grid topology up the transect.
+- **Restoration mode** — Whether restorative work is delivered by choice of ground (**Siting-led**), array geometry (**Structure-led**), or operation (**Management-led**); the mode shifts as siting latitude falls up the transect.
+- **Stocking density** — Instantaneous animals per unit area at a moment; diverges from carrying capacity with forage growth, utilization, and climate.
+- **Carrying capacity** — Season-long forage the land sustains over time; a grazing design variable distinct from instantaneous stocking density.
+- **Contract grazing** — Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up as a logistics enterprise.
 
 ---

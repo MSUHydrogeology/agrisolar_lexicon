@@ -17,6 +17,8 @@ Agroenergy specific to photovoltaics. *This lexicon's primary term of art*, beca
 
 Crop or livestock production within the array footprint (S1–S2). Terminology is regionally fractured: *agrophotovoltaics* in German literature, *agrivoltaics* in French and US usage, *photovoltaic agriculture* in Chinese literature.
 
+**Syn.:** agrophotovoltaics; photovoltaic agriculture.
+
 ### Ecovoltaics
 
 Solar development incorporating ecological understanding into array design *and management*, co-prioritizing ecosystem function with generation (typically S3). No universal definition exists, but the useful frameworks converge:
@@ -26,6 +28,8 @@ Solar development incorporating ecological understanding into array design *and 
 - The literature makes **operational** claims, not just planting ones: an ecovoltaic approach to array operation might orient panels parallel to the sun's rays in the morning to maximize light reaching plants — a tracking-schedule decision.
 
 > **Definitional dispute — for the community to hold open, not resolve.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. This lexicon's position: both terms are defined precisely above, both map to positions on the sharing–sparing axis, and the disagreement is a genuine conflict between agricultural continuity and restorative ambition. A lexicon that adjudicates becomes a partisan document rather than shared infrastructure.
+
+**Source:** Sturchio & Knapp 2023 — [Sources]({{ '/sources/' | relative_url }}).
 
 ### Restorative
 
@@ -39,6 +43,8 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 *(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, or wildlife movement is measurably affected. The ecovoltaic siting literature gives this teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
 
+**Source:** after New Urbanism's Domain/Range — [Sources]({{ '/sources/' | relative_url }}).
+
 ### Ground Layer
 
 Whatever occupies the surface beneath and between panels. Primary carrier of restorative function.
@@ -46,6 +52,8 @@ Whatever occupies the surface beneath and between panels. Primary carrier of res
 ### Pore Space
 
 *(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the design object that "panel height" and "row spacing" only describe indirectly, and frames it as habitat and working space rather than leftover clearance.
+
+**Source:** Toledo & Scognamiglio 2021 — [Sources]({{ '/sources/' | relative_url }}).
 
 ### Land Equivalent Ratio (LER)
 
