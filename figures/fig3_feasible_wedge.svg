@@ -1,44 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" role="img">
-<title>The feasible region across scale and sharing-sparing is a wedge, not a rectangle</title>
-<desc>All four sharing positions remain open from A1 through A3, but the region narrows toward A5, where sparing is largely unavailable because siting is governed by land assembly.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="410" viewBox="0 0 760 410" role="img">
+<title>The sharing-sparing axis is centred, and the feasible region converges on the middle at large scale</title>
+<desc>The vertical axis is centred: sharing increases upward from S1, sparing increases downward to S4, with S3 substituted ecological function at the origin. The scale axis A1 to A5 crosses at that center. The feasible region spans both poles from A1 through A3 and pinches toward the middle band at A5. Solid points are exemplar practices; native grassland restoration sits in the surviving middle band at large scale. Two hollow points mark restorative exceptions that reopen a pinched wedge: vertical bifacial agrivoltaics extends sharing to larger scale, and brightfield restoration spares degraded land at scale.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .ts{font-size:12px;fill:#5f5e5a}
 .rl{font-size:12px;font-weight:500;fill:#3d3d3a}
+.sm{font-size:11px;fill:#7a7973}
+.pr{font-size:11px;fill:#9c3a22}
+.ex{font-size:11px;font-style:italic;fill:#993C1D}
+.dir{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#2f77bf}
+.dir2{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#a85c28}
 .ax{stroke:#b4b2a9;stroke-width:1}
-@media (prefers-color-scheme:dark){.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.ax{stroke:#5f5e5a}}
+.cen{stroke:#9c9a92;stroke-width:1;stroke-dasharray:4 4}
+@media (prefers-color-scheme:dark){
+.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.sm{fill:#8f8e86}.pr{fill:#e0a08f}.ex{fill:#cf8a55}
+.dir{fill:#6aa6e0}.dir2{fill:#cf8a55}
+.ax{stroke:#5f5e5a}.cen{stroke:#6f6e68}}
 </style>
 
-<polygon points="150,80 420,80 680,145 680,215 420,280 150,280" fill="#E6F1FB" stroke="#378ADD" stroke-width="1"/>
+<!-- pinched-out regions, lost as scale grows -->
+<polygon points="420,72 685,72 685,158" fill="#F5D9D1"/>
+<polygon points="420,318 685,318 685,232" fill="#F5D9D1"/>
 
-<line class="ax" x1="150" y1="60" x2="150" y2="300"/>
-<line class="ax" x1="150" y1="300" x2="700" y2="300"/>
+<!-- feasible region: full range through A3, converging on the middle band at A5 -->
+<polygon points="160,72 420,72 685,158 685,232 420,318 160,318" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
 
-<text class="rl" x="142" y="84" text-anchor="end">S1 sharing</text>
-<text class="rl" x="142" y="150" text-anchor="end">S2 functional</text>
-<text class="rl" x="142" y="216" text-anchor="end">S3 substituted</text>
-<text class="rl" x="142" y="284" text-anchor="end">S4 sparing</text>
+<!-- axes: horizontal crosses the vertical at its centre -->
+<line class="ax" x1="160" y1="56" x2="160" y2="330"/>
+<line class="ax" x1="146" y1="195" x2="700" y2="195"/>
+<line class="cen" x1="160" y1="195" x2="685" y2="195"/>
 
-<text class="ts" x="150" y="322" text-anchor="middle">A1</text>
-<text class="ts" x="285" y="322" text-anchor="middle">A2</text>
-<text class="ts" x="420" y="322" text-anchor="middle">A3</text>
-<text class="ts" x="550" y="322" text-anchor="middle">A4</text>
-<text class="ts" x="680" y="322" text-anchor="middle">A5</text>
+<!-- direction of the vertical axis -->
+<text class="dir" x="152" y="52" text-anchor="end">SHARING &#8593;</text>
+<text class="dir2" x="152" y="346" text-anchor="end">SPARING &#8595;</text>
 
-<circle cx="285" cy="80" r="5" fill="#D85A30"/>
-<text class="ts" x="285" y="66" text-anchor="middle" fill="#993C1D">overstory</text>
+<!-- sharing-sparing positions -->
+<text class="rl" x="150" y="80" text-anchor="end">S1 full sharing</text>
+<text class="rl" x="150" y="150" text-anchor="end">S2 functional</text>
+<text class="rl" x="150" y="191" text-anchor="end">S3 substituted</text>
+<text class="sm" x="150" y="207" text-anchor="end">ecovoltaic middle</text>
+<text class="rl" x="150" y="315" text-anchor="end">S4 sparing</text>
 
-<circle cx="615" cy="180" r="5" fill="#D85A30"/>
-<text class="ts" x="615" y="166" text-anchor="middle" fill="#993C1D">grazed habitat</text>
+<!-- scale transect -->
+<text class="ts" x="160" y="352" text-anchor="middle">A1</text>
+<text class="ts" x="295" y="352" text-anchor="middle">A2</text>
+<text class="ts" x="420" y="352" text-anchor="middle">A3</text>
+<text class="ts" x="555" y="352" text-anchor="middle">A4</text>
+<text class="ts" x="685" y="352" text-anchor="middle">A5</text>
 
-<circle cx="420" cy="216" r="5" fill="#D85A30"/>
-<text class="ts" x="420" y="202" text-anchor="middle" fill="#993C1D">buffer-integrated</text>
+<!-- exemplars (solid) -->
+<circle cx="295" cy="82" r="5" fill="#D85A30"/>
+<text class="ts" x="295" y="68" text-anchor="middle" fill="#993C1D">overstory</text>
 
-<circle cx="350" cy="280" r="5" fill="#D85A30"/>
-<text class="ts" x="350" y="300" text-anchor="middle" fill="#993C1D">marginal-land</text>
+<circle cx="600" cy="150" r="5" fill="#D85A30"/>
+<text class="ts" x="600" y="136" text-anchor="middle" fill="#993C1D">solar grazing</text>
 
-<text class="ts" x="700" y="90" text-anchor="end">clearance vs. capital</text>
-<text class="ts" x="700" y="272" text-anchor="end">cannot choose the ground</text>
+<circle cx="470" cy="205" r="5" fill="#D85A30"/>
+<text class="ts" x="470" y="224" text-anchor="middle" fill="#993C1D">pollinator habitat</text>
 
-<text class="ts" x="150" y="342">Shaded area = feasible combinations. The region narrows at large scale because sparing requires siting latitude.</text>
+<circle cx="305" cy="305" r="5" fill="#D85A30"/>
+<text class="ts" x="305" y="291" text-anchor="middle" fill="#993C1D">marginal-land</text>
+
+<circle cx="630" cy="192" r="5" fill="#D85A30"/>
+<text class="ts" x="630" y="179" text-anchor="middle" fill="#993C1D">native grassland</text>
+
+<!-- restorative frontier exceptions (hollow) -->
+<circle cx="515" cy="103" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/>
+<text class="ex" x="515" y="93" text-anchor="middle">vertical bifacial</text>
+
+<circle cx="615" cy="255" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/>
+<text class="ex" x="615" y="272" text-anchor="middle">brightfield</text>
+
+<!-- pinch annotations, seated inside their wedges -->
+<text class="pr" x="678" y="112" text-anchor="end">S1 pinches &#8212;</text>
+<text class="pr" x="678" y="126" text-anchor="end">clearance vs. capital</text>
+<text class="pr" x="678" y="290" text-anchor="end">S4 pinches &#8212;</text>
+<text class="pr" x="678" y="304" text-anchor="end">cannot choose the ground</text>
+
+<!-- helper caption -->
+<text class="sm" x="160" y="388">Blue = feasible; red = lost as scale grows; hollow points = exceptions that reopen a wedge.</text>
+<text class="sm" x="160" y="403">At A5 both poles pinch, converging on the productive-ecological middle (S2&#8211;S3).</text>
 </svg>
