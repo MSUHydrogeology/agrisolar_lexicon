@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img">
+<title>The seven design pressures converging on a settlement</title>
+<desc>Seven competing forces — generation yield, capital discipline, operational simplicity, offtake conformity, agricultural continuity, restorative ambition, and social license — resolve into a single site design.</desc>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</marker>
+</defs>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.p{font-size:12px;fill:#3d3d3a}
+.ts{font-size:12px;fill:#5f5e5a}
+.ar{stroke:#888780;stroke-width:1;fill:none}
+.rs{stroke:#D85A30;stroke-width:1.5;fill:none}
+@media (prefers-color-scheme:dark){.p{fill:#c2c0b6}.ts{fill:#9c9a92}.ar{stroke:#888780}}
+</style>
+
+<rect x="308" y="118" width="144" height="60" rx="8" fill="#E1F5EE" stroke="#1D9E75" stroke-width="1"/>
+<text x="380" y="143" text-anchor="middle" font-size="14" font-weight="500" fill="#0F6E56">settlement</text>
+<text x="380" y="163" text-anchor="middle" font-size="12" fill="#0F6E56">one site design</text>
+
+<text class="p" x="40" y="46">generation yield</text>
+<text class="p" x="40" y="98">capital discipline</text>
+<text class="p" x="40" y="204">operational simplicity</text>
+<text class="p" x="40" y="256">offtake conformity</text>
+
+<line class="ar" x1="192" y1="46" x2="300" y2="126" marker-end="url(#a)"/>
+<line class="ar" x1="192" y1="98" x2="300" y2="140" marker-end="url(#a)"/>
+<line class="ar" x1="192" y1="200" x2="300" y2="158" marker-end="url(#a)"/>
+<line class="ar" x1="192" y1="252" x2="300" y2="172" marker-end="url(#a)"/>
+
+<text class="p" x="720" y="52" text-anchor="end">agricultural continuity</text>
+<text class="p" x="720" y="148" text-anchor="end" fill="#993C1D">restorative ambition</text>
+<text class="p" x="720" y="250" text-anchor="end" text-decoration="none">social license</text>
+
+<line class="ar" x1="568" y1="52" x2="460" y2="130" marker-end="url(#a)"/>
+<line class="rs" x1="568" y1="148" x2="460" y2="148" marker-end="url(#a)"/>
+<line class="ar" x1="568" y1="246" x2="460" y2="168" marker-end="url(#a)"/>
+
+<text class="ts" x="380" y="212" text-anchor="middle">Pressures have direction. Axes do not. That is why restorativity belongs here.</text>
+<text class="ts" x="380" y="234" text-anchor="middle">Every settlement yields something — naming what it yields is the point.</text>
+</svg>

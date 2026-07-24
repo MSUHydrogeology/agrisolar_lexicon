@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img">
+<title>The agroenergy scale transect, zones A1 to A5</title>
+<desc>Five zones from Farmstead to Regional, showing how interconnection posture, siting latitude, and restoration mode covary across the gradient.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.th{font-size:14px;font-weight:500;fill:#2c2c2a}
+.ts{font-size:12px;fill:#5f5e5a}
+.rl{font-size:12px;font-weight:500;fill:#3d3d3a}
+.zn{font-size:14px;font-weight:500;fill:#173404}
+.zc{font-size:12px;fill:#3b6d11}
+.gl{stroke:#d3d1c7;stroke-width:1}
+@media (prefers-color-scheme:dark){.th{fill:#e8e6dd}.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.gl{stroke:#5f5e5a}}
+</style>
+
+<rect x="160" y="30" width="132" height="64" rx="6" fill="#EAF3DE" stroke="#639922" stroke-width="0.5"/>
+<rect x="302" y="30" width="132" height="64" rx="6" fill="#DCEBC8" stroke="#639922" stroke-width="0.5"/>
+<rect x="444" y="30" width="132" height="64" rx="6" fill="#C0DD97" stroke="#639922" stroke-width="0.5"/>
+<rect x="586" y="30" width="132" height="64" rx="6" fill="#AED483" stroke="#639922" stroke-width="0.5"/>
+<rect x="728" y="30" width="132" height="64" rx="6" fill="#97C459" stroke="#639922" stroke-width="0.5"/>
+
+<text class="zn" x="226" y="56" text-anchor="middle">A1 · Farmstead</text>
+<text class="zc" x="226" y="76" text-anchor="middle">&lt;100 kW</text>
+<text class="zn" x="368" y="56" text-anchor="middle">A2 · Field</text>
+<text class="zc" x="368" y="76" text-anchor="middle">100 kW – 1 MW</text>
+<text class="zn" x="510" y="56" text-anchor="middle">A3 · Parcel</text>
+<text class="zc" x="510" y="76" text-anchor="middle">1 – 10 MW</text>
+<text class="zn" x="652" y="56" text-anchor="middle">A4 · Landscape</text>
+<text class="zc" x="652" y="76" text-anchor="middle">10 – 50 MW</text>
+<text class="zn" x="794" y="56" text-anchor="middle">A5 · Regional</text>
+<text class="zc" x="794" y="76" text-anchor="middle">50 MW +</text>
+
+<line class="gl" x1="160" y1="118" x2="860" y2="118"/>
+<text class="rl" x="145" y="142" text-anchor="end">Interconnection</text>
+<text class="ts" x="226" y="142" text-anchor="middle">behind-meter</text>
+<text class="ts" x="368" y="142" text-anchor="middle">behind-meter</text>
+<text class="ts" x="510" y="142" text-anchor="middle">distribution</text>
+<text class="ts" x="652" y="142" text-anchor="middle">sub-transmission</text>
+<text class="ts" x="794" y="142" text-anchor="middle">transmission</text>
+
+<line class="gl" x1="160" y1="162" x2="860" y2="162"/>
+<text class="rl" x="145" y="186" text-anchor="end">Siting latitude</text>
+<text class="ts" x="226" y="186" text-anchor="middle">opportunistic</text>
+<text class="ts" x="368" y="186" text-anchor="middle">strategic</text>
+<text class="ts" x="510" y="186" text-anchor="middle">strategic</text>
+<text class="ts" x="652" y="186" text-anchor="middle">assembly-driven</text>
+<text class="ts" x="794" y="186" text-anchor="middle">assembly-driven</text>
+
+<line class="gl" x1="160" y1="206" x2="860" y2="206"/>
+<text class="rl" x="145" y="230" text-anchor="end">Restoration mode</text>
+<text class="ts" x="226" y="230" text-anchor="middle">siting-led</text>
+<text class="ts" x="368" y="230" text-anchor="middle">siting / structure</text>
+<text class="ts" x="510" y="230" text-anchor="middle">siting-led</text>
+<text class="ts" x="652" y="230" text-anchor="middle">management-led</text>
+<text class="ts" x="794" y="230" text-anchor="middle">management-led</text>
+
+<line class="gl" x1="160" y1="250" x2="860" y2="250"/>
+<text class="ts" x="160" y="270">Nameplate capacity is an indicator, not a definition. Bands are indicative for the US Midwest and require regional calibration.</text>
+</svg>

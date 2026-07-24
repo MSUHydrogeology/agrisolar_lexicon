@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" role="img">
+<title>The feasible region across scale and sharing-sparing is a wedge, not a rectangle</title>
+<desc>All four sharing positions remain open from A1 through A3, but the region narrows toward A5, where sparing is largely unavailable because siting is governed by land assembly.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.ts{font-size:12px;fill:#5f5e5a}
+.rl{font-size:12px;font-weight:500;fill:#3d3d3a}
+.ax{stroke:#b4b2a9;stroke-width:1}
+@media (prefers-color-scheme:dark){.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.ax{stroke:#5f5e5a}}
+</style>
+
+<polygon points="150,80 420,80 680,145 680,215 420,280 150,280" fill="#E6F1FB" stroke="#378ADD" stroke-width="1"/>
+
+<line class="ax" x1="150" y1="60" x2="150" y2="300"/>
+<line class="ax" x1="150" y1="300" x2="700" y2="300"/>
+
+<text class="rl" x="142" y="84" text-anchor="end">S1 sharing</text>
+<text class="rl" x="142" y="150" text-anchor="end">S2 functional</text>
+<text class="rl" x="142" y="216" text-anchor="end">S3 substituted</text>
+<text class="rl" x="142" y="284" text-anchor="end">S4 sparing</text>
+
+<text class="ts" x="150" y="322" text-anchor="middle">A1</text>
+<text class="ts" x="285" y="322" text-anchor="middle">A2</text>
+<text class="ts" x="420" y="322" text-anchor="middle">A3</text>
+<text class="ts" x="550" y="322" text-anchor="middle">A4</text>
+<text class="ts" x="680" y="322" text-anchor="middle">A5</text>
+
+<circle cx="285" cy="80" r="5" fill="#D85A30"/>
+<text class="ts" x="285" y="66" text-anchor="middle" fill="#993C1D">overstory</text>
+
+<circle cx="615" cy="180" r="5" fill="#D85A30"/>
+<text class="ts" x="615" y="166" text-anchor="middle" fill="#993C1D">grazed habitat</text>
+
+<circle cx="420" cy="216" r="5" fill="#D85A30"/>
+<text class="ts" x="420" y="202" text-anchor="middle" fill="#993C1D">buffer-integrated</text>
+
+<circle cx="350" cy="280" r="5" fill="#D85A30"/>
+<text class="ts" x="350" y="300" text-anchor="middle" fill="#993C1D">marginal-land</text>
+
+<text class="ts" x="700" y="90" text-anchor="end">clearance vs. capital</text>
+<text class="ts" x="700" y="272" text-anchor="end">cannot choose the ground</text>
+
+<text class="ts" x="150" y="342">Shaded area = feasible combinations. The region narrows at large scale because sparing requires siting latitude.</text>
+</svg>

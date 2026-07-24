@@ -1,0 +1,53 @@
+---
+title: Home
+nav_order: 1
+---
+
+# The Lexicon of Restorative Agroenergy Design
+
+### A shared design language for agrisolar photovoltaic landscapes
+
+{: .label .label-yellow }
+Draft
+
+There is not yet an agrisolar design community. There are solar developers, agronomists,
+conservation biologists, hydrologists, extension agents, county planners, and farmers who each
+hold part of the problem and have no common vocabulary for the whole of it. A shared language is
+not a convenience for such a community — it is a precondition for one.
+
+This lexicon is descriptive, not prescriptive. It aims to let two people who have never met
+describe their sites to each other precisely, recognize which design problems they share, and
+locate their genuine disagreements.
+
+---
+
+## How it is organized
+
+Three structural devices carry the document.
+
+**[The Scale Transect]({{ '/1-the-scale-transect/' | relative_url }})** — a single gradient from
+farmstead to regional that most other terms are read against. Scale determines what is physically,
+economically, and institutionally possible before design begins.
+
+**[The Sharing–Sparing Axis]({{ '/2-the-sharingsparing-axis/' | relative_url }})** — whether the
+array shares land with production or spares land by taking low-value ground out of it.
+
+**[Design Pressures]({{ '/3-design-pressures/' | relative_url }})** — the competing forces every
+site must settle. This is where the document's normative energy lives, deliberately, because
+pressures are supposed to have direction.
+
+The four design templates in circulation are not the object of this lexicon. They are
+**[settlements]({{ '/5-settlements/' | relative_url }})** — ways the pressures have been resolved
+at particular scales and sharing postures.
+
+---
+
+## Status
+
+This is a working draft circulated for comment. Two things in particular are unresolved:
+
+- Several citations are **[not yet verified]({{ '/sources/' | relative_url }})** and are marked as such.
+- The **[open issues]({{ '/6-open-issues/' | relative_url }})** list records decisions the document
+  has deliberately not made.
+
+Corrections, disagreements, and proposed terms are welcome as GitHub issues or pull requests.

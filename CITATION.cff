@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: The Lexicon of Restorative Agroenergy Design
+message: Please cite this work as below.
+type: dataset
+authors:
+  - family-names: Kendall
+    given-names: Anthony
+    affiliation: Michigan State University
+repository-code: "https://github.com/MSUHydrogeology/agrisolar_lexicon"
+url: "https://msuhydrogeology.github.io/agrisolar_lexicon"
+abstract: >-
+  A shared design language for agrisolar photovoltaic landscapes, organized around a scale
+  transect, a land sharing-sparing axis, and a set of competing design pressures.
+keywords:
+  - agrivoltaics
+  - ecovoltaics
+  - agrisolar
+  - design language
+  - solar siting
+license: CC-BY-4.0
+version: 0.5.0-draft
+date-released: 2026-07-24

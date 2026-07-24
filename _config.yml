@@ -1,0 +1,38 @@
+# GitHub Pages configuration
+# Configured for MSUHydrogeology/agrisolar_lexicon.
+
+title: The Lexicon of Restorative Agroenergy Design
+description: A shared design language for agrisolar photovoltaic landscapes
+
+url: https://msuhydrogeology.github.io
+baseurl: /agrisolar_lexicon
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+
+# Search is the main reason to use this theme for a lexicon.
+search_enabled: true
+search:
+  heading_level: 4
+  previews: 3
+  tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+
+aux_links:
+  "Source on GitHub":
+    - "https://github.com/MSUHydrogeology/agrisolar_lexicon"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: >-
+  Draft. Licensed CC BY 4.0.
+  Citation and contribution details in the repository README.
+
+exclude:
+  - README.md
+  - CONTRIBUTING.md
