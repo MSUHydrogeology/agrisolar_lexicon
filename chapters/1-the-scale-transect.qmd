@@ -62,6 +62,8 @@ A further attribute deserves its own treatment, because it governs *which restor
 | **A3** | Strategic — consistently low-yielding ground, hydrologic features, buffer geometry | Developer and landowner in deliberate concert |
 | **A4–A5** | Land assembly — contiguous acreage, substation proximity, queue position; modified at the margins by prime-farmland rules, opposition mapping, and community targeting | The land market and grid topology, mediated by policy veto points |
 
+This scale-dependence of *what governs siting* is a through-line of the agroenergy literature: at the farmstead, profit and opportunism; at the community scale, the distribution of benefit and the risk of opposition; at the regional scale, energy demand and grid topology; at the state and national scale, policy. The transect encodes that migration as a single gradient rather than four separate conversations.
+
 **The consequence: restoration changes mode rather than simply diminishing.** As siting latitude falls, the burden of delivering co-benefit shifts from *where the array is placed* to *how it is run*. Management leverage moves the opposite way — contract grazing, professional habitat establishment, and dedicated O&M are unavailable below a size threshold and routine above it. A forty-acre owner cannot profitably retain a contract grazier; a thousand-acre site can, and gets seeded establishment and monitoring besides.
 
 The two therefore cross somewhere between A3 and A4. This yields three restoration modes:
