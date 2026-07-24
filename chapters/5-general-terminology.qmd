@@ -42,11 +42,9 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 *(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The ecovoltaic siting literature gives this teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
 
-**The SCALE footprint.** A project's influence can be accounted across four domains — **Sustainable Communities, Agriculture, Landscapes, and Energy** (SCALE), the REAL project's holistic footprint framework, where each axis runs from regenerative to depleting. The domains line up with this lexicon's own registers: Communities ≈ [social license](3-design-pressures.qmd#sec-pressures) and [community benefit](#term-community-benefit); Landscapes ≈ the [restorative functions](4-restorative-functions.qmd) (water, ecosystems); Energy ≈ the [design pressures](3-design-pressures.qmd#sec-pressures) (cost, security); Agriculture ≈ agricultural continuity and the sharing–sparing axis (food security, marginality). The lexicon borrows SCALE's *domains* as a way to organize influence, but not its evaluative "limit of sustainability" — it names domains, not scores.
+Its multi-domain accounting — across Sustainable Communities, Agriculture, Landscapes, and Energy — is the [SCALE footprint](4-restorative-functions.qmd#sec-scale), introduced with the restorative functions (§4).
 
-![The SCALE footprint: a project's influence accounted across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes, each running from regeneration at the centre to depletion at the rim. The lexicon adopts the domains descriptively; the footprint polygon shown is illustrative, not a score.](../figures/fig5_scale_footprint.svg){#fig-scale}
-
-**Source:** after New Urbanism's Domain/Range; SCALE footprint after the REAL project framework — [Sources](sources.qmd).
+**Source:** after New Urbanism's Domain/Range — [Sources](sources.qmd).
 
 ### Screening {#term-screening}
 
