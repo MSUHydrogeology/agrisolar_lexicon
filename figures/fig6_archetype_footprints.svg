@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" font-family="Helvetica, Arial, sans-serif">
+<rect width="720" height="660" rx="10" fill="#ffffff"/>
+<polygon points="190.0,185.6 214.4,210.0 190.0,234.4 165.6,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="190.0,161.2 238.8,210.0 190.0,258.8 141.2,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="190.0,136.0 264.0,210.0 190.0,284.0 116.0,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<line x1="190" y1="210" x2="190.0" y2="136.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="190" y="118" fill="#6f4a9c" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Communities</text>
+<line x1="190" y1="210" x2="264.0" y2="210.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="280" y="210" fill="#3f8f36" font-size="11" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
+<line x1="190" y1="210" x2="190.0" y2="284.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="190" y="304" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
+<line x1="190" y1="210" x2="116.0" y2="210.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="100" y="210" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+<polygon points="190.0,158.2 256.6,210.0 190.0,239.6 153.0,210.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="190.0" cy="158.2" r="2.4" fill="#2c5580"/>
+<circle cx="256.6" cy="210.0" r="2.4" fill="#2c5580"/>
+<circle cx="190.0" cy="239.6" r="2.4" fill="#2c5580"/>
+<circle cx="153.0" cy="210.0" r="2.4" fill="#2c5580"/>
+<text x="190" y="96" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Overstory Agrivoltaic</text>
+<text x="190" y="112" fill="#777" font-size="11" text-anchor="middle">A2 · S1 · structure-led</text>
+<polygon points="530.0,185.6 554.4,210.0 530.0,234.4 505.6,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="530.0,161.2 578.8,210.0 530.0,258.8 481.2,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="530.0,136.0 604.0,210.0 530.0,284.0 456.0,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<line x1="530" y1="210" x2="530.0" y2="136.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="530" y="118" fill="#6f4a9c" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Communities</text>
+<line x1="530" y1="210" x2="604.0" y2="210.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="620" y="210" fill="#3f8f36" font-size="11" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
+<line x1="530" y1="210" x2="530.0" y2="284.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="530" y="304" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
+<line x1="530" y1="210" x2="456.0" y2="210.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="440" y="210" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+<polygon points="530.0,176.7 567.0,210.0 530.0,276.6 474.5,210.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="530.0" cy="176.7" r="2.4" fill="#2c5580"/>
+<circle cx="567.0" cy="210.0" r="2.4" fill="#2c5580"/>
+<circle cx="530.0" cy="276.6" r="2.4" fill="#2c5580"/>
+<circle cx="474.5" cy="210.0" r="2.4" fill="#2c5580"/>
+<text x="530" y="96" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Grazed Habitat Array</text>
+<text x="530" y="112" fill="#777" font-size="11" text-anchor="middle">A4–A5 · S2–S3 · management-led</text>
+<polygon points="190.0,495.6 214.4,520.0 190.0,544.4 165.6,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="190.0,471.2 238.8,520.0 190.0,568.8 141.2,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="190.0,446.0 264.0,520.0 190.0,594.0 116.0,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<line x1="190" y1="520" x2="190.0" y2="446.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="190" y="428" fill="#6f4a9c" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Communities</text>
+<line x1="190" y1="520" x2="264.0" y2="520.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="280" y="520" fill="#3f8f36" font-size="11" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
+<line x1="190" y1="520" x2="190.0" y2="594.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="190" y="614" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
+<line x1="190" y1="520" x2="116.0" y2="520.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="100" y="520" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+<polygon points="190.0,468.2 219.6,520.0 190.0,557.0 119.7,520.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="190.0" cy="468.2" r="2.4" fill="#2c5580"/>
+<circle cx="219.6" cy="520.0" r="2.4" fill="#2c5580"/>
+<circle cx="190.0" cy="557.0" r="2.4" fill="#2c5580"/>
+<circle cx="119.7" cy="520.0" r="2.4" fill="#2c5580"/>
+<text x="190" y="406" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Buffer-Integrated Array</text>
+<text x="190" y="422" fill="#777" font-size="11" text-anchor="middle">A3 · S3 · siting-led</text>
+<polygon points="530.0,495.6 554.4,520.0 530.0,544.4 505.6,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="530.0,471.2 578.8,520.0 530.0,568.8 481.2,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="530.0,446.0 604.0,520.0 530.0,594.0 456.0,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<line x1="530" y1="520" x2="530.0" y2="446.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="530" y="428" fill="#6f4a9c" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Communities</text>
+<line x1="530" y1="520" x2="604.0" y2="520.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="620" y="520" fill="#3f8f36" font-size="11" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
+<line x1="530" y1="520" x2="530.0" y2="594.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="530" y="614" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
+<line x1="530" y1="520" x2="456.0" y2="520.0" stroke="#d8d2c4" stroke-width="1"/>
+<text x="440" y="520" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+<polygon points="530.0,453.4 574.4,520.0 530.0,557.0 489.3,520.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="530.0" cy="453.4" r="2.4" fill="#2c5580"/>
+<circle cx="574.4" cy="520.0" r="2.4" fill="#2c5580"/>
+<circle cx="530.0" cy="557.0" r="2.4" fill="#2c5580"/>
+<circle cx="489.3" cy="520.0" r="2.4" fill="#2c5580"/>
+<text x="530" y="406" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Marginal-Land Diversification</text>
+<text x="530" y="422" fill="#777" font-size="11" text-anchor="middle">A2–A3 · S4 · siting-led</text>
+</svg>

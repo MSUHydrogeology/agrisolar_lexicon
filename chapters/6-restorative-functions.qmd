@@ -44,6 +44,21 @@ Each entry is tagged with **(a)** its mechanism, **(b)** its design dependencies
 
 ---
 
+### 6.5 Archetypes across the domains {#sec-fn-archetypes}
+
+The [archetypes](5-archetypes.qmd) and the functions meet in a matrix: each archetype, by settling its pressures a particular way, produces a characteristic profile across the [SCALE](4-general-terminology.qmd#term-footprint-influence) domains — which of Communities, Agriculture, Landscapes, and Energy it foregrounds, and which it trades away. This is the archetype × function matrix read one row at a time; it restates each archetype's *dominant* and *yielded* pressures (§5) in the domain vocabulary, not a new judgment.
+
+![Each archetype's characteristic emphasis across the four SCALE domains, read from its dominant and yielded pressures (§5). Descriptive profiles — what each archetype foregrounds, site-conditional — not a ranking and not a score against a limit of sustainability.](../figures/fig6_archetype_footprints.svg){#fig-archetypes}
+
+- **Overstory Agrivoltaic** (A2 · S1) leans on **Agriculture** (production continues in the footprint) and **Communities** (farmer visibility, local acceptance), trading **Energy** (high clearance and crop-set row spacing cost generation and capital).
+- **Grazed Habitat Array** (A4–A5 · S2–S3) foregrounds **Energy** (utility-scale generation) and **Landscapes** (grazed ground cover and habitat), with **Agriculture** present only as a grazing service, not the farm's own operation.
+- **Buffer-Integrated Array** (A3 · S3) is a **Landscapes** archetype first — the hydrologic and ecosystem buffer (water, ecosystems) — with **Communities** benefit visible, yielding some **Energy** to buffer geometry.
+- **Marginal-Land Diversification** (A2–A3 · S4) is anchored in **Communities** — the farm's financial resilience — using **Agriculture**'s marginal ground, with **Energy** cheap to build but modest in yield.
+
+No archetype fills every domain, and none is meant to: the profiles differ because the pressures were settled differently. A real project's profile is its own, shaped by site and design; these four are reference shapes, not targets. Whether to overlay the SCALE *limit of sustainability* — turning these descriptive profiles into an evaluation of depletion vs. regeneration — is the call the [metrics open issue](7-open-issues.qmd) (§7, issue 5) leaves deliberately unmade.
+
+---
+
 ### Associated Terminology
 
 Terms this section introduces; cross-referenced terms link to their home section.
