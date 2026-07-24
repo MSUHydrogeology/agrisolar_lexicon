@@ -4,10 +4,14 @@ The recurring resolutions — combinations of competing pressures settled at a p
 
 **Overhead and interspace — the structural typology underneath.** The field's engineering standards (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy) sort agrivoltaic hardware into **overhead** systems — modules elevated *above* the working surface, the Overstory Agrivoltaic case — and **interspace** systems — modules mounted low with the crop or cover *between* the rows, the Vertical-Bifacial and grazed cases. That typology classifies the *structure*; the archetypes here classify the *resolution of pressures*. The two registers are complementary, not rival: one structural class can appear in several archetypes, and one archetype can be built in more than one class.
 
-Each archetype below states its *dominant* and *yielded* pressures; read across the [SCALE domains](4-restorative-functions.qmd#sec-fn-archetypes) (§4.6), those trade-offs become a characteristic footprint that distinguishes one archetype from another.
+This chapter develops **four featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **four further Types** in current circulation. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
 
-**Overstory Agrivoltaic** *(vineyard, orchard)*
-[A2](1-the-scale-transect.qmd#sec-zones), occasionally [A3](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+## The four featured archetypes {#sec-featured}
+
+### Overstory Agrivoltaic {#arch-overstory}
+
+*Vineyard, orchard* · [A2](1-the-scale-transect.qmd#sec-zones), occasionally [A3](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* [agricultural continuity](3-design-pressures.qmd#sec-pressures), [social license](3-design-pressures.qmd#sec-pressures).
 *Yielded:* [capital discipline](3-design-pressures.qmd#sec-pressures) (high clearance is expensive), [generation yield](3-design-pressures.qmd#sec-pressures) (row spacing serves the crop).
 *Signature levers:* high clearance, possibly semitransparent modules, row geometry set by crop light requirements.
@@ -16,8 +20,10 @@ The overstory archetype inverts the usual siting priority: the perennial canopy 
 
 **Application:** Domaine de Nidolères, Tresserre, Pyrénées-Orientales, France (inaugurated November 2018; 2.1 MW dynamic array over ~4.5 ha and ~28,600 vines) — described by its developer as the world's first agrivoltaic vineyard power plant, its high-clearance tracked louvers steered by phenological stage to ration light to the vines rather than to maximize export.
 
-**Grazed Habitat Array**
+### Grazed Habitat Array {#arch-grazed}
+
 [A4](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S2](2-the-sharingsparing-axis.qmd#sec-positions)–[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* generation yield, [operational simplicity](3-design-pressures.qmd#sec-pressures) — grazing approaches cost parity with mowing rather than beating it outright, its vegetation-management advantage back-loaded to the mature-project years once the establishment invoices are behind, with restorative benefit following.
 *Yielded:* agricultural continuity in the strong sense (grazing is a service contract, not the farm's own operation).
 *Signature levers:* contract-enterprise management regime, rotation logistics, fence-gate topology, water access.
@@ -26,8 +32,10 @@ The array is designed for generation and O&M first, then a grazing tenancy is la
 
 **Application:** Aurora Solar, Minnesota (2017; 150 MW-dc across 16 pollinator-habitat sites) — utility-scale generation whose grounds are maintained by contracted sheep grazing beneath a low-growing pollinator understory, the grazing a vegetation-management service tenancy rather than the landowner's own farm operation.
 
-**Buffer-Integrated Array** *(prairie strips)*
-A3 · **S3** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+### Buffer-Integrated Array {#arch-buffer}
+
+*Prairie strips* · A3 · **S3** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* [restorative ambition](3-design-pressures.qmd#sec-pressures) with a specific service target (erosion, nutrient runoff), social license.
 *Yielded:* some generation yield to buffer geometry.
 *Signature levers:* placement logic along hydrologic features, ground-layer composition, conservation payment stacking.
@@ -36,8 +44,10 @@ The organizing move is that the native planting is not amenity but infrastructur
 
 **Application:** Ramsey Renewable Station (Connexus Energy), Ramsey, Minnesota (~3.4 MW solar-plus-storage; DOE PV-SMaRT case study, 2022) — a mid-scale site on sandy (hydrologic Class A) soil whose deep-rooted native ground layer was engineered as the stormwater control itself: University of Minnesota modelling found the vegetation infiltrated runoff through the 2-, 10-, and 100-year design storms with no conventional detention basins.
 
-**Marginal-Land Diversification Array**
+### Marginal-Land Diversification Array {#arch-marginal}
+
 A2–A3 · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *siting-led*
+
 *Dominant pressures:* farm economic resilience, capital discipline.
 *Yielded:* generation yield (marginal ground is rarely optimally shaped or oriented).
 *Signature levers:* placement logic within field, ground layer determined by what marginal ground supports.
@@ -48,37 +58,62 @@ This archetype coheres around a siting decision taken before any generation-opti
 
 > **Note the kinship.** This archetype and the buffer-integrated one share an economic engine: prairie strips pay because they cost less than farming consistently low-yielding ground, which is the same partial-budget logic driving marginal-land solar siting. They differ mainly in whether the spared ground carries a designed ecological function or an energy function. Both are siting-led, and both depend on the A2–A3 latitude that makes choosing the ground possible at all — which is precisely why neither scales upward without changing into something else. Two archetypes, one insight, and a good illustration of what the pressure framing reveals that a template catalog hides.
 
-Four more Types in current circulation:
+## Archetypes across the SCALE domains {#sec-archetype-domains}
 
-**Vertical-Bifacial Cropland Array**
+The four featured archetypes and the [restorative functions](4-restorative-functions.qmd) meet in a matrix: each archetype, by settling its pressures a particular way, produces a characteristic profile across the [SCALE](4-restorative-functions.qmd#sec-scale) domains — which of Communities, Agriculture, Landscapes, and Energy it foregrounds, and which it trades away. This is the archetype × function matrix read one row at a time; it restates each archetype's *dominant* and *yielded* pressures in the domain vocabulary, not a new judgment.
+
+![Each featured archetype's characteristic emphasis across the four SCALE domains, read from its dominant and yielded pressures. Descriptive profiles — what each archetype foregrounds, site-conditional — not a ranking and not a score against a limit of sustainability.](../figures/fig6_archetype_footprints.svg){#fig-archetypes}
+
+- [**Overstory Agrivoltaic**](#arch-overstory) (A2 · S1) leans on **Agriculture** (production continues in the footprint) and **Communities** (farmer visibility, local acceptance), trading **Energy** (high clearance and crop-set row spacing cost generation and capital).
+- [**Grazed Habitat Array**](#arch-grazed) (A4–A5 · S2–S3) foregrounds **Energy** (utility-scale generation) and **Landscapes** (grazed ground cover and habitat), with **Agriculture** present only as a grazing service, not the farm's own operation.
+- [**Buffer-Integrated Array**](#arch-buffer) (A3 · S3) is a **Landscapes** archetype first — the hydrologic and ecosystem buffer (water, ecosystems) — with **Communities** benefit visible, yielding some **Energy** to buffer geometry.
+- [**Marginal-Land Diversification**](#arch-marginal) (A2–A3 · S4) is anchored in **Communities** — the farm's financial resilience — using **Agriculture**'s marginal ground, with **Energy** cheap to build but modest in yield.
+
+No archetype fills every domain, and none is meant to: the profiles differ because the pressures were settled differently. A real project's profile is its own, shaped by site and design; these four are reference shapes, not targets. Whether to overlay the SCALE *limit of sustainability* — turning these descriptive profiles into an evaluation of depletion vs. regeneration — is the call the [metrics open issue](7-open-issues.qmd) (§7, issue 5) leaves deliberately unmade.
+
+## Further Types in current circulation {#sec-further-types}
+
+Four more Types, sketched rather than fully developed — the same language applied to configurations the featured four do not cover.
+
+### Vertical-Bifacial Cropland Array {#arch-vertical-bifacial}
+
 [A2](1-the-scale-transect.qmd#sec-zones)–[A4](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* [agricultural continuity](3-design-pressures.qmd#sec-pressures), [generation yield](3-design-pressures.qmd#sec-pressures).
 *Yielded:* [capital discipline](3-design-pressures.qmd#sec-pressures) (frameless glass–glass modules, more posts per watt), land-use density.
 *Signature levers:* vertical east–west [module technology](5-general-terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
 
-**Community-Solar Pollinator Array**
+### Community-Solar Pollinator Array {#arch-community-solar}
+
 [A3](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* [social license](3-design-pressures.qmd#sec-pressures), [restorative ambition](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [offtake conformity](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel).
 *Yielded:* some [operational simplicity](3-design-pressures.qmd#sec-pressures) during the multi-year establishment.
 *Signature levers:* whole-site native [ground-layer](5-general-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom.
 
-**Native-Grassland Utility Array**
+### Native-Grassland Utility Array {#arch-native-grassland}
+
 [A4](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* generation yield, restorative ambition (grassland restoration [@walston2025]).
 *Yielded:* agricultural continuity.
 *Signature levers:* native seed mix, deferred/rotational mowing, soil-carbon establishment [@krasner2025]. The characteristic large-scale [convergence case](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
-**Brightfield / Reclaimed-Land Array**
+### Brightfield / Reclaimed-Land Array {#arch-brightfield}
+
 [A3](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
 *Dominant pressures:* capital discipline (uniformly low-value ground), social license (reuse of degraded land).
 *Yielded:* some generation yield (sites are constrained).
 *Signature levers:* placement on reclaimed mine land, landfills, and brownfields; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
-### Associated Terminology
+## Associated Terminology {#sec-arch-terms}
 
 Defined here (this section is their collection point):
 
-**Archetype** — A way the [design pressures](3-design-pressures.qmd#sec-pressures-ch) have been resolved at a particular scale zone and sharing position; the four templates above are archetypes, not the object of the lexicon.
+**Archetype** — A way the [design pressures](3-design-pressures.qmd#sec-pressures-ch) have been resolved at a particular scale zone and sharing position; the featured archetypes and further Types above are archetypes, not the object of the lexicon.
+
+**Featured archetype** — one of the four canonical archetypes developed in depth here (Overstory Agrivoltaic, Grazed Habitat Array, Buffer-Integrated Array, Marginal-Land Diversification), each carrying a worked real-world *Application*. A curatorial label, not a claim that these four are more valid than the [further Types](#sec-further-types).
 
 **Type** — Following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances, not an exhaustive set.
 
