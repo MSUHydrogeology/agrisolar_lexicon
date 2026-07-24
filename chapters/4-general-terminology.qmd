@@ -36,9 +36,17 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 ### Footprint vs. Influence Zone {#term-footprint-influence}
 
-*(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, or wildlife movement is measurably affected. The ecovoltaic siting literature gives this teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
+*(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The ecovoltaic siting literature gives this teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
 
 **Source:** after New Urbanism's Domain/Range — [Sources](sources.qmd).
+
+### Screening {#term-screening}
+
+The management of the array's outward visual presence: perimeter setbacks, vegetative buffers (hedgerows, tree/shrub belts), earthen berms, fencing treatment, and glint/glare control. It acts on the *visual* portion of the [Influence Zone](#term-footprint-influence). Screening is dual-function — the same vegetative buffer that buys [social license](3-design-pressures.qmd#sec-pressures) can carry habitat and connectivity value, so it is pulled by both social license and restorative ambition — while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows. Descriptive only: the lexicon names the lever, not a required buffer width, berm height, or setback.
+
+### Community Benefit {#term-community-benefit}
+
+The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. Distinct from acceptance: benefit and acceptance are *dissociable* — benefit without procedural fairness can read as a bribe — so the [social license](3-design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent. *(Analogous to New Urbanism's standalone* Social Equity *term.)*
 
 ### Ground Layer {#term-ground-layer}
 

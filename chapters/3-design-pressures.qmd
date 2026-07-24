@@ -14,7 +14,7 @@
 
 **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation. Pulls toward wider rows, diverse ground cover, lifespan management, and operational choices made partly for the ground layer.
 
-**Social license** — secure and sustain community acceptance. Pulls toward visual screening, local benefit, farmer visibility, and engagement in design.
+**Social license** — secure and sustain community acceptance, and with it the community's active stake in the project. This pressure deliberately holds two forces in tension. *Acceptance* is defensive — avoiding the local veto — and pulls toward [screening](4-general-terminology.qmd#term-screening), farmer visibility, and genuine engagement in design. *Community benefit* is positive-sum — tax revenue, [community-benefit agreements](4-general-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscription, local hiring, co-ownership — which this project's framing treats as a co-equal aim, not a nicety. The two are dissociable: benefit offered without procedural fairness reads as a bribe and does not reliably buy acceptance, so the pressure is not discharged by writing a check. They are kept under one name because they have to be advanced together.
 
 **Offtake conformity** — satisfy the criteria of whoever is buying the power, the attributes, or the tax position. Pulls toward whatever the counterparty scores. This is the channel through which external parties impose pressures on a design.
 
@@ -34,17 +34,21 @@ The lexicon's usefulness lies in making these legible rather than letting them s
 
 **Capital discipline vs. operational simplicity.** Frequently mistaken for one pressure. They diverge on ground-cover establishment, clearance height, and access design.
 
+**Social license vs. capital discipline.** Community benefit — PILOT and tax revenue, community-benefit agreements, good-neighbor payments, co-ownership — is real money, so it pulls against capital discipline. But because benefit without procedural fairness reads as a bribe, it cannot simply be bought: acceptance and benefit are dissociable, which is why this one is not settled at the checkbook.
+
 ### 3.3 Design levers {#sec-levers}
 
 The degrees of freedom through which pressures get settled. Modular and separately extensible.
 
 *Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · [pore-space](4-general-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
 
-*Land and ecology:* ground-layer composition · placement logic within parcel · landscape configuration (few-large vs. many-small) · ecological service target · management regime through lifespan · operational regime (tracking schedule, curtailment behavior).
+*Land and ecology:* ground-layer composition · placement logic within parcel · landscape configuration (few-large vs. many-small) · ecological service target · management regime through lifespan · operational regime (tracking schedule, curtailment behavior) · edge and perimeter treatment (setback, buffer, berm, fencing, [screening](4-general-terminology.qmd#term-screening) geometry).
 
-*Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime.
+*Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime · [community-benefit](4-general-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
 
 **Coupling note.** Row geometry and ground-layer composition are a single coupled choice, not two. Crops sort into shade-sensitive, shade-neutral, and shade-tolerant classes — C4 and grain or fruiting crops (maize, wheat, many fruiting vegetables) sensitive; leafy and root horticultural crops (lettuce, spinach, chard, potato) and many forage grasses tolerant, some benefiting under moderate shade — so light environment and planting selection must be decided together.
+
+**Coupling note (screening).** Edge and perimeter treatment is two choices at once, in the same way: a vegetative screen is simultaneously a social-license move and a habitat/connectivity choice acting on the visual edge of the [influence zone](4-general-terminology.qmd#term-footprint-influence). It is therefore pulled by both social license and restorative ambition, while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows.
 
 ### Associated Terminology
 
@@ -57,7 +61,7 @@ Terms this section introduces (defined above; this is their collection point):
 - **Operational simplicity** — minimize management burden across a 25–40 year asset life.
 - **Agricultural continuity** — keep working land working.
 - **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation.
-- **Social license** — secure and sustain community acceptance.
+- **Social license** — secure and sustain community acceptance *and* community benefit: two dissociable forces held in one pressure.
 - **Offtake conformity** — satisfy whoever buys the power, attributes, or tax position; the channel through which external parties impose pressures on a design.
 
 **Pressure conflict** — the framing that treats these disputes (e.g. agricultural continuity vs. restorative ambition; operational simplicity vs. everything) as legitimate forces in genuine tension rather than definitional errors.

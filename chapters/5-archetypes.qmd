@@ -1,6 +1,6 @@
 # 5. Archetypes {#sec-archetypes}
 
-The recurring resolutions — combinations of competing pressures settled at a particular scale zone and sharing position that keep reappearing across real projects. Archetypes are the **structure register**: what the two axes (scale × sharing–sparing) produce, paired with the [cross-cutting restorative functions](6-cross-cutting-functions.qmd) that overlay them. We use *archetype* in its plain sense — a characteristic, recurring, transformable pattern, not an exhaustive set. (In New Urbanism's *Archetype → Prototype → Type → Stereotype* ladder these sit at the **Type** rung; we keep *archetype* as the register's plain-language label.)
+The recurring resolutions — combinations of competing pressures settled at a particular scale zone and sharing position that keep reappearing across real projects. Archetypes are the **structure register**: what the two axes (scale × sharing–sparing) produce, paired with the [restorative functions](6-restorative-functions.qmd) that overlay them. We use *archetype* in its plain sense — a characteristic, recurring, transformable pattern, not an exhaustive set. (In New Urbanism's *Archetype → Prototype → Type → Stereotype* ladder these sit at the **Type** rung; we keep *archetype* as the register's plain-language label.)
 
 **Overstory Agrivoltaic** *(vineyard, orchard)*
 [A2](1-the-scale-transect.qmd#sec-zones), occasionally [A3](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*

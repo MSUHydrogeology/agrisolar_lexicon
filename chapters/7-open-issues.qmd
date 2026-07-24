@@ -5,7 +5,7 @@
 3. **Sharing–sparing granularity.** Four positions or three? S2 and S3 may collapse in practice, or S1 may need splitting between within-row and between-row production.
 4. **Pressure set completeness.** Seven pressures. Is there a missing one — decommissioning and reversibility? Water rights? Labor availability?
 5. **Whether the lexicon takes a metrics position.** Staying descriptive is safer and matches Lesson 4; but a community with no shared success metric may not cohere. Possible middle path: name the candidate metrics and their blind spots without endorsing.
-6. **Matrix layers.** The [cross-cutting functions](6-cross-cutting-functions.qmd) chapter (§6) introduces one matrix — archetypes × restorative functions. A second, still deferred, is the Levers × Scale Zones matrix (the closest analog to New Urbanism's Urban Standards); defer until terms stabilize.
+6. **Matrix layers.** The [restorative functions](6-restorative-functions.qmd) chapter (§6) introduces one matrix — archetypes × restorative functions. A second, still deferred, is the Levers × Scale Zones matrix (the closest analog to New Urbanism's Urban Standards); defer until terms stabilize.
 7. **Alphabetical index.** *Addressed.* An [alphabetical index](index-alphabetical.qmd) of every defined term now exists, backed by a maintainable term list in `_data/terms.yml`. A fuller taxonomy index — terms grouped by structural device rather than by letter — remains partial and would follow the matrix layer (#6) once terms stabilize.
 
 ---

@@ -56,7 +56,7 @@ nocite: |
 - **Michigan State University / KBS LTER (2024).** Prairie strips partial budget tool [Excel tool], accompanying the "Budgeting for prairie strips" bulletin (MiSTRIPS program). — *gray literature / tool; the bulletin date (reported 10 June 2024) and MiSTRIPS attribution are not independently confirmed — verify before citing.*
 - **New Urbanism.** *The Lexicon of New Urbanism* (DPZ); SmartCode v9.2 and v10; Center for Applied Transect Studies; Form-Based Codes Institute; CNU. Form-based code rigidity critiques (Miami 21, Poundbury) are drawn from commentary rather than primary evaluation literature and should be strengthened.
 
-**Cross-cutting functions (§6) — new, not yet in `references.bib`**
+**Restorative functions (§6) — new, not yet in `references.bib`**
 - **Yavari et al. (2022).** A review of the hydrologic effects of ground-mounted solar facilities (infiltration, runoff, soil moisture). Reported venue *Environmental Research: Infrastructure and Sustainability* (IOP). Exact title, author list, and volume **unconfirmed** — source for the infiltration/recharge/runoff side of the hydrologic function (§6.1); trace before citing.
 - **Kremen, C. (2015).** Working-landscapes framing behind the archetype × function matrix — reframing the land-sparing/land-sharing debate for biodiversity conservation. Venue (reportedly *Annals of the New York Academy of Sciences*) and full citation **unconfirmed**; trace before citing.
 - **Grass et al. (2019).** Working-landscapes / connectivity framing (land-sharing–sparing for ecosystem services and biodiversity), reportedly *People and Nature*. Full citation **unconfirmed**; trace before citing.

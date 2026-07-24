@@ -30,6 +30,8 @@ under **S**.
 
 **Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [Agroenergy](4-general-terminology.qmd#term-agroenergy)
 
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [5. Archetypes](5-archetypes.qmd)
+
 ## C
 
 **Capital discipline** — design pressure: minimize installed cost per watt — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
@@ -37,6 +39,8 @@ under **S**.
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [1.3 Why the transect earns its place](1-the-scale-transect.qmd#sec-grazing)
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Co-location vs. Integration](4-general-terminology.qmd#term-colocation-integration)
+
+**Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [Community Benefit](4-general-terminology.qmd#term-community-benefit)
 
 **Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [1.3 Why the transect earns its place](1-the-scale-transect.qmd#sec-grazing)
 
@@ -96,6 +100,8 @@ under **S**.
 
 **Restorative ambition** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
+**Restorative function** — a restorative capacity of the land (hydrologic, soil & carbon, biodiversity & habitat, microclimate) reachable across many structural positions; a column of the archetype × function matrix — [6. Restorative Functions](6-restorative-functions.qmd)
+
 ## S
 
 **S1 — Full sharing** — production continues within the array footprint, in the same ground — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
@@ -108,7 +114,7 @@ under **S**.
 
 **Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [1. The Scale Transect](1-the-scale-transect.qmd)
 
-**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position — [5. Archetypes](5-archetypes.qmd)
+**Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Screening](4-general-terminology.qmd#term-screening)
 
 **Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production or spares low-value ground from it — [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 

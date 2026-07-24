@@ -1,10 +1,10 @@
-# 6. Cross-cutting Restorative Functions {#sec-functions}
+# 6. Restorative Functions {#sec-functions}
 
 ::: {.callout-note appearance="simple"}
 **Draft for review.** The hydrologic entry is worked in full; the other three are drafts to be expanded once the register's shape is agreed. See the note on scope and the social register below.
 :::
 
-The two axes — the [scale transect](1-the-scale-transect.qmd) and the [sharing–sparing axis](2-the-sharingsparing-axis.qmd) — and the [archetypes](5-archetypes.qmd) they produce are the document's **structure register**: a coordinate system, mapped by Figure 3. But neither axis is about restoration, and the document is titled *Restorative*. The restorative content is a second register that the structure does not capture: a short vocabulary of cross-cutting **functions** — capacities the land can be made to deliver — that do not sit at a single point on the scale × sharing plane. They are obtainable, to varying degrees, across many structural positions at once.
+The two axes — the [scale transect](1-the-scale-transect.qmd) and the [sharing–sparing axis](2-the-sharingsparing-axis.qmd) — and the [archetypes](5-archetypes.qmd) they produce are the document's **structure register**: a coordinate system, mapped by Figure 3. But neither axis is about restoration, and the document is titled *Restorative*. The restorative content is a second register that the structure does not capture: a short vocabulary of restorative **functions** — capacities the land can be made to deliver — that do not sit at a single point on the scale × sharing plane. They are obtainable, to varying degrees, across many structural positions at once.
 
 **A category correction.** Some terms are used as if they named a structural position when they really name a function. *Pollinator habitat* is often treated as position S3, but it is a function reachable at S2 (wildflower interrows over grazing), at S3 (dedicated habitat), and even on a restored S4 parcel. *Native grassland* is the same. Once function and position are separated, the confusion dissolves: positions are **rows**, functions are **columns**, and a real project lights up a *bundle* of function-cells rather than occupying one.
 
@@ -48,8 +48,8 @@ Each entry is tagged with **(a)** its mechanism, **(b)** its design dependencies
 
 Terms this section introduces; cross-referenced terms link to their home section.
 
-- **Cross-cutting function** — a restorative capacity of the land (hydrologic, soil & carbon, biodiversity & habitat, microclimate) obtainable to varying degrees across many structural positions; a *column* of the archetype × function matrix. Defined here.
-- **Function register / structure register** — the two composing registers: structure = the scale × sharing–sparing axes and the [archetypes](5-archetypes.qmd) they produce; function = these cross-cutting restorative capacities that overlay them.
+- **Restorative function** — a restorative capacity of the land (hydrologic, soil & carbon, biodiversity & habitat, microclimate) obtainable to varying degrees across many structural positions; a *column* of the archetype × function matrix. Defined here.
+- **Function register / structure register** — the two composing registers: structure = the scale × sharing–sparing axes and the [archetypes](5-archetypes.qmd) they produce; function = these restorative capacities that overlay them.
 - **Archetype × function matrix** — the descriptive model relating the two registers: archetypes as rows, functions as columns, cells as the degree to which an archetype makes a function reachable. A palette, not a scorecard.
 
 ---
