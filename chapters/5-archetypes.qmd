@@ -30,6 +30,32 @@ A2–A3 · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *siting-led*
 
 > **Note the kinship.** This archetype and the buffer-integrated one share an economic engine: prairie strips pay because they cost less than farming consistently low-yielding ground, which is the same partial-budget logic driving marginal-land solar siting. They differ mainly in whether the spared ground carries a designed ecological function or an energy function. Both are siting-led, and both depend on the A2–A3 latitude that makes choosing the ground possible at all — which is precisely why neither scales upward without changing into something else. Two archetypes, one insight, and a good illustration of what the pressure framing reveals that a template catalog hides.
 
+Four more Types in current circulation:
+
+**Vertical-Bifacial Cropland Array**
+[A2](1-the-scale-transect.qmd#sec-zones)–[A4](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+*Dominant pressures:* [agricultural continuity](3-design-pressures.qmd#sec-pressures), [generation yield](3-design-pressures.qmd#sec-pressures).
+*Yielded:* [capital discipline](3-design-pressures.qmd#sec-pressures) (frameless glass–glass modules, more posts per watt), land-use density.
+*Signature levers:* vertical east–west [module technology](4-general-terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
+
+**Community-Solar Pollinator Array**
+[A3](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+*Dominant pressures:* [social license](3-design-pressures.qmd#sec-pressures), [restorative ambition](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [offtake conformity](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel).
+*Yielded:* some [operational simplicity](3-design-pressures.qmd#sec-pressures) during the multi-year establishment.
+*Signature levers:* whole-site native [ground-layer](4-general-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom.
+
+**Native-Grassland Utility Array**
+[A4](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+*Dominant pressures:* generation yield, restorative ambition (grassland restoration [@walston2025]).
+*Yielded:* agricultural continuity.
+*Signature levers:* native seed mix, deferred/rotational mowing, soil-carbon establishment [@krasner2025]. The characteristic large-scale [convergence case](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
+
+**Brightfield / Reclaimed-Land Array**
+[A3](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+*Dominant pressures:* capital discipline (uniformly low-value ground), social license (reuse of degraded land).
+*Yielded:* some generation yield (sites are constrained).
+*Signature levers:* placement on reclaimed mine land, landfills, and brownfields; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
+
 ### Associated Terminology
 
 Defined here (this section is their collection point):

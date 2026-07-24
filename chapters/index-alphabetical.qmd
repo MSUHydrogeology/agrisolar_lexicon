@@ -48,6 +48,8 @@ under **S**.
 
 ## D
 
+**Decommissioning & reversibility** — the eighth design pressure: minimize the residual footprint and preserve the option to return the ground to its prior use — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [Decommissioning / Repowering / Reversibility](4-general-terminology.qmd#term-decommissioning)
 
 **Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled — [3.3 Design levers](3-design-pressures.qmd#sec-levers)

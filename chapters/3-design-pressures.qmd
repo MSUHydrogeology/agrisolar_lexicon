@@ -18,7 +18,9 @@
 
 **Offtake conformity** — satisfy the criteria of whoever is buying the power, the attributes, or the tax position. Pulls toward whatever the counterparty scores. This is the channel through which external parties impose pressures on a design.
 
-![Seven competing forces resolving into one site design. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](../figures/fig4_design_pressures.svg){#fig-pressures}
+**Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. It passes the pressure test — it has direction, it conflicts, and real parties advocate it: counties requiring [decommissioning](4-general-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the point.
+
+![Eight competing forces resolving into one site design; the eighth is decommissioning & reversibility. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](../figures/fig4_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
@@ -33,6 +35,8 @@ The lexicon's usefulness lies in making these legible rather than letting them s
 **Generation yield vs. restorative ambition.** The obvious one, and less absolute than assumed: shade-tolerance and row geometry interact, so the tradeoff is a curve with regions of near-indifference, not a straight line.
 
 **Capital discipline vs. operational simplicity.** Frequently mistaken for one pressure. They diverge on ground-cover establishment, clearance height, and access design.
+
+**Reversibility vs. restorative ambition.** The two restorative instincts can pull apart: deep-rooted perennial cover, rebuilt soil, and established habitat are exactly what a cleanly reversible project would avoid disturbing, yet they are what restoration builds. A project designed to vanish and one designed to heal the ground are not always the same project.
 
 **Social license vs. capital discipline.** Community benefit — PILOT and tax revenue, community-benefit agreements, good-neighbor payments, co-ownership — is real money, so it pulls against capital discipline. But because benefit without procedural fairness reads as a bribe, it cannot simply be bought: acceptance and benefit are dissociable, which is why this one is not settled at the checkbook.
 
@@ -54,7 +58,7 @@ The degrees of freedom through which pressures get settled. Modular and separate
 
 Terms this section introduces (defined above; this is their collection point):
 
-**Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates. The seven:
+**Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates. The eight:
 
 - **Generation yield** — maximize energy per unit land.
 - **Capital discipline** — minimize installed cost per watt.
@@ -63,6 +67,7 @@ Terms this section introduces (defined above; this is their collection point):
 - **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation.
 - **Social license** — secure and sustain community acceptance *and* community benefit: two dissociable forces held in one pressure.
 - **Offtake conformity** — satisfy whoever buys the power, attributes, or tax position; the channel through which external parties impose pressures on a design.
+- **Decommissioning & reversibility** — minimize residual footprint; preserve the option to return the ground.
 
 **Pressure conflict** — the framing that treats these disputes (e.g. agricultural continuity vs. restorative ambition; operational simplicity vs. everything) as legitimate forces in genuine tension rather than definitional errors.
 
