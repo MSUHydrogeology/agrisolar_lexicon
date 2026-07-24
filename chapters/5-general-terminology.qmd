@@ -1,4 +1,4 @@
-# 4. General Terminology {#sec-terminology}
+# 5. General Terminology {#sec-terminology}
 
 ### Agroenergy {#term-agroenergy}
 
@@ -42,7 +42,7 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 *(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The ecovoltaic siting literature gives this teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
 
-**The SCALE footprint.** A project's influence can be accounted across four domains — **Sustainable Communities, Agriculture, Landscapes, and Energy** (SCALE), the REAL project's holistic footprint framework, where each axis runs from regenerative to depleting. The domains line up with this lexicon's own registers: Communities ≈ [social license](3-design-pressures.qmd#sec-pressures) and [community benefit](#term-community-benefit); Landscapes ≈ the [restorative functions](6-restorative-functions.qmd) (water, ecosystems); Energy ≈ the [design pressures](3-design-pressures.qmd#sec-pressures) (cost, security); Agriculture ≈ agricultural continuity and the sharing–sparing axis (food security, marginality). The lexicon borrows SCALE's *domains* as a way to organize influence, but not its evaluative "limit of sustainability" — it names domains, not scores.
+**The SCALE footprint.** A project's influence can be accounted across four domains — **Sustainable Communities, Agriculture, Landscapes, and Energy** (SCALE), the REAL project's holistic footprint framework, where each axis runs from regenerative to depleting. The domains line up with this lexicon's own registers: Communities ≈ [social license](3-design-pressures.qmd#sec-pressures) and [community benefit](#term-community-benefit); Landscapes ≈ the [restorative functions](4-restorative-functions.qmd) (water, ecosystems); Energy ≈ the [design pressures](3-design-pressures.qmd#sec-pressures) (cost, security); Agriculture ≈ agricultural continuity and the sharing–sparing axis (food security, marginality). The lexicon borrows SCALE's *domains* as a way to organize influence, but not its evaluative "limit of sustainability" — it names domains, not scores.
 
 ![The SCALE footprint: a project's influence accounted across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes, each running from regeneration at the centre to depletion at the rim. The lexicon adopts the domains descriptively; the footprint polygon shown is illustrative, not a score.](../figures/fig5_scale_footprint.svg){#fig-scale}
 
@@ -66,7 +66,7 @@ The low-value ground that [sparing](2-the-sharingsparing-axis.qmd#sec-positions)
 
 ### Microclimate Modification {#term-microclimate}
 
-The array's reshaping of the below- and between-panel environment: shade lowers soil and canopy temperature and evaporative demand, raising soil moisture — most in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Treated as a [restorative function](6-restorative-functions.qmd) (§6.4); itself scale- and geometry-dependent (§1.1).
+The array's reshaping of the below- and between-panel environment: shade lowers soil and canopy temperature and evaporative demand, raising soil moisture — most in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Treated as a [restorative function](4-restorative-functions.qmd) (§4.4); itself scale- and geometry-dependent (§1.1).
 
 ### Pore Space {#term-pore-space}
 
@@ -88,7 +88,7 @@ Two operational-regime levers (§3.3). *Tracking schedule* — how a single- or 
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles [S3](2-the-sharingsparing-axis.qmd#sec-positions) ground layers poorly and has no term for the [restorative functions](6-restorative-functions.qmd) or the [SCALE](#term-footprint-influence) domains beyond food and energy. Named here with its blind spots so it does not become the field's default success metric by inertia; the lexicon names candidate metrics, it does not endorse one (§7, issue 5).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles [S3](2-the-sharingsparing-axis.qmd#sec-positions) ground layers poorly and has no term for the [restorative functions](4-restorative-functions.qmd) or the [SCALE](#term-footprint-influence) domains beyond food and energy. Named here with its blind spots so it does not become the field's default success metric by inertia; the lexicon names candidate metrics, it does not endorse one (§7, issue 5).
 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 

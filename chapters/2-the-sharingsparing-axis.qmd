@@ -8,14 +8,14 @@ This borrows the land-sharing / land-sparing framing from conservation ecology, 
 
 | Position | Description | Characteristic |
 |---|---|---|
-| **S1 — Full sharing** | Production continues within the array footprint, in the same ground | Overstory [agrivoltaic](4-general-terminology.qmd#term-agrivoltaics); crops between rows |
+| **S1 — Full sharing** | Production continues within the array footprint, in the same ground | Overstory [agrivoltaic](5-general-terminology.qmd#term-agrivoltaics); crops between rows |
 | **S2 — Functional sharing** | Ground layer is productive but subordinate to the array; grazing, forage | Solar grazing at any scale |
 | **S3 — Substituted function** | Ground layer delivers ecological rather than agricultural function | Pollinator habitat, prairie/buffer |
 | **S4 — Sparing** | Array occupies ground removed from production because it was low-yielding or already idle | Marginal-land siting, previously disturbed land |
 
-*Some entries in the right column — pollinator habitat, native grassland — name [restorative functions](6-restorative-functions.qmd), not fixed positions. They are reachable across several positions (roughly S2–S4); §6 defines them as functions rather than pinning them to S3.*
+*Some entries in the right column — pollinator habitat, native grassland — name [restorative functions](4-restorative-functions.qmd), not fixed positions. They are reachable across several positions (roughly S2–S4); §4 defines them as functions rather than pinning them to S3.*
 
-**Why this axis and not another.** It is structural rather than an outcome; it is non-evaluative; and it separates the four [archetypes](5-archetypes.qmd) cleanly where scale alone does not. The [ecovoltaic](4-general-terminology.qmd#term-ecovoltaics) literature already reaches for land-sharing language, so this connects to an existing conversation rather than coining a private one.
+**Why this axis and not another.** It is structural rather than an outcome; it is non-evaluative; and it separates the four [archetypes](6-archetypes.qmd) cleanly where scale alone does not. The [ecovoltaic](5-general-terminology.qmd#term-ecovoltaics) literature already reaches for land-sharing language, so this connects to an existing conversation rather than coining a private one.
 
 ### 2.2 The feasible region is a wedge, not a rectangle {#sec-wedge}
 
@@ -23,22 +23,24 @@ The two dimensions are conceptually independent but not empirically free of one 
 
 **Sparing requires the freedom to choose the ground.** S4 is only available to a designer who can select which acres to occupy. At A4–A5, where siting is governed by contiguous land assembly near a substation, that freedom is largely gone — a five-hundred-acre block will contain productive and marginal ground indiscriminately. Large projects are therefore pushed toward S2–S3 by structural necessity rather than preference: if you cannot choose *which* ground, your only remaining option is to do something worthwhile with *all* of it.
 
-Read the axis from its centre: **sharing** rises above the substituted-function middle (S3), **sparing** falls below it, and the scale transect crosses through that middle. The feasible region is then not a rectangle but a shape that closes toward the centre as scale grows — both poles give way, for different reasons, until only the productive-ecological middle survives.
+Read the axis from its centre. The horizontal scale line crosses at the boundary between production and its absence — full and functional sharing (S1–S2) above it, substituted function and sparing (S3–S4) below. The feasible region is then not a rectangle but a **lens**: widest at A3 (Parcel) and closing toward that middle at both extremes of scale. It closes for different reasons at each end, and — crucially — neither end is a hard wall. Each thinned corner has a documented exception.
 
-![The feasible region on a centred sharing–sparing axis. All four positions stay open through A3; toward A5 both poles pinch — sparing loses the siting latitude to choose its ground, full sharing loses out to capital discipline — and the region converges on the productive-ecological middle (S2–S3). Solid points are exemplar practices; hollow points mark restorative exceptions that reopen a pinched wedge.](../figures/fig3_feasible_wedge.svg){#fig-wedge}
+![The feasible region as a lens on a centred sharing–sparing axis, widest at A3 (Parcel) and closing toward the S2–S3 middle at both extremes of scale. Grazing (S2) runs the spine at every scale, from a farmer's own flock through contracted service to a rotation enterprise. Solid points are exemplar practices; hollow points are exceptions that reopen a thinned corner. Hatching marks where the space thins — lightly at small scale (feasible but atypical or negligible), densely at large scale (strongly constrained).](../figures/fig3_feasible_wedge.svg){#fig-wedge}
 
 The practical readings:
 
-- **S4 at A5 is close to unavailable.** Claims of marginal-land siting at utility scale deserve scrutiny about what fraction of the footprint is genuinely marginal. The standing exception is genuinely pre-disturbed land — reclaimed mine land, landfills, and brownfields ("brightfields"), which are uniformly low-value and so let sparing and large scale coexist without cherry-picking acres.
-- **S1 at A5 is rare for a different reason** — the clearance and row geometry that full sharing requires are hard to reconcile with utility-scale capital discipline. Vertical bifacial arrays push against this limit: by leaving the inter-row open to machinery they relax the clearance constraint and extend sharing to larger scale than overstory geometry allows [@vaverkova2026].
-- **The middle of the transect is the widest part of the space.** A3 is where all four sharing positions remain genuinely open, which is one reason mid-scale sites are disproportionately interesting as design exemplars.
-- **At A5 the region converges on the middle.** Because both poles pinch, what stays feasible at utility scale is the productive-ecological middle — functional sharing (solar grazing) and substituted ecological function. Native grassland restoration is the characteristic large-scale case, with documented biodiversity and soil-carbon gains [@walston2025; @krasner2025].
+- **Grazing is the spine.** Functional sharing (S2) is the one position genuinely available at every scale — a farmer's own flock at A1, a contracted vegetation-management service at A3, a multi-site rotation enterprise at A5 (§1.3). Everything else is more scale-conditional, which is why the lens narrows around it at both ends.
+- **Both extremes converge on the middle.** At A5 the poles pinch because siting is governed by land assembly — sparing loses the freedom to choose its ground — and by capital discipline, against which full sharing's clearance and row geometry are hard to justify. At A1 they thin for a softer reason: no one cultivates *under* a two-panel array — they farm next to it — and a spared idle corner is real but too small to affect aggregate land use. What persists at both ends is the productive-ecological middle (S2–S3).
+- **The thinned corners are not walls.** Each has an exception that reopens it. Utility-scale sparing returns on genuinely pre-disturbed land — reclaimed mine land, landfills, and brownfields ("brightfields"), uniformly low-value so sparing and scale coexist without cherry-picking acres. Utility-scale full sharing returns with vertical bifacial arrays, whose open inter-rows relax the clearance constraint [@vaverkova2026]. Small-scale in-footprint sharing returns where the structure is purpose-built to farm under — greenhouse photovoltaics. And small-scale sparing returns on rooftops: a barn roof spares ground completely, so its small footprint is the whole point rather than a limitation.
+- **A3 (Parcel) is the widest part of the space.** All four positions are genuinely open at mid-scale, which is one reason Parcel-scale sites are disproportionately interesting as design exemplars.
+
+*Two of the plotted exemplars — pollinator habitat and native grassland — are [restorative functions](6-restorative-functions.qmd) shown at their characteristic S3 home, not fixed positions; both are reachable more widely (§6), and native grassland at utility scale carries documented biodiversity and soil-carbon gains [@walston2025; @krasner2025].*
 
 **S1's appeal is not uniform across regions.** In-footprint crop benefit is strongly climate- and crop-conditional — pronounced in water-limited, high-radiation settings and for shade-tolerant crops [@barrongafford2019], but mixed to net-negative for staple grains and in temperate or humid settings where shade costs yield without a compensating water saving [@weselek2019]. Full sharing is therefore not a uniformly attractive option across the transect.
 
 This makes the framework mildly predictive rather than merely descriptive, and it is falsifiable — a documented S4 project at A5 would be a real counterexample worth examining.
 
-**It also gives the definitional dispute a home.** American Farmland Trust's position — that [dual use](4-general-terminology.qmd#term-agrivoltaics) requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — is structurally a mandate for S1–S2. Critics argue this marginalizes ecovoltaics by excluding pollinator habitat at S3. Putting both on a named axis lets the lexicon describe the disagreement precisely without adjudicating it. *(See §4, Agrivoltaics / Ecovoltaics.)*
+**It also gives the definitional dispute a home.** American Farmland Trust's position — that [dual use](5-general-terminology.qmd#term-agrivoltaics) requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — is structurally a mandate for S1–S2. Critics argue this marginalizes ecovoltaics by excluding pollinator habitat at S3. Putting both on a named axis lets the lexicon describe the disagreement precisely without adjudicating it. *(See §5, Agrivoltaics / Ecovoltaics.)*
 
 ### Associated Terminology
 
@@ -51,6 +53,6 @@ Terms this section introduces; cross-referenced terms link to their home section
 - **S4 — Sparing** — array occupies ground removed from production because it was low-yielding or already idle.
 - **Feasible wedge** — the feasible region across scale and sharing: all four positions stay open through A3, narrowing toward A5 as both poles pinch — sparing loses siting latitude, full sharing loses out to capital discipline — and the region converges on the productive-ecological middle (S2–S3). Defined here (§2.2).
 - **Siting latitude** — the designer's freedom over where the array goes; the constraint that makes the region a wedge. See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
-- **Agrivoltaics / Ecovoltaics** — production (S1–S2) versus ecological (S3) ground layers. See [§4](4-general-terminology.qmd#term-agrivoltaics).
+- **Agrivoltaics / Ecovoltaics** — production (S1–S2) versus ecological (S3) ground layers. See [§5](5-general-terminology.qmd#term-agrivoltaics).
 
 ---

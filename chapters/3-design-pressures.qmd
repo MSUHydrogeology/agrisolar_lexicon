@@ -1,6 +1,6 @@
 # 3. Design Pressures {#sec-pressures-ch}
 
-**The heart of the document.** Every site is a [settlement](5-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
+**The heart of the document.** Every site is a [settlement](6-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
 
 ### 3.1 The pressures {#sec-pressures}
 
@@ -10,15 +10,15 @@
 
 **Operational simplicity** — minimize management burden across a 25–40 year asset life. Pulls toward uniform, mowable or gravel ground cover and predictable maintenance. *Note it can oppose capital discipline: native seeding raises capex and lowers long-run opex.*
 
-**Agricultural continuity** — keep working land working. Pulls toward high clearance, equipment access, production [ground layers](4-general-terminology.qmd#term-ground-layer), farmer contracts.
+**Agricultural continuity** — keep working land working. Pulls toward high clearance, equipment access, production [ground layers](5-general-terminology.qmd#term-ground-layer), farmer contracts.
 
 **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation. Pulls toward wider rows, diverse ground cover, lifespan management, and operational choices made partly for the ground layer.
 
-**Social license** — secure and sustain community acceptance, and with it the community's active stake in the project. This pressure deliberately holds two forces in tension. *Acceptance* is defensive — avoiding the local veto — and pulls toward [screening](4-general-terminology.qmd#term-screening), farmer visibility, and genuine engagement in design. *Community benefit* is positive-sum — tax revenue, [community-benefit agreements](4-general-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscription, local hiring, co-ownership — which this project's framing treats as a co-equal aim, not a nicety. The two are dissociable: benefit offered without procedural fairness reads as a bribe and does not reliably buy acceptance, so the pressure is not discharged by writing a check. They are kept under one name because they have to be advanced together.
+**Social license** — secure and sustain community acceptance, and with it the community's active stake in the project. This pressure deliberately holds two forces in tension. *Acceptance* is defensive — avoiding the local veto — and pulls toward [screening](5-general-terminology.qmd#term-screening), farmer visibility, and genuine engagement in design. *Community benefit* is positive-sum — tax revenue, [community-benefit agreements](5-general-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscription, local hiring, co-ownership — which this project's framing treats as a co-equal aim, not a nicety. The two are dissociable: benefit offered without procedural fairness reads as a bribe and does not reliably buy acceptance, so the pressure is not discharged by writing a check. They are kept under one name because they have to be advanced together.
 
 **Offtake conformity** — satisfy the criteria of whoever is buying the power, the attributes, or the tax position. Pulls toward whatever the counterparty scores. This is the channel through which external parties impose pressures on a design.
 
-**Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. It passes the pressure test — it has direction, it conflicts, and real parties advocate it: counties requiring [decommissioning](4-general-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the point.
+**Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. It passes the pressure test — it has direction, it conflicts, and real parties advocate it: counties requiring [decommissioning](5-general-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the point.
 
 ![Eight competing forces resolving into one site design; the eighth is decommissioning & reversibility. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](../figures/fig4_design_pressures.svg){#fig-pressures}
 
@@ -26,7 +26,7 @@
 
 The lexicon's usefulness lies in making these legible rather than letting them surface as vague friction.
 
-**Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/[ecovoltaics](4-general-terminology.qmd#term-ecovoltaics) dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
+**Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/[ecovoltaics](5-general-terminology.qmd#term-ecovoltaics) dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
 
 **Operational simplicity vs. everything.** The strongest quiet force in the field. Gravel and herbicide are simple; diverse perennial cover is not. Most restorative design is lost here, not in the initial design meeting.
 
@@ -44,15 +44,15 @@ The lexicon's usefulness lies in making these legible rather than letting them s
 
 The degrees of freedom through which pressures get settled. Modular and separately extensible.
 
-*Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · [pore-space](4-general-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
+*Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · [pore-space](5-general-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
 
-*Land and ecology:* ground-layer composition · placement logic within parcel · landscape configuration (few-large vs. many-small) · ecological service target · management regime through lifespan · operational regime (tracking schedule, curtailment behavior) · edge and perimeter treatment (setback, buffer, berm, fencing, [screening](4-general-terminology.qmd#term-screening) geometry).
+*Land and ecology:* ground-layer composition · placement logic within parcel · landscape configuration (few-large vs. many-small) · ecological service target · management regime through lifespan · operational regime (tracking schedule, curtailment behavior) · edge and perimeter treatment (setback, buffer, berm, fencing, [screening](5-general-terminology.qmd#term-screening) geometry).
 
-*Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime · [community-benefit](4-general-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
+*Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime · [community-benefit](5-general-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
 
 **Coupling note.** Row geometry and ground-layer composition are a single coupled choice, not two. Crops sort into shade-sensitive, shade-neutral, and shade-tolerant classes — C4 and grain or fruiting crops (maize, wheat, many fruiting vegetables) sensitive; leafy and root horticultural crops (lettuce, spinach, chard, potato) and many forage grasses tolerant, some benefiting under moderate shade — so light environment and planting selection must be decided together.
 
-**Coupling note (screening).** Edge and perimeter treatment is two choices at once, in the same way: a vegetative screen is simultaneously a social-license move and a habitat/connectivity choice acting on the visual edge of the [influence zone](4-general-terminology.qmd#term-footprint-influence). It is therefore pulled by both social license and restorative ambition, while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows.
+**Coupling note (screening).** Edge and perimeter treatment is two choices at once, in the same way: a vegetative screen is simultaneously a social-license move and a habitat/connectivity choice acting on the visual edge of the [influence zone](5-general-terminology.qmd#term-footprint-influence). It is therefore pulled by both social license and restorative ambition, while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows.
 
 ### Associated Terminology
 

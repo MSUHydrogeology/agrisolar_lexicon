@@ -1,83 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="410" viewBox="0 0 760 410" role="img">
-<title>The sharing-sparing axis is centred, and the feasible region converges on the middle at large scale</title>
-<desc>The vertical axis is centred: sharing increases upward from S1, sparing increases downward to S4, with S3 substituted ecological function at the origin. The scale axis A1 to A5 crosses at that center. The feasible region spans both poles from A1 through A3 and pinches toward the middle band at A5. Solid points are exemplar practices; native grassland restoration sits in the surviving middle band at large scale. Two hollow points mark restorative exceptions that reopen a pinched wedge: vertical bifacial agrivoltaics extends sharing to larger scale, and brightfield restoration spares degraded land at scale.</desc>
+<title>The feasible region as a symmetric lens: grazing runs the spine at every scale, and each thinned corner has an exception</title>
+<desc>Centred sharing-sparing axis, symmetric about the horizontal scale axis. Full and functional sharing (S1-S2) sit above the centre; substituted function and sparing (S3-S4) below. The feasible region is widest at A3 (Parcel) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the four thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial and brightfield at large scale. Grazing runs S2 at every scale from a farmer's own flock to a rotation enterprise. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
+<defs>
+<pattern id="hatchL" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="7" stroke="#8f8d84" stroke-width="1"/></pattern>
+<pattern id="hatchD" width="3.5" height="3.5" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="3.5" stroke="#8f8d84" stroke-width="1"/></pattern>
+</defs>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.ts{font-size:12px;fill:#5f5e5a}
-.rl{font-size:12px;font-weight:500;fill:#3d3d3a}
-.sm{font-size:11px;fill:#7a7973}
-.pr{font-size:11px;fill:#9c3a22}
-.ex{font-size:11px;font-style:italic;fill:#993C1D}
+.ts{font-size:12px;fill:#5f5e5a}.rl{font-size:12px;font-weight:500;fill:#3d3d3a}
+.an{font-size:10px;fill:#7a7973}.sm{font-size:11px;fill:#7a7973}
+.pr{font-size:11px;fill:#4a4843}.ex{font-size:11px;font-style:italic;fill:#993C1D}.gy{font-size:11px;font-style:italic;fill:#6f6e68}
 .dir{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#2f77bf}
 .dir2{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#a85c28}
-.ax{stroke:#b4b2a9;stroke-width:1}
-.cen{stroke:#9c9a92;stroke-width:1;stroke-dasharray:4 4}
-@media (prefers-color-scheme:dark){
-.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.sm{fill:#8f8e86}.pr{fill:#e0a08f}.ex{fill:#cf8a55}
-.dir{fill:#6aa6e0}.dir2{fill:#cf8a55}
-.ax{stroke:#5f5e5a}.cen{stroke:#6f6e68}}
+.ax{stroke:#b4b2a9;stroke-width:1}.cen{stroke:#9c9a92;stroke-width:1;stroke-dasharray:4 4}
+@media (prefers-color-scheme:dark){.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.an{fill:#8f8e86}.sm{fill:#8f8e86}.pr{fill:#c2c0b6}.ex{fill:#cf8a55}.gy{fill:#9c9a92}.dir{fill:#6aa6e0}.dir2{fill:#cf8a55}.ax{stroke:#5f5e5a}.cen{stroke:#6f6e68}}
 </style>
-
-<!-- pinched-out regions, lost as scale grows -->
-<polygon points="420,72 685,72 685,158" fill="#F5D9D1"/>
-<polygon points="420,318 685,318 685,232" fill="#F5D9D1"/>
-
-<!-- feasible region: full range through A3, converging on the middle band at A5 -->
-<polygon points="160,72 420,72 685,158 685,232 420,318 160,318" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
-
-<!-- axes: horizontal crosses the vertical at its centre -->
-<line class="ax" x1="160" y1="56" x2="160" y2="330"/>
+<polygon points="420,80 685,80 685,150" fill="url(#hatchD)" opacity="0.85"/>
+<polygon points="420,310 685,310 685,240" fill="url(#hatchD)" opacity="0.85"/>
+<polygon points="160,80 420,80 160,150" fill="url(#hatchL)" opacity="0.7"/>
+<polygon points="160,310 420,310 160,240" fill="url(#hatchL)" opacity="0.7"/>
+<polygon points="160,150 420,80 685,150 685,240 420,310 160,240" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
+<line class="ax" x1="160" y1="58" x2="160" y2="326"/>
 <line class="ax" x1="146" y1="195" x2="700" y2="195"/>
 <line class="cen" x1="160" y1="195" x2="685" y2="195"/>
-
-<!-- direction of the vertical axis -->
-<text class="dir" x="152" y="52" text-anchor="end">SHARING &#8593;</text>
-<text class="dir2" x="152" y="346" text-anchor="end">SPARING &#8595;</text>
-
-<!-- sharing-sparing positions -->
-<text class="rl" x="150" y="80" text-anchor="end">S1 full sharing</text>
-<text class="rl" x="150" y="150" text-anchor="end">S2 functional</text>
-<text class="rl" x="150" y="191" text-anchor="end">S3 substituted</text>
-<text class="sm" x="150" y="207" text-anchor="end">ecovoltaic middle</text>
-<text class="rl" x="150" y="315" text-anchor="end">S4 sparing</text>
-
-<!-- scale transect -->
-<text class="ts" x="160" y="352" text-anchor="middle">A1</text>
-<text class="ts" x="295" y="352" text-anchor="middle">A2</text>
-<text class="ts" x="420" y="352" text-anchor="middle">A3</text>
-<text class="ts" x="555" y="352" text-anchor="middle">A4</text>
-<text class="ts" x="685" y="352" text-anchor="middle">A5</text>
-
-<!-- exemplars (solid) -->
-<circle cx="295" cy="82" r="5" fill="#D85A30"/>
-<text class="ts" x="295" y="68" text-anchor="middle" fill="#993C1D">overstory</text>
-
-<circle cx="600" cy="150" r="5" fill="#D85A30"/>
-<text class="ts" x="600" y="136" text-anchor="middle" fill="#993C1D">solar grazing</text>
-
-<circle cx="470" cy="205" r="5" fill="#D85A30"/>
-<text class="ts" x="470" y="224" text-anchor="middle" fill="#993C1D">pollinator habitat</text>
-
-<circle cx="305" cy="305" r="5" fill="#D85A30"/>
-<text class="ts" x="305" y="291" text-anchor="middle" fill="#993C1D">marginal-land</text>
-
-<circle cx="630" cy="192" r="5" fill="#D85A30"/>
-<text class="ts" x="630" y="179" text-anchor="middle" fill="#993C1D">native grassland</text>
-
-<!-- restorative frontier exceptions (hollow) -->
-<circle cx="515" cy="103" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/>
-<text class="ex" x="515" y="93" text-anchor="middle">vertical bifacial</text>
-
-<circle cx="615" cy="255" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/>
-<text class="ex" x="615" y="272" text-anchor="middle">brightfield</text>
-
-<!-- pinch annotations, seated inside their wedges -->
-<text class="pr" x="678" y="112" text-anchor="end">S1 pinches &#8212;</text>
-<text class="pr" x="678" y="126" text-anchor="end">clearance vs. capital</text>
-<text class="pr" x="678" y="290" text-anchor="end">S4 pinches &#8212;</text>
-<text class="pr" x="678" y="304" text-anchor="end">cannot choose the ground</text>
-
-<!-- helper caption -->
-<text class="sm" x="160" y="388">Blue = feasible; red = lost as scale grows; hollow points = exceptions that reopen a wedge.</text>
-<text class="sm" x="160" y="403">At A5 both poles pinch, converging on the productive-ecological middle (S2&#8211;S3).</text>
+<text class="dir" x="148" y="64" text-anchor="end">SHARING &#8593;</text>
+<text class="dir2" x="148" y="330" text-anchor="end">SPARING &#8595;</text>
+<text class="rl" x="150" y="84" text-anchor="end">S1 full sharing</text>
+<text class="rl" x="150" y="154" text-anchor="end">S2 functional</text>
+<text class="rl" x="150" y="244" text-anchor="end">S3 substituted</text>
+<text class="rl" x="150" y="314" text-anchor="end">S4 sparing</text>
+<text class="ts" x="160" y="350" text-anchor="middle">A1</text><text class="an" x="160" y="363" text-anchor="middle">Farmstead</text>
+<text class="ts" x="295" y="350" text-anchor="middle">A2</text><text class="an" x="295" y="363" text-anchor="middle">Field</text>
+<text class="ts" x="420" y="350" text-anchor="middle">A3</text><text class="an" x="420" y="363" text-anchor="middle">Parcel</text>
+<text class="ts" x="555" y="350" text-anchor="middle">A4</text><text class="an" x="555" y="363" text-anchor="middle">Landscape</text>
+<text class="ts" x="685" y="350" text-anchor="middle">A5</text><text class="an" x="685" y="363" text-anchor="middle">Regional</text>
+<text class="gy" x="250" y="105" text-anchor="middle">next to, not under</text>
+<text class="gy" x="320" y="303" text-anchor="middle">sparing, but negligible</text>
+<circle cx="195" cy="150" r="5" fill="#D85A30"/><text class="ts" x="195" y="166" text-anchor="middle" fill="#993C1D">farm flock</text>
+<circle cx="420" cy="150" r="5" fill="#D85A30"/><text class="ts" x="420" y="166" text-anchor="middle" fill="#993C1D">contract grazing</text>
+<circle cx="600" cy="150" r="5" fill="#D85A30"/><text class="ts" x="600" y="136" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
+<circle cx="290" cy="126" r="5" fill="#D85A30"/><text class="ts" x="290" y="140" text-anchor="middle" fill="#993C1D">greenhouse PV</text>
+<circle cx="388" cy="100" r="5" fill="#D85A30"/><text class="ts" x="376" y="95" text-anchor="end" fill="#993C1D">vegetables</text>
+<circle cx="452" cy="90" r="5" fill="#D85A30"/><text class="ts" x="464" y="84" text-anchor="start" fill="#993C1D">overstory</text>
+<circle cx="475" cy="238" r="5" fill="#D85A30"/><text class="ts" x="475" y="256" text-anchor="middle" fill="#993C1D">pollinator habitat</text>
+<circle cx="625" cy="232" r="5" fill="#D85A30"/><text class="ts" x="625" y="218" text-anchor="middle" fill="#993C1D">native grassland</text>
+<circle cx="408" cy="300" r="5" fill="#D85A30"/><text class="ts" x="408" y="284" text-anchor="middle" fill="#993C1D">marginal-land</text>
+<circle cx="230" cy="282" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="230" y="272" text-anchor="middle">barn roof</text>
+<circle cx="515" cy="105" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="515" y="95" text-anchor="middle">vertical bifacial</text>
+<circle cx="615" cy="258" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="615" y="274" text-anchor="middle">brightfield</text>
+<text class="pr" x="678" y="100" text-anchor="end">S1 constrained &#8212;</text>
+<text class="pr" x="678" y="114" text-anchor="end">clearance vs. capital</text>
+<text class="pr" x="678" y="288" text-anchor="end">S4 constrained &#8212;</text>
+<text class="pr" x="678" y="302" text-anchor="end">cannot choose the ground</text>
+<text class="sm" x="160" y="388">Solid = robustly on. Hatch = the space thins (light at small scale, dense at large). Hollow = exceptions that reopen it.</text>
+<text class="sm" x="160" y="403">Grazing (S2) is the spine at every scale; both ends converge on the S2&#8211;S3 middle.</text>
 </svg>

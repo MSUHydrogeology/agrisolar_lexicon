@@ -32,12 +32,12 @@ site must settle. This is where the document's normative energy lives, deliberat
 pressures are supposed to have direction.
 
 The four design templates in circulation are not the object of this lexicon. They are
-**[archetypes](chapters/5-archetypes.qmd)** — ways the pressures have been resolved
+**[archetypes](chapters/6-archetypes.qmd)** — ways the pressures have been resolved
 at particular scales and sharing postures.
 
 In one line: three structural devices (scale, sharing–sparing, pressures) →
-**[general terminology](chapters/4-general-terminology.qmd)** →
-**[archetypes](chapters/5-archetypes.qmd)** →
+**[general terminology](chapters/5-general-terminology.qmd)** →
+**[archetypes](chapters/6-archetypes.qmd)** →
 **[open issues](chapters/7-open-issues.qmd)**.
 
 To look a term up directly, see the **[Index — Alphabetical](chapters/index-alphabetical.qmd)**;
