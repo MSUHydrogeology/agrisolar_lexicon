@@ -10,9 +10,9 @@ Agroenergy specific to photovoltaics. *This lexicon's primary term of art*, beca
 
 ### Agrivoltaics {#term-agrivoltaics}
 
-Crop or livestock production within the array footprint (S1–S2). Terminology is regionally fractured: *agrophotovoltaics* in German literature, *agrivoltaics* in French and US usage, *photovoltaic agriculture* in Chinese literature.
+Crop or livestock production within the array footprint (S1–S2). Terminology is regionally fractured: *agrophotovoltaics* in German literature, *agrivoltaics* in French and US usage, *photovoltaic agriculture* in Chinese literature, *solar sharing* in Japanese usage.
 
-**Syn.:** agrophotovoltaics; photovoltaic agriculture.
+**Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese).
 
 ### Ecovoltaics {#term-ecovoltaics}
 
@@ -25,6 +25,10 @@ Solar development incorporating ecological understanding into array design *and 
 > **Definitional dispute — for the community to hold open, not resolve.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. This lexicon's position: both terms are defined precisely above, both map to positions on the sharing–sparing axis, and the disagreement is a genuine conflict between agricultural continuity and restorative ambition. A lexicon that adjudicates becomes a partisan document rather than shared infrastructure.
 
 **Source:** @sturchio2023 — [Sources](sources.qmd).
+
+### Dual Use {#term-dual-use}
+
+A production-based term: co-location that keeps *active agricultural production* within the array footprint across the project's life — American Farmland Trust's criterion. Structurally a mandate for [S1–S2](2-the-sharingsparing-axis.qmd#sec-positions). Distinct from [ecovoltaics](#term-ecovoltaics) (S3, ecological function); the two are the poles of the definitional dispute the lexicon holds open rather than adjudicates (§2.2).
 
 ### Restorative {#term-restorative}
 
@@ -56,14 +60,38 @@ The instruments through which a project returns value to its host community: com
 
 Whatever occupies the surface beneath and between panels. Primary carrier of restorative function.
 
+### Marginal / Previously Disturbed Land {#term-marginal-land}
+
+The low-value ground that [sparing](2-the-sharingsparing-axis.qmd#sec-positions) (S4) presupposes: consistently low-yielding cropland, and previously disturbed land — reclaimed mine land, landfills, and brownfields ("brightfields"). Marginality is partly a property of the ground and partly of the market, so claims of marginal-land siting deserve scrutiny about what fraction of a footprint is genuinely marginal (§2.2).
+
+### Microclimate Modification {#term-microclimate}
+
+The array's reshaping of the below- and between-panel environment: shade lowers soil and canopy temperature and evaporative demand, raising soil moisture — most in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Treated as a [restorative function](6-restorative-functions.qmd) (§6.4); itself scale- and geometry-dependent (§1.1).
+
 ### Pore Space {#term-pore-space}
 
 *(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the design object that "panel height" and "row spacing" only describe indirectly, and frames it as habitat and working space rather than leftover clearance.
 
 **Source:** @toledo2021 — [Sources](sources.qmd).
 
+### Ground Coverage Ratio (GCR) {#term-gcr}
+
+The ratio of module area to total ground area — the density of the array. High GCR packs more capacity per acre and pulls with generation yield and capital discipline; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§3.3).
+
+### Module Technology {#term-module-technology}
+
+The panel itself as a lever (§3.3): *monofacial* vs *bifacial* (both faces generate); *vertical bifacial* (east–west, leaving the inter-row open to machinery — extends sharing to larger scale [@vaverkova2026]); *semitransparent / transmissivity-tuned* (passing some light to a crop below); and *spectrally selective* (transmitting the wavelengths plants use while harvesting the rest). Module choice sets how much light — and of what kind — reaches the [ground layer](#term-ground-layer).
+
+### Tracking Schedule & Curtailment {#term-tracking-curtailment}
+
+Two operational-regime levers (§3.3). *Tracking schedule* — how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* — deliberately reducing output for grid, price, or ecological reasons. Both are decisions about how the array is *run* — the instrument of management-led restoration at A4–A5 (§1.4).
+
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-Standard dual-use productivity metric. Include with caution: LER captures production co-yield and handles S3 ground layers poorly, so it should not become the field's default success metric by inertia.
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles [S3](2-the-sharingsparing-axis.qmd#sec-positions) ground layers poorly and has no term for the [restorative functions](6-restorative-functions.qmd) or the [SCALE](#term-footprint-influence) domains beyond food and energy. Named here with its blind spots so it does not become the field's default success metric by inertia; the lexicon names candidate metrics, it does not endorse one (§7, issue 5).
+
+### Decommissioning / Repowering / Reversibility {#term-decommissioning}
+
+The end-of-life questions a 25–40-year asset raises: *decommissioning* (removing the array and restoring the ground), *repowering* (replacing modules to extend the site), and *reversibility* (how completely the prior land use can return). Foundation type, soil disturbance, and financial assurance (decommissioning bonds) set how reversible a project is; reversibility is often the crux of the farmland-protection argument, and a live candidate for an eighth pressure (§7, issue 4).
 
 ---

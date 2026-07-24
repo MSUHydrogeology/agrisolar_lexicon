@@ -48,9 +48,13 @@ under **S**.
 
 ## D
 
+**Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [Decommissioning / Repowering / Reversibility](4-general-terminology.qmd#term-decommissioning)
+
 **Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled — [3.3 Design levers](3-design-pressures.qmd#sec-levers)
 
 **Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates — [3. Design Pressures](3-design-pressures.qmd)
+
+**Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [Dual Use](4-general-terminology.qmd#term-dual-use)
 
 ## E
 
@@ -65,6 +69,8 @@ under **S**.
 ## G
 
 **Generation yield** — design pressure: maximize energy per unit land — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+
+**Ground Coverage Ratio (GCR)** — ratio of module area to ground area; the array's density; the number behind the row-geometry ↔ ground-layer coupling — [Ground Coverage Ratio (GCR)](4-general-terminology.qmd#term-gcr)
 
 **Ground Layer** — whatever occupies the surface beneath and between panels; primary carrier of restorative function — [Ground Layer](4-general-terminology.qmd#term-ground-layer)
 
@@ -81,6 +87,12 @@ under **S**.
 ## M
 
 **Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+
+**Marginal / Previously Disturbed Land** — the low-value ground that sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Marginal / Previously Disturbed Land](4-general-terminology.qmd#term-marginal-land)
+
+**Microclimate Modification** — the array's reshaping of the below-panel environment (shade, temperature, evaporative demand, soil moisture); a restorative function (§6.4) — [Microclimate Modification](4-general-terminology.qmd#term-microclimate)
+
+**Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [Module Technology](4-general-terminology.qmd#term-module-technology)
 
 ## O
 
@@ -129,5 +141,7 @@ under **S**.
 **Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
 ## T
+
+**Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [Tracking Schedule & Curtailment](4-general-terminology.qmd#term-tracking-curtailment)
 
 **Type** — following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances — [5. Archetypes](5-archetypes.qmd)
