@@ -1,13 +1,8 @@
----
-title: Home
-nav_order: 1
----
-
-# The Lexicon of Restorative Agroenergy Design
+# The Lexicon of Restorative Agroenergy Design {.unnumbered}
 
 ### A shared design language for agrisolar photovoltaic landscapes
 
-{: .label .label-yellow }
+
 Draft
 
 There is not yet an agrisolar design community. There are solar developers, agronomists,
@@ -25,27 +20,27 @@ locate their genuine disagreements.
 
 Three structural devices carry the document.
 
-**[The Scale Transect]({{ '/1-the-scale-transect/' | relative_url }})** — a single gradient from
+**[The Scale Transect](1-the-scale-transect.qmd)** — a single gradient from
 farmstead to regional that most other terms are read against. Scale determines what is physically,
 economically, and institutionally possible before design begins.
 
-**[The Sharing–Sparing Axis]({{ '/2-the-sharingsparing-axis/' | relative_url }})** — whether the
+**[The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)** — whether the
 array shares land with production or spares land by taking low-value ground out of it.
 
-**[Design Pressures]({{ '/3-design-pressures/' | relative_url }})** — the competing forces every
+**[Design Pressures](3-design-pressures.qmd)** — the competing forces every
 site must settle. This is where the document's normative energy lives, deliberately, because
 pressures are supposed to have direction.
 
 The four design templates in circulation are not the object of this lexicon. They are
-**[settlements]({{ '/5-settlements/' | relative_url }})** — ways the pressures have been resolved
+**[settlements](5-settlements.qmd)** — ways the pressures have been resolved
 at particular scales and sharing postures.
 
 In one line: three structural devices (scale, sharing–sparing, pressures) →
-**[general terminology]({{ '/4-general-terminology/' | relative_url }})** →
-**[settlements]({{ '/5-settlements/' | relative_url }})** →
-**[open issues]({{ '/6-open-issues/' | relative_url }})**.
+**[general terminology](4-general-terminology.qmd)** →
+**[settlements](5-settlements.qmd)** →
+**[open issues](6-open-issues.qmd)**.
 
-To look a term up directly, see the **[Index — Alphabetical]({{ '/index-alphabetical/' | relative_url }})**;
+To look a term up directly, see the **[Index — Alphabetical](index-alphabetical.qmd)**;
 the built-in search box at the top of every page complements it.
 
 ---
@@ -54,8 +49,8 @@ the built-in search box at the top of every page complements it.
 
 This is a working draft circulated for comment. Two things in particular are unresolved:
 
-- Several citations are **[not yet verified]({{ '/sources/' | relative_url }})** and are marked as such.
-- The **[open issues]({{ '/6-open-issues/' | relative_url }})** list records decisions the document
+- Several citations are **[not yet verified](sources.qmd)** and are marked as such.
+- The **[open issues](6-open-issues.qmd)** list records decisions the document
   has deliberately not made.
 
 Corrections, disagreements, and proposed terms are welcome as GitHub issues or pull requests.

@@ -1,9 +1,9 @@
 ---
-title: "Sources"
-nav_order: 9
+nocite: |
+  @*
 ---
 
-# Sources
+# Sources {#sec-sources}
 
 **Verification status as of July 2026.** Entries under *Verified* were checked against publisher records or indexed metadata. Entries under *Unverified — trace before citing* are real sources whose full citation has not been confirmed, gray literature (unrefereed reports, tools, fact sheets), or moving conventions — recorded here so the claim can be traced, but they should be handled with care before they appear in a proposal or publication.
 
@@ -57,3 +57,8 @@ nav_order: 9
 - **New Urbanism.** *The Lexicon of New Urbanism* (DPZ); SmartCode v9.2 and v10; Center for Applied Transect Studies; Form-Based Codes Institute; CNU. Form-based code rigidity critiques (Miami 21, Poundbury) are drawn from commentary rather than primary evaluation literature and should be strengthened.
 
 *A note on method, since this document argues for shared language: the first draft of this list contained two citation errors, both introduced by supplying author names from memory where a source gave only a title. Both were caught by checking. The habit is worth keeping.*
+
+## References {#refs}
+
+:::{#refs}
+:::

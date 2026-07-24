@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+book:
+  title: "The Lexicon of Restorative Agroenergy Design"
+  subtitle: "A shared design language for agrisolar photovoltaic landscapes"
+  author: "Anthony Kendall"
+  date: last-modified
+  site-url: "https://msuhydrogeology.github.io/agrisolar_lexicon/"
+  repo-url: "https://github.com/MSUHydrogeology/agrisolar_lexicon"
+  repo-actions: [edit, issue]
+  search: true
+  page-navigation: true
+  sidebar:
+    style: docked
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - 1-the-scale-transect.qmd
+    - 2-the-sharingsparing-axis.qmd
+    - 3-design-pressures.qmd
+    - 4-general-terminology.qmd
+    - 5-settlements.qmd
+    - 6-open-issues.qmd
+    - sources.qmd
+  appendices:
+    - index-alphabetical.qmd
+  downloads: [pdf]
+
+bibliography: references.bib
+
+# The lexicon carries its own section numbering (1, §1.4, S1–S4); keep Quarto's
+# auto-numbering off so it does not double up.
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    link-external-newwindow: true
+  pdf:
+    documentclass: scrreprt
+    pdf-engine: xelatex
+    number-sections: false
+    toc: true
+    toc-depth: 3

@@ -4,52 +4,44 @@ A shared design language for agrisolar photovoltaic landscapes.
 
 Published at <https://msuhydrogeology.github.io/agrisolar_lexicon/>
 
+Built with [Quarto](https://quarto.org) as a book, rendered to a browsable HTML site and a
+downloadable PDF from a single source.
+
 ## Publishing
 
-Create the repository at `MSUHydrogeology/agrisolar_lexicon`, **public**, with no README or
-license (these files supply both). Then from this directory:
+Deployment is automatic. The GitHub Action in `.github/workflows/publish.yml` renders the book
+(HTML + PDF) and deploys it to GitHub Pages on every push to `main`; pull requests are
+render-checked but not deployed.
+
+One-time repository setting: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+## Local preview
+
+Requires [Quarto](https://quarto.org/docs/get-started/) and `rsvg-convert` (from `librsvg`, for
+embedding the SVG figures in the PDF). PDF output additionally needs a LaTeX install
+(`quarto install tinytex`).
 
 ```bash
-git init -b main
-git add .
-git commit -m "Initial lexicon draft"
-git remote add origin https://github.com/MSUHydrogeology/agrisolar_lexicon.git
-git push -u origin main
-```
-
-Then **Settings → Pages** on the repo: set Source to *Deploy from a branch*, branch `main`,
-folder `/ (root)`, and Save. First build takes one to two minutes.
-
-No build workflow is required — the theme loads via `remote_theme`, which GitHub Pages supports
-natively.
-
-### If Pages does not appear in Settings
-
-Organization owners control this at **Organization settings → Member privileges → Pages
-creation**. If Pages is restricted, an owner needs to enable it or perform the step above.
-On GitHub Free, Pages requires the repository to be public.
-
-### Local preview (optional)
-
-```
-gem install bundler jekyll
-bundle init && bundle add jekyll just-the-docs jekyll-remote-theme
-bundle exec jekyll serve
+quarto preview        # live-reloading local site
+quarto render         # build _site/ (HTML + PDF)
+quarto render --to html   # HTML only (no LaTeX needed)
 ```
 
 ## Structure
 
 | Path | Contents |
 |---|---|
-| `index.md` | Landing page |
-| `preface.md` … `sources.md` | Document sections, one page each |
+| `index.qmd` | Landing page |
+| `preface.qmd` … `sources.qmd` | Document chapters, one page each |
+| `index-alphabetical.qmd` | Alphabetical index of defined terms (appendix) |
 | `figures/` | Standalone SVG figures, reusable independently |
-| `_config.yml` | Site and theme configuration |
+| `references.bib` | Bibliography; cited inline with `@key`, formatted in the Sources chapter |
+| `_quarto.yml` | Book, format (HTML + PDF), and cross-reference configuration |
 
-Figures are referenced with `relative_url` so they resolve correctly under the
-`/agrisolar_lexicon` baseurl. Do not change `baseurl` unless the repository is renamed — plain
-relative image paths break silently on project sites, resolving against the page URL rather than
-the site root.
+Cross-references between chapters use Quarto syntax: `@fig-transect` for figures and
+`[text](file.qmd#sec-id)` for sections, with explicit `{#sec-…}` / `{#term-…}` heading ids so the
+links stay stable. Sources are cited inline as `@key` against `references.bib`; the Sources chapter
+keeps the curated, annotated Verified / Unverified lists alongside the generated reference list.
 
 ## Contributing
 

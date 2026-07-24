@@ -1,9 +1,4 @@
----
-title: "6. Open Issues"
-nav_order: 8
----
-
-# 6. Open Issues
+# 6. Open Issues {#sec-open-issues}
 
 1. **Zone count and calibration.** Five zones or four? The A4/A5 split rests on interconnection posture and grazing logistics — test against real projects before committing.
 2. **Siting latitude — monotonic or peaked?** Does latitude decline steadily from A1, or peak at A2–A3 because the A1 parcel boundary binds harder than the array size? The answer determines whether opportunistic placement counts as latitude. See §1.4.
@@ -11,6 +6,6 @@ nav_order: 8
 4. **Pressure set completeness.** Seven pressures. Is there a missing one — decommissioning and reversibility? Water rights? Labor availability?
 5. **Whether the lexicon takes a metrics position.** Staying descriptive is safer and matches Lesson 4; but a community with no shared success metric may not cohere. Possible middle path: name the candidate metrics and their blind spots without endorsing.
 6. **Matrix layer (future §7).** Levers × Scale Zones, marking viable combinations — the closest analog to New Urbanism's Urban Standards. Defer until terms stabilize.
-7. **Alphabetical index.** *Addressed.* An [alphabetical index]({{ '/index-alphabetical/' | relative_url }}) of every defined term now exists, backed by a maintainable term list in `_data/terms.yml`. A fuller taxonomy index — terms grouped by structural device rather than by letter — remains partial and would follow the matrix layer (#6) once terms stabilize.
+7. **Alphabetical index.** *Addressed.* An [alphabetical index](index-alphabetical.qmd) of every defined term now exists, backed by a maintainable term list in `_data/terms.yml`. A fuller taxonomy index — terms grouped by structural device rather than by letter — remains partial and would follow the matrix layer (#6) once terms stabilize.
 
 ---

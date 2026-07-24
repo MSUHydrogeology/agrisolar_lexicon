@@ -1,0 +1,7 @@
+/_site/
+/.quarto/
+/_freeze/
+*_files/
+.DS_Store
+
+**/*.quarto_ipynb

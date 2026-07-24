@@ -1,9 +1,4 @@
----
-title: "Preface"
-nav_order: 2
----
-
-# Preface: What this document is for
+# Preface: What this document is for {#sec-preface .unnumbered}
 
 There is not yet an agrisolar design community. There are solar developers, agronomists, conservation biologists, hydrologists, extension agents, county planners, and farmers who each hold part of the problem and have no common vocabulary for the whole of it. A shared language is not a convenience for such a community — it is a precondition for one. Until the words are settled, practitioners cannot tell whether they actually disagree or are merely using terms differently, and the field burns its energy on definitional friction instead of design.
 
@@ -15,7 +10,7 @@ This lexicon is therefore descriptive, not prescriptive. It aims to let two peop
 2. **The Sharing–Sparing Axis** — whether the array shares land with production or spares land by taking low-value ground out of it. Conceptually independent of scale, though not fully free of it (see §2.2).
 3. **Design Pressures** — the competing forces every site must settle. This is where the document's normative energy lives, deliberately, because pressures are supposed to have direction.
 
-Four figures carry the argument: the transect (Fig. 1), the mode shift across it (Fig. 2), the feasible region formed with the sharing–sparing axis (Fig. 3), and the pressures themselves (Fig. 4). Source SVGs are in `figures/` and may be reused independently.
+Four figures carry the argument: the transect (@fig-transect), the mode shift across it (@fig-siting), the feasible region formed with the sharing–sparing axis (@fig-wedge), and the pressures themselves (@fig-pressures). Source SVGs are in `figures/` and may be reused independently.
 
 The four design templates in circulation are not the object of this lexicon. They are **settlements** — four ways the pressures have been resolved, at particular scales and sharing postures. Naming the forces is what lets a fifth, sixth, and twentieth settlement be described in the same language.
 
