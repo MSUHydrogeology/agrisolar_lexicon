@@ -36,6 +36,8 @@ The practical readings:
 - **S1 at A5 is rare for a different reason** — the clearance and row geometry that full sharing requires are hard to reconcile with utility-scale capital discipline.
 - **The middle of the transect is the widest part of the space.** A3 is where all four sharing positions remain genuinely open, which is one reason mid-scale sites are disproportionately interesting as design exemplars.
 
+**S1's appeal is not uniform across regions.** In-footprint crop benefit is strongly climate- and crop-conditional — pronounced in water-limited, high-radiation settings and for shade-tolerant crops (Barron-Gafford et al. 2019), but mixed to net-negative for staple grains and in temperate or humid settings where shade costs yield without a compensating water saving (Weselek et al. 2019). Full sharing is therefore not a uniformly attractive option across the transect.
+
 This makes the framework mildly predictive rather than merely descriptive, and it is falsifiable — a documented S4 project at A5 would be a real counterexample worth examining.
 
 **It also gives the definitional dispute a home.** American Farmland Trust's position — that dual use requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — is structurally a mandate for S1–S2. Critics argue this marginalizes ecovoltaics by excluding pollinator habitat at S3. Putting both on a named axis lets the lexicon describe the disagreement precisely without adjudicating it. *(See §4, Agrivoltaics / Ecovoltaics.)*

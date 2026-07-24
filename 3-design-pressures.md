@@ -51,6 +51,6 @@ The degrees of freedom through which pressures get settled. Modular and separate
 
 *Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime.
 
-**Coupling note.** Row geometry and ground-layer composition are a single coupled choice, not two. Crops sort into shade-sensitive, shade-neutral, and shade-tolerant classes — maize, wheat, and many horticultural crops sensitive; leafy vegetables and many grasses tolerant — so light environment and planting selection must be decided together.
+**Coupling note.** Row geometry and ground-layer composition are a single coupled choice, not two. Crops sort into shade-sensitive, shade-neutral, and shade-tolerant classes — C4 and grain or fruiting crops (maize, wheat, many fruiting vegetables) sensitive; leafy and root horticultural crops (lettuce, spinach, chard, potato) and many forage grasses tolerant, some benefiting under moderate shade — so light environment and planting selection must be decided together.
 
 ---

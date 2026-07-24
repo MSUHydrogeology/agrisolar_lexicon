@@ -15,7 +15,7 @@ A2, occasionally A3 · **S1** · *structure-led*
 
 **Grazed Habitat Array**
 A4–A5 · **S2–S3** · *management-led*
-*Dominant pressures:* generation yield, operational simplicity — grazing wins substantially as vegetation-management cost avoidance, with restorative benefit following.
+*Dominant pressures:* generation yield, operational simplicity — grazing approaches cost parity with mowing rather than beating it outright, its vegetation-management advantage back-loaded to the mature-project years once the establishment invoices are behind, with restorative benefit following.
 *Yielded:* agricultural continuity in the strong sense (grazing is a service contract, not the farm's own operation).
 *Signature levers:* contract-enterprise management regime, rotation logistics, fence-gate topology, water access.
 

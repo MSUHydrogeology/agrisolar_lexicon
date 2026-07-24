@@ -21,6 +21,10 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 - Community interface (neighbors → township → regional stakeholder process)
 - **Siting latitude** (opportunistic → strategic → constrained by land assembly and grid topology)
 
+**The physics scales too.** The transect is not only an institutional gradient; the agrivoltaic microclimate benefit is itself geometry- and scale-dependent. Soil-temperature reduction and moisture retention are broadly consistent across systems, but air-temperature effects are variable and site-specific, and a meta-analysis of design tipping points (Zhang et al. 2025) reports a system-size threshold beyond which the net temperature effect reverses from cooling toward warming — evidence that scale changes the physical design problem, not just the ownership-and-permitting one.
+
+> *Needs verification.* The specific size threshold (~2 ha, taken here from secondary summaries of Zhang et al. 2025) has not been confirmed against the primary text and should be read there before it is quoted.
+
 ### 1.2 The Zones
 
 **A1–A5**, notation deliberately echoing T1–T6 so practitioners fluent in transect codes read it instantly.
@@ -43,13 +47,13 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 
 Take one ground-layer function — **sheep grazing** — across the zones. The literature shows it is not one practice:
 
-- **A1–A2:** the farmer's own flock. The array is a shade and forage-timing modification to an existing operation. Northeast stocking guidance runs roughly 1 sheep/acre on marginal land to 5 on improved pasture, averaging about 3.
+- **A1–A2:** the farmer's own flock. The array is a shade and forage-timing modification to an existing operation. Stocking here is a design variable to calibrate rather than a fixed rate — instantaneous **stocking density** (animals per unit area at a moment) and season-long **carrying capacity** (what the forage sustains over time) diverge with forage growth, utilization, and climate, so any single figure is a single-site, single-season result. Penn State Extension reports New York and Michigan experience converging on roughly 3 ewes/acre for mature ewes (Hartman 2026), while rotational trials on the Cornell array have tested densities from 4 to 20 sheep/acre.
 - **A3:** grazing becomes a contracted service. New York distributed solar (1–20 MW on 6–120 acres) is where vegetation-management contracts appear, paying roughly $300–500/acre/year. Design must now accommodate a party who does not live there.
 - **A4–A5:** grazing is a logistics enterprise. McCall et al. (2023) report median per-activity vegetation-management costs across 54 utility-scale sites: mowing ran about $113/acre/yr at sheep-grazing sites, $121 at native-vegetation sites, and $203 at turfgrass sites, while herbicide application was highest on gravel at $293/acre/yr. The design questions at this zone become flock rotation across non-contiguous parcels, water access, and fence-gate topology — none of which exist as design problems at A1.
 
 **The more important finding from the same study is a caution, not an endorsement.** While per-activity costs at native and pollinator-friendly ground covers were *lower* than at turfgrass, total combined vegetation O&M was slightly *higher*, because more separate activities are required through the first three to five years of establishment. Restorative ground cover is not cheaper from day one; it is more expensive during establishment and competitive afterward. Any argument for restorative practice that leads with cost savings should expect to meet an operator who has seen the establishment-phase invoices.
 
-> *Citation caution.* These figures circulate widely in secondary sources with the activity labels transposed — the mowing cost incurred *at* grazing sites is frequently reported as the cost *of* grazing, and per-acre figures are converted to per-hectare without relabeling. Practitioners quoting them should go to McCall et al. directly.
+> *Citation caution.* These figures circulate widely in secondary sources with the activity labels transposed — the mowing cost incurred *at* grazing sites is frequently reported as the cost *of* grazing, and per-acre figures are converted to per-hectare without relabeling. A concrete, good-faith instance: Stewart et al. (2025, *Small Ruminant Research*) report McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 that number is the median *mowing* cost at sheep-grazed sites — the grazing activity itself ran a median of about $50/acre/yr. The two readings coexist in the primary literature and the per-hectare conversion compounds the ambiguity; McCall's own Table 4 is the arbiter, so practitioners quoting these figures should go to McCall et al. directly.
 
 Same term. Three different design problems. That is the work the transect does.
 
