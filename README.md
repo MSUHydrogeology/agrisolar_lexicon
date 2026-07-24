@@ -1,4 +1,4 @@
-# The Lexicon of Restorative Agroenergy Design
+# The Lexicon of Restorative Agrisolar Design
 
 A shared design language for agrisolar photovoltaic landscapes.
 

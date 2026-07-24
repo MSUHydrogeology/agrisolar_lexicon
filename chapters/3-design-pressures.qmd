@@ -14,9 +14,9 @@
 
 **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation. Pulls toward wider rows, diverse ground cover, lifespan management, and operational choices made partly for the ground layer.
 
-**Social license** — secure and sustain community acceptance, and with it the community's active stake in the project. This pressure deliberately holds two forces in tension. *Acceptance* is defensive — avoiding the local veto — and pulls toward [screening](5-general-terminology.qmd#term-screening), farmer visibility, and genuine engagement in design. *Community benefit* is positive-sum — tax revenue, [community-benefit agreements](5-general-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscription, local hiring, co-ownership — which a restorative framing treats as a co-equal aim, not a nicety. The two are dissociable: benefit offered without procedural fairness reads as a bribe and does not reliably buy acceptance, so the pressure is not discharged by writing a check. They are kept under one name because they have to be advanced together.
+**Social license** — secure and sustain community acceptance, and with it the community's active stake in the project. This pressure deliberately holds two forces in tension. *Acceptance* is defensive — avoiding the local veto — and pulls toward [screening](5-general-terminology.qmd#term-screening), farmer visibility, and genuine engagement in design. *Community benefit* is positive-sum — tax revenue, [community-benefit agreements](5-general-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscription, local hiring, co-ownership — which a restorative framing treats as a co-equal aim, not a nicety. The two can come apart: benefit offered without a fair process reads as a bribe and does not reliably buy acceptance, so the pressure is not discharged by writing a check. They are kept under one name because they have to be advanced together.
 
-**Offtake conformity** — satisfy the criteria of whoever is buying the power, the attributes, or the tax position. Pulls toward whatever the counterparty scores. This is the channel through which external parties impose pressures on a design.
+**Offtake conformity** — satisfy whoever is buying: the electricity, the renewable-energy credits, or the tax benefits. Pulls toward whatever the buyer scores. This is how outside parties push their requirements onto a design.
 
 **Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. It passes the pressure test — it has direction, it conflicts, and real parties advocate it: counties requiring [decommissioning](5-general-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the point.
 
@@ -24,7 +24,7 @@
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
-The lexicon's usefulness lies in making these legible rather than letting them surface as vague friction.
+The lexicon earns its keep by naming these conflicts plainly instead of letting them show up as vague friction.
 
 **Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/[ecovoltaics](5-general-terminology.qmd#term-ecovoltaics) dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
 
@@ -38,11 +38,11 @@ The lexicon's usefulness lies in making these legible rather than letting them s
 
 **Reversibility vs. restorative ambition.** The two restorative instincts can pull apart: deep-rooted perennial cover, rebuilt soil, and established habitat are exactly what a cleanly reversible project would avoid disturbing, yet they are what restoration builds. A project designed to vanish and one designed to heal the ground are not always the same project.
 
-**Social license vs. capital discipline.** Community benefit — PILOT and tax revenue, community-benefit agreements, good-neighbor payments, co-ownership — is real money, so it pulls against capital discipline. But because benefit without procedural fairness reads as a bribe, it cannot simply be bought: acceptance and benefit are dissociable, which is why this one is not settled at the checkbook.
+**Social license vs. capital discipline.** Community benefit — PILOT and tax revenue, community-benefit agreements, good-neighbor payments, co-ownership — is real money, so it pulls against capital discipline. But because benefit without procedural fairness reads as a bribe, it cannot simply be bought: acceptance and benefit can come apart, which is why this one is not settled at the checkbook.
 
 ### 3.3 Design levers {#sec-levers}
 
-The degrees of freedom through which pressures get settled. Modular and separately extensible.
+The adjustable choices a designer uses to settle the pressures. They come in separate groups you can extend one at a time.
 
 *Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · [pore-space](5-general-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
 
@@ -58,7 +58,7 @@ The degrees of freedom through which pressures get settled. Modular and separate
 
 The levers are not equally available at every scale. Some are live degrees of freedom for a farmstead and all but fixed for a utility project; others barely exist until a project is large enough to have a jurisdiction and an interconnection queue. The matrix below transposes the [zone bundle](1-the-scale-transect.qmd#sec-zones) (§1.2) onto the levers: read **down a column** for the degrees of freedom a designer actually holds at that zone, and **across a row** for how one lever's character migrates along the transect.
 
-**Descriptive, not a standard.** This is the lexicon's nearest analog to New Urbanism's transect-by-standards matrix — but where those set *required* values by zone, this one only records what is *typical and available*. No cell prescribes a clearance, a seed mix, or an ownership model; each names the character a lever tends to take and how much latitude remains. It is a map of where the design freedom lives, not a code.
+**Descriptive, not a standard.** Unlike a code that sets *required* values by zone, this matrix only records what is *typical and available*. No cell prescribes a clearance, a seed mix, or an ownership model; each names the character a lever tends to take and how much latitude remains. It is a map of where the design freedom lives, not a code.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
@@ -78,7 +78,7 @@ The levers are not equally available at every scale. Some are live degrees of fr
 
 : Design levers across the scale transect — the character and latitude each lever tends to take at each zone. Descriptive of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
 
-**The through-line.** Reading left to right, the live latitude migrates. At the small end the **structural** levers are a designer's real freedom — clearance, row geometry, even module technology can be tuned to a crop. Through the middle (A2–A3) **siting latitude** peaks: the choice of *which ground* is the most powerful restorative lever available, which is why [siting-led restoration](1-the-scale-transect.qmd#sec-siting-latitude) belongs here (§1.4). At the large end the structural and siting choices harden into commodity procurement and land assembly, and the **management and institutional** levers — the ground-cover regime, the community-benefit structure — carry whatever restoration the project will deliver. The matrix is the [restoration-mode shift](1-the-scale-transect.qmd#sec-siting-latitude) seen lever by lever: structure- and siting-led at small and middle scale, management-led at large scale.
+**The through-line.** Reading left to right, the real freedom shifts. At the small end the **structural** levers are a designer's real freedom — clearance, row geometry, even module technology can be tuned to a crop. Through the middle (A2–A3) **siting latitude** peaks: the choice of *which ground* is the most powerful restorative lever available, which is why [siting-led restoration](1-the-scale-transect.qmd#sec-siting-latitude) belongs here (§1.4). At the large end the structural and siting choices harden into standardized bulk buying and land assembly, and the **management and institutional** levers — the ground-cover regime, the community-benefit structure — carry whatever restoration the project will deliver. The matrix is the [restoration-mode shift](1-the-scale-transect.qmd#sec-siting-latitude) seen lever by lever: structure- and siting-led at small and middle scale, management-led at large scale.
 
 **What it is not.** The institutional rows (ownership, offtake, community benefit) largely restate the covarying bundle already given by the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2); they are here so the three lever families stay whole, not as new claims. The work the matrix does is in the structural and land rows — the ones the zone table does not carry — and in reading all of them as *latitude* rather than as fixed attributes of a zone.
 
@@ -93,14 +93,14 @@ Terms this section introduces (defined above; this is their collection point):
 - **Operational simplicity** — minimize management burden across a 25–40 year asset life.
 - **Agricultural continuity** — keep working land working.
 - **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation.
-- **Social license** — secure and sustain community acceptance *and* community benefit: two dissociable forces held in one pressure.
+- **Social license** — secure and sustain community acceptance *and* community benefit: two forces that can come apart, held in one pressure.
 - **Offtake conformity** — satisfy whoever buys the power, attributes, or tax position; the channel through which external parties impose pressures on a design.
 - **Decommissioning & reversibility** — minimize residual footprint; preserve the option to return the ground.
 
 **Pressure conflict** — the framing that treats these disputes (e.g. agricultural continuity vs. restorative ambition; operational simplicity vs. everything) as legitimate forces in genuine tension rather than definitional errors.
 
-**Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled; modular and separately extensible.
+**Design levers** — the adjustable choices — structural, land-and-ecology, institutional — a designer uses to settle the pressures; grouped so each family can be extended on its own.
 
-**Levers × Scale-Zones matrix** — the descriptive grid (§3.4, @tbl-lever-matrix) of how each lever's latitude and character shift across zones A1–A5; the lexicon's analog to New Urbanism's Urban Standards, recording what is typical and available rather than required.
+**Levers × Scale-Zones matrix** — the descriptive grid (§3.4, @tbl-lever-matrix) of how each lever's latitude and character shift across zones A1–A5, recording what is typical and available rather than required.
 
 ---

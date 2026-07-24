@@ -2,7 +2,7 @@
 
 ### 2.1 The positions {#sec-positions}
 
-The second dimension, orthogonal to [scale](1-the-scale-transect.qmd). Does the array **share** land with agricultural production, or **spare** land by occupying ground of low production value?
+The second dimension, independent of [scale](1-the-scale-transect.qmd). Does the array **share** land with agricultural production, or **spare** land by occupying ground of low production value?
 
 This borrows the land-sharing / land-sparing framing from conservation ecology, where the debate is authentically unsettled — which is precisely why it makes a good axis. It describes a real choice without ranking the options.
 
@@ -15,13 +15,13 @@ This borrows the land-sharing / land-sparing framing from conservation ecology, 
 
 *Some entries in the right column — pollinator habitat, native grassland — name [restorative functions](4-restorative-functions.qmd), not fixed positions. They are reachable across several positions (roughly S2–S4); §4 defines them as functions rather than pinning them to S3.*
 
-**Why this axis and not another.** It is structural rather than an outcome; it is non-evaluative; and it separates the four [archetypes](6-archetypes.qmd) cleanly where scale alone does not. The [ecovoltaic](5-general-terminology.qmd#term-ecovoltaics) literature already reaches for land-sharing language, so this connects to an existing conversation rather than coining a private one.
+**Why this axis and not another.** It describes how a site is built rather than judging how it turned out, it plays no favorites, and it tells the four [archetypes](6-archetypes.qmd) apart where scale alone can't. The [ecovoltaic](5-general-terminology.qmd#term-ecovoltaics) literature already reaches for land-sharing language, so this connects to an existing conversation rather than coining a private one.
 
 ### 2.2 The feasible region is a wedge, not a rectangle {#sec-wedge}
 
-The two dimensions are conceptually independent but not empirically free of one another, and the constraint runs through [siting latitude](1-the-scale-transect.qmd#sec-siting-latitude) (§1.4).
+In principle the two dimensions are independent, but in practice they aren't fully — and the constraint runs through [siting latitude](1-the-scale-transect.qmd#sec-siting-latitude) (§1.4).
 
-**Sparing requires the freedom to choose the ground.** S4 is only available to a designer who can select which acres to occupy. At A4–A5, where siting is governed by contiguous land assembly near a substation, that freedom is largely gone — a five-hundred-acre block will contain productive and marginal ground indiscriminately. Large projects are therefore pushed toward S2–S3 by structural necessity rather than preference: if you cannot choose *which* ground, your only remaining option is to do something worthwhile with *all* of it.
+**Sparing requires the freedom to choose the ground.** S4 is only available to a designer who can select which acres to occupy. At A4–A5, where siting is governed by contiguous land assembly near a substation, that freedom is largely gone — a five-hundred-acre block will contain good and poor ground all mixed together. Large projects are therefore pushed toward S2–S3 by structural necessity rather than preference: if you cannot choose *which* ground, your only remaining option is to do something worthwhile with *all* of it.
 
 Read the axis from its centre. The horizontal scale line crosses at the boundary between production and its absence — full and functional sharing (S1–S2) above it, substituted function and sparing (S3–S4) below. The feasible region is then not a rectangle but a **lens**: widest at A3 (Parcel) and closing toward that middle at both extremes of scale. It closes for different reasons at each end, and — crucially — neither end is a hard wall. Each thinned corner has a documented exception.
 
@@ -30,7 +30,7 @@ Read the axis from its centre. The horizontal scale line crosses at the boundary
 The practical readings:
 
 - **Grazing is the spine.** Functional sharing (S2) is the one position genuinely available at every scale — a farmer's own flock at A1, a contracted vegetation-management service at A3, a multi-site rotation enterprise at A5 (§1.3). Everything else is more scale-conditional, which is why the lens narrows around it at both ends.
-- **Both extremes converge on the middle.** At A5 the poles pinch because siting is governed by land assembly — sparing loses the freedom to choose its ground — and by capital discipline, against which full sharing's clearance and row geometry are hard to justify. At A1 they thin for a softer reason: no one cultivates *under* a two-panel array — they farm next to it — and a spared idle corner is real but too small to affect aggregate land use. What persists at both ends is the productive-ecological middle (S2–S3).
+- **Both extremes converge on the middle.** At A5 both ends narrow: siting is dictated by assembling contiguous land, so sparing loses the freedom to choose its ground, and tight budgets make full sharing's tall clearances and wide rows hard to justify. At A1 they narrow for a gentler reason: no one farms *under* a two-panel array — they farm next to it — and a spared idle corner is real but too small to affect overall land use. What persists at both ends is the productive-ecological middle (S2–S3).
 - **The thinned corners are not walls.** Each has an exception that reopens it. Utility-scale sparing returns on genuinely pre-disturbed land — reclaimed mine land, landfills, and brownfields ("brightfields"), uniformly low-value so sparing and scale coexist without cherry-picking acres. Utility-scale full sharing returns with vertical bifacial arrays, whose open inter-rows relax the clearance constraint [@vaverkova2026]. Small-scale in-footprint sharing returns where the structure is purpose-built to farm under — greenhouse photovoltaics. And small-scale sparing returns on rooftops: a barn roof spares ground completely, so its small footprint is the whole point rather than a limitation.
 - **A3 (Parcel) is the widest part of the space.** All four positions are genuinely open at mid-scale, which is one reason Parcel-scale sites are disproportionately interesting as design exemplars.
 
@@ -38,7 +38,7 @@ The practical readings:
 
 **S1's appeal is not uniform across regions.** In-footprint crop benefit is strongly climate- and crop-conditional — pronounced in water-limited, high-radiation settings and for shade-tolerant crops [@barrongafford2019], but mixed to net-negative for staple grains and in temperate or humid settings where shade costs yield without a compensating water saving [@weselek2019]. Full sharing is therefore not a uniformly attractive option across the transect.
 
-This makes the framework mildly predictive rather than merely descriptive, and it is falsifiable — a utility-scale sparing project assembled on ordinary farmland, rather than on the pre-disturbed land the exception allows, would be a real counterexample worth examining.
+This lets the framework predict a little, not just describe — and it can be proven wrong: a utility-scale sparing project on ordinary farmland, rather than the pre-disturbed land the exception allows, would be a real counterexample.
 
 **It also gives the definitional dispute a home.** American Farmland Trust's position — that [dual use](5-general-terminology.qmd#term-agrivoltaics) requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — is structurally a mandate for S1–S2. Critics argue this marginalizes ecovoltaics by excluding pollinator habitat at S3. Putting both on a named axis lets the lexicon describe the disagreement precisely without adjudicating it. *(See §5, Agrivoltaics / Ecovoltaics.)*
 
@@ -46,7 +46,7 @@ This makes the framework mildly predictive rather than merely descriptive, and i
 
 Terms this section introduces; cross-referenced terms link to their home section.
 
-- **Sharing–Sparing Axis** — the second, scale-orthogonal dimension: whether the array shares land with production or spares low-value ground from it. Defined here.
+- **Sharing–Sparing Axis** — the second, scale-independent dimension: whether the array shares land with production or spares low-value ground from it. Defined here.
 - **S1 — Full sharing** — production continues within the array footprint, in the same ground.
 - **S2 — Functional sharing** — ground layer is productive but subordinate to the array.
 - **S3 — Substituted function** — ground layer delivers ecological rather than agricultural function.

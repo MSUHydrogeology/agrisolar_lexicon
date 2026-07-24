@@ -2,9 +2,9 @@
 
 ### 1.1 Why scale, and why a transect rather than bins {#sec-transect-why}
 
-The New Urbanism Transect works because it is not one variable. It is a **bundle of covarying attributes** — density, frontage, thoroughfare character, landscape formality — moving together along one gradient, so naming a zone tells you many things at once.
+A transect works because it is not one variable. It is a **bundle of covarying attributes** — several features moving together along one gradient — so naming a zone tells you many things at once. (An ecological transect from shore to upland shifts soil, moisture, and vegetation all together in just this way.)
 
-Agroenergy scale behaves identically, and the literature confirms that capacity alone is a poor definition. Utility-scale solar is defined by its **role in the power system**, not by any universal threshold: SEIA puts the line above 1 MW, NREL uses 5 MW, and New York's permitting regime designates 25 MW+ as major renewable energy facilities. Community solar confounds it further, interconnecting in front of the meter at sizes exceeding distributed generation while still falling under net metering.
+Agroenergy scale behaves identically, and the literature confirms that capacity alone is a poor definition. Utility-scale solar is defined by its **role in the power system**, not by any universal threshold: SEIA puts the line above 1 MW, NREL uses 5 MW, and New York's permitting regime designates 25 MW+ as major renewable energy facilities. Community solar muddies the line further: it connects to the grid at fairly large sizes yet is still billed like small distributed systems.
 
 So the transect is defined by covarying bundles, with nameplate capacity as an **indicator, not a definition**. The attributes that move together:
 
@@ -22,7 +22,7 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 
 ### 1.2 The Zones {#sec-zones}
 
-**A1–A5**, notation deliberately echoing T1–T6 so practitioners fluent in transect codes read it instantly.
+**A1–A5** — five zones along the gradient:
 
 ::: {.zone-table}
 | Zone | Indicative capacity | Interconnection | Decision unit | Ground-layer management |
@@ -54,7 +54,7 @@ Same term. Three different design problems. That is the work the transect does.
 
 ### 1.4 Siting latitude and the restoration mode shift {#sec-siting-latitude}
 
-A further attribute deserves its own treatment, because it governs *which restorative levers are available at all*.
+One attribute needs its own section, because it decides *which restorative levers are even on the table*.
 
 **Siting latitude** is the designer's freedom over where the array goes. What governs that choice migrates as one climbs the transect:
 
@@ -62,11 +62,11 @@ A further attribute deserves its own treatment, because it governs *which restor
 |---|---|---|
 | **A1–A2** | Opportunistic — spare corners, awkward field ends, ground already idle | The operator |
 | **A3** | Strategic — consistently low-yielding ground, hydrologic features, buffer geometry | Developer and landowner in deliberate concert |
-| **A4–A5** | Land assembly — contiguous acreage, substation proximity, queue position; modified at the margins by prime-farmland rules, opposition mapping, and community targeting | The land market and grid topology, mediated by policy veto points |
+| **A4–A5** | Land assembly — contiguous acreage, substation proximity, queue position; shaped at the edges by prime-farmland rules, where opposition is likely, and which communities benefit | The land market and grid topology, mediated by policy veto points |
 
 This scale-dependence of *what governs siting* is a through-line of the agroenergy literature: at the farmstead, profit and opportunism; at the community scale, the distribution of benefit and the risk of opposition; at the regional scale, energy demand and grid topology; at the state and national scale, policy. The transect encodes that migration as a single gradient rather than four separate conversations.
 
-**The consequence: restoration changes mode rather than simply diminishing.** As siting latitude falls, the burden of delivering co-benefit shifts from *where the array is placed* to *how it is run*. Management leverage moves the opposite way — contract grazing, professional habitat establishment, and dedicated O&M are unavailable below a size threshold and routine above it. A forty-acre owner cannot profitably retain a contract grazier; a thousand-acre site can, and gets seeded establishment and monitoring besides.
+**The upshot: as sites get bigger, restoration doesn't fade — it changes how it's delivered.** As siting latitude falls, the way you deliver added benefit shifts from *where the array is placed* to *how it is run*. The management tools move the other way: contract grazing, professional habitat planting, and dedicated maintenance don't exist below a certain size and are routine above it. A forty-acre owner cannot profitably retain a contract grazier; a thousand-acre site can, and gets seeded establishment and monitoring besides.
 
 The two therefore cross somewhere between A3 and A4. This yields three restoration modes:
 
@@ -78,7 +78,7 @@ The two therefore cross somewhere between A3 and A4. This yields three restorati
 
 This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing, while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
 
-*Open question (see §7).* Whether siting latitude declines monotonically or peaks in the middle. The case for a peak: at A1 the binding constraint is the parcel boundary, so the operator has very little ground to choose among even though the array is small. Opportunistic placement is real but is not the same thing as strategic latitude, and the lexicon should decide which it means.
+*Open question (see §7).* Whether siting latitude falls steadily up the transect or peaks in the middle. The case for a peak: at A1 the binding constraint is the parcel boundary, so the operator has very little ground to choose among even though the array is small. Opportunistic placement is real but is not the same thing as strategic latitude, and the lexicon should decide which it means.
 
 ### Associated Terminology
 

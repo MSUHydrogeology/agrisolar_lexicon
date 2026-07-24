@@ -42,15 +42,13 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 ### Co-location vs. Integration {#term-colocation-integration}
 
- *Co-location*: panels and a land use share a parcel without functional interdependence. *Integration*: panel height set by livestock clearance, row spacing set by forage light requirements, tracking schedule set by photosynthetic timing. Integration is the threshold a design crosses to be restorative in more than name.
+ *Co-location*: panels and a land use share a parcel without functional interdependence. *Integration*: panel height set by livestock clearance, row spacing set by forage light requirements, tracking schedule set by photosynthetic timing. Integration is the line a design crosses to be genuinely restorative, not restorative in name only.
 
 ### Footprint vs. Influence Zone {#term-footprint-influence}
 
-*(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The solar-siting literature already splits *footprint* the same way — the **array/direct footprint** (panels and racking) versus the **facility/fenceline footprint** (the whole permitted parcel) — and the ecovoltaic siting work gives the pairing teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
+**Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The solar-siting literature already splits *footprint* the same way — the **array/direct footprint** (panels and racking) versus the **facility/fenceline footprint** (the whole permitted parcel) — and the ecovoltaic siting research makes the distinction matter: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
 
 Its multi-domain accounting — across Sustainable Communities, Agriculture, Landscapes, and Energy — is the [SCALE footprint](4-restorative-functions.qmd#sec-scale), introduced with the restorative functions (§4).
-
-**Source:** after New Urbanism's Domain/Range — [Sources](sources.qmd).
 
 ### Screening {#term-screening}
 
@@ -58,7 +56,7 @@ The management of the array's outward visual presence: perimeter setbacks, veget
 
 ### Community Benefit {#term-community-benefit}
 
-The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. Distinct from acceptance: benefit and acceptance are *dissociable* — benefit without procedural fairness can read as a bribe — so the [social license](3-design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent. *(Analogous to New Urbanism's standalone* Social Equity *term.)*
+The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. Distinct from acceptance: benefit and acceptance can come apart — benefit without a fair process can read as a bribe — so the [social license](3-design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent.
 
 ### Ground Layer {#term-ground-layer}
 
@@ -76,7 +74,7 @@ The array's reshaping of the below- and between-panel environment: shade lowers 
 
 ### Pore Space {#term-pore-space}
 
-*(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the design object that "panel height" and "row spacing" only describe indirectly, and frames it as habitat and working space rather than leftover clearance.
+*(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the thing that "panel height" and "row spacing" only hint at, and treats it as habitat and working room rather than leftover gap.
 
 **Source:** @toledo2021 — [Sources](sources.qmd). Toledo & Scognamiglio's "descriptive model towards a sustainable landscape vision" is a direct predecessor to this lexicon's own describe-the-landscape stance, reading array geometry through landscape-ecology's patch–matrix–corridor lens rather than as a yield problem alone.
 
@@ -94,7 +92,7 @@ Two operational-regime levers (§3.3). *Tracking schedule* — how a single- or 
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles [S3](2-the-sharingsparing-axis.qmd#sec-positions) ground layers poorly and has no term for the [restorative functions](4-restorative-functions.qmd) or the [SCALE](#term-footprint-influence) domains beyond food and energy. Named here with its blind spots so it does not become the field's default success metric by inertia; the lexicon names candidate metrics, it does not endorse one (§7, issue 5).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles [S3](2-the-sharingsparing-axis.qmd#sec-positions) ground layers poorly and has no term for the [restorative functions](4-restorative-functions.qmd) or the [SCALE](#term-footprint-influence) domains beyond food and energy. Named here with its blind spots so the field doesn't drift into treating it as the measure of success by default; the lexicon names candidate metrics, it does not endorse one (§7, issue 5).
 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 

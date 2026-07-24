@@ -1,4 +1,4 @@
-# The Lexicon of Restorative Agroenergy Design {.unnumbered}
+# The Lexicon of Restorative Agrisolar Design {.unnumbered}
 
 ### A shared design language for agrisolar photovoltaic landscapes
 
@@ -28,8 +28,7 @@ economically, and institutionally possible before design begins.
 array shares land with production or spares land by taking low-value ground out of it.
 
 **[Design Pressures](chapters/3-design-pressures.qmd)** — the competing forces every
-site must settle. This is where the document's normative energy lives, deliberately, because
-pressures are supposed to have direction.
+site must settle. This is where the document takes sides, on purpose — pressures are meant to pull in a direction.
 
 The four design templates in circulation are not the object of this lexicon. They are
 **[archetypes](chapters/6-archetypes.qmd)** — ways the pressures have been resolved

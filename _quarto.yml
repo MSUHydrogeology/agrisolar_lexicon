@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 book:
-  title: "The Lexicon of Restorative Agroenergy Design"
+  title: "The Lexicon of Restorative Agrisolar Design"
   subtitle: "A shared design language for agrisolar photovoltaic landscapes"
   author: "Anthony Kendall"
   date: last-modified

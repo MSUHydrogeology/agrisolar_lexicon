@@ -90,7 +90,7 @@ under **S**.
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles S3 ground layers poorly — [Land Equivalent Ratio (LER)](5-general-terminology.qmd#term-ler)
 
-**Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5; the lexicon's analog to New Urbanism's Urban Standards — [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
+**Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5 — [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
 
 ## M
 
@@ -142,7 +142,7 @@ under **S**.
 
 **Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Social license** — design pressure: secure and sustain community acceptance *and* community benefit — two dissociable forces held in one pressure — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Social license** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
 **Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [1.3 Why the transect earns its place](1-the-scale-transect.qmd#sec-grazing)
 
@@ -151,5 +151,3 @@ under **S**.
 ## T
 
 **Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [Tracking Schedule & Curtailment](5-general-terminology.qmd#term-tracking-curtailment)
-
-**Type** — following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances — [6. Archetypes](6-archetypes.qmd)
