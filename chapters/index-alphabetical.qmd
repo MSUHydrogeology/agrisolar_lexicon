@@ -90,6 +90,8 @@ under **S**.
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles S3 ground layers poorly — [Land Equivalent Ratio (LER)](5-general-terminology.qmd#term-ler)
 
+**Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5; the lexicon's analog to New Urbanism's Urban Standards — [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
+
 ## M
 
 **Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)

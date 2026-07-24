@@ -54,6 +54,34 @@ The degrees of freedom through which pressures get settled. Modular and separate
 
 **Coupling note (screening).** Edge and perimeter treatment is two choices at once, in the same way: a vegetative screen is simultaneously a social-license move and a habitat/connectivity choice acting on the visual edge of the [influence zone](5-general-terminology.qmd#term-footprint-influence). It is therefore pulled by both social license and restorative ambition, while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows.
 
+### 3.4 Levers across the transect {#sec-lever-matrix}
+
+The levers are not equally available at every scale. Some are live degrees of freedom for a farmstead and all but fixed for a utility project; others barely exist until a project is large enough to have a jurisdiction and an interconnection queue. The matrix below transposes the [zone bundle](1-the-scale-transect.qmd#sec-zones) (§1.2) onto the levers: read **down a column** for the degrees of freedom a designer actually holds at that zone, and **across a row** for how one lever's character migrates along the transect.
+
+**Descriptive, not a standard.** This is the lexicon's nearest analog to New Urbanism's transect-by-standards matrix — but where those set *required* values by zone, this one only records what is *typical and available*. No cell prescribes a clearance, a seed mix, or an ownership model; each names the character a lever tends to take and how much latitude remains. It is a map of where the design freedom lives, not a code.
+
+| Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
+|:--|:--|:--|:--|:--|:--|
+| ***Dominant [restoration mode](1-the-scale-transect.qmd#sec-siting-latitude)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
+| **Structural** | | | | | |
+| Mounting & clearance | ad hoc | crop-driven | tunable | standardized | commodity |
+| Row geometry / GCR | set by footprint | crop- / machine-set | live tradeoff | cost-optimized | cost-set, minimal pore space |
+| Module technology | off-the-shelf or bespoke | bespoke viable | some specialty | commodity | commodity only |
+| **Land & ecology** | | | | | |
+| Placement — siting latitude | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
+| Ground layer & management | hand-tended | farmer-managed | purpose-built | contract-enterprise | ranch-scale contract |
+| Edge & screening | minimal, neighborly | setbacks appear | a social-license lever | major buffer element | screening + siting both |
+| **Institutional** | | | | | |
+| Ownership & control | owner-operator | landowner (± one lease) | multi-party / community-solar | developer capital | utility / IPP |
+| Offtake & interconnection | behind-the-meter | distribution edge | distribution / community | sub-transmission; developer PPA | transmission / wholesale |
+| Community-benefit structure | the household | good-neighbor scale | CBA / PILOT / subscription | PILOT + CBA customary | jurisdiction-scale |
+
+: Design levers across the scale transect — the character and latitude each lever tends to take at each zone. Descriptive of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
+
+**The through-line.** Reading left to right, the live latitude migrates. At the small end the **structural** levers are a designer's real freedom — clearance, row geometry, even module technology can be tuned to a crop. Through the middle (A2–A3) **siting latitude** peaks: the choice of *which ground* is the most powerful restorative lever available, which is why [siting-led restoration](1-the-scale-transect.qmd#sec-siting-latitude) belongs here (§1.4). At the large end the structural and siting choices harden into commodity procurement and land assembly, and the **management and institutional** levers — the ground-cover regime, the community-benefit structure — carry whatever restoration the project will deliver. The matrix is the [restoration-mode shift](1-the-scale-transect.qmd#sec-siting-latitude) seen lever by lever: structure- and siting-led at small and middle scale, management-led at large scale.
+
+**What it is not.** The institutional rows (ownership, offtake, community benefit) largely restate the covarying bundle already given by the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2); they are here so the three lever families stay whole, not as new claims. The work the matrix does is in the structural and land rows — the ones the zone table does not carry — and in reading all of them as *latitude* rather than as fixed attributes of a zone.
+
 ### Associated Terminology
 
 Terms this section introduces (defined above; this is their collection point):
@@ -72,5 +100,7 @@ Terms this section introduces (defined above; this is their collection point):
 **Pressure conflict** — the framing that treats these disputes (e.g. agricultural continuity vs. restorative ambition; operational simplicity vs. everything) as legitimate forces in genuine tension rather than definitional errors.
 
 **Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled; modular and separately extensible.
+
+**Levers × Scale-Zones matrix** — the descriptive grid (§3.4, @tbl-lever-matrix) of how each lever's latitude and character shift across zones A1–A5; the lexicon's analog to New Urbanism's Urban Standards, recording what is typical and available rather than required.
 
 ---
