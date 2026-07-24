@@ -2,7 +2,9 @@
 
 The recurring resolutions — combinations of competing pressures settled at a particular scale zone and sharing position that keep reappearing across real projects. Archetypes are the **structure register**: what the two axes (scale × sharing–sparing) produce, paired with the [restorative functions](4-restorative-functions.qmd) that overlay them. We use *archetype* in its plain sense — a characteristic, recurring, transformable pattern, not an exhaustive set. (In New Urbanism's *Archetype → Prototype → Type → Stereotype* ladder these sit at the **Type** rung; we keep *archetype* as the register's plain-language label.)
 
-Each archetype below states its *dominant* and *yielded* pressures; read across the [SCALE domains](4-restorative-functions.qmd#sec-fn-archetypes) (§4.5), those trade-offs become a characteristic footprint that distinguishes one archetype from another.
+**Overhead and interspace — the structural typology underneath.** The field's engineering standards (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy) sort agrivoltaic hardware into **overhead** systems — modules elevated *above* the working surface, the Overstory Agrivoltaic case — and **interspace** systems — modules mounted low with the crop or cover *between* the rows, the Vertical-Bifacial and grazed cases. That typology classifies the *structure*; the archetypes here classify the *resolution of pressures*. The two registers are complementary, not rival: one structural class can appear in several archetypes, and one archetype can be built in more than one class.
+
+Each archetype below states its *dominant* and *yielded* pressures; read across the [SCALE domains](4-restorative-functions.qmd#sec-fn-archetypes) (§4.6), those trade-offs become a characteristic footprint that distinguishes one archetype from another.
 
 **Overstory Agrivoltaic** *(vineyard, orchard)*
 [A2](1-the-scale-transect.qmd#sec-zones), occasionally [A3](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*

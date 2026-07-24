@@ -24,13 +24,13 @@ under **S**.
 
 **Agricultural continuity** — design pressure: keep working land working — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Agrisolar** — agroenergy specific to photovoltaics; this lexicon's primary term of art, neutral across the sharing–sparing axis — [Agrisolar](5-general-terminology.qmd#term-agrisolar)
+**Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the sharing–sparing axis — [Agrisolar](5-general-terminology.qmd#term-agrisolar)
 
 **Agrivoltaics** — crop or livestock production within the array footprint (S1–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [Agrivoltaics](5-general-terminology.qmd#term-agrivoltaics)
 
 **Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [Agroenergy](5-general-terminology.qmd#term-agroenergy)
 
-**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [5. Archetypes](6-archetypes.qmd)
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [6. Archetypes](6-archetypes.qmd)
 
 ## C
 
@@ -39,6 +39,8 @@ under **S**.
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [1.3 Why the transect earns its place](1-the-scale-transect.qmd#sec-grazing)
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Co-location vs. Integration](5-general-terminology.qmd#term-colocation-integration)
+
+**Community & economic function** — the socioeconomic restorative function: economic prosperity, livability, and health & equity built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [4.5 Community & economic function](4-restorative-functions.qmd#sec-fn-community)
 
 **Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [Community Benefit](5-general-terminology.qmd#term-community-benefit)
 
@@ -74,7 +76,7 @@ under **S**.
 
 **Ground Coverage Ratio (GCR)** — ratio of module area to ground area; the array's density; the number behind the row-geometry ↔ ground-layer coupling — [Ground Coverage Ratio (GCR)](5-general-terminology.qmd#term-gcr)
 
-**Ground Layer** — whatever occupies the surface beneath and between panels; primary carrier of restorative function — [Ground Layer](5-general-terminology.qmd#term-ground-layer)
+**Ground Layer** — whatever occupies the surface beneath and between panels; primary carrier of restorative function; *syn.* understory, ground cover — [Ground Layer](5-general-terminology.qmd#term-ground-layer)
 
 ## I
 
@@ -114,7 +116,7 @@ under **S**.
 
 **Restorative ambition** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Restorative function** — a restorative capacity of the land (hydrologic, soil & carbon, biodiversity & habitat, microclimate) reachable across many structural positions; a column of the archetype × function matrix — [6. Restorative Functions](4-restorative-functions.qmd)
+**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one socioeconomic (community & economic) — [4. Restorative Functions](4-restorative-functions.qmd)
 
 ## S
 
@@ -136,7 +138,7 @@ under **S**.
 
 **Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Social license** — design pressure: secure and sustain community acceptance — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Social license** — design pressure: secure and sustain community acceptance *and* community benefit — two dissociable forces held in one pressure — [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
 **Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [1.3 Why the transect earns its place](1-the-scale-transect.qmd#sec-grazing)
 
@@ -146,4 +148,4 @@ under **S**.
 
 **Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [Tracking Schedule & Curtailment](5-general-terminology.qmd#term-tracking-curtailment)
 
-**Type** — following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances — [5. Archetypes](6-archetypes.qmd)
+**Type** — following New Urbanism's Archetype → Prototype → Type → Stereotype progression, the archetypes are Types: real, transformable instances — [6. Archetypes](6-archetypes.qmd)

@@ -4,9 +4,11 @@
 
 Energy infrastructure sited and designed to interact intentionally with agricultural or ecological land function. Umbrella term, not solar-specific.
 
+*Term collision, flagged deliberately.* Elsewhere "agroenergy" (and *agro-energy*) most often means agriculture-*derived* **bioenergy** — energy crops, crop residue, biogas, biomass — i.e. farmland as a fuel source. This lexicon repurposes the word for the converse: energy *infrastructure* placed on and integrated with agricultural land. The reuse is intentional but worth naming, so a reader arriving from the bioenergy literature is not misled.
+
 ### Agrisolar {#term-agrisolar}
 
-Agroenergy specific to photovoltaics. *This lexicon's primary term of art*, because it is neutral across the sharing–sparing axis.
+Agroenergy specific to photovoltaics — the lexicon's working umbrella, because it is neutral across the [sharing–sparing axis](2-the-sharingsparing-axis.qmd). The word is already in active use — NCAT's DOE-funded **AgriSolar Clearinghouse** promotes it for solar co-located with agriculture, and this lexicon draws case material from that body of work. Where the lexicon differs is in **broadening** the term past agricultural co-location: as used here *agrisolar* also covers the ecological and spared-land positions (S3–S4) that have no farming in the footprint, so the word names the whole design space rather than only its production end.
 
 ### Agrivoltaics {#term-agrivoltaics}
 
@@ -40,7 +42,7 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 ### Footprint vs. Influence Zone {#term-footprint-influence}
 
-*(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The ecovoltaic siting literature gives this teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
+*(paired, after New Urbanism's Domain/Range)* — **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The solar-siting literature already splits *footprint* the same way — the **array/direct footprint** (panels and racking) versus the **facility/fenceline footprint** (the whole permitted parcel) — and the ecovoltaic siting work gives the pairing teeth: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
 
 Its multi-domain accounting — across Sustainable Communities, Agriculture, Landscapes, and Energy — is the [SCALE footprint](4-restorative-functions.qmd#sec-scale), introduced with the restorative functions (§4).
 
@@ -56,7 +58,9 @@ The instruments through which a project returns value to its host community: com
 
 ### Ground Layer {#term-ground-layer}
 
-Whatever occupies the surface beneath and between panels. Primary carrier of restorative function.
+Whatever occupies the surface beneath and between panels. Primary carrier of restorative function. The solar and agronomic literatures also call this the **understory** or the **ground cover** / **vegetation layer**; "ground layer" is used here because it stays neutral about whether that surface is planted, grazed, gravelled, or bare.
+
+**Syn.:** understory; ground cover; vegetation layer.
 
 ### Marginal / Previously Disturbed Land {#term-marginal-land}
 
@@ -70,7 +74,7 @@ The array's reshaping of the below- and between-panel environment: shade lowers 
 
 *(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the design object that "panel height" and "row spacing" only describe indirectly, and frames it as habitat and working space rather than leftover clearance.
 
-**Source:** @toledo2021 — [Sources](sources.qmd).
+**Source:** @toledo2021 — [Sources](sources.qmd). Toledo & Scognamiglio's "descriptive model towards a sustainable landscape vision" is a direct predecessor to this lexicon's own describe-the-landscape stance, reading array geometry through landscape-ecology's patch–matrix–corridor lens rather than as a yield problem alone.
 
 ### Ground Coverage Ratio (GCR) {#term-gcr}
 

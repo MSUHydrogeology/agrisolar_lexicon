@@ -67,7 +67,13 @@ nocite: |
 - **Buffer-Integrated Array — Ramsey Renewable Station** (Connexus Energy), Ramsey, MN. Fresh Energy case study and the DOE **PV-SMaRT** project (University of Minnesota stormwater modelling); the no-detention-basin result is from PV-SMaRT modelling of the site.
 - **Marginal-Land Diversification — Cozy Cove Farm**, Gurley, AL (50 kW / 208 panels, elevated ~7 ft, TVA offtake). NCAT AgriSolar Clearinghouse case study.
 
-*A note on method, since this document argues for shared language: the first draft of this list contained two citation errors, both introduced by supplying author names from memory where a source gave only a title. Both were caught by checking. The habit is worth keeping.*
+**Design typologies & program frameworks (§4–§6)** — standards and program literature acknowledged in the terminology; trace to the current edition before citing.
+- **DIN SPEC 91434 (2021).** *Agri-Photovoltaic Systems — Requirements for Primary Agricultural Use.* Beuth/DIN, Berlin. — source for the **overhead** (Category I, elevated) vs. **interspace** (Category II, ground-level between rows) structural typology in §6; a German technical specification, not a peer-reviewed source — verify category wording against the standard.
+- **Fraunhofer ISE.** *Agrivoltaics: Opportunities for Agriculture and the Energy Transition* (guideline). Freiburg. — widely-cited design guideline; edition/year moves (2020, updated) — confirm the edition before citing.
+- **NREL / DOE InSPIRE** (Innovative Site Preparation and Impact Reductions on the Environment). *Low-Impact Solar Development* resources and the agrivoltaics research library, openei.org / nrel.gov. — program source for the "low-impact solar development" framing (§4) and the configuration taxonomy; gray literature / program output.
+- **NCAT AgriSolar Clearinghouse** (agrisolar.org). DOE SETO-funded. — existing usage of "agrisolar" (§5) and the source of several §6 exemplar case studies; gray literature.
+- **US EPA RE-Powering America's Land** (epa.gov/re-powering). — federal program siting renewables on contaminated land, landfills, and mine sites; background for the marginal / brightfield land vocabulary (§5) and the Brightfield archetype (§6); gray literature.
+- **Ecosystem services — regulating & supporting.** The restorative-functions framing (§4) parallels the ecosystem-services categories of the Millennium Ecosystem Assessment (2005) and later national ecosystem assessments. Named for orientation, not cited for a specific figure; use a current assessment if a formal citation is needed.
 
 ## References {#refs}
 
