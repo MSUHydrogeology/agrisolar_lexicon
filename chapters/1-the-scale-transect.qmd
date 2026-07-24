@@ -32,7 +32,7 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 | **A4 — Landscape** | 10–50 MW | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
 | **A5 — Regional** | 50 MW+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
 
-![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient — which is what makes it a transect rather than a set of size bins.](figures/fig1_scale_transect.svg){#fig-transect}
+![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient — which is what makes it a transect rather than a set of size bins.](../figures/fig1_scale_transect.svg){#fig-transect}
 
 **Calibration note.** Capacity bands are indicative for the US Midwest and should be re-calibrated regionally. The zone is defined by the attribute bundle, not the megawatts.
 
@@ -70,7 +70,7 @@ The two therefore cross somewhere between A3 and A4. This yields three restorati
 - **Structure-led** — array geometry is the instrument: clearance, row spacing, module transmissivity.
 - **Management-led** — placement is a given; ground cover, grazing regime, and operational schedule carry everything.
 
-![Siting latitude and management leverage move in opposite directions and cross between A3 and A4. Restoration does not diminish with scale so much as change instrument.](figures/fig2_siting_latitude.svg){#fig-siting}
+![Siting latitude and management leverage move in opposite directions and cross between A3 and A4. Restoration does not diminish with scale so much as change instrument.](../figures/fig2_siting_latitude.svg){#fig-siting}
 
 This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing, while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
 

@@ -21,7 +21,7 @@ The two dimensions are conceptually independent but not empirically free of one 
 
 **Sparing requires the freedom to choose the ground.** S4 is only available to a designer who can select which acres to occupy. At A4–A5, where siting is governed by contiguous land assembly near a substation, that freedom is largely gone — a five-hundred-acre block will contain productive and marginal ground indiscriminately. Large projects are therefore pushed toward S2–S3 by structural necessity rather than preference: if you cannot choose *which* ground, your only remaining option is to do something worthwhile with *all* of it.
 
-![The feasible region across both dimensions. All four sharing positions stay open through A3; the space narrows toward A5, where land assembly governs siting and sparing becomes largely unavailable.](figures/fig3_feasible_wedge.svg){#fig-wedge}
+![The feasible region across both dimensions. All four sharing positions stay open through A3; the space narrows toward A5, where land assembly governs siting and sparing becomes largely unavailable.](../figures/fig3_feasible_wedge.svg){#fig-wedge}
 
 The practical readings:
 

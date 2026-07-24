@@ -18,7 +18,7 @@
 
 **Offtake conformity** — satisfy the criteria of whoever is buying the power, the attributes, or the tax position. Pulls toward whatever the counterparty scores. This is the channel through which external parties impose pressures on a design.
 
-![Seven competing forces resolving into one site design. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](figures/fig4_design_pressures.svg){#fig-pressures}
+![Seven competing forces resolving into one site design. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](../figures/fig4_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 

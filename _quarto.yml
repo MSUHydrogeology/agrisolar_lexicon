@@ -19,16 +19,16 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - preface.qmd
-    - 1-the-scale-transect.qmd
-    - 2-the-sharingsparing-axis.qmd
-    - 3-design-pressures.qmd
-    - 4-general-terminology.qmd
-    - 5-settlements.qmd
-    - 6-open-issues.qmd
-    - sources.qmd
+    - chapters/preface.qmd
+    - chapters/1-the-scale-transect.qmd
+    - chapters/2-the-sharingsparing-axis.qmd
+    - chapters/3-design-pressures.qmd
+    - chapters/4-general-terminology.qmd
+    - chapters/5-settlements.qmd
+    - chapters/6-open-issues.qmd
+    - chapters/sources.qmd
   appendices:
-    - index-alphabetical.qmd
+    - chapters/index-alphabetical.qmd
   downloads: [pdf]
 
 bibliography: references.bib
