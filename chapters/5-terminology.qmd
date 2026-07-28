@@ -120,7 +120,7 @@ Developed in [§3, Design Pressures](3-design-pressures.qmd).
 
 #### Design pressures {#term-design-pressures}
 
-The competing forces every site must settle. Unlike axes they have direction, they conflict, and real parties advocate for them. Eight are named. See [§3.1](3-design-pressures.qmd#sec-pressures).
+The competing forces every site must resolve. Unlike axes they have direction, they conflict, and real parties advocate for them. Eight are named. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
 #### Generation yield {#term-generation-yield}
 
@@ -222,7 +222,31 @@ One of the six archetypes developed in depth, in scale order: Barnyard Shelter S
 
 The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy): *overhead* systems mount modules above the working surface, *interspace* systems mount them low with the crop or cover between the rows. It classifies the structure, where an archetype classifies the resolution of pressures. See [§6](6-archetypes.qmd).
 
-### 5.6 Field terms and metrics {#sec-terms-field}
+### 5.6 Regionality {#sec-terms-regionality}
+
+Developed in [§7, Regionality](7-regionality.qmd).
+
+#### Regionality {#term-regionality}
+
+The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pulls are not. See [§7](7-regionality.qmd).
+
+#### Regional factors {#term-regional-factors}
+
+The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§7.1](7-regionality.qmd#sec-rg-factors).
+
+#### Regional calibration {#term-regional-calibration}
+
+A restatement of the lexicon's indicative values for a particular region — capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §7.2 is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§7.2](7-regionality.qmd#sec-rg-us).
+
+#### Design import {#term-design-import}
+
+The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ — a shade benefit shown in the Southwest assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Offtake conformity](#term-offtake-conformity) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§7.3](7-regionality.qmd#sec-rg-consequences).
+
+#### Diffuse fraction {#term-diffuse-fraction}
+
+The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction — light that is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§7.1](7-regionality.qmd#sec-rg-resource).
+
+### 5.7 Field terms and metrics {#sec-terms-field}
 
 The vocabulary the lexicon adopts from the wider field and pins down for use here.
 
@@ -314,7 +338,7 @@ Two operational-regime levers (§3.3). *Tracking schedule* — how a single- or 
 
 #### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles the non-production ground layers of [S3–S5](2-the-sharingsparing-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](4-restorative-functions.qmd) or the [SCALE](4-restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§7, issue 5).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function — it handles the non-production ground layers of [S3–S5](2-the-sharingsparing-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](4-restorative-functions.qmd) or the [SCALE](4-restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§8, issue 5).
 
 #### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 

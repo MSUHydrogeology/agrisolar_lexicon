@@ -1,4 +1,4 @@
-# 7. Open Issues {#sec-open-issues}
+# 8. Open Issues {#sec-open-issues}
 
 The lexicon's working register of unsettled questions, kept open because shared infrastructure earns trust by showing its seams. The numbers are stable so the questions can be cited; items settled as the work proceeded are marked rather than removed, and their live remainders are named.
 

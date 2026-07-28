@@ -8,6 +8,7 @@
 // Wide tables scroll inside their own container rather than the page body.
 #tbl-lever-matrix,
 .position-table,
+.region-table,
 .zone-table {
   overflow-x: auto;
   max-width: 100%;
@@ -86,23 +87,28 @@
 .at-a-glance ul { margin-bottom: 0.25rem; }
 .at-a-glance li { margin-bottom: 0.2rem; }
 
-// ===== Sharing–sparing positions table (§2.1, and its landing-page summary) =====
-// Same rules as the zone table, but neutral: the positions are not a gradient
-// and should not be shaded as if they were one.
-.position-table table {
+// ===== Neutral tables (sharing positions §2.1, regions §7.2) =====
+// Same rules as the zone table, but unshaded: neither the sharing positions nor
+// the regions are a gradient, and neither should be banded as if it were one.
+.position-table table,
+.region-table table {
   border-collapse: collapse;
 }
 .position-table table th,
-.position-table table td {
+.position-table table td,
+.region-table table th,
+.region-table table td {
   border: 1px solid rgba(0, 0, 0, 0.08);
   padding: 0.35rem 0.5rem;
   vertical-align: top;
 }
-.position-table thead th {
+.position-table thead th,
+.region-table thead th {
   background-color: #d3d1c7;
   color: #2c2c2a;
 }
-.position-table tbody td:first-child {
+.position-table tbody td:first-child,
+.region-table tbody td:first-child {
   background-color: #f6f5f1;
 }
 
@@ -156,5 +162,6 @@
   .draft-note { background-color: rgba(255, 255, 255, 0.04); border-left-color: rgba(255, 255, 255, 0.2); }
   .example { border-left-color: rgba(255, 255, 255, 0.25); }
   .routes { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
-  .position-table tbody td:first-child { background-color: rgba(255, 255, 255, 0.04); }
+  .position-table tbody td:first-child,
+  .region-table tbody td:first-child { background-color: rgba(255, 255, 255, 0.04); }
 }
