@@ -4,7 +4,7 @@ The recurring resolutions — combinations of competing pressures settled at a p
 
 **Overhead and interspace — the two hardware types beneath the archetypes.** The field's engineering standards (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy) sort agrivoltaic hardware into **overhead** systems — modules elevated *above* the working surface, the vegetable-agrivoltaics case — and **interspace** systems — modules mounted low with the crop or cover *between* the rows, the vertical-bifacial and grazing cases. That typology classifies the *structure*; the archetypes here classify the *resolution of pressures*. The two registers are complementary, not rival: one structural class can appear in several archetypes, and one archetype can be built in more than one class.
 
-This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **four further archetypes** in current circulation. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
+This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **four further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region, and together they span it: every zone from A1 to A5 carries at least one, and the middle of the transect carries the most — the mid scales are where the freedom to choose the ground and the freedom to manage it overlap. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
 
 ## The six featured archetypes {#sec-featured}
 
@@ -32,17 +32,17 @@ Everything turns on light. The panels sit high enough to work under and far enou
 
 **Jack's Solar Garden, Colorado** — the largest commercial agrivoltaics research site in the country: 1.2 megawatts of tracking panels over four acres where partner farmers grow chard, greens, and tomatoes among the rows, a living laboratory for NREL, Colorado State, and University of Arizona researchers.
 
-### Regenerative Solar Grazing {#arch-grazing}
+### Marginal Land Solar {#arch-marginal}
 
-*Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · shares the ground for grazing [S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
+*Field to parcel scale [A2–A3](1-the-scale-transect.qmd#sec-zones) · spares by taking idled ground [S4](2-the-sharingsparing-axis.qmd#sec-positions) — [S2](2-the-sharingsparing-axis.qmd#sec-positions) where that ground still grazes · restoration by where you site*
 
-Regenerative solar grazing has two layers doing complementary work: a flock — usually sheep — that eats the vegetation the array would otherwise pay to mow, and the panels above and among them that make the power. Managed well, the animals are more than a mower on legs; moved across the site on a planned rotation, they trample litter, cycle nutrients, and can leave the soil better than they found it, so the ground cover turns into habitat and the grazing into a small regenerative enterprise.
+Marginal land solar has two layers only loosely joined: a patch of ground the farm had all but given up on — a flood-prone corner, a rocky headland, a wet or oddly-shaped remnant that never paid its way — and an array set on it, turning idle acres into a second income without touching the good fields. Whatever the ground can still carry comes along underneath: rough grazing where it drains, naturalized or pollinator cover where it does not.
 
-This is a large-scale practice, and its vegetation is a service rather than the landowner's own farming: a contract grazier brings the flock, the security fence doubles as the paddock, interior fencing and gates lay out the rotation, and clearance height and water points decide what stock can work beneath the modules. The tension is over the calendar — the array wants its grass held low on its own schedule, the shepherd needs to move animals on the flock's, and the regenerative version asks the site to graze for soil and sward health, not only for a tidy sightline. It reaches cost parity with mowing rather than beating it outright, and where the understory is native and well-managed the ground can gain soil carbon over the array's life instead of merely holding steady [@krasner2025].
+The defining choice is made before anyone thinks about output — it is a decision about *which* ground, not how to wring watts from it — and the array simply accepts the orientation and layout the site dictates. That is also the catch: land that was marginal for farming is often marginal for solar too, awkwardly shaped or oriented, sometimes needing costly answers — ballast on rock, elevation above a floodplain, a longer run to the interconnection. It works when the new income clears that penalty, and like the prairie strips it leans on the mid-scale freedom to choose the parcel; assemble enough contiguous acres and the choice is gone.
 
-*Dominant pressures: generation yield, operational simplicity. Yielded: the farm's own agricultural continuity — the grazing is a tenancy, not the operation.*
+*Dominant pressures: farm economic resilience, capital discipline. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
-**Aurora Solar, Minnesota** — 150 megawatts of generation across sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory: vegetation management as a grazing tenancy, at utility scale, rather than the landowner's own farm.
+**Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working.
 
 ### Solar Prairie Strips {#arch-prairie-strips}
 
@@ -58,17 +58,17 @@ The pattern is not new. It comes from the STRIPS research, which found that conv
 
 **Ramsey Renewable Station, Minnesota** — 3.4 megawatts of solar and storage whose native ground layer is the stormwater system itself: on that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all.
 
-### Marginal Land Solar {#arch-marginal}
+### Regenerative Solar Grazing {#arch-grazing}
 
-*Field to parcel scale [A2–A3](1-the-scale-transect.qmd#sec-zones) · spares by taking idled ground [S4](2-the-sharingsparing-axis.qmd#sec-positions) — [S2](2-the-sharingsparing-axis.qmd#sec-positions) where that ground still grazes · restoration by where you site*
+*Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · shares the ground for grazing [S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
 
-Marginal land solar has two layers only loosely joined: a patch of ground the farm had all but given up on — a flood-prone corner, a rocky headland, a wet or oddly-shaped remnant that never paid its way — and an array set on it, turning idle acres into a second income without touching the good fields. Whatever the ground can still carry comes along underneath: rough grazing where it drains, naturalized or pollinator cover where it does not.
+Regenerative solar grazing has two layers doing complementary work: a flock — usually sheep — that eats the vegetation the array would otherwise pay to mow, and the panels above and among them that make the power. Managed well, the animals are more than a mower on legs; moved across the site on a planned rotation, they trample litter, cycle nutrients, and can leave the soil better than they found it, so the ground cover turns into habitat and the grazing into a small regenerative enterprise.
 
-The defining choice is made before anyone thinks about output — it is a decision about *which* ground, not how to wring watts from it — and the array simply accepts the orientation and layout the site dictates. That is also the catch: land that was marginal for farming is often marginal for solar too, awkwardly shaped or oriented, sometimes needing costly answers — ballast on rock, elevation above a floodplain, a longer run to the interconnection. It works when the new income clears that penalty, and like the prairie strips it leans on the mid-scale freedom to choose the parcel; assemble enough contiguous acres and the choice is gone.
+This is a large-scale practice, and its vegetation is a service rather than the landowner's own farming: a contract grazier brings the flock, the security fence doubles as the paddock, interior fencing and gates lay out the rotation, and clearance height and water points decide what stock can work beneath the modules. The tension is over the calendar — the array wants its grass held low on its own schedule, the shepherd needs to move animals on the flock's, and the regenerative version asks the site to graze for soil and sward health, not only for a tidy sightline. It reaches cost parity with mowing rather than beating it outright, and where the understory is native and well-managed the ground can gain soil carbon over the array's life instead of merely holding steady [@krasner2025].
 
-*Dominant pressures: farm economic resilience, capital discipline. Yielded: some generation, since marginal ground is rarely shaped for output.*
+*Dominant pressures: generation yield, operational simplicity. Yielded: the farm's own agricultural continuity — the grazing is a tenancy, not the operation.*
 
-**Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working.
+**Aurora Solar, Minnesota** — 150 megawatts of generation across sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory: vegetation management as a grazing tenancy, at utility scale, rather than the landowner's own farm.
 
 ### Water-Sustainability Solar {#arch-water}
 
@@ -90,9 +90,9 @@ The six featured archetypes and the [restorative functions](4-restorative-functi
 
 - [**Barnyard Shelter Solar**](#arch-barnyard) (A1 · S1–S2) leans on **Agriculture** (the farm's own animals keep producing) and **Communities** (one operator, behind-the-meter resilience), with **Landscapes** a modest welfare-and-microclimate gain and **Energy** deliberately small — sized to the farm, not the grid.
 - [**Vegetable Agrivoltaics**](#arch-vegetable) (A2–A3 · S1) leans on **Agriculture** (food keeps growing in the footprint) and **Communities** (a farmer, a local face), trading **Energy** (the clearance and spacing the crop needs cost generation).
-- [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2) foregrounds **Energy** (utility-scale generation) and **Landscapes** (grazed cover, soil, habitat), with **Agriculture** present only as a grazing service, not the farm's own operation.
-- [**Solar Prairie Strips**](#arch-prairie-strips) (A3 · S5) is a **Landscapes** archetype first — clean water and habitat — with **Communities** benefit visible, yielding some **Energy** to the prairie.
 - [**Marginal Land Solar**](#arch-marginal) (A2–A3 · S4, or S2 where grazed) is anchored in **Communities** — the farm's financial resilience — on **Agriculture**'s cast-off ground, with **Energy** cheap to build but modest in yield.
+- [**Solar Prairie Strips**](#arch-prairie-strips) (A3 · S5) is a **Landscapes** archetype first — clean water and habitat — with **Communities** benefit visible, yielding some **Energy** to the prairie.
+- [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2) foregrounds **Energy** (utility-scale generation) and **Landscapes** (grazed cover, soil, habitat), with **Agriculture** present only as a grazing service, not the farm's own operation.
 - [**Water-Sustainability Solar**](#arch-water) (A4–A5 · S5; A2–A3 · S4) is a **Landscapes** archetype in the water sense — easing an overdrawn aquifer — deliberately giving up **Agriculture** at the arid end while delivering **Energy** at scale.
 
 No archetype fills every domain, and none is meant to: the profiles differ because the pressures were settled differently. A real project's profile is its own, shaped by site and design; these six are reference shapes, not targets. Whether to overlay the SCALE *limit of sustainability* — turning these descriptive profiles into an evaluation of depletion vs. regeneration — is the call the [metrics open issue](7-open-issues.qmd) (§7, issue 5) leaves deliberately unmade.
@@ -141,6 +141,6 @@ Defined here (this section is their collection point):
 
 **Archetype** — A way the [design pressures](3-design-pressures.qmd#sec-pressures-ch) have been resolved at a particular scale zone and sharing position; the featured archetypes and further Types above are archetypes, not the object of the lexicon.
 
-**Featured archetype** — one of the six canonical archetypes developed in depth here (Barnyard Shelter Solar, Vegetable Agrivoltaics, Regenerative Solar Grazing, Solar Prairie Strips, Marginal Land Solar, Water-Sustainability Solar), each carrying a worked real-world *Application*. A curatorial label, not a claim that these five are more valid than the [further archetypes](#sec-further-types).
+**Featured archetype** — one of the six canonical archetypes developed in depth here, in scale order (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each carrying a worked real-world *Application*. A curatorial label, not a claim that these six are more valid than the [further archetypes](#sec-further-types).
 
 ---

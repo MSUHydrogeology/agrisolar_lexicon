@@ -70,7 +70,7 @@ under **S**.
 
 **Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [2.2 The feasible region is a wedge, not a rectangle](2-the-sharingsparing-axis.qmd#sec-wedge)
 
-**Featured archetype** — one of the six canonical archetypes developed in depth (Barnyard Shelter Solar, Vegetable Agrivoltaics, Regenerative Solar Grazing, Solar Prairie Strips, Marginal Land Solar, Water-Sustainability Solar), each with a worked real-world application — [The six featured archetypes](6-archetypes.qmd#sec-featured)
+**Featured archetype** — one of the six canonical archetypes developed in depth, ordered along the scale transect (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each with a worked real-world application — [The six featured archetypes](6-archetypes.qmd#sec-featured)
 
 **Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [Footprint vs. Influence Zone](5-general-terminology.qmd#term-footprint-influence)
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="432" viewBox="0 0 760 432" role="img">
 <title>The feasible region as a lens on a five-position axis centred on coexistence (S3)</title>
-<desc>Centred sharing-sparing axis with five positions. Full and functional sharing (S1-S2) sit above the scale line; coexistence (S3) sits on it; idled-land sparing and impaired-land retirement (S4-S5) sit below. The feasible region is widest at A3 (Parcel) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Grazing runs S2 and coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
+<desc>Centred sharing-sparing axis with five positions. Full and functional sharing (S1-S2) sit above the scale line; coexistence (S3) sits on it; idled-land sparing and impaired-land retirement (S4-S5) sit below. The feasible region is widest at A3 (Parcel) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Animals run S2 at every scale, from the farm's own barnyard shelter through contract grazing to a grazing enterprise; coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
 <defs>
 <pattern id="hatchL" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="7" stroke="#8f8d84" stroke-width="1"/></pattern>
 <pattern id="hatchD" width="3.5" height="3.5" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="3.5" stroke="#8f8d84" stroke-width="1"/></pattern>
@@ -39,7 +39,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="ts" x="685" y="350" text-anchor="middle">A5</text><text class="an" x="685" y="363" text-anchor="middle">Regional</text>
 <text class="gy" x="212" y="117" text-anchor="middle">next to, not under</text>
 <text class="gy" x="305" y="296" text-anchor="middle">sparing, but negligible</text>
-<circle cx="195" cy="138" r="5" fill="#D85A30"/><text class="ts" x="195" y="154" text-anchor="middle" fill="#993C1D">farm flock</text>
+<circle cx="188" cy="138" r="5" fill="#D85A30"/><text class="ts" x="188" y="154" text-anchor="middle" fill="#993C1D">barnyard shelter</text>
 <circle cx="420" cy="138" r="5" fill="#D85A30"/><text class="ts" x="420" y="154" text-anchor="middle" fill="#993C1D">contract grazing</text>
 <circle cx="600" cy="138" r="5" fill="#D85A30"/><text class="ts" x="600" y="154" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
 <circle cx="390" cy="92" r="5" fill="#D85A30"/><text class="ts" x="402" y="88" text-anchor="start" fill="#993C1D">vegetables</text>
