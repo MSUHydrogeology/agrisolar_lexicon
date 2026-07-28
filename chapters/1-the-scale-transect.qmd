@@ -2,7 +2,7 @@
 
 ### 1.1 A gradient, not a set of size bins {#sec-transect-why}
 
-A transect works because it is not one variable. It is a **bundle of covarying attributes** — several features moving together along one gradient — so naming a zone tells you many things at once. (An ecological transect from shore to upland shifts soil, moisture, and vegetation all together in just this way.)
+A transect works because it is not one variable. It is a **bundle of covarying attributes** — several features moving together along one gradient — so naming a zone tells you many things at once. (An ecological transect from shore to upland shifts soil, moisture, and vegetation all together in just this way.) The device is borrowed rather than invented: the cross-section of a landscape traces back to Humboldt, who drew shore, wetland, plain, and upland as one continuous gradient long before the idea was applied to human settlement. Using it on agrisolar land returns it to something like its origins.
 
 Agroenergy scale behaves identically, and capacity alone is a poor definition. Utility-scale solar is defined by its **role in the power system**, not by any universal threshold: SEIA puts the line above 1 MW, NREL uses 5 MW, and New York's permitting regime designates 25 MW+ as major renewable energy facilities. Community solar muddies the line further: it connects to the grid at fairly large sizes yet is still billed like small distributed systems.
 
@@ -42,7 +42,7 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 
 ![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient — which is what makes it a transect rather than a set of size bins.](../figures/fig_scale_transect.svg){#fig-transect}
 
-**Calibration note.** Capacity bands are indicative for the US Midwest and should be re-calibrated regionally. The zone is defined by the attribute bundle, not the megawatts.
+**Calibration note.** Capacity bands are indicative for the US Midwest and should be re-calibrated regionally. The zone is defined by the attribute bundle, not the megawatts. Nor does every zone appear everywhere: a region with no transmission-adjacent land simply has no A5, which is a fact about that region and not a deficiency in it.
 
 ### 1.3 One practice, three design problems {#sec-grazing}
 

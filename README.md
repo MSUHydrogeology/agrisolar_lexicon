@@ -32,7 +32,7 @@ quarto render --to html   # HTML only (no LaTeX needed)
 | Path | Contents |
 |---|---|
 | `index.qmd` | Landing page |
-| `preface.qmd` … `sources.qmd` | Document chapters, one page each |
+| `1-the-scale-transect.qmd` … `sources.qmd` | Document chapters, one page each |
 | `index-alphabetical.qmd` | Alphabetical index of defined terms (appendix) |
 | `figures/` | Standalone SVG figures, reusable independently |
 | `references.bib` | Bibliography; cited inline with `@key`, formatted in the Sources chapter |
