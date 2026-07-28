@@ -6,7 +6,7 @@ A resolution that works in the San Joaquin Valley works badly in Michigan — no
 
 **So there is no one-size-fits-all answer, and this chapter is where the document says so precisely.** Six factors vary across space; each changes how the pressures resolve; together they explain why practice already clusters the way it does. This is not a caveat appended to the framework — it is why the framework describes rather than prescribes. A lexicon that fixed a row spacing, a seed mix, or a clearance would be fixing it for one region and exporting it to the rest.
 
-**What does not vary.** The two axes, the [reading rule](5-terminology.qmd#term-reading-rule), the pressures, and the [restorative functions](4-restorative-functions.qmd) are the same everywhere; they are how you describe a site anywhere. What varies is which positions are *available*, which functions are *reachable*, and how hard each pressure *pulls*. Regionality is a statement about weights and availability, not about the vocabulary.
+**What does not vary.** The two axes, the [rule for reading a site](2-the-sharingsparing-axis.qmd#sec-positions), the pressures, and the [restorative functions](4-restorative-functions.qmd) are the same everywhere; they are how you describe a site anywhere. What varies is which positions are *available*, which functions are *reachable*, and how hard each pressure *pulls*. Regionality is a statement about weights and availability, not about the vocabulary.
 
 ### 7.1 Six factors {#sec-rg-factors}
 

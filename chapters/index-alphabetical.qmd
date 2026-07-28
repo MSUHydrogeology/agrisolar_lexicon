@@ -40,15 +40,11 @@ under **S**.
 
 **Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [§5](5-terminology.qmd#term-archetype) · [6. Archetypes](6-archetypes.qmd)
 
-**Archetype × function matrix** — the descriptive model relating the two registers: archetypes as rows, functions as columns, cells as the degree to which an archetype makes a function reachable; a palette, not a scorecard — [§5](5-terminology.qmd#term-archetype-function-matrix) · [4. Restorative Functions](4-restorative-functions.qmd)
-
-
 ## B
 
 **Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [§5](5-terminology.qmd#term-bare-conversion) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
 **Biodiversity & habitat function** — restorative function: habitat built from the ground layer up, with mowing and grazing *timing* as decisive as the seed mix; reachable across S2–S5 — [§5](5-terminology.qmd#term-fn-biodiversity) · [4.3 Biodiversity & habitat function](4-restorative-functions.qmd#sec-fn-biodiversity)
-
 
 ## C
 
@@ -66,9 +62,6 @@ under **S**.
 
 **Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [§5](5-terminology.qmd#term-contract-grazing) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
 
-**Covarying attribute bundle** — the attributes that move together along the transect, so naming a zone tells you many things at once — [§5](5-terminology.qmd#term-covarying-bundle) · [1.1 A gradient, not a set of size bins](1-the-scale-transect.qmd#sec-transect-why)
-
-
 ## D
 
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [§5](5-terminology.qmd#term-decommissioning)
@@ -85,20 +78,15 @@ under **S**.
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [§5](5-terminology.qmd#term-dual-use)
 
-
 ## E
 
 **Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation; its ecological ground layer is a restorative function rather than an axis position, most often built at S3 — [§5](5-terminology.qmd#term-ecovoltaics)
-
 
 ## F
 
 **Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [§5](5-terminology.qmd#term-feasible-wedge) · [2.2 Which positions scale allows](2-the-sharingsparing-axis.qmd#sec-wedge)
 
-**Featured archetype** — one of the six canonical archetypes developed in depth, ordered along the scale transect (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each with a worked real-world application — [§5](5-terminology.qmd#term-featured-archetype) · [The six featured archetypes](6-archetypes.qmd#sec-featured)
-
 **Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [§5](5-terminology.qmd#term-footprint-influence)
-
 
 ## G
 
@@ -108,11 +96,9 @@ under **S**.
 
 **Ground Layer** — whatever occupies the surface beneath and between panels; primary carrier of restorative function; *syn.* understory, ground cover — [§5](5-terminology.qmd#term-ground-layer)
 
-
 ## H
 
 **Hydrologic function** — restorative function: infiltration and recharge raised, runoff slowed and filtered, soil moisture buffered — and at scale, consumptive use retired from a basin's budget — [§5](5-terminology.qmd#term-fn-hydrologic) · [4.1 Hydrologic function](4-restorative-functions.qmd#sec-fn-hydrologic)
-
 
 ## I
 
@@ -120,13 +106,9 @@ under **S**.
 
 **Integration** — functional interdependence — panel height set by livestock clearance, spacing by forage light, tracking by photosynthetic timing — [§5](5-terminology.qmd#term-colocation-integration)
 
-
 ## L
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [§5](5-terminology.qmd#term-ler)
-
-**Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5 — [§5](5-terminology.qmd#term-lever-matrix) · [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
-
 
 ## M
 
@@ -136,10 +118,7 @@ under **S**.
 
 **Microclimate & thermal–water buffering function** — restorative function: the array's reshaping of the near-surface energy balance; its sign flips with climate and crop — [§5](5-terminology.qmd#term-fn-microclimate) · [4.4 Microclimate & thermal–water buffering function](4-restorative-functions.qmd#sec-fn-microclimate)
 
-**Microclimate Modification** — the array's reshaping of the below-panel environment (shade, temperature, evaporative demand, soil moisture); a restorative function (§4.4) — [§5](5-terminology.qmd#term-microclimate)
-
 **Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [§5](5-terminology.qmd#term-module-technology)
-
 
 ## O
 
@@ -149,17 +128,11 @@ under **S**.
 
 **Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [§5](5-terminology.qmd#term-overhead-interspace) · [6. Archetypes](6-archetypes.qmd)
 
-
 ## P
 
 **Pore Space** — the three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space — [§5](5-terminology.qmd#term-pore-space)
 
-**Pressure conflict** — the framing that treats disputes between pressures as legitimate forces in genuine tension rather than as definitional errors — [§5](5-terminology.qmd#term-pressure-conflict) · [3.2 The conflicts worth naming](3-design-pressures.qmd#sec-conflicts)
-
-
 ## R
-
-**Reading rule** — production first, then prior status: a site where production continues is S1–S2 whatever the ground used to be; only where it stops do S3–S5 apply — [§5](5-terminology.qmd#term-reading-rule) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
 **Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [§5](5-terminology.qmd#term-regional-calibration) · [7.2 A worked calibration](7-regionality.qmd#sec-rg-us)
 
@@ -174,7 +147,6 @@ under **S**.
 **Restorative ambition** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [§5](5-terminology.qmd#term-restorative-ambition) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
 **Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one socioeconomic (community & economic) — [§5](5-terminology.qmd#term-restorative-function) · [4. Restorative Functions](4-restorative-functions.qmd)
-
 
 ## S
 
@@ -206,10 +178,7 @@ under **S**.
 
 **Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [§5](5-terminology.qmd#term-stocking-density) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
 
-**Structure register / function register** — the document's two layers: the structure register is the two axes and the archetypes they produce; the function register is the restorative capacities laid over them — [§5](5-terminology.qmd#term-registers) · [4. Restorative Functions](4-restorative-functions.qmd)
-
 **Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [§5](5-terminology.qmd#term-structure-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
-
 
 ## T
 

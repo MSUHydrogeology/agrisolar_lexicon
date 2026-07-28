@@ -14,10 +14,6 @@ Developed in [§1, The Scale Transect](1-the-scale-transect.qmd).
 
 A single gradient from farmstead (A1) to regional (A5) that most other terms are read against, defined by covarying attribute bundles rather than capacity thresholds. See [§1](1-the-scale-transect.qmd).
 
-#### Covarying attribute bundle {#term-covarying-bundle}
-
-The set of attributes — interconnection, decision unit, permitting, management mode, capital, community interface, siting latitude — that move together along the transect, so naming a zone tells you many things at once. Nameplate capacity is an indicator, not a definition. See [§1.1](1-the-scale-transect.qmd#sec-transect-why).
-
 #### A0 — the zero-land case {#term-a0}
 
 Arrays mounted on buildings, which take no ground at all: no siting latitude to spend, no ground layer to design, and no [sharing–sparing position](#term-sharing-sparing) to hold. It sits at the transect's origin rather than on it. See [§1.2](1-the-scale-transect.qmd#sec-zones).
@@ -48,19 +44,13 @@ The designer's freedom over where the array goes. What governs it migrates from 
 
 #### Restoration mode {#term-restoration-mode}
 
-Whether restorative work is delivered by choice of ground, by array geometry, or by operation. The mode shifts as siting latitude falls up the transect. See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
+Whether restorative work is delivered by the choice of ground, by array geometry, or by how the array is run. The mode shifts as siting latitude falls up the transect (§1.4). Three modes:
 
-#### Siting-led {#term-siting-led}
+- []{#term-siting-led}**Siting-led** — the restorative work is done by the choice of ground; requires the A2–A3 latitude to choose it.
+- []{#term-structure-led}**Structure-led** — array geometry is the instrument: clearance, row spacing, module transmissivity.
+- []{#term-management-led}**Management-led** — placement is a given, and the ground cover, grazing regime, and operational schedule carry everything. The dominant mode at A4–A5.
 
-Restoration mode in which the restorative work is done by the choice of ground; requires A2–A3 latitude. See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
-
-#### Structure-led {#term-structure-led}
-
-Restoration mode in which array geometry is the instrument: clearance, row spacing, module transmissivity. See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
-
-#### Management-led {#term-management-led}
-
-Restoration mode in which placement is a given and the ground cover, grazing regime, and operational schedule carry everything. The dominant mode at A4–A5. See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
+See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
 
 #### Stocking density {#term-stocking-density}
 
@@ -106,10 +96,6 @@ Production ends on ground that carried a measurable off-site burden — chronica
 
 Ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it. See [§2.1](2-the-sharingsparing-axis.qmd#sec-positions).
 
-#### Reading rule {#term-reading-rule}
-
-Production first, then prior status. A site where production continues within the footprint is S1–S2 whatever the ground used to be; only where production stops do S3–S5 apply, told apart by what the ground was beforehand. See [§2.1](2-the-sharingsparing-axis.qmd#sec-positions).
-
 #### Feasible wedge {#term-feasible-wedge}
 
 The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes — at A5 as land assembly and capital discipline remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§2.2](2-the-sharingsparing-axis.qmd#sec-wedge).
@@ -154,17 +140,9 @@ Pressure: satisfy whoever is buying the power, the attributes, or the tax positi
 
 Pressure: minimize the residual footprint left after a 25–40 year asset life and preserve the option to return the ground to its prior use. For the end-of-life vocabulary itself, see [Decommissioning / Repowering / Reversibility](#term-decommissioning). See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Pressure conflict {#term-pressure-conflict}
-
-The framing that treats disputes between pressures — agricultural continuity vs. restorative ambition, operational simplicity vs. everything — as legitimate forces in genuine tension rather than as definitional errors. See [§3.2](3-design-pressures.qmd#sec-conflicts).
-
 #### Design levers {#term-design-levers}
 
 The adjustable choices a designer uses to settle the pressures, in three families — structural, land-and-ecology, institutional — kept separable so each can be extended on its own. See [§3.3](3-design-pressures.qmd#sec-levers).
-
-#### Levers × Scale-Zones matrix {#term-lever-matrix}
-
-The descriptive grid of how each lever's latitude and character shift across zones A1–A5, recording what is typical and available rather than what is required. See [§3.4](3-design-pressures.qmd#sec-lever-matrix).
 
 ### 5.4 Restorative functions {#sec-terms-functions}
 
@@ -172,7 +150,7 @@ Developed in [§4, Restorative Functions](4-restorative-functions.qmd).
 
 #### Restorative function {#term-restorative-function}
 
-A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once; a *column* of the [archetype × function matrix](#term-archetype-function-matrix). Four are biophysical, one socioeconomic. See [§4](4-restorative-functions.qmd).
+A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once — the columns laid over the archetypes as rows (§4). Four are biophysical, one socioeconomic. See [§4](4-restorative-functions.qmd).
 
 #### Hydrologic function {#term-fn-hydrologic}
 
@@ -188,7 +166,7 @@ Habitat built from the ground layer up — floral resources, nesting substrate, 
 
 #### Microclimate & thermal–water buffering function {#term-fn-microclimate}
 
-The array's reshaping of the near-surface energy balance: lower daytime temperature and vapour-pressure deficit, higher nighttime minima. Its sign flips with climate and crop. See [§4.4](4-restorative-functions.qmd#sec-fn-microclimate).
+The array's reshaping of the near-surface and below-panel energy balance: shade lowers soil and canopy temperature, daytime vapour-pressure deficit and evaporative demand, raising soil moisture, while longwave sheltering lifts nighttime minima — most in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Its sign flips with climate and crop, and it is itself scale- and geometry-dependent (§1.1). See [§4.4](4-restorative-functions.qmd#sec-fn-microclimate).
 
 #### Community & economic function {#term-fn-community}
 
@@ -198,14 +176,6 @@ The one socioeconomic function: the economic prosperity, livability, and health 
 
 A whole-project reading across four domains — Sustainable Communities, Agriculture, Landscapes, Energy — each running from regeneration to depletion. Evaluative by design, but carrying direction rather than a pass mark. See [§4](4-restorative-functions.qmd#sec-scale).
 
-#### Structure register / function register {#term-registers}
-
-The document's two layers: the *structure* register is the scale × sharing–sparing axes and the [archetypes](#term-archetype) they produce; the *function* register is the restorative capacities laid over them. See [§4](4-restorative-functions.qmd).
-
-#### Archetype × function matrix {#term-archetype-function-matrix}
-
-The descriptive model relating the two registers: archetypes as rows, functions as columns, each cell the degree to which an archetype makes a function reachable. A palette, not a scorecard; the fully scored grid is deliberately not attempted. See [§4](4-restorative-functions.qmd).
-
 ### 5.5 Archetypes {#sec-terms-archetypes}
 
 Developed in [§6, Archetypes](6-archetypes.qmd).
@@ -213,10 +183,6 @@ Developed in [§6, Archetypes](6-archetypes.qmd).
 #### Archetype {#term-archetype}
 
 A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense — a characteristic, transformable pattern, not an exhaustive set. See [§6](6-archetypes.qmd).
-
-#### Featured archetype {#term-featured-archetype}
-
-One of the six archetypes developed in depth, in scale order: Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar. Each recurs in the field and carries at least one documented case. A curatorial label, not a claim that these six are more valid than the [further archetypes](6-archetypes.qmd#sec-further-types). See [§6](6-archetypes.qmd#sec-featured).
 
 #### Overhead and interspace systems {#term-overhead-interspace}
 
@@ -254,7 +220,7 @@ The vocabulary the lexicon adopts from the wider field and pins down for use her
 
 Energy infrastructure sited and designed to interact intentionally with agricultural or ecological land function. Umbrella term, not solar-specific.
 
-*Term collision, flagged deliberately.* Elsewhere "agroenergy" (and *agro-energy*) most often means agriculture-*derived* **bioenergy** — energy crops, crop residue, biogas, biomass — i.e. farmland as a fuel source. This lexicon repurposes the word for the converse: energy *infrastructure* placed on and integrated with agricultural land. The reuse is intentional but worth naming, so a reader arriving from the bioenergy literature is not misled.
+*Term collision, flagged deliberately.* Elsewhere "agroenergy" (and *agro-energy*) most often means agriculture-*derived* **bioenergy** — energy crops, crop residue, biogas, biomass — i.e. farmland as a fuel source. This lexicon repurposes the word for the converse: energy *infrastructure* placed on and integrated with agricultural land. The reuse is intentional but worth naming, so a reader arriving from the bioenergy literature is not misled. The infrastructure sense is live in the peer-reviewed literature: @stid2025 define agrisolar as the integration and co-management of solar photovoltaics, agriculture and ecosystem services **within agroenergy landscapes**.
 
 #### Agrisolar {#term-agrisolar}
 
@@ -288,11 +254,23 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 #### Co-location vs. Integration {#term-colocation-integration}
 
- *Co-location*: panels and a land use share a parcel without functional interdependence. *Integration*: panel height set by livestock clearance, row spacing set by forage light requirements, tracking schedule set by photosynthetic timing. Integration is the line a design crosses to be genuinely restorative, not restorative in name only.
+The pair that makes [agrisolar](#term-agrisolar) the superset and [agrivoltaics](#term-agrivoltaics) one member of it.
+
+**Co-location** — solar and an agricultural land use share a landscape without functional interdependence. @stid2025 call this *lateral* or *adjacent* co-location: agricultural land is replaced, and the two sit side by side.
+
+**Integration** — the two share the same ground and the same light: panel height set by livestock clearance, row spacing by forage light requirements, tracking schedule by photosynthetic timing. @stid2025 call this *vertical* or *coincident* co-location — agrivoltaics proper.
+
+Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](2-the-sharingsparing-axis.qmd#sec-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this document needs the wider word.
+
+Integration is also the line a design crosses to be restorative in the structural sense rather than in name only — though S3 is the reminder that a project can restore an enterprise without integrating anything.
+
+*Usage caution:* @stid2025 use "agrisolar" in two senses — broadly, for the superset covering both cases, and narrowly, where "agrisolar co-location" means the adjacent case alone. **This lexicon uses the broad sense throughout.**
 
 #### Footprint vs. Influence Zone {#term-footprint-influence}
 
 **Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The solar-siting literature already splits *footprint* the same way — the **array/direct footprint** (panels and racking) versus the **facility/fenceline footprint** (the whole permitted parcel) — and the ecovoltaic siting research makes the distinction matter: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
+
+The zone can also act through *economics* rather than through hydrology or sightlines. @stid2025 document intentional fallowing of irrigated cropland **adjacent to** arrays — 968 ha across 58 utility-scale installations in California's Central Valley, about 27% of those arrays' own area — apparently funded by array revenue, and call the practice **solar fallowing** where the aim is reducing water use. The array changes what happens on ground it never occupies.
 
 Its multi-domain accounting — across Sustainable Communities, Agriculture, Landscapes, and Energy — is the [SCALE footprint](4-restorative-functions.qmd#sec-scale), introduced with the restorative functions (§4).
 
@@ -313,10 +291,6 @@ Whatever occupies the surface beneath and between panels. Primary carrier of res
 #### Marginal / Previously Disturbed Land {#term-marginal-land}
 
 The low-value ground that [idled-land sparing](2-the-sharingsparing-axis.qmd#sec-positions) (S4) presupposes: consistently low-yielding cropland, and previously disturbed land — reclaimed mine land, landfills, and brownfields ("brightfields"). Marginality is partly a property of the ground and partly of the market, so claims of marginal-land siting deserve scrutiny about what fraction of a footprint is genuinely marginal (§2.2).
-
-#### Microclimate Modification {#term-microclimate}
-
-The array's reshaping of the below- and between-panel environment: shade lowers soil and canopy temperature and evaporative demand, raising soil moisture — most in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Treated as a [restorative function](4-restorative-functions.qmd) (§4.4); itself scale- and geometry-dependent (§1.1).
 
 #### Pore Space {#term-pore-space}
 

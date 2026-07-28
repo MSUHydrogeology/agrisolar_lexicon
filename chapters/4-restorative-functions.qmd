@@ -81,7 +81,7 @@ The one **socioeconomic** function, and the [SCALE](#sec-scale) **Communities** 
 **Whose benefit — the actors do not move together.** "The community" is not one party, and a benefit to one can be a loss to another, so this function is only legible once the recipients are named separately:
 
 - **Landowner** — lease and royalty income; the party a land payment reaches first, and often the only one it reaches.
-- **Tenant farmer** — frequently the party who *loses*: roughly a third to a half of US farmland is rented, so a conversion that sustains an owner can end the operation of the person actually farming it. This is the sharpest misalignment in the set, and the one a lease-income argument most often hides.
+- **Tenant farmer** — frequently the party who *loses*. Nearly 40% of agricultural land in California's Central Valley is rented or leased, and the leading analysis of agrisolar economics there assumes returns reach landowning or partial-owning farmers — naming that assumption as one of its own limitations [@stid2025]. A conversion that sustains an owner can end the operation of the person actually farming the ground. This is the sharpest misalignment in the set, and the one a lease-income argument most often hides.
 - **Farm operation and succession** — whether the enterprise itself survives, which is the test [S3 coexistence](2-the-sharingsparing-axis.qmd#sec-positions) applies.
 - **Neighbouring residents** — bear viewshed, construction traffic, and glare, usually without a payment; the party [screening](5-terminology.qmd#term-screening) and good-neighbor agreements address.
 - **Local government** — PILOT and tax base, against service and road costs.
