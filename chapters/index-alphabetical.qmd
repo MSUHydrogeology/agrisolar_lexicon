@@ -2,7 +2,7 @@
 
 Every defined or coined term in the lexicon, ordered A–Z. This is the
 alphabetical view of the [Terminology](5-terminology.qmd) chapter
-(§5), which holds the same set grouped by register — use this one when you
+(§5), which holds the same set grouped by subject — use this one when you
 know the word, that one when you want the neighbourhood it belongs to.
 
 Each entry gives a short gloss and two links: **§5** for the definition, and,
@@ -38,7 +38,7 @@ under **S**.
 
 **Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [§5](5-terminology.qmd#term-agroenergy)
 
-**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [§5](5-terminology.qmd#term-archetype) · [6. Archetypes](6-archetypes.qmd)
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position —  [§5](5-terminology.qmd#term-archetype) · [6. Archetypes](6-archetypes.qmd)
 
 ## B
 

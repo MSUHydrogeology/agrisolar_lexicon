@@ -1,8 +1,8 @@
 # 5. Terminology {#sec-terminology}
 
-Every term this document defines, in one place, grouped by the register it belongs to: the two structural devices first, then pressures and levers, restorative functions, archetypes, and last the field vocabulary the lexicon adopts from elsewhere and pins down. Each entry gives the short definition and links to the section that develops it. The [alphabetical index](index-alphabetical.qmd) is the same set ordered A–Z, for when you know the word but not where it lives.
+Every term this document defines, in one place, grouped by subject: scale first, then sharing and sparing, pressures and levers, restorative functions, archetypes, and last the words borrowed from the wider field and pinned down for use here. Each entry gives the short definition and links to the section that develops it. The [alphabetical index](index-alphabetical.qmd) is the same set ordered A–Z, for when you know the word but not where it lives.
 
-Many of these terms name something you could point to on a site. This plate anchors those across the two scales at which they act — the parcel and the array.
+Most of these name something you could walk up to and point at. The drawing below places them at the two scales where they matter — across a parcel, and up close at the array.
 
 ![The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the five [restorative functions](4-restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below — agrisolar, ecovoltaics, dual use, LER — have no single element to point to.](../figures/fig_terminology_scales.svg){#fig-terminology}
 
