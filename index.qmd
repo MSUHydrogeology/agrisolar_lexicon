@@ -20,6 +20,22 @@ objectives of agrisolar design rather than among its accidents.
 
 ---
 
+## Start here
+
+**If you have land in mind and want to know what is possible on it**, go straight to
+[what appears at each scale](chapters/6-archetypes.qmd#sec-by-zone) — the forms that recur at each
+size of project, from a barn roof to a regional complex, with what each one asks of the ground.
+
+**If you are weighing a specific proposal**, the [design pressures](chapters/3-design-pressures.qmd)
+name the forces pulling on it and the conflicts worth arguing about openly.
+
+**If you are trying to pin down a term** someone has used, the
+[alphabetical index](chapters/index-alphabetical.qmd) lists everything this document defines.
+
+Everything else is the reasoning behind those three, and reads in order.
+
+---
+
 ## How it is organized
 
 Three structural devices carry the document.

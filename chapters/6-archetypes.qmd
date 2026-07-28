@@ -6,6 +6,24 @@ The recurring resolutions — combinations of competing pressures settled at a p
 
 This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **seven further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region. That they happen to cover it is a result, not a selection rule: an archetype is featured here because it recurs in the field and carries at least one documented case, and the mid scales hold the most because that is where the freedom to choose the ground and the freedom to manage it overlap. A form that looks promising but is not yet documented as recurring belongs among the further archetypes, marked as emerging — the set is meant to grow and be corrected, not to fill a diagram. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
 
+## What appears at each scale {#sec-by-zone}
+
+If you know roughly how much land is in play, start here. The table gives the forms that recur at each [zone](1-the-scale-transect.qmd#sec-zones) — **featured archetypes in bold**, [further ones](#sec-further-types) in plain text — and each name links to its entry. Arrays mounted on buildings take no ground at all and sit at [A0](1-the-scale-transect.qmd#sec-zones), off the table entirely.
+
+::: {.zone-table}
+| Zone | Indicative footprint | Forms that recur here |
+|---|---|---|
+| **A1 — Farmstead** | under ~1 acre | [**Barnyard Shelter**](#arch-barnyard) |
+| **A2 — Field** | ~0.5–8 acres | [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) |
+| **A3 — Parcel** | ~5–80 acres | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Community-Solar Pollinator](#arch-community-solar) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A4 — Landscape** | ~60–400 acres | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A5 — Regional** | ~300 acres to 10,000+ | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
+:::
+
+**Read the crowding.** A3 (Parcel) carries the most forms and A1 and A5 the fewest — which is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2) appearing in a table built for an entirely different purpose. Mid-scale is where the freedom to choose the ground and the freedom to manage it overlap, so it holds the most distinct answers; the ends narrow because one freedom or the other runs out. Scale narrows the menu before design begins — that is the whole argument of §1, arriving here as a practical fact.
+
+**A caution about reading down a column.** A form appearing at your zone means it *has been built* at that scale, not that it suits your site. Climate, soil, water, market, and what the neighbours will accept all cut the list further, and several of these forms are mutually exclusive on the same ground. The entries below say what each one demands.
+
 ## The six featured archetypes {#sec-featured}
 
 **On the worked cases.** Each featured archetype carries one real project. Several rest on developer pages, NGO case studies, and extension write-ups rather than peer-reviewed evidence; capacities and areas are as-reported and are traced in [Sources](sources.qmd). They illustrate the *form* — they are not verified performance data, and none of them has been independently audited against the [restorative functions](4-restorative-functions.qmd) it is cited for.
