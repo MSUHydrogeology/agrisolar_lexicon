@@ -5,7 +5,7 @@ site search (top of every page) complements this index: search finds a word
 anywhere in the prose, while this list is the curated set of terms the
 document actually defines, each pointing to where it is introduced.
 
-Zone codes **A1–A5** are grouped under **A**; sharing positions **S1–S4**
+Zone codes **A1–A5** are grouped under **A**; sharing positions **S1–S5**
 under **S**.
 
 ---
@@ -40,6 +40,8 @@ under **S**.
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Co-location vs. Integration](5-general-terminology.qmd#term-colocation-integration)
 
+**Coexistence (S3)** — *see* S3 — Coexistence; the centre of the sharing–sparing axis, neither sharing nor sparing — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+
 **Community & economic function** — the socioeconomic restorative function: economic prosperity, livability, and health & equity built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [4.5 Community & economic function](4-restorative-functions.qmd#sec-fn-community)
 
 **Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [Community Benefit](5-general-terminology.qmd#term-community-benefit)
@@ -62,13 +64,13 @@ under **S**.
 
 ## E
 
-**Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation (typically S3) — [Ecovoltaics](5-general-terminology.qmd#term-ecovoltaics)
+**Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation; its ecological ground layer is a restorative function rather than an axis position, most often built at S3 — [Ecovoltaics](5-general-terminology.qmd#term-ecovoltaics)
 
 ## F
 
-**Feasible wedge** — the feasible region across scale and sharing: all four sharing positions stay open through A3, narrowing toward A5 — [2.2 The feasible region is a wedge, not a rectangle](2-the-sharingsparing-axis.qmd#sec-wedge)
+**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [2.2 The feasible region is a wedge, not a rectangle](2-the-sharingsparing-axis.qmd#sec-wedge)
 
-**Featured archetype** — one of the five canonical archetypes developed in depth (Vegetable Agrivoltaics, Regenerative Solar Grazing, Solar Prairie Strips, Marginal Land Solar, Water-Sustainability Solar), each with a worked real-world application — [The five featured archetypes](6-archetypes.qmd#sec-featured)
+**Featured archetype** — one of the six canonical archetypes developed in depth (Barnyard Shelter Solar, Vegetable Agrivoltaics, Regenerative Solar Grazing, Solar Prairie Strips, Marginal Land Solar, Water-Sustainability Solar), each with a worked real-world application — [The six featured archetypes](6-archetypes.qmd#sec-featured)
 
 **Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [Footprint vs. Influence Zone](5-general-terminology.qmd#term-footprint-influence)
 
@@ -88,7 +90,7 @@ under **S**.
 
 ## L
 
-**Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles S3 ground layers poorly — [Land Equivalent Ratio (LER)](5-general-terminology.qmd#term-ler)
+**Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [Land Equivalent Ratio (LER)](5-general-terminology.qmd#term-ler)
 
 **Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5 — [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
 
@@ -96,7 +98,7 @@ under **S**.
 
 **Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Marginal / Previously Disturbed Land** — the low-value ground that sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Marginal / Previously Disturbed Land](5-general-terminology.qmd#term-marginal-land)
+**Marginal / Previously Disturbed Land** — the low-value ground that idled-land sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Marginal / Previously Disturbed Land](5-general-terminology.qmd#term-marginal-land)
 
 **Microclimate Modification** — the array's reshaping of the below-panel environment (shade, temperature, evaporative demand, soil moisture); a restorative function (§4.4) — [Microclimate Modification](5-general-terminology.qmd#term-microclimate)
 
@@ -128,15 +130,17 @@ under **S**.
 
 **S2 — Functional sharing** — ground layer productive but subordinate to the array; grazing, forage — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S3 — Substituted function** — ground layer delivers ecological rather than agricultural function — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright, and its restorative content, where there is any, is socioeconomic before it is biophysical; the centre of the axis — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S4 — Sparing** — array occupies ground removed from production because it was low-yielding or already idle — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, or a built surface taking no ground at all, so productive land is spared — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+
+**S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
 **Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [1. The Scale Transect](1-the-scale-transect.qmd)
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Screening](5-general-terminology.qmd#term-screening)
 
-**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production or spares low-value ground from it — [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
+**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production, spares land by taking ground out of it, or neither; five positions centred on S3 — [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 
 **Siting latitude** — the designer's freedom over where the array goes; governed by the operator at A1, by the land market and grid topology at A5 — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 

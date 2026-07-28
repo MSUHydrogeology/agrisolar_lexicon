@@ -36,7 +36,7 @@
 <circle cx="530" cy="216.6" r="2.4" fill="#2c5580"/>
 <circle cx="512.2" cy="210" r="2.4" fill="#2c5580"/>
 <text x="530" y="96" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Regenerative Solar Grazing</text>
-<text x="530" y="112" fill="#777" font-size="11" text-anchor="middle">A4–A5 · S2–S3 · management-led</text>
+<text x="530" y="112" fill="#777" font-size="11" text-anchor="middle">A4–A5 · S2 · management-led</text>
 <polygon points="190.0,495.6 214.4,520.0 190.0,544.4 165.6,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="190.0,471.2 238.8,520.0 190.0,568.8 141.2,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="190.0,446.0 264.0,520.0 190.0,594.0 116.0,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -54,7 +54,7 @@
 <circle cx="190" cy="556.1" r="2.4" fill="#2c5580"/>
 <circle cx="187.1" cy="520" r="2.4" fill="#2c5580"/>
 <text x="190" y="406" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Solar Prairie Strips</text>
-<text x="190" y="422" fill="#777" font-size="11" text-anchor="middle">A3 · S3 · siting-led</text>
+<text x="190" y="422" fill="#777" font-size="11" text-anchor="middle">A3 · S5 · siting-led</text>
 <polygon points="530.0,495.6 554.4,520.0 530.0,544.4 505.6,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="530.0,471.2 578.8,520.0 530.0,568.8 481.2,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="530.0,446.0 604.0,520.0 530.0,594.0 456.0,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -90,5 +90,5 @@
 <circle cx="360" cy="772.2" r="2.4" fill="#2c5580"/>
 <circle cx="357.6" cy="760" r="2.4" fill="#2c5580"/>
 <text x="360" y="646" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Water-Sustainability Solar</text>
-<text x="360" y="662" fill="#777" font-size="11" text-anchor="middle">A3–A5 · S4→S3 · siting / management-led</text>
+<text x="360" y="662" fill="#777" font-size="11" text-anchor="middle">A3–A5 · S5→S4 · siting / management-led</text>
 </svg>

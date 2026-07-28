@@ -34,7 +34,7 @@ book:
 
 bibliography: references.bib
 
-# The lexicon carries its own section numbering (1, §1.4, S1–S4); keep Quarto's
+# The lexicon carries its own section numbering (1, §1.4, S1–S5); keep Quarto's
 # auto-numbering off so it does not double up.
 format:
   html:

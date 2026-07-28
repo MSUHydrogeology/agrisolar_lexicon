@@ -25,12 +25,12 @@ farmstead to regional that most other terms are read against. Scale determines w
 economically, and institutionally possible before design begins.
 
 **[The Sharing–Sparing Axis](chapters/2-the-sharingsparing-axis.qmd)** — whether the
-array shares land with production or spares land by taking low-value ground out of it.
+array shares land with production, spares land by taking ground out of it, or neither.
 
 **[Design Pressures](chapters/3-design-pressures.qmd)** — the competing forces every
 site must settle. This is where the document takes sides, on purpose — pressures are meant to pull in a direction.
 
-The four design templates in circulation are not the object of this lexicon. They are
+The design templates in circulation are not the object of this lexicon. They are
 **[archetypes](chapters/6-archetypes.qmd)** — ways the pressures have been resolved
 at particular scales and sharing postures.
 

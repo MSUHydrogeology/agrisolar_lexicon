@@ -2,10 +2,12 @@
 
 This is a draft design language, not a finished standard. The most useful contributions are:
 
-**Counterexamples.** The document makes at least one falsifiable claim — that land *sparing* (S4)
-is largely unavailable at utility scale (A5), because siting there is governed by contiguous land
-assembly. A documented project that contradicts this is valuable. Please include what fraction of
-the footprint is genuinely marginal ground.
+**Counterexamples.** The document makes at least one falsifiable claim — that *idled-land sparing*
+(S4) is largely unavailable at utility scale (A5), because siting there is governed by contiguous
+land assembly. The sharp version: a utility-scale S4 project assembled from *scattered* marginal
+remnants on ordinary farmland, rather than the uniformly pre-disturbed ground (brightfields) the
+standing exception already allows. A documented project of that kind is valuable. Please include
+what fraction of the footprint is genuinely marginal ground.
 
 **Terms in use that are missing.** If practitioners in your region use a term this lexicon lacks,
 open an issue with the term, a working definition, and where you have seen it used.
