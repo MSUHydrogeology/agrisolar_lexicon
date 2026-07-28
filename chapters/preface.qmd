@@ -12,7 +12,7 @@ The lexicon is therefore descriptive about how sites are built and openly commit
 2. **The Sharing–Sparing Axis** — whether the array shares land with production, spares land by taking ground out of it, or neither. Five positions, centred on the neither — where what makes a project restorative is that it keeps a farm farming. Independent of scale in principle, though not entirely in practice (see §2.2).
 3. **Design Pressures** — the competing forces every site must settle. This is where the document takes sides, on purpose — pressures are meant to pull in a direction.
 
-Four figures carry the argument: the transect (@fig-transect), the mode shift across it (@fig-siting), the feasible region formed with the sharing–sparing axis (@fig-wedge), and the pressures themselves (@fig-pressures). Source SVGs are in `figures/` and may be reused independently.
+Four figures carry the core argument: the transect (@fig-transect), the mode shift across it (@fig-siting), the feasible region formed with the sharing–sparing axis (@fig-wedge), and the pressures themselves (@fig-pressures). Three more support the later chapters — the SCALE footprint (@fig-scale), the spatial vocabulary (@fig-terminology), and the archetype profiles (@fig-archetypes). Source SVGs are in `figures/` and may be reused independently.
 
 The design templates in circulation are not the object of this lexicon. They are **archetypes** — ways the pressures have been resolved, at particular scales and sharing postures. Naming the forces is what lets a fifth, sixth, and twentieth archetype be described in the same language.
 

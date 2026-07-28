@@ -248,12 +248,9 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 *Yielded:* some generation yield (sites are constrained).
 *Signature levers:* placement on reclaimed mine land, landfills, and brownfields; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
-## Associated Terminology {#sec-arch-terms}
+## Terms {#sec-arch-terms}
 
-Defined here (this section is their collection point):
-
-**Archetype** — A way the [design pressures](3-design-pressures.qmd#sec-pressures-ch) have been resolved at a particular scale zone and sharing position; the featured archetypes and further Types above are archetypes, not the object of the lexicon.
-
-**Featured archetype** — one of the six canonical archetypes developed in depth here, in scale order (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each carrying a worked real-world *Application*. A curatorial label, not a claim that these six are more valid than the [further archetypes](#sec-further-types).
+Terms introduced in this section are defined in the [Terminology](5-general-terminology.qmd) chapter (§5), under [Archetypes](5-general-terminology.qmd#sec-terms-archetypes), alongside every other term the document defines.
 
 ---
+
