@@ -1,6 +1,6 @@
 # 1. The Scale Transect {#sec-transect}
 
-### 1.1 Why scale, and why a transect rather than bins {#sec-transect-why}
+### 1.1 A gradient, not a set of size bins {#sec-transect-why}
 
 A transect works because it is not one variable. It is a **bundle of covarying attributes** — several features moving together along one gradient — so naming a zone tells you many things at once. (An ecological transect from shore to upland shifts soil, moisture, and vegetation all together in just this way.)
 
@@ -44,7 +44,7 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 
 **Calibration note.** Capacity bands are indicative for the US Midwest and should be re-calibrated regionally. The zone is defined by the attribute bundle, not the megawatts.
 
-### 1.3 Why the transect earns its place {#sec-grazing}
+### 1.3 One practice, three design problems {#sec-grazing}
 
 Take one ground-layer function — **sheep grazing** — across the zones. The literature shows it is not one practice:
 
@@ -56,13 +56,11 @@ Take one ground-layer function — **sheep grazing** — across the zones. The l
 
 > *Citation caution.* These figures circulate widely in secondary sources with the activity labels transposed — the mowing cost incurred *at* grazing sites is frequently reported as the cost *of* grazing, and per-acre figures are converted to per-hectare without relabeling. A concrete, good-faith instance: @stewart2025 report McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 that number is the median *mowing* cost at sheep-grazed sites — the grazing activity itself ran a median of about $50/acre/yr. The two readings coexist in the primary literature and the per-hectare conversion compounds the ambiguity; McCall's own Table 4 is the arbiter, so practitioners quoting these figures should go to @mccall2023 directly.
 
-Same term. Three different design problems. That is the work the transect does.
+Same term, three different design problems. A conversation about "solar grazing" that does not say which zone it means is three conversations at once.
 
 ### 1.4 Siting latitude and the restoration mode shift {#sec-siting-latitude}
 
-One attribute needs its own section, because it decides *which restorative levers are even on the table*.
-
-**Siting latitude** is the designer's freedom over where the array goes. What governs that choice migrates as one climbs the transect:
+One attribute in the bundle decides *which restorative levers are even on the table*: **siting latitude**, the designer's freedom over where the array goes. What governs that choice migrates as one climbs the transect:
 
 | Zone | What governs siting | Locus of control |
 |---|---|---|
@@ -71,7 +69,7 @@ One attribute needs its own section, because it decides *which restorative lever
 | **A3** | Strategic — consistently low-yielding ground, hydrologic features, buffer geometry | Developer and landowner in deliberate concert |
 | **A4–A5** | Land assembly — contiguous acreage, substation proximity, queue position; shaped at the edges by prime-farmland rules, where opposition is likely, and which communities benefit | The land market and grid topology, mediated by policy veto points |
 
-This scale-dependence of *what governs siting* is a through-line of the agroenergy literature: at the farmstead, profit and opportunism; at the community scale, the distribution of benefit and the risk of opposition; at the regional scale, energy demand and grid topology; at the state and national scale, policy. The transect encodes that migration as a single gradient rather than four separate conversations.
+This scale-dependence of *what governs siting* is a through-line of the agroenergy literature: at the farmstead, profit and opportunism; at the community scale, the distribution of benefit and the risk of opposition; at the regional scale, energy demand and grid topology; at the state and national scale, policy. One migration along a single gradient, rather than four separate conversations.
 
 **The upshot: as sites get bigger, restoration doesn't fade — it changes how it's delivered.** As siting latitude falls, the way you deliver added benefit shifts from *where the array is placed* to *how it is run*. The management tools move the other way: contract grazing, professional habitat planting, and dedicated maintenance don't exist below a certain size and are routine above it. A forty-acre owner cannot profitably retain a contract grazier; a thousand-acre site can, and gets seeded establishment and monitoring besides.
 
@@ -85,7 +83,7 @@ The two therefore cross somewhere between A3 and A4. This yields three restorati
 
 This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing, while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
 
-**Siting latitude peaks at A2–A3 rather than falling steadily from A1.** Something binds at both ends of the transect: at A5 it is the land market and the grid, and at A1 it is the parcel boundary. The farmstead operator answers to no one, but has almost no ground to choose among — [barnyard shelter solar](6-archetypes.qmd#arch-barnyard) (§6) goes where the yard, the herd, and the service drop already are. That is opportunistic placement, which is real but is not strategic latitude: the freedom to select ground *for* what it can do. Only in the middle zones does a designer have both enough land to choose among and enough control to choose deliberately — which is why the two archetypes that restore by choice of ground, [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) and [marginal land solar](6-archetypes.qmd#arch-marginal), both live there.
+**Latitude peaks in the middle zones, at A2–A3.** Something binds at both ends of the transect: at A5 it is the land market and the grid, and at A1 it is the parcel boundary. The farmstead operator answers to no one, but has almost no ground to choose among — [barnyard shelter solar](6-archetypes.qmd#arch-barnyard) (§6) goes where the yard, the herd, and the service drop already are. That is opportunistic placement, which is real but is not strategic latitude: the freedom to select ground *for* what it can do. Only in the middle zones does a designer have both enough land to choose among and enough control to choose deliberately — which is why the two archetypes that restore by choice of ground, [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) and [marginal land solar](6-archetypes.qmd#arch-marginal), both live there.
 
 ### Associated Terminology
 

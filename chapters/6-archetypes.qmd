@@ -4,7 +4,7 @@ The recurring resolutions — combinations of competing pressures settled at a p
 
 **Overhead and interspace — the two hardware types beneath the archetypes.** The field's engineering standards (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy) sort agrivoltaic hardware into **overhead** systems — modules elevated *above* the working surface, the vegetable-agrivoltaics case — and **interspace** systems — modules mounted low with the crop or cover *between* the rows, the vertical-bifacial and grazing cases. That typology classifies the *structure*; the archetypes here classify the *resolution of pressures*. The two registers are complementary, not rival: one structural class can appear in several archetypes, and one archetype can be built in more than one class.
 
-This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **seven further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region. That they happen to cover it is a result, not a selection rule: an archetype is featured here because it recurs in the field and carries at least one documented case, and the mid scales hold the most because that is where the freedom to choose the ground and the freedom to manage it overlap. A form that looks promising but is not yet documented as recurring belongs among the further archetypes, marked as emerging — the set is meant to grow and be corrected, not to fill a diagram. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
+This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **seven further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region, and the mid scales hold the most because that is where the freedom to choose the ground and the freedom to manage it overlap. An archetype is featured here if it recurs in the field and carries at least one documented case; a form that looks promising but is not yet documented as recurring appears among the further archetypes, marked as emerging. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
 
 ## What appears at each scale {#sec-by-zone}
 
@@ -188,9 +188,9 @@ No archetype fills every domain, and none is meant to: the profiles differ becau
 
 ## Further archetypes in current circulation {#sec-further-types}
 
-Four more archetypes, sketched rather than fully developed — the same language applied to configurations the featured five do not cover.
+Seven more archetypes, sketched rather than fully developed — the same language applied to configurations the featured six do not cover.
 
-Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) despite carrying rich ecological ground layers, and that is not a contradiction: their position records that ordinary ground was given over to the array, while the pollinator planting or restored grassland is a [restorative function](4-restorative-functions.qmd) layered on top of it (§2.1, §4).
+Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carrying rich ecological ground layers: the position records that ordinary ground was given over to the array, and the pollinator planting or restored grassland is a [restorative function](4-restorative-functions.qmd) layered on top of it (§2.1, §4).
 
 ### Vertical-Bifacial Cropland Array {#arch-vertical-bifacial}
 

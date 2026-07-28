@@ -1,6 +1,8 @@
 # 3. Design Pressures {#sec-pressures-ch}
 
-**The heart of the document.** Every site is a [settlement](6-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. These are not axes — they have direction, they conflict, and people advocate for them. That is what makes them pressures.
+Every site is a [settlement](6-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. Pressures are not axes: they have direction, they conflict, and real parties advocate for them. A developer arguing for cost and a township arguing for setbacks are not misunderstanding each other — they are pulling opposite ways on the same design.
+
+Naming the forces separately is what lets a disagreement be located. Most disputes that present as a clash of values resolve into two legitimate pressures meeting in a single decision about clearance, ground cover, or a fence line, and the pressure that was quietly yielded is usually the one worth arguing about.
 
 ### 3.1 The pressures {#sec-pressures}
 
@@ -18,13 +20,13 @@
 
 **Offtake conformity** — satisfy whoever is buying: the electricity, the renewable-energy credits, or the tax benefits. Pulls toward whatever the buyer scores. This is how outside parties push their requirements onto a design.
 
-**Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. It passes the pressure test — it has direction, it conflicts, and real parties advocate it: counties requiring [decommissioning](5-general-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the point.
+**Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. Its constituency is concrete: counties requiring [decommissioning](5-general-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the whole point of accepting an array at all.
 
 ![Eight competing forces resolving into one site design; the eighth is decommissioning & reversibility. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](../figures/fig_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
-The lexicon earns its keep by naming these conflicts plainly instead of letting them show up as vague friction.
+Named plainly, these conflicts can be argued on their merits. Unnamed, they surface late and as vague friction — a permit that stalls, a seed mix quietly value-engineered out.
 
 **Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/[ecovoltaics](5-general-terminology.qmd#term-ecovoltaics) dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
 
@@ -58,7 +60,7 @@ The adjustable choices a designer uses to settle the pressures. They come in sep
 
 The levers are not equally available at every scale. Some are live degrees of freedom for a farmstead and all but fixed for a utility project; others barely exist until a project is large enough to have a jurisdiction and an interconnection queue. The matrix below transposes the [zone bundle](1-the-scale-transect.qmd#sec-zones) (§1.2) onto the levers: read **down a column** for the degrees of freedom a designer actually holds at that zone, and **across a row** for how one lever's character migrates along the transect.
 
-**Descriptive, not a standard.** Unlike a code that sets *required* values by zone, this matrix only records what is *typical and available*. No cell prescribes a clearance, a seed mix, or an ownership model; each names the character a lever tends to take and how much latitude remains. It is a map of where the design freedom lives, not a code.
+**Descriptive, not a standard.** The matrix records what is *typical and available*, not what is required. No cell prescribes a clearance, a seed mix, or an ownership model; each names the character a lever tends to take at that zone, and how much latitude is left in it.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
@@ -80,7 +82,7 @@ The levers are not equally available at every scale. Some are live degrees of fr
 
 **The through-line.** Reading left to right, the real freedom shifts. At the small end the **structural** levers are a designer's real freedom — clearance, row geometry, even module technology can be tuned to a crop. Through the middle (A2–A3) **siting latitude** peaks: the choice of *which ground* is the most powerful restorative lever available, which is why [siting-led restoration](1-the-scale-transect.qmd#sec-siting-latitude) belongs here (§1.4). At the large end the structural and siting choices harden into standardized bulk buying and land assembly, and the **management and institutional** levers — the ground-cover regime, the community-benefit structure — carry whatever restoration the project will deliver. The matrix is the [restoration-mode shift](1-the-scale-transect.qmd#sec-siting-latitude) seen lever by lever: structure- and siting-led at small and middle scale, management-led at large scale.
 
-**What it is not.** The institutional rows (ownership, offtake, community benefit) largely restate the covarying bundle already given by the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2); they are here so the three lever families stay whole, not as new claims. The work the matrix does is in the structural and land rows — the ones the zone table does not carry — and in reading all of them as *latitude* rather than as fixed attributes of a zone.
+**Reading note.** The institutional rows restate the covarying bundle already given by the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2); the structural and land rows carry what the zone table does not. Read every cell as *latitude* — how much freedom is left in that lever — rather than as a fixed attribute of the zone.
 
 ### Associated Terminology
 
