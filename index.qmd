@@ -92,7 +92,7 @@ agricultural production, **spare** land by taking ground out of it — or neithe
 | **S5 — Impaired-land retirement** | Production ends on ground that was carrying a burden off-site |
 :::
 
-The centre of the axis is the honest one: most solar on farmland is neither sharing nor
+The center of the axis is the honest one: most solar on farmland is neither sharing nor
 sparing. **S3** exists to say so — and to mark the difference between a lease that keeps a
 working farm solvent and a conversion that simply ends an operation. A position describes the
 ground, never the goodness of the project. Cropping directly under or between the panels is on
@@ -146,14 +146,14 @@ up, which the document calls the pressures it *yields*.
 ::: {.example}
 **Solar prairie strips** are a **parcel-scale (A3)** form that retires the strip ground
 (**S5**), planted where the field sheds its water, carrying **hydrologic** and
-**biodiversity** functions. They resolve in favour of **restorative ambition** and **social
+**biodiversity** functions. They resolve in favor of **restorative ambition** and **social
 license**, and yield a little **generation** to the prairie.
 :::
 
 ::: {.example}
 A **forty-kilowatt array over the barnyard**, shading the farm's own cows, is
 **farmstead-scale (A1)** and **shares the ground (S1–S2)** with the animals already there.
-It resolves in favour of **agricultural continuity** and **operational simplicity**, and yields
+It resolves in favor of **agricultural continuity** and **operational simplicity**, and yields
 **generation at scale** — the array is sized to the farm, not to the grid.
 :::
 

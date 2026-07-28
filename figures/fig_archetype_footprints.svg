@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" font-family="Helvetica, Arial, sans-serif">
 <rect width="720" height="960" rx="10" fill="#ffffff"/>
-<text x="360" y="34" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">SCALE footprint — regeneration at the centre, depletion at the rim (a lighter footprint sits nearer the middle)</text>
+<text x="360" y="34" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">SCALE footprint — regeneration at the center, depletion at the rim (a lighter footprint sits nearer the middle)</text>
 
 <!-- Barnyard Shelter Solar (row 1, left) -->
 <polygon points="190.0,185.6 214.4,210.0 190.0,234.4 165.6,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>

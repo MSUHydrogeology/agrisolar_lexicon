@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="660" viewBox="0 0 820 660" role="img" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
-<title>The lexicon vocabulary anchored across two scales — a parcel plan and an array section — with restorative functions in colour</title>
-<desc>A two-panel landscape-architecture plate. Top: parcel-scale plan, siting-led restoration, with footprint nested in an asymmetric influence zone, screening, hydrology, viewshed, community benefit and fragmentation. Bottom: array-scale section, structure- and management-led restoration, with module technology, pore space, inter-row, tracking, ground layer, microclimate and the integration couplings. Five restorative functions are colour-coded and keyed.</desc>
+<title>The lexicon vocabulary anchored across two scales — a parcel plan and an array section — with restorative functions in color</title>
+<desc>A two-panel landscape-architecture plate. Top: parcel-scale plan, siting-led restoration, with footprint nested in an asymmetric influence zone, screening, hydrology, viewshed, community benefit and fragmentation. Bottom: array-scale section, structure- and management-led restoration, with module technology, pore space, inter-row, tracking, ground layer, microclimate and the integration couplings. Five restorative functions are color-coded and keyed.</desc>
 <style>
 .h1{font-size:15px;font-weight:700;fill:#34402f}
 .h2{font-size:10px;fill:#8a8880}
@@ -18,7 +18,7 @@
 </style>
 
 <text class="h1" x="30" y="28">Anchoring the vocabulary — the lexicon across two scales</text>
-<text class="h2" x="30" y="43">structure terms in charcoal · restorative functions in colour · footprint is the shared anchor</text>
+<text class="h2" x="30" y="43">structure terms in charcoal · restorative functions in color · footprint is the shared anchor</text>
 
 <!-- ===== PANEL 1 FRAME : PARCEL PLAN ===== -->
 <rect class="frame" x="22" y="54" width="776" height="250" rx="6"/>

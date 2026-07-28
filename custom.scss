@@ -3,7 +3,7 @@
 // Shared scale-transect palette (A1→A5, light→dark), lifted from
 // figures/fig_scale_transect.svg so the tables match the figures.
 // Zone greens:  A1 #EAF3DE · A2 #DCEBC8 · A3 #C0DD97 · A4 #AED483 · A5 #97C459
-// Greys:        header #d3d1c7 · sub-header #e8e6dd · accent green #639922
+// Grays:        header #d3d1c7 · sub-header #e8e6dd · accent green #639922
 
 // Wide tables scroll inside their own container rather than the page body.
 #tbl-lever-matrix,
@@ -26,7 +26,7 @@
   vertical-align: top;
 }
 
-// grey header row, with a green accent bar previewing the zone columns
+// gray header row, with a green accent bar previewing the zone columns
 #tbl-lever-matrix thead th {
   background-color: #d3d1c7;
   color: #2c2c2a;
@@ -45,7 +45,7 @@
 // lever-name column: subtle neutral
 #tbl-lever-matrix tbody td:first-child { background-color: #f6f5f1; }
 
-// grey sub-header rows (Structural / Land & ecology / Institutional)
+// gray sub-header rows (Structural / Land & ecology / Institutional)
 #tbl-lever-matrix tbody tr:nth-child(2) td,
 #tbl-lever-matrix tbody tr:nth-child(6) td,
 #tbl-lever-matrix tbody tr:nth-child(10) td {
