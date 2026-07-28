@@ -39,6 +39,10 @@ than among its accidents — and it argues that position rather than assuming it
 is written for: the farmers, community decision-makers, and solar professionals who actually
 make these decisions.
 
+A net-zero grid by 2050 would put solar on 60,000–90,000 km² of land — about 1% of the
+contiguous United States, or a third of the ground its cities occupy [@larson2021]. Most of
+it will be farmland.
+
 ## The design language, in brief
 
 Three structural devices carry the document — scale, sharing–sparing, and pressures — and two
@@ -90,7 +94,9 @@ agricultural production, **spare** land by taking ground out of it — or neithe
 The centre of the axis is the honest one: most solar on farmland is neither sharing nor
 sparing. **S3** exists to say so — and to mark the difference between a lease that keeps a
 working farm solvent and a conversion that simply ends an operation. A position describes the
-ground, never the goodness of the project.
+ground, never the goodness of the project. Cropping directly under or between the panels is on
+the order of 2% of US installations [@stid2022; @macknick2022] — an axis that covered only
+agrivoltaics would miss nearly everything built.
 
 ### What pulls on a design — the design pressures (§3) {#sec-intro-pressures}
 

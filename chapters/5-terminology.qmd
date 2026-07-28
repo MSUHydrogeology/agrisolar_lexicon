@@ -260,7 +260,7 @@ A production-based term: co-location that keeps *active agricultural production*
 
 #### Restorative {#term-restorative}
 
-The frame of this entire lexicon rather than a dimension within it. Applied when ecological, hydrological, or economic ground-layer function is a design objective co-equal with generation, not an incidental byproduct. Conventional arrays deliver co-benefits inadvertently or through patchwork policy compliance; *restorative* names the deliberate alternative.
+The frame of this entire lexicon rather than a dimension within it. Applied when ecological, hydrological, or economic ground-layer function is a design objective co-equal with generation, not an incidental byproduct. US arrays are designed primarily to maximize output and minimize cost; co-benefits arrive incidentally or through a patchwork of state and local policy [@hernandez2014; @mccall2023]. *Restorative* names the deliberate alternative.
 
 #### Co-location vs. Integration {#term-colocation-integration}
 

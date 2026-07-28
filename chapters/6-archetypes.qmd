@@ -117,7 +117,7 @@ Solar prairie strips have two distinct layers: a strip of prairie that captures 
 
 They go in where a field sheds its water: along the contour, down the low draws, around the wet corners, sometimes circling a restored wetland. The panels stand among the grasses rather than over bare or mown ground. Big bluestem, coneflower, and milkweed root deep, holding the soil and slowing the water while the array shares their ground. How much prairie, and where, is a measured decision — enough to soak up a given storm, catch the sediment, keep nitrogen out of the creek. Where runoff must be intercepted the prairie runs in narrow bands across the slope; where a low field or a wetland edge already collects the water, it widens into blocks.
 
-The pattern is not new. It comes from the STRIPS research, which found that converting as little as a tenth of a field to native prairie, set exactly where the water runs, can cut soil loss by more than ninety percent and sharply reduce the nitrogen and phosphorus that leave with it (Schulte et al. 2017). The solar is simply what keeps that patch worth planting. It asks for a place where clean water is paid for, and it does not carry to utility scale, where no one gets to choose the ground.
+The pattern is not new. It comes from the STRIPS research, which found that converting as little as a tenth of a field to native prairie, set exactly where the water runs, can cut soil loss by more than ninety percent and sharply reduce the nitrogen and phosphorus that leave with it [@schulte2017]. The solar is simply what keeps that patch worth planting. It asks for a place where clean water is paid for, and it does not carry to utility scale, where no one gets to choose the ground.
 
 *Dominant pressures: restorative ambition, social license. Yielded: a little generation, to the prairie.*
 
@@ -140,7 +140,7 @@ The pattern is not new. It comes from the STRIPS research, which found that conv
 
 Regenerative solar grazing has two layers doing complementary work: a flock — usually sheep — that eats the vegetation the array would otherwise pay to mow, and the panels above and among them that make the power. Managed well, the animals are more than a mower on legs; moved across the site on a planned rotation, they trample litter, cycle nutrients, and can leave the soil better than they found it, so the ground cover turns into habitat and the grazing into a small regenerative enterprise.
 
-This is a large-scale practice, and its vegetation is a service rather than the landowner's own farming: a contract grazier brings the flock, the security fence doubles as the paddock, interior fencing and gates lay out the rotation, and clearance height and water points decide what stock can work beneath the modules. The tension is over the calendar — the array wants its grass held low on its own schedule, the shepherd needs to move animals on the flock's, and the regenerative version asks the site to graze for soil and sward health, not only for a tidy sightline. It reaches cost parity with mowing rather than beating it outright, and where the understory is native and well-managed the ground can gain soil carbon over the array's life instead of merely holding steady [@krasner2025].
+This is a large-scale practice, and its vegetation is a service rather than the landowner's own farming: a contract grazier brings the flock, the security fence doubles as the paddock, interior fencing and gates lay out the rotation, and clearance height and water points decide what stock can work beneath the modules. The tension is over the calendar — the array wants its grass held low on its own schedule, the shepherd needs to move animals on the flock's, and the regenerative version asks the site to graze for soil and sward health, not only for a tidy sightline. It reaches cost parity with mowing rather than beating it outright [@mccall2023], and where the understory is native and well-managed the ground can gain soil carbon over the array's life instead of merely holding steady [@krasner2025].
 
 *Dominant pressures: generation yield, operational simplicity. Yielded: the farm's own agricultural continuity — the grazing is a tenancy, not the operation.*
 
@@ -161,13 +161,13 @@ This is a large-scale practice, and its vegetation is a service rather than the 
 :::
 *Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · retires impaired irrigated ground [S5](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by relieving the water budget*
 
-Water-sustainability solar has two layers in a subtractive relationship: the array, which needs no irrigation, and the aquifer beneath it, which the array is placed to stop draining. Where irrigated farming has been pulling more water than the ground can replace, converting those fields to solar simply ends the demand. The restoration is not something added to the site — it is something that stops happening to the water.
+Water-sustainability solar has two layers in a subtractive relationship: the array, which needs no irrigation, and the aquifer beneath it, which the array is placed to stop draining. Where irrigated farming has been pulling more water than the ground can replace, converting those fields to solar simply ends the demand [@stid2025]. The restoration is not something added to the site — it is something that stops happening to the water.
 
-The logic only works where the overdraft is real, measured, and governed. It needs an aquifer stressed enough that retired demand is worth more than the crop, a regulatory regime that makes the saving count rather than letting a neighbour pump it, and ground whose farming was marginal on its own terms — drainage-impaired, salt-affected, or expensive to irrigate — so retirement is not simply taking good land out of food production. That combination is regional rather than scattered, which is why this is the one removal archetype that scales: where a whole district is over its budget there is no cherry-picking to do, and retirement and utility scale stop fighting each other (§2.2). Food production is deliberately let go here, and the archetype should be read as making that trade openly rather than avoiding it.
+The logic only works where the overdraft is real, measured, and governed. It needs an aquifer stressed enough that retired demand is worth more than the crop, a regulatory regime that makes the saving count rather than letting a neighbour pump it [@zwickle2021], and ground whose farming was marginal on its own terms — drainage-impaired, salt-affected, or expensive to irrigate — so retirement is not simply taking good land out of food production. That combination is regional rather than scattered, which is why this is the one removal archetype that scales: where a whole district is over its budget there is no cherry-picking to do, and retirement and utility scale stop fighting each other (§2.2). Food production is deliberately let go here, and the archetype should be read as making that trade openly rather than avoiding it.
 
 *Dominant pressures: restorative ambition (a water-quantity target), capital discipline. Yielded: agricultural production, by design.*
 
-**Westlands Solar Park, San Joaquin Valley, California** — part of a plan to convert up to ~136,000 acres of drainage-impaired, previously-irrigated land to solar and storage under California's Sustainable Groundwater Management Act; because the panels use no water, retiring the fields eases the overdraft that irrigated farming had driven. *Figures are developer- and program-reported; see [Sources](sources.qmd).*
+**Westlands Solar Park, San Joaquin Valley, California** — part of a plan to convert up to ~136,000 acres of drainage-impaired, previously-irrigated land to solar and storage under California's Sustainable Groundwater Management Act; because the panels use no water, retiring the fields eases the overdraft that irrigated farming had driven [@stid2022]. *Figures are developer- and program-reported; see [Sources](sources.qmd).*
 
 ## Archetypes across the SCALE domains {#sec-archetype-domains}
 
@@ -204,9 +204,9 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 [A3](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [social license](3-design-pressures.qmd#sec-pressures), [restorative ambition](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [offtake conformity](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel).
+*Dominant pressures:* [social license](3-design-pressures.qmd#sec-pressures), [restorative ambition](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [offtake conformity](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel [@epri2021]).
 *Yielded:* some [operational simplicity](3-design-pressures.qmd#sec-pressures) during the multi-year establishment.
-*Signature levers:* whole-site native [ground-layer](5-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom.
+*Signature levers:* whole-site native [ground-layer](5-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom [@blaydes2022].
 
 ### Native-Grassland Utility Array {#arch-native-grassland}
 
@@ -214,7 +214,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 *Dominant pressures:* generation yield, restorative ambition (grassland restoration [@walston2025]).
 *Yielded:* agricultural continuity.
-*Signature levers:* native seed mix, deferred/rotational mowing, soil-carbon establishment [@krasner2025]. The characteristic large-scale [convergence case](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
+*Signature levers:* native seed mix, deferred/rotational mowing, soil-carbon establishment [@krasner2025; @carvalho2024]. The characteristic large-scale [convergence case](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
 ### Recharge Enhancement Array {#arch-recharge}
 
@@ -222,7 +222,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 *Dominant pressures:* [restorative ambition](3-design-pressures.qmd#sec-pressures) (a water-quantity target), farm economic resilience.
 *Yielded:* some [generation yield](3-design-pressures.qmd#sec-pressures) (corners are small and awkwardly shaped).
-*Signature levers:* placement on ground already out of production where infiltration can be increased — characteristically the dry corners a centre-pivot never reaches — with ground-layer and grading chosen to move rainfall downward rather than off. The supply-side counterpart to [water-sustainability solar](#arch-water): where that one subtracts demand at scale, this one adds recharge on ground already out of production, and the pivot circle keeps farming beside it. **Emerging rather than established** — Kansas Geological Survey, Kansas State, and Michigan State researchers are testing the approach over the Ogallala; it is included as a named pathway to watch, not a documented recurring form.
+*Signature levers:* placement on ground already out of production where infiltration can be increased — characteristically the dry corners a centre-pivot never reaches — with ground-layer and grading chosen to move rainfall downward rather than off [@yavari2022]. The supply-side counterpart to [water-sustainability solar](#arch-water): where that one subtracts demand at scale, this one adds recharge on ground already out of production, and the pivot circle keeps farming beside it. **Emerging rather than established** — Kansas Geological Survey, Kansas State, and Michigan State researchers are testing the approach over the Ogallala; it is included as a named pathway to watch, not a documented recurring form.
 
 ### Linear Infrastructure Array {#arch-linear}
 
@@ -246,7 +246,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 *Dominant pressures:* capital discipline (uniformly low-value ground), social license (reuse of degraded land).
 *Yielded:* some generation yield (sites are constrained).
-*Signature levers:* placement on reclaimed mine land, landfills, and brownfields; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
+*Signature levers:* placement on reclaimed mine land, landfills, and brownfields [@hernandez2019]; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
 ## Terms {#sec-arch-terms}
 

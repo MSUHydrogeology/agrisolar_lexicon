@@ -4,7 +4,7 @@
 
 A transect works because it is not one variable. It is a **bundle of covarying attributes** — several features moving together along one gradient — so naming a zone tells you many things at once. (An ecological transect from shore to upland shifts soil, moisture, and vegetation all together in just this way.)
 
-Agroenergy scale behaves identically, and the literature confirms that capacity alone is a poor definition. Utility-scale solar is defined by its **role in the power system**, not by any universal threshold: SEIA puts the line above 1 MW, NREL uses 5 MW, and New York's permitting regime designates 25 MW+ as major renewable energy facilities. Community solar muddies the line further: it connects to the grid at fairly large sizes yet is still billed like small distributed systems.
+Agroenergy scale behaves identically, and capacity alone is a poor definition. Utility-scale solar is defined by its **role in the power system**, not by any universal threshold: SEIA puts the line above 1 MW, NREL uses 5 MW, and New York's permitting regime designates 25 MW+ as major renewable energy facilities. Community solar muddies the line further: it connects to the grid at fairly large sizes yet is still billed like small distributed systems.
 
 So the transect is defined by covarying bundles, with nameplate capacity as an **indicator, not a definition**. The attributes that move together:
 
@@ -81,7 +81,7 @@ The two therefore cross somewhere between A3 and A4. This yields three restorati
 
 ![Siting latitude and management leverage move in opposite directions and cross between A3 and A4. Restoration does not diminish with scale so much as change instrument.](../figures/fig_siting_latitude.svg){#fig-siting}
 
-This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing, while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
+This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing [@macknick2022; @boggis2020], while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
 
 **Latitude peaks in the middle zones, at A2–A3.** Something binds at both ends of the transect: at A5 it is the land market and the grid, and at A1 it is the parcel boundary. The farmstead operator answers to no one, but has almost no ground to choose among — [barnyard shelter solar](6-archetypes.qmd#arch-barnyard) (§6) goes where the yard, the herd, and the service drop already are. That is opportunistic placement, which is real but is not strategic latitude: the freedom to select ground *for* what it can do. Only in the middle zones does a designer have both enough land to choose among and enough control to choose deliberately — which is why the two archetypes that restore by choice of ground, [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) and [marginal land solar](6-archetypes.qmd#arch-marginal), both live there.
 
