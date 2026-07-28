@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="474" viewBox="0 0 880 474" role="img">
+<title>How the design language fits together</title>
+<desc>Three inputs — the scale transect, the sharing–sparing axis, and the design pressures — resolve into an archetype, which carries restorative functions. Regionality sets the weight each pressure carries, so the same three inputs resolve differently in different places.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.ct{font-size:14.5px;font-weight:600;fill:#2c2c2a}
+.cs{font-size:12px;fill:#5f5e5a}
+.cc{font-size:11px;fill:#75736c}
+.chip{font-size:10.5px;font-weight:500;fill:#173404}
+.chipd{font-size:10.5px;font-weight:500;fill:#23304a}
+.chipp{font-size:10.5px;font-weight:500;fill:#33234a}
+.rt{font-size:15px;font-weight:600;fill:#2c2c2a}
+.rs{font-size:12px;fill:#5f5e5a}
+.fn{font-size:11px;fill:#3d3d3a}
+.eyebrow{font-size:10.5px;font-weight:600;fill:#8a8880;letter-spacing:0.06em}
+.card{fill:none;stroke:#d3d1c7;stroke-width:1}
+.join{stroke:#b4b2a9;stroke-width:1.4;fill:none}
+@media (prefers-color-scheme:dark){
+  .ct{fill:#e8e6dd}.cs{fill:#9c9a92}.cc{fill:#8a8880}
+  .rt{fill:#e8e6dd}.rs{fill:#9c9a92}
+  .card{stroke:#5f5e5a}.join{stroke:#6f6d66}.eyebrow{fill:#75736c}
+  /* .fn is deliberately NOT re-coloured: the function chips keep light fills in
+     both modes, so their text must stay dark to remain legible. */
+}
+</style>
+
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">
+  <path d="M0,1 L9,5 L0,9 z" fill="#b4b2a9"/>
+</marker>
+<marker id="ap" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#C08A12"/>
+</marker>
+</defs>
+
+<!-- ============ input card 1 : scale ============ -->
+<rect class="card" x="10" y="34" width="266" height="172" rx="7"/>
+<text class="eyebrow" x="28" y="58">WHERE IT SITS</text>
+<text class="ct" x="28" y="80">Scale</text>
+<text class="cs" x="28" y="99">the farmstead-to-region gradient</text>
+
+<rect x="28" y="116" width="44" height="30" rx="4" fill="#EAF3DE" stroke="#639922" stroke-width="0.5"/>
+<rect x="74" y="116" width="44" height="30" rx="4" fill="#DCEBC8" stroke="#639922" stroke-width="0.5"/>
+<rect x="120" y="116" width="44" height="30" rx="4" fill="#C0DD97" stroke="#639922" stroke-width="0.5"/>
+<rect x="166" y="116" width="44" height="30" rx="4" fill="#AED483" stroke="#639922" stroke-width="0.5"/>
+<rect x="212" y="116" width="44" height="30" rx="4" fill="#97C459" stroke="#639922" stroke-width="0.5"/>
+<text class="chip" x="50" y="135" text-anchor="middle">A1</text>
+<text class="chip" x="96" y="135" text-anchor="middle">A2</text>
+<text class="chip" x="142" y="135" text-anchor="middle">A3</text>
+<text class="chip" x="188" y="135" text-anchor="middle">A4</text>
+<text class="chip" x="234" y="135" text-anchor="middle">A5</text>
+<text class="cc" x="28" y="164">barn roof → regional complex</text>
+<text class="cc" x="28" y="184">Settles what is possible before</text>
+<text class="cc" x="28" y="198">design begins.</text>
+
+<!-- ============ input card 2 : sharing and sparing ============ -->
+<rect class="card" x="297" y="34" width="266" height="172" rx="7"/>
+<text class="eyebrow" x="315" y="58">WHAT IT COSTS THE LAND</text>
+<text class="ct" x="315" y="80">Sharing and sparing</text>
+<text class="cs" x="315" y="99">production here, and elsewhere</text>
+
+<rect x="315" y="116" width="44" height="30" rx="4" fill="#7FB3D9" stroke="#4E8CBA" stroke-width="0.5"/>
+<rect x="361" y="116" width="44" height="30" rx="4" fill="#BFDAEC" stroke="#4E8CBA" stroke-width="0.5"/>
+<rect x="407" y="116" width="44" height="30" rx="4" fill="#EFEEEA" stroke="#c9c7c0" stroke-width="0.5"/>
+<rect x="453" y="116" width="44" height="30" rx="4" fill="#D9CBE6" stroke="#8A6BB5" stroke-width="0.5"/>
+<rect x="499" y="116" width="44" height="30" rx="4" fill="#B69ED4" stroke="#8A6BB5" stroke-width="0.5"/>
+<text class="chipd" x="337" y="135" text-anchor="middle">S1</text>
+<text class="chipd" x="383" y="135" text-anchor="middle">S2</text>
+<text class="chipd" x="429" y="135" text-anchor="middle">S3</text>
+<text class="chipp" x="475" y="135" text-anchor="middle">S4</text>
+<text class="chipp" x="521" y="135" text-anchor="middle">S5</text>
+<text class="cc" x="315" y="164">sharing ← coexistence → sparing</text>
+<text class="cc" x="315" y="184">Ground kept in production here is</text>
+<text class="cc" x="315" y="198">ground not broken somewhere else.</text>
+
+<!-- ============ input card 3 : design pressures ============ -->
+<rect class="card" x="584" y="34" width="266" height="172" rx="7"/>
+<text class="eyebrow" x="602" y="58">WHAT PUSHES ON IT</text>
+<text class="ct" x="602" y="80">Design pressures</text>
+<text class="cs" x="602" y="99">eight forces, genuinely opposed</text>
+
+<line x1="806" y1="146" x2="785" y2="146" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="795.5" y1="171.5" x2="780.6" y2="156.6" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="770" y1="182" x2="770" y2="161" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="744.5" y1="171.5" x2="759.4" y2="156.6" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="734" y1="146" x2="755" y2="146" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="744.5" y1="120.5" x2="759.4" y2="135.4" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="770" y1="110" x2="770" y2="131" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<line x1="795.5" y1="120.5" x2="780.6" y2="135.4" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
+<circle cx="770" cy="146" r="6" fill="#C08A12" fill-opacity="0.25" stroke="#C08A12" stroke-width="1"/>
+<text class="cc" x="602" y="126">yield · cost · simplicity</text>
+<text class="cc" x="602" y="142">farming · restoration</text>
+<text class="cc" x="602" y="158">licence · offtake · reversal</text>
+<text class="cc" x="602" y="184">Where the document takes</text>
+<text class="cc" x="602" y="198">sides, on purpose.</text>
+
+<!-- ============ converge ============ -->
+<path class="join" d="M143 206 L143 228 Q143 238 153 238 L427 238"/>
+<path class="join" d="M430 206 L430 238"/>
+<path class="join" d="M717 206 L717 228 Q717 238 707 238 L433 238"/>
+<line class="join" x1="430" y1="238" x2="430" y2="268" marker-end="url(#ar)"/>
+<text class="eyebrow" x="446" y="256">RESOLVE INTO</text>
+
+<!-- ============ result ============ -->
+<rect class="card" x="110" y="276" width="660" height="106" rx="7"/>
+<text class="rt" x="440" y="304" text-anchor="middle">An archetype</text>
+<text class="rs" x="440" y="325" text-anchor="middle">a recurring way the three settle on real ground — and what it is made to give back</text>
+
+<rect x="146" y="340" width="112" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="266" y="340" width="126" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="400" y="340" width="112" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="520" y="340" width="106" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="634" y="340" width="112" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<text class="fn" x="202" y="357" text-anchor="middle">water</text>
+<text class="fn" x="329" y="357" text-anchor="middle">soil &amp; carbon</text>
+<text class="fn" x="456" y="357" text-anchor="middle">biodiversity</text>
+<text class="fn" x="573" y="357" text-anchor="middle">microclimate</text>
+<text class="fn" x="690" y="357" text-anchor="middle">community</text>
+
+<!-- ============ regionality band ============ -->
+<rect class="card" x="10" y="402" width="840" height="60" rx="7" stroke-dasharray="4 3"/>
+<text class="ct" x="34" y="427">Regionality</text>
+<text class="cs" x="128" y="427">The pressures are the same everywhere; their weights are not.</text>
+<text class="cs" x="34" y="449">Sun, water, crop, and utility decide how hard each one pushes — so the same three inputs settle differently in different places.</text>
+</svg>

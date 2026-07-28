@@ -1,66 +1,76 @@
 # 3. Design Pressures {#sec-pressures-ch}
 
-Every site is a [resolution](6-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. Pressures are not axes: they have direction, they conflict, and real parties advocate for them. A developer arguing for cost and a township arguing for setbacks are not misunderstanding each other — they are pulling opposite ways on the same design.
+Put the people who care about a solar project in one room and they will not agree. The developer wants it cheaper. The neighbor wants it further from the road. The farmer wants to keep cutting hay underneath. The buyer wants a certification the site does not yet meet. The county wants a bond posted before anything gets built.
 
-Naming the forces separately is what lets a disagreement be located. Most disputes that present as a clash of values resolve into two legitimate pressures meeting in a single decision about clearance, ground cover, or a fence line, and the pressure that was quietly yielded is usually the one worth arguing about.
+Each of them is right about something. These are **pressures** — the forces pushing on every site. They work differently from the two axes in §1 and §2, which only say where a project sits. Pressures push. They have a direction, they conflict, and there is always somebody arguing for each one. What a site ends up looking like is how those arguments got settled — which is what the [archetypes](6-archetypes.qmd#sec-archetypes) in §6 are.
+
+Naming them separately is what lets you find the actual disagreement. Most arguments that look like a clash of values turn out to be two reasonable pressures meeting in one specific decision: how high to set the panels, what to plant under them, where to put the fence. And the pressure that quietly lost is usually the one worth talking about.
 
 ### 3.1 The pressures {#sec-pressures}
 
-**Generation yield** — maximize energy per unit land. Pulls toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage.
+**Generation yield** — get the most electricity out of the ground. Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field. This is why a conventional array looks the way it does.
 
-**Capital discipline** — minimize installed cost per watt. Pulls toward standard racking, low clearance, minimal ground preparation, conventional geometry.
+**Capital discipline** — build it for the least money. Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes. Anything unusual costs more, and this pressure asks why it is worth it.
 
-**Operational simplicity** — minimize management burden across a 25–40 year asset life. Pulls toward uniform, mowable or gravel ground cover and predictable maintenance. *Note it can oppose capital discipline: native seeding raises capex and lowers long-run opex.*
+**Operational simplicity** — keep it easy to run for the next twenty-five to forty years. Somebody has to manage that ground every one of those years, which pushes toward cover that is simple to mow, or gravel that does not grow at all. *It can push against capital discipline rather than with it: seeding natives costs more to put in and less every year after.*
 
-**Agricultural continuity** — keep working land working. Pulls toward high clearance, equipment access, production [ground layers](5-terminology.qmd#term-ground-layer), farmer contracts.
+**Agricultural continuity** — keep working land working. Panels high enough to get a tractor under, room to turn equipment at the end of a row, something growing underneath that is worth growing, and a contract the farmer can actually operate within.
 
-**Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation [@hernandez2019]. Pulls toward wider rows, diverse ground cover, lifespan management, and operational choices made partly for the ground layer.
+**Restorative ambition** — leave the land better rather than merely less damaged, treating water, soil, habitat, and the farm's own finances as real goals alongside electricity [@hernandez2019]. It pushes for wider rows, mixed ground cover, a plan that covers all thirty years, and some choices made for the sake of what grows underneath. This is the pressure the document exists to advance. It is still one force among eight.
 
-**Social license** — secure and sustain community acceptance, and with it the community's active stake in the project. This pressure deliberately holds two forces in tension. *Acceptance* is defensive — avoiding a local veto that is often organized rather than diffuse [@crawford2022] — and pulls toward [screening](5-terminology.qmd#term-screening), farmer visibility, and genuine engagement in design. *Community benefit* is positive-sum — tax revenue, [community-benefit agreements](5-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscription, local hiring, co-ownership — which a restorative framing treats as a co-equal aim, not a nicety. The two can come apart: benefit offered without a fair process reads as a bribe and does not reliably buy acceptance [@ryder2023], so the pressure is not discharged by writing a check. They are kept under one name because they have to be advanced together.
+**Social license** — get the community to accept the project, and give them a reason to want it. Two different things share this name.
 
-**Offtake conformity** — satisfy whoever is buying: the electricity, the renewable-energy credits, or the tax benefits. Pulls toward whatever the buyer scores. This is how outside parties push their requirements onto a design.
+*Acceptance* is the defensive half: not getting stopped. Opposition is usually organized rather than a vague bad mood [@crawford2022], so this pushes toward [screening](5-terminology.qmd#term-screening), keeping a farmer visibly on the land, and asking people early enough that their answers can still change the design.
 
-**Decommissioning & reversibility** — minimize the residual footprint left after a 25–40-year asset life and preserve the option to return the ground to its prior use. Pulls toward removable / low-embedment foundations, minimal soil disturbance, and financial assurance (bonds); against permanent alteration. Its constituency is concrete: counties requiring [decommissioning](5-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom removability is the whole point of accepting an array at all.
+*Benefit* is the other half: tax revenue, [community-benefit agreements](5-terminology.qmd#term-community-benefit), good-neighbor payments, community-solar subscriptions, local hiring, part-ownership.
+
+These come apart more often than people expect. Money offered without a fair process reads as a bribe, and does not reliably buy acceptance [@ryder2023] — you cannot write a check and be finished. They stay under one name because a project has to do both.
+
+**Offtake conformity** — satisfy whoever is buying: the electricity, the renewable-energy credits, or the tax benefits. The design bends toward whatever the buyer scores. This is how a decision made in an office somewhere ends up determining what gets planted on one specific field.
+
+**Decommissioning & reversibility** — leave as little behind as possible, and keep open the option of farming the ground again. Foundations that lift out instead of staying in, less digging, and money set aside up front so removal can actually happen. Against anything permanent. Real people push for this: counties that require [decommissioning](5-terminology.qmd#term-decommissioning) bonds, and farmland-protection advocates for whom being able to undo it is the whole reason to accept an array at all.
 
 ![Eight competing forces resolving into one site design; the eighth is decommissioning & reversibility. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance — but it is a force among forces, not a coordinate to be scored against.](../figures/fig_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
-Named plainly, these conflicts can be argued on their merits. Unnamed, they surface late and as vague friction — a permit that stalls, a seed mix quietly value-engineered out.
+Said out loud, these can be argued on their merits. Left unnamed, they show up late and sideways — a permit that stalls for months, a seed mix quietly swapped for turf to save money.
 
-**Agricultural continuity vs. restorative ambition.** Two legitimate pressures in genuine conflict — this is the AFT/[ecovoltaics](5-terminology.qmd#term-ecovoltaics) dispute, and framing it as a pressure conflict rather than a definitional error is more honest and more tractable. A requirement for continuous production forecloses pollinator habitat; a preference for habitat forecloses the farmland-protection argument.
+**Agricultural continuity vs. restorative ambition.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](5-terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
 
-**Operational simplicity vs. everything.** The strongest quiet force in the field. Gravel and herbicide are simple; diverse perennial cover is not. Most restorative design is lost here, not in the initial design meeting.
+**Operational simplicity vs. everything.** The quiet one that usually wins. Gravel and herbicide are easy. A diverse perennial planting is not. Most restorative design is not lost in the design meeting — it is lost three years later, when somebody looks at the maintenance bill.
 
-**Offtake conformity vs. restorative ambition.** Counterintuitive but common. Buyer criteria, certification schemes, and habitat scorecards specify ground-layer conditions in advance and at a distance [@epri2021] — a seed mix, a production requirement, a maintenance standard. When the specification fits the site, it accelerates good practice. When it does not, it locks in a prescription that a locally-informed designer would have rejected, and does so for the length of the contract. **Standardization is a genuine force for restoration and a genuine constraint on it**, and the field should expect that tension to grow as procurement frameworks mature.
+**Offtake conformity vs. restorative ambition.** Buyers, certification schemes, and habitat scorecards set ground-layer rules in advance and from a distance [@epri2021] — a seed mix, a production requirement, a maintenance standard. When the rule happens to fit the site, it spreads good practice quickly. When it does not, it locks in something that a person standing on that particular ground would have rejected, and locks it in for the length of the contract. **Standardization pushes restoration forward and holds it back at the same time**, and that will get sharper as more buyers start writing these rules.
 
-**Generation yield vs. restorative ambition.** The obvious one, and less absolute than assumed: shade-tolerance and row geometry interact, so the tradeoff is a curve with regions of near-indifference, not a straight line.
+**Generation yield vs. restorative ambition.** The obvious tradeoff, and softer than people assume. How much shade a crop tolerates and how far apart the rows sit interact, so there are ranges where you can open the rows and give up very little.
 
-**Capital discipline vs. operational simplicity.** Frequently mistaken for one pressure. They diverge on ground-cover establishment, clearance height, and access design.
+**Capital discipline vs. operational simplicity.** Often mistaken for a single pressure. They split on what to plant, how high to mount, and how to get equipment in: cheap to build is frequently expensive to keep.
 
-**Reversibility vs. restorative ambition.** The two restorative instincts can pull apart: deep-rooted perennial cover, rebuilt soil, and established habitat are exactly what a cleanly reversible project would avoid disturbing, yet they are what restoration builds. A project designed to vanish and one designed to heal the ground are not always the same project.
+**Reversibility vs. restorative ambition.** Two restorative instincts pushing opposite ways. Deep roots, rebuilt soil, and established habitat are exactly what you would not want to tear up — and exactly what restoration spends years building. A project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
 
-**Social license vs. capital discipline.** Community benefit — PILOT and tax revenue, community-benefit agreements, good-neighbor payments, co-ownership — is real money, so it pulls against capital discipline. But because benefit without procedural fairness reads as a bribe, it cannot simply be bought: acceptance and benefit can come apart, which is why this one is not settled at the checkbook.
+**Social license vs. capital discipline.** Community benefit is real money — PILOT payments and tax revenue, agreements, good-neighbor checks, part-ownership — so it pushes directly against building cheaply. But it cannot simply be bought, because benefit without a fair process reads as a bribe. This one is not settled at the checkbook.
 
 ### 3.3 Design levers {#sec-levers}
 
-The adjustable choices a designer uses to settle the pressures. They come in separate groups you can extend one at a time.
+The things you can actually change. They come in three groups, and you can extend one group without disturbing the others.
 
-*Structural:* mounting geometry (fixed, single-axis, dual-axis, vertical bifacial) · panel clearance · row geometry and ground coverage ratio · [pore-space](5-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
+*Structural — the hardware and its geometry:* mounting type (fixed, single-axis, dual-axis, vertical bifacial) · how high the panels sit · how far apart the rows are, and how much of the ground they cover · [pore-space](5-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
 
-*Land and ecology:* ground-layer composition · placement logic within parcel · landscape configuration (few-large vs. many-small) · ecological service target · management regime through lifespan · operational regime (tracking schedule, curtailment behavior) · edge and perimeter treatment (setback, buffer, berm, fencing, [screening](5-terminology.qmd#term-screening) geometry).
+*Land and ecology — the ground and how it is run:* what grows underneath · where on the parcel the array goes · whether the landscape holds a few large sites or many small ones · which ecological outcome is being aimed at · how the ground is managed across the project's life · how the array is operated (tracking schedule, curtailment) · how the edges are treated (setback, buffer, berm, fencing, [screening](5-terminology.qmd#term-screening)).
 
-*Institutional:* ownership and control structure · offtake structure · interconnection posture · regulatory and certification regime · [community-benefit](5-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
+*Institutional — who owns it, who buys it, who benefits:* ownership and control · offtake structure · interconnection posture · which regulations and certifications apply · [community-benefit](5-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
 
-**Coupling note.** Row geometry and ground-layer composition are a single coupled choice, not two. Crops sort into shade-sensitive, shade-neutral, and shade-tolerant classes — C4 and grain or fruiting crops (maize, wheat, many fruiting vegetables) sensitive; leafy and root horticultural crops (lettuce, spinach, chard, potato) and many forage grasses tolerant, some benefiting under moderate shade [@weselek2019] — so light environment and planting selection must be decided together.
+**Two levers that are really one.** Row spacing and what you plant underneath are a single decision, not two. Crops differ in how much shade they will take — maize, wheat, and many fruiting vegetables lose yield in shade, while leafy and root crops like lettuce, spinach, chard, and potato, along with many forage grasses, hold up and sometimes do better under moderate shade [@weselek2019]. So how much light reaches the ground and what you sow there have to be decided together.
 
-**Coupling note (screening).** Edge and perimeter treatment is two choices at once, in the same way: a vegetative screen is simultaneously a social-license move and a habitat/connectivity choice acting on the visual edge of the [influence zone](5-terminology.qmd#term-footprint-influence). It is therefore pulled by both social license and restorative ambition, while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows.
+**And another.** Edge treatment is also two choices at once. A vegetative screen is a social-license move and a habitat decision in the same planting, acting on the visible edge of the [influence zone](5-terminology.qmd#term-footprint-influence). It gets pushed by both social license and restorative ambition, while costing generation (the edge shades), land, and sometimes farming room. Its habitat value is greatest where the surrounding landscape has no hedgerows left.
 
 ### 3.4 Levers across the transect {#sec-lever-matrix}
 
-The levers are not equally available at every scale. Some are live degrees of freedom for a farmstead and all but fixed for a utility project; others barely exist until a project is large enough to have a jurisdiction and an interconnection queue. The matrix below transposes the [zone bundle](1-the-scale-transect.qmd#sec-zones) (§1.2) onto the levers: read **down a column** for the degrees of freedom a designer actually holds at that zone, and **across a row** for how one lever's character migrates along the transect.
+Not every lever is available at every scale. Choices a farmer makes freely are already fixed by the time a project reaches utility scale, and others do not exist at all until a project is big enough to need a permit and a place in the interconnection queue.
 
-**Descriptive, not a standard.** The matrix records what is *typical and available*, not what is required. No cell prescribes a clearance, a seed mix, or an ownership model; each names the character a lever tends to take at that zone, and how much latitude is left in it.
+The table crosses the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2) with the levers. Read **down a column** to see what a designer at that scale actually gets to choose, and **across a row** to see how one choice changes as projects get bigger.
+
+**This describes; it does not require.** Each cell says what a lever usually looks like at that scale and how much room is left in it. None of them sets a clearance, a seed mix, or an ownership model you are supposed to match.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
@@ -78,15 +88,14 @@ The levers are not equally available at every scale. Some are live degrees of fr
 | Offtake & interconnection | behind-the-meter | distribution edge | distribution / community | sub-transmission; developer PPA | transmission / wholesale |
 | Community-benefit structure | the household | good-neighbor scale | CBA / PILOT / subscription | PILOT + CBA customary | jurisdiction-scale |
 
-: Design levers across the scale transect — the character and latitude each lever tends to take at each zone. Descriptive of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
+: Design levers across the scale transect — what each lever usually looks like at each zone, and how much room is left in it. A description of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
 
-**The through-line.** Reading left to right, the real freedom shifts. At the small end the **structural** levers are a designer's real freedom — clearance, row geometry, even module technology can be tuned to a crop. Through the middle (A2–A3) **siting latitude** peaks: the choice of *which ground* is the most powerful restorative lever available, which is why [siting-led restoration](1-the-scale-transect.qmd#sec-siting-latitude) belongs here (§1.4). At the large end the structural and siting choices harden into standardized bulk buying and land assembly, and the **management and institutional** levers — the ground-cover regime, the community-benefit structure — carry whatever restoration the project will deliver. The matrix is the [restoration-mode shift](1-the-scale-transect.qmd#sec-siting-latitude) seen lever by lever: structure- and siting-led at small and middle scale, management-led at large scale.
+**What the table shows.** Reading left to right, the real freedom moves. At the small end it sits in the **hardware** — how high, how far apart, even which panel, can all be tuned to a crop. Through the middle (A2–A3) the freedom is in **where you put it**: choosing the ground is the most powerful restorative move available, which is why [siting-led restoration](1-the-scale-transect.qmd#sec-siting-latitude) lives here (§1.4). At the large end the hardware becomes bulk purchasing and the location is decided by what land could be assembled near a substation — so whatever restoration happens comes from **how the site is managed and how the deal is structured**: the ground cover, the grazing contract, the benefit agreement. It is the same [shift in restoration mode](1-the-scale-transect.qmd#sec-siting-latitude) from §1.4, seen one lever at a time.
 
-**Reading note.** The institutional rows restate the covarying bundle already given by the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2); the structural and land rows carry what the zone table does not. Read every cell as *latitude* — how much freedom is left in that lever — rather than as a fixed attribute of the zone.
+**One caution.** The institutional rows mostly repeat what the [zone table](1-the-scale-transect.qmd#sec-zones) already tells you (§1.2); the structural and land rows are the ones carrying new information. And read every cell as *how much freedom is left* in that lever, not as a fixed fact about the zone.
 
 ### Terms
 
 Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Pressures and levers](5-terminology.qmd#sec-terms-pressures), alongside every other term the document defines.
 
 ---
-

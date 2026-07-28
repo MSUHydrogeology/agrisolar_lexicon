@@ -99,9 +99,9 @@ ground, never the goodness of the project. Cropping directly under or between th
 the order of 2% of US installations [@stid2022; @macknick2022] — an axis that covered only
 agrivoltaics would miss nearly everything built.
 
-### What pulls on a design — the design pressures (§3) {#sec-intro-pressures}
+### What pushes on a design — the design pressures (§3) {#sec-intro-pressures}
 
-Every site is a resolution of forces that genuinely pull against one another.
+Every site is a resolution of forces that genuinely push against one another.
 [Eight of them](chapters/3-design-pressures.qmd) are named: generation yield, capital
 discipline, operational simplicity, agricultural continuity, restorative ambition, social
 license, offtake conformity, and decommissioning & reversibility. They are not axes — they have
@@ -186,7 +186,7 @@ each size of project, from a barn roof to a regional complex, with what each one
 ground.
 
 **If you are weighing a specific proposal**, the
-[design pressures](chapters/3-design-pressures.qmd) name the forces pulling on it and the
+[design pressures](chapters/3-design-pressures.qmd) name the forces pushing on it and the
 conflicts worth arguing about openly.
 
 **If you are trying to pin down a term** someone has used, the
