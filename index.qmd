@@ -10,20 +10,26 @@ not settled.
 :::
 
 ::: {.welcome}
-Most people meet this subject through **agrivoltaics** — sheep grazing between the rows,
-lettuce raised in the shade of a panel, the photograph that makes solar on farmland look like
-an easy bargain. The picture is real, and it is rare. Crops grown directly under or between
-panels account for something on the order of 2% of what has actually been built [@stid2022;
-@macknick2022]. The rest is still solar on agricultural land, and it still decides where the
-water goes, what lives in the soil, what the neighbors see from the road, and whether the farm
-that held the ground is still farming in ten years.
+Solar and farming want the same ground: flat, open, well drained, and close to a road and a
+substation. Put that way the choice is zero-sum — every acre of panels is an acre of crop —
+and that is the argument now running in county boardrooms across the country. But its terms
+are set by design rather than by physics. What an array does to the soil beneath it, to the
+water leaving it, and to the farm that holds it are decisions, not consequences, and made well
+they can settle the tension rather than simply resolve it in one direction.
 
-**Agrisolar** is the wider word for all of it: solar generation on agricultural land, whatever
-happens to production underneath. **Restorative agrisolar design** is a claim about that wider
-category — that these arrays can be built so the land and the community around them are better
-off for their presence, and that ecological, hydrological, and community function belong among
-the objectives of the design rather than among its accidents. This document argues that claim
-rather than assuming it, and gives it a vocabulary precise enough to be tested on real ground.
+**Agrisolar** is the name for that whole field: solar generation on agricultural land, whatever
+happens to production underneath. It is worth distinguishing from **agrivoltaics**, the
+better-known term, which covers the narrower case of crops or livestock raised inside the array
+itself — sheep between the rows, lettuce in the shade of a panel. That case is real, and it is
+rare: cropping directly under or between panels runs on the order of 2% of what has been built
+[@stid2022; @macknick2022]. The rest is still solar on farmland, and it still decides where the
+water goes, what lives in the soil, and whether the farm is still farming in ten years.
+
+**Restorative agrisolar design** is a claim about the wider category — that these arrays can be
+built so the land and the community around them are better off for their presence, and that
+ecological, hydrological, and community function belong among the objectives of the design
+rather than among its accidents. This document argues that claim rather than assuming it, and
+gives it a vocabulary precise enough to be tested on real ground.
 :::
 
 ## A shared language
