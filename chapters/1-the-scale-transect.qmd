@@ -60,7 +60,8 @@ One attribute needs its own section, because it decides *which restorative lever
 
 | Zone | What governs siting | Locus of control |
 |---|---|---|
-| **A1–A2** | Opportunistic — spare corners, awkward field ends, ground already idle | The operator |
+| **A1** | Bounded — the array goes where the yard, the herd, and the service drop already are | The operator, with little ground to choose among |
+| **A2** | Opportunistic — spare corners, awkward field ends, ground already idle | The operator |
 | **A3** | Strategic — consistently low-yielding ground, hydrologic features, buffer geometry | Developer and landowner in deliberate concert |
 | **A4–A5** | Land assembly — contiguous acreage, substation proximity, queue position; shaped at the edges by prime-farmland rules, where opposition is likely, and which communities benefit | The land market and grid topology, mediated by policy veto points |
 
@@ -78,7 +79,7 @@ The two therefore cross somewhere between A3 and A4. This yields three restorati
 
 This explains a pattern visible across the literature but rarely named: utility-scale restorative practice is overwhelmingly about ground cover and grazing, while small and mid-scale discourse is overwhelmingly about placement. These are not competing fashions. They are the only levers available at each end of the transect.
 
-*Open question (see §7).* Whether siting latitude falls steadily up the transect or peaks in the middle. The case for a peak: at A1 the binding constraint is the parcel boundary, so the operator has very little ground to choose among even though the array is small. Opportunistic placement is real but is not the same thing as strategic latitude, and the lexicon should decide which it means.
+**Siting latitude peaks at A2–A3 rather than falling steadily from A1.** Something binds at both ends of the transect: at A5 it is the land market and the grid, and at A1 it is the parcel boundary. The farmstead operator answers to no one, but has almost no ground to choose among — [barnyard shelter solar](6-archetypes.qmd#arch-barnyard) (§6) goes where the yard, the herd, and the service drop already are. That is opportunistic placement, which is real but is not strategic latitude: the freedom to select ground *for* what it can do. Only in the middle zones does a designer have both enough land to choose among and enough control to choose deliberately — which is why the two archetypes that restore by choice of ground, [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) and [marginal land solar](6-archetypes.qmd#arch-marginal), both live there.
 
 ### Associated Terminology
 
@@ -91,7 +92,7 @@ Terms this section introduces. Each is defined above; this block is their collec
 - **A3 — Parcel** — 1–10 MW, distribution / community solar / mid-market PPA, multi-party, purpose-built ground management.
 - **A4 — Landscape** — 10–50 MW, developer-led institutional capital, contract-enterprise management.
 - **A5 — Regional** — 50 MW+, transmission, utility/IPP across jurisdictions, contract enterprise at ranch scale.
-- **Siting latitude** — The designer's freedom over where the array goes; what governs it migrates from opportunistic placement to land assembly and grid topology up the transect.
+- **Siting latitude** — The designer's freedom over where the array goes; what governs it migrates from opportunistic placement to land assembly and grid topology up the transect. It peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5.
 - **Restoration mode** — Whether restorative work is delivered by choice of ground (**Siting-led**), array geometry (**Structure-led**), or operation (**Management-led**); the mode shifts as siting latitude falls up the transect.
 - **Stocking density** — Instantaneous animals per unit area at a moment; diverges from carrying capacity with forage growth, utilization, and climate.
 - **Carrying capacity** — Season-long forage the land sustains over time; a grazing design variable distinct from instantaneous stocking density.

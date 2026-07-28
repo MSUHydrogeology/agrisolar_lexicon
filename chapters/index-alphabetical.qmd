@@ -142,7 +142,7 @@ under **S**.
 
 **Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production, spares land by taking ground out of it, or neither; five positions centred on S3 — [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 
-**Siting latitude** — the designer's freedom over where the array goes; governed by the operator at A1, by the land market and grid topology at A5 — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
 **Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
