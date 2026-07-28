@@ -40,6 +40,8 @@ under **S**.
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Co-location vs. Integration](5-general-terminology.qmd#term-colocation-integration)
 
+**Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+
 **Coexistence (S3)** — *see* S3 — Coexistence; the centre of the sharing–sparing axis, neither sharing nor sparing — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
 **Community & economic function** — the socioeconomic restorative function: economic prosperity, livability, and health & equity built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [4.5 Community & economic function](4-restorative-functions.qmd#sec-fn-community)
@@ -130,7 +132,7 @@ under **S**.
 
 **S2 — Functional sharing** — ground layer productive but subordinate to the array; grazing, forage — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright, and its restorative content, where there is any, is socioeconomic before it is biophysical; the centre of the axis — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the centre of the axis — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
 **S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, or a built surface taking no ground at all, so productive land is spared — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 

@@ -1,13 +1,13 @@
 # Preface: What this document is for {#sec-preface .unnumbered}
 
-There is not yet an agrisolar design community. There are solar developers, agronomists, conservation biologists, hydrologists, extension agents, county planners, and farmers who each hold part of the problem and have no common vocabulary for the whole of it. A shared language is not a convenience for such a community — it is a precondition for one. Until the words are settled, practitioners cannot tell whether they actually disagree or are merely using terms differently, and the field wastes its energy arguing over words instead of designing.
+Agrisolar already has communities. Solar graziers, extension agents, agrivoltaic researchers, community-solar developers, farmland-protection advocates, conservation biologists, hydrologists, and county planners have each built real practice around their part of the problem. What they do not have is a vocabulary that crosses between them: the terms were built separately, so the parts do not compose. What is missing is not a community — it is a shared translation layer between the ones already at work. Until the words line up, practitioners cannot tell whether they actually disagree or are merely using terms differently, and the field wastes its energy arguing over words instead of designing.
 
-This lexicon is therefore descriptive, not prescriptive. It aims to let two people who have never met describe their sites to each other precisely, recognize which design problems they share, and locate their genuine disagreements.
+The lexicon is therefore descriptive about how sites are built and openly committed about what they are for. It aims to let two people who have never met describe their sites to each other precisely, recognize which design problems they share, and locate their genuine disagreements — and it holds, in its title and throughout, that ecological, hydrological, and community function belong among the objectives of agrisolar design rather than among its accidents.
 
 **Three structural devices carry the whole document:**
 
 1. **The Scale Transect** — a single gradient, from farmstead to regional, that most other terms are read against. Scale determines what is physically, economically, and institutionally possible before design begins.
-2. **The Sharing–Sparing Axis** — whether the array shares land with production, spares land by taking ground out of it, or neither. Five positions, centred on the neither. Independent of scale in principle, though not entirely in practice (see §2.2).
+2. **The Sharing–Sparing Axis** — whether the array shares land with production, spares land by taking ground out of it, or neither. Five positions, centred on the neither — where what makes a project restorative is that it keeps a farm farming. Independent of scale in principle, though not entirely in practice (see §2.2).
 3. **Design Pressures** — the competing forces every site must settle. This is where the document takes sides, on purpose — pressures are meant to pull in a direction.
 
 Four figures carry the argument: the transect (@fig-transect), the mode shift across it (@fig-siting), the feasible region formed with the sharing–sparing axis (@fig-wedge), and the pressures themselves (@fig-pressures). Source SVGs are in `figures/` and may be reused independently.
@@ -24,6 +24,6 @@ A few commitments shape everything that follows.
 
 **The parts come apart.** Pressures and levers are kept separable, so a hydrologist can extend one without disturbing the rest.
 
-**Describe and compare; resist prescribing.** A shared language that hardened into a scorecard would lock in ground-cover rules and shut down the experimentation this field still needs.
+**Prescribe the aim, not the dimensions.** This document is called *Restorative* deliberately. It takes a position — that ecological, hydrological, and community function are design objectives — and argues it through the pressures (§3), the restorative functions (§4), and the [SCALE footprint](4-restorative-functions.qmd#sec-scale) it uses to read projects. What it refuses is the other kind of prescription: the fixed values a code would enforce — a required buffer width, a mandated seed mix, a ground-coverage ratio, a single success metric. A shared language that hardened into *that* would lock in today's practice and shut down the experimentation this field still needs. **The aim is argued; the dimensions are left to the site.**
 
 ---

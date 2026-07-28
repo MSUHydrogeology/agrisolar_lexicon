@@ -5,14 +5,18 @@
 
 Draft
 
-There is not yet an agrisolar design community. There are solar developers, agronomists,
-conservation biologists, hydrologists, extension agents, county planners, and farmers who each
-hold part of the problem and have no common vocabulary for the whole of it. A shared language is
-not a convenience for such a community — it is a precondition for one.
+Agrisolar already has communities. Solar graziers, extension agents, agrivoltaic researchers,
+community-solar developers, farmland-protection advocates, conservation biologists, hydrologists,
+and county planners have each built real practice around their part of the problem. What they do
+not have is a vocabulary that crosses between them — the terms were built separately, so the parts
+do not compose. What is missing is not a community; it is a shared translation layer between the
+ones already at work.
 
-This lexicon is descriptive, not prescriptive. It aims to let two people who have never met
-describe their sites to each other precisely, recognize which design problems they share, and
-locate their genuine disagreements.
+This lexicon is descriptive about how sites are built and openly committed about what they are
+for. It aims to let two people who have never met describe their sites to each other precisely,
+recognize which design problems they share, and locate their genuine disagreements — and it holds,
+in its title and throughout, that ecological, hydrological, and community function belong among the
+objectives of agrisolar design rather than among its accidents.
 
 ---
 

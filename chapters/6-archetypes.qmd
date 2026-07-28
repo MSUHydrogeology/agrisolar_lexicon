@@ -4,9 +4,12 @@ The recurring resolutions — combinations of competing pressures settled at a p
 
 **Overhead and interspace — the two hardware types beneath the archetypes.** The field's engineering standards (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy) sort agrivoltaic hardware into **overhead** systems — modules elevated *above* the working surface, the vegetable-agrivoltaics case — and **interspace** systems — modules mounted low with the crop or cover *between* the rows, the vertical-bifacial and grazing cases. That typology classifies the *structure*; the archetypes here classify the *resolution of pressures*. The two registers are complementary, not rival: one structural class can appear in several archetypes, and one archetype can be built in more than one class.
 
-This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **four further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region, and together they span it: every zone from A1 to A5 carries at least one, and the middle of the transect carries the most — the mid scales are where the freedom to choose the ground and the freedom to manage it overlap. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
+This chapter develops **six featured archetypes** in depth — each with its pressures, its internal variation, and a worked real-world application — then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **five further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region. That they happen to cover it is a result, not a selection rule: an archetype is featured here because it recurs in the field and carries at least one documented case, and the mid scales hold the most because that is where the freedom to choose the ground and the freedom to manage it overlap. A form that looks promising but is not yet documented as recurring belongs among the further archetypes, marked as emerging — the set is meant to grow and be corrected, not to fill a diagram. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
 
 ## The six featured archetypes {#sec-featured}
+
+**On the worked cases.** Each featured archetype carries one real project. Several rest on developer pages, NGO case studies, and extension write-ups rather than peer-reviewed evidence; capacities and areas are as-reported and are traced in [Sources](sources.qmd). They illustrate the *form* — they are not verified performance data, and none of them has been independently audited against the [restorative functions](4-restorative-functions.qmd) it is cited for.
+
 
 ### Barnyard Shelter Solar {#arch-barnyard}
 
@@ -42,7 +45,7 @@ The defining choice is made before anyone thinks about output — it is a decisi
 
 *Dominant pressures: farm economic resilience, capital discipline. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
-**Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working.
+**Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working. *This particular site reads as [S2](2-the-sharingsparing-axis.qmd#sec-positions), not S4: the siting decision was the marginal corner, but production never stopped there — the herd still grazes beneath the panels. It is the archetype's sharing variant, and the reading rule in §2.1 settles it.*
 
 ### Solar Prairie Strips {#arch-prairie-strips}
 
@@ -72,19 +75,21 @@ This is a large-scale practice, and its vegetation is a service rather than the 
 
 ### Water-Sustainability Solar {#arch-water}
 
-*Retires impaired ground in arid country at [A4–A5](1-the-scale-transect.qmd#sec-zones) ([S5](2-the-sharingsparing-axis.qmd#sec-positions)); uses idled pivot corners in semi-arid country at [A2–A3](1-the-scale-transect.qmd#sec-zones) ([S4](2-the-sharingsparing-axis.qmd#sec-positions)) · restoration by relieving the water budget*
+*Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · retires impaired irrigated ground [S5](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by relieving the water budget*
 
-Water-sustainability solar has two layers whose relationship shifts with the climate: the array, which needs no irrigation, and the water budget of the land beneath it, which the array is placed to mend. In very arid country the fix is subtraction — solar replaces thirsty, often drainage-impaired irrigated fields, and the demand that was draining the aquifer simply stops. In semi-arid country it is addition — on the un-irrigated corners and margins a center-pivot never reaches, the panels and their cover are shaped to catch rainfall and send it downward, nudging recharge up on ground that gave little back.
+Water-sustainability solar has two layers in a subtractive relationship: the array, which needs no irrigation, and the aquifer beneath it, which the array is placed to stop draining. Where irrigated farming has been pulling more water than the ground can replace, converting those fields to solar simply ends the demand. The restoration is not something added to the site — it is something that stops happening to the water.
 
-Read along the aridity gradient, the archetype moves along the sparing wing. At the dry extreme — the San Joaquin Valley, overdrawn for a century — retiring the land is the whole point, and food production is deliberately let go. In the semi-arid middle — the High Plains over the Ogallala — the farming continues inside the pivot circle while the dry corners go to panels and recharge, so the array takes only ground the pivot never watered, and the circle keeps farming beside it. What ties the two ends together is that water quantity, not habitat or production, is the organizing service — and it needs a place where the aquifer is stressed enough, and governed tightly enough, for saved or recharged water to be worth the trade.
+The logic only works where the overdraft is real, measured, and governed. It needs an aquifer stressed enough that retired demand is worth more than the crop, a regulatory regime that makes the saving count rather than letting a neighbour pump it, and ground whose farming was marginal on its own terms — drainage-impaired, salt-affected, or expensive to irrigate — so retirement is not simply taking good land out of food production. That combination is regional rather than scattered, which is why this is the one removal archetype that scales: where a whole district is over its budget there is no cherry-picking to do, and retirement and utility scale stop fighting each other (§2.2). Food production is deliberately let go here, and the archetype should be read as making that trade openly rather than avoiding it.
 
-*Dominant pressures: restorative ambition (a water-quantity target), capital discipline. Yielded: agricultural production, at the arid end, by design.*
+*Dominant pressures: restorative ambition (a water-quantity target), capital discipline. Yielded: agricultural production, by design.*
 
-**Westlands Solar Park, San Joaquin Valley, California** — part of a plan to convert up to ~136,000 acres of drainage-impaired, previously-irrigated land to solar and storage under California's Sustainable Groundwater Management Act; because the panels use no water, retiring the fields eases the overdraft that irrigated farming had driven. Its supply-side mirror is emerging on the High Plains, where Kansas Geological Survey, Kansas State, and Michigan State researchers are testing solar in center-pivot corners to lift recharge on ground the pivot never watered.
+**Westlands Solar Park, San Joaquin Valley, California** — part of a plan to convert up to ~136,000 acres of drainage-impaired, previously-irrigated land to solar and storage under California's Sustainable Groundwater Management Act; because the panels use no water, retiring the fields eases the overdraft that irrigated farming had driven. *Figures are developer- and program-reported; see [Sources](sources.qmd).*
 
 ## Archetypes across the SCALE domains {#sec-archetype-domains}
 
-The six featured archetypes and the [restorative functions](4-restorative-functions.qmd) meet in a matrix: each archetype, by settling its pressures a particular way, produces a characteristic profile across the [SCALE](4-restorative-functions.qmd#sec-scale) domains — which of Communities, Agriculture, Landscapes, and Energy it foregrounds, and which it trades away. This is the archetype × function matrix read one row at a time; it restates each archetype's *dominant* and *yielded* pressures in the domain vocabulary, not a new judgment.
+The six featured archetypes and the [restorative functions](4-restorative-functions.qmd) meet in a matrix: each archetype, by settling its pressures a particular way, produces a characteristic profile across the [SCALE](4-restorative-functions.qmd#sec-scale) domains — which of Communities, Agriculture, Landscapes, and Energy it foregrounds, and which it trades away. This is the archetype × function matrix read one row at a time.
+
+**How the profiles are derived, so they can be checked.** Each shape is generated from the archetype's own stated pressures by one rule: a **dominant** pressure pushes its domain toward regeneration, a **yielded** pressure pulls its domain toward depletion, and a pressure the archetype does not engage leaves its domain mid-scale. The pressure-to-domain mapping is the one set out in §4: agricultural continuity → Agriculture; restorative ambition and the biophysical functions → Landscapes; social license and the community & economic function → Communities; generation yield, capital discipline and operational simplicity → Energy. Nothing else feeds the shape — no site measurements, no weighting, no aggregate score across domains. That makes each profile reproducible from the text above it and, more importantly, **contestable**: to disagree with a shape, disagree with the pressure reading that produced it. These are judgments about *forms*, not audits of the named projects.
 
 ![Each featured archetype as a SCALE footprint across the four domains: a domain it regenerates pulls toward the centre, one it depletes or trades away reaches toward the rim — read from its dominant and yielded pressures. Descriptive profiles, site-conditional — not a ranking and not a score against a limit of sustainability.](../figures/fig_archetype_footprints.svg){#fig-archetypes}
 
@@ -93,7 +98,7 @@ The six featured archetypes and the [restorative functions](4-restorative-functi
 - [**Marginal Land Solar**](#arch-marginal) (A2–A3 · S4, or S2 where grazed) is anchored in **Communities** — the farm's financial resilience — on **Agriculture**'s cast-off ground, with **Energy** cheap to build but modest in yield.
 - [**Solar Prairie Strips**](#arch-prairie-strips) (A3 · S5) is a **Landscapes** archetype first — clean water and habitat — with **Communities** benefit visible, yielding some **Energy** to the prairie.
 - [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2) foregrounds **Energy** (utility-scale generation) and **Landscapes** (grazed cover, soil, habitat), with **Agriculture** present only as a grazing service, not the farm's own operation.
-- [**Water-Sustainability Solar**](#arch-water) (A4–A5 · S5; A2–A3 · S4) is a **Landscapes** archetype in the water sense — easing an overdrawn aquifer — deliberately giving up **Agriculture** at the arid end while delivering **Energy** at scale.
+- [**Water-Sustainability Solar**](#arch-water) (A4–A5 · S5) is a **Landscapes** archetype in the water sense — easing an overdrawn aquifer — deliberately giving up **Agriculture** at the arid end while delivering **Energy** at scale.
 
 No archetype fills every domain, and none is meant to: the profiles differ because the pressures were settled differently. A real project's profile is its own, shaped by site and design; these six are reference shapes, not targets. Whether to overlay the SCALE *limit of sustainability* — turning these descriptive profiles into an evaluation of depletion vs. regeneration — is the call the [metrics open issue](7-open-issues.qmd) (§7, issue 5) leaves deliberately unmade.
 
@@ -126,6 +131,14 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) despite car
 *Dominant pressures:* generation yield, restorative ambition (grassland restoration [@walston2025]).
 *Yielded:* agricultural continuity.
 *Signature levers:* native seed mix, deferred/rotational mowing, soil-carbon establishment [@krasner2025]. The characteristic large-scale [convergence case](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
+
+### Recharge-Corner Array {#arch-recharge}
+
+[A2](1-the-scale-transect.qmd#sec-zones)–[A3](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
+*Dominant pressures:* [restorative ambition](3-design-pressures.qmd#sec-pressures) (a water-quantity target), farm economic resilience.
+*Yielded:* some [generation yield](3-design-pressures.qmd#sec-pressures) (corners are small and awkwardly shaped).
+*Signature levers:* placement on the dry corners a centre-pivot never reaches, ground-layer and grading chosen to move rainfall downward rather than off. The supply-side counterpart to [water-sustainability solar](#arch-water): where that one subtracts demand at scale, this one adds recharge on ground already out of production, and the pivot circle keeps farming beside it. **Emerging rather than established** — Kansas Geological Survey, Kansas State, and Michigan State researchers are testing the approach over the Ogallala; it is included as a named pathway to watch, not a documented recurring form.
 
 ### Brightfield / Reclaimed-Land Array {#arch-brightfield}
 
