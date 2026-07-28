@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 870" font-family="Helvetica, Arial, sans-serif">
 <rect width="720" height="870" rx="10" fill="#ffffff"/>
+<text x="360" y="34" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">SCALE footprint — regeneration at the centre, depletion at the rim (a lighter footprint sits nearer the middle)</text>
 <polygon points="190.0,185.6 214.4,210.0 190.0,234.4 165.6,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="190.0,161.2 238.8,210.0 190.0,258.8 141.2,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="190.0,136.0 264.0,210.0 190.0,284.0 116.0,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -11,11 +12,11 @@
 <text x="190" y="304" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
 <line x1="190" y1="210" x2="116.0" y2="210.0" stroke="#d8d2c4" stroke-width="1"/>
 <text x="100" y="210" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
-<polygon points="190.0,158.2 256.6,210.0 190.0,239.6 153.0,210.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="190.0" cy="158.2" r="2.4" fill="#2c5580"/>
-<circle cx="256.6" cy="210.0" r="2.4" fill="#2c5580"/>
-<circle cx="190.0" cy="239.6" r="2.4" fill="#2c5580"/>
-<circle cx="153.0" cy="210.0" r="2.4" fill="#2c5580"/>
+<polygon points="190,188.5 196.6,210 190,253.7 153.9,210" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="190" cy="188.5" r="2.4" fill="#2c5580"/>
+<circle cx="196.6" cy="210" r="2.4" fill="#2c5580"/>
+<circle cx="190" cy="253.7" r="2.4" fill="#2c5580"/>
+<circle cx="153.9" cy="210" r="2.4" fill="#2c5580"/>
 <text x="190" y="96" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Vegetable Agrivoltaics</text>
 <text x="190" y="112" fill="#777" font-size="11" text-anchor="middle">A2–A3 · S1 · structure-led</text>
 <polygon points="530.0,185.6 554.4,210.0 530.0,234.4 505.6,210.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -29,11 +30,11 @@
 <text x="530" y="304" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
 <line x1="530" y1="210" x2="456.0" y2="210.0" stroke="#d8d2c4" stroke-width="1"/>
 <text x="440" y="210" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
-<polygon points="530.0,176.7 567.0,210.0 530.0,276.6 474.5,210.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="530.0" cy="176.7" r="2.4" fill="#2c5580"/>
-<circle cx="567.0" cy="210.0" r="2.4" fill="#2c5580"/>
-<circle cx="530.0" cy="276.6" r="2.4" fill="#2c5580"/>
-<circle cx="474.5" cy="210.0" r="2.4" fill="#2c5580"/>
+<polygon points="530,170 566.1,210 530,216.6 512.2,210" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="530" cy="170" r="2.4" fill="#2c5580"/>
+<circle cx="566.1" cy="210" r="2.4" fill="#2c5580"/>
+<circle cx="530" cy="216.6" r="2.4" fill="#2c5580"/>
+<circle cx="512.2" cy="210" r="2.4" fill="#2c5580"/>
 <text x="530" y="96" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Regenerative Solar Grazing</text>
 <text x="530" y="112" fill="#777" font-size="11" text-anchor="middle">A4–A5 · S2–S3 · management-led</text>
 <polygon points="190.0,495.6 214.4,520.0 190.0,544.4 165.6,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -47,11 +48,11 @@
 <text x="190" y="614" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
 <line x1="190" y1="520" x2="116.0" y2="520.0" stroke="#d8d2c4" stroke-width="1"/>
 <text x="100" y="520" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
-<polygon points="190.0,468.2 219.6,520.0 190.0,557.0 119.7,520.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="190.0" cy="468.2" r="2.4" fill="#2c5580"/>
-<circle cx="219.6" cy="520.0" r="2.4" fill="#2c5580"/>
-<circle cx="190.0" cy="557.0" r="2.4" fill="#2c5580"/>
-<circle cx="119.7" cy="520.0" r="2.4" fill="#2c5580"/>
+<polygon points="190,498.5 233.7,520 190,556.1 187.1,520" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="190" cy="498.5" r="2.4" fill="#2c5580"/>
+<circle cx="233.7" cy="520" r="2.4" fill="#2c5580"/>
+<circle cx="190" cy="556.1" r="2.4" fill="#2c5580"/>
+<circle cx="187.1" cy="520" r="2.4" fill="#2c5580"/>
 <text x="190" y="406" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Solar Prairie Strips</text>
 <text x="190" y="422" fill="#777" font-size="11" text-anchor="middle">A3 · S3 · siting-led</text>
 <polygon points="530.0,495.6 554.4,520.0 530.0,544.4 505.6,520.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -65,11 +66,11 @@
 <text x="530" y="614" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
 <line x1="530" y1="520" x2="456.0" y2="520.0" stroke="#d8d2c4" stroke-width="1"/>
 <text x="440" y="520" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
-<polygon points="530.0,453.4 574.4,520.0 530.0,557.0 489.3,520.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="530.0" cy="453.4" r="2.4" fill="#2c5580"/>
-<circle cx="574.4" cy="520.0" r="2.4" fill="#2c5580"/>
-<circle cx="530.0" cy="557.0" r="2.4" fill="#2c5580"/>
-<circle cx="489.3" cy="520.0" r="2.4" fill="#2c5580"/>
+<polygon points="530,513.4 558.8,520 530,556.1 497.5,520" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="530" cy="513.4" r="2.4" fill="#2c5580"/>
+<circle cx="558.8" cy="520" r="2.4" fill="#2c5580"/>
+<circle cx="530" cy="556.1" r="2.4" fill="#2c5580"/>
+<circle cx="497.5" cy="520" r="2.4" fill="#2c5580"/>
 <text x="530" y="406" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Marginal Land Solar</text>
 <text x="530" y="422" fill="#777" font-size="11" text-anchor="middle">A2–A3 · S4 · siting-led</text>
 <polygon points="360,735.6 384.4,760 360,784.4 335.6,760" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -83,11 +84,11 @@
 <text x="360" y="854" fill="#c08a12" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="middle">Energy</text>
 <line x1="360" y1="760" x2="286" y2="760" stroke="#d8d2c4" stroke-width="1"/>
 <text x="270" y="760" fill="#2b7fb0" font-size="11" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
-<polygon points="360,721 377.1,760 360,821 289.2,760" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="360" cy="721" r="2.4" fill="#2c5580"/>
-<circle cx="377.1" cy="760" r="2.4" fill="#2c5580"/>
-<circle cx="360" cy="821" r="2.4" fill="#2c5580"/>
-<circle cx="289.2" cy="760" r="2.4" fill="#2c5580"/>
+<polygon points="360,725.8 416.1,760 360,772.2 357.6,760" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="360" cy="725.8" r="2.4" fill="#2c5580"/>
+<circle cx="416.1" cy="760" r="2.4" fill="#2c5580"/>
+<circle cx="360" cy="772.2" r="2.4" fill="#2c5580"/>
+<circle cx="357.6" cy="760" r="2.4" fill="#2c5580"/>
 <text x="360" y="646" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Water-Sustainability Solar</text>
 <text x="360" y="662" fill="#777" font-size="11" text-anchor="middle">A3–A5 · S4→S3 · siting / management-led</text>
 </svg>
