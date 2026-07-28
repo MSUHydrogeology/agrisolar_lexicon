@@ -40,14 +40,13 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <circle cx="420" cy="150" r="5" fill="#D85A30"/><text class="ts" x="420" y="166" text-anchor="middle" fill="#993C1D">contract grazing</text>
 <circle cx="600" cy="150" r="5" fill="#D85A30"/><text class="ts" x="600" y="136" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
 <circle cx="290" cy="126" r="5" fill="#D85A30"/><text class="ts" x="290" y="140" text-anchor="middle" fill="#993C1D">greenhouse PV</text>
-<circle cx="388" cy="100" r="5" fill="#D85A30"/><text class="ts" x="376" y="95" text-anchor="end" fill="#993C1D">vegetables</text>
-<circle cx="452" cy="90" r="5" fill="#D85A30"/><text class="ts" x="464" y="84" text-anchor="start" fill="#993C1D">overstory</text>
-<circle cx="475" cy="238" r="5" fill="#D85A30"/><text class="ts" x="475" y="256" text-anchor="middle" fill="#993C1D">pollinator habitat</text>
+<circle cx="388" cy="100" r="5" fill="#D85A30"/><text class="ts" x="376" y="95" text-anchor="end" fill="#993C1D">vegetables</text><circle cx="475" cy="238" r="5" fill="#D85A30"/><text class="ts" x="475" y="256" text-anchor="middle" fill="#993C1D">solar prairie strips</text>
 <circle cx="625" cy="232" r="5" fill="#D85A30"/><text class="ts" x="625" y="218" text-anchor="middle" fill="#993C1D">native grassland</text>
 <circle cx="408" cy="300" r="5" fill="#D85A30"/><text class="ts" x="408" y="284" text-anchor="middle" fill="#993C1D">marginal-land</text>
 <circle cx="230" cy="282" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="230" y="272" text-anchor="middle">barn roof</text>
 <circle cx="515" cy="105" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="515" y="95" text-anchor="middle">vertical bifacial</text>
 <circle cx="615" cy="258" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="615" y="274" text-anchor="middle">brightfield</text>
+<circle cx="518" cy="280" r="5" fill="#D85A30"/><text class="ts" x="518" y="296" text-anchor="middle" fill="#993C1D">water-sustainability</text>
 <text class="pr" x="678" y="100" text-anchor="end">S1 constrained &#8212;</text>
 <text class="pr" x="678" y="114" text-anchor="end">clearance vs. capital</text>
 <text class="pr" x="678" y="288" text-anchor="end">S4 constrained &#8212;</text>
