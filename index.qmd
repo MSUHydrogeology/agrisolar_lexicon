@@ -10,12 +10,13 @@ not settled.
 :::
 
 ::: {.welcome}
-Solar and farming want the same ground: flat, open, well drained, and close to a road and a
-substation. Put that way the choice is zero-sum — every acre of panels is an acre of crop —
-and that is the argument now running in county boardrooms across the country. But its terms
-are set by design rather than by physics. What an array does to the soil beneath it, to the
-water leaving it, and to the farm that holds it are decisions, not consequences, and made well
-they can settle the tension rather than simply resolve it in one direction.
+Solar and farming want the same ground: flat, open, well drained, and generous with sun. Both
+are ways of harvesting sunlight over a wide area, so the competition between them is inherent
+rather than incidental — every acre of panels is an acre of crop, and that is the argument now
+running in county boardrooms across the country. But its terms are set by design rather than
+by physics. What an array does to the soil beneath it, to the water leaving it, and to the farm
+that holds it are decisions, not consequences, and made well they can settle the tension rather
+than simply resolve it in one direction.
 
 **Agrisolar** is the name for that whole field: solar generation on agricultural land, whatever
 happens to production underneath. It is worth distinguishing from **agrivoltaics**, the
