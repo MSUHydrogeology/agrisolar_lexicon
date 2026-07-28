@@ -151,7 +151,7 @@ transect](chapters/1-the-scale-transect.qmd) (§1), [the sharing–sparing
 axis](chapters/2-the-sharingsparing-axis.qmd) (§2), and [design
 pressures](chapters/3-design-pressures.qmd) (§3). Then the [restorative
 functions](chapters/4-restorative-functions.qmd) (§4) that give the title its structural home,
-the [terminology](chapters/5-general-terminology.qmd) (§5) — every term the document defines,
+the [terminology](chapters/5-terminology.qmd) (§5) — every term the document defines,
 grouped by register — and the [archetypes](chapters/6-archetypes.qmd) (§6) in which all of it
 settles. The
 [open issues](chapters/7-open-issues.qmd) (§7) close by showing the seams, and

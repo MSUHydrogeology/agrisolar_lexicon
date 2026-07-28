@@ -11,12 +11,12 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 - Interconnection posture (behind-meter → distribution → transmission)
 - Decision-making unit (single landowner → multi-party → utility/IPP with queue position)
 - Permitting burden (by-right → site plan review → full environmental review)
-- [Ground-layer](5-general-terminology.qmd#term-ground-layer) management mode (existing farm labor → purpose-built → contract enterprise)
+- [Ground-layer](5-terminology.qmd#term-ground-layer) management mode (existing farm labor → purpose-built → contract enterprise)
 - Capital structure (owner-financed → tax equity and offtake → project finance)
 - Community interface (neighbors → township → regional stakeholder process)
 - **Siting latitude** (opportunistic → strategic → constrained by land assembly and grid topology)
 
-**The physics scales too.** The transect is not only an institutional gradient; the [agrivoltaic](5-general-terminology.qmd#term-agrivoltaics) microclimate benefit is itself geometry- and scale-dependent. Soil-temperature reduction and moisture retention are broadly consistent across systems, but air-temperature effects are variable and site-specific, and a meta-analysis of design tipping points [@zhang2025] reports a system-size threshold beyond which the net temperature effect reverses from cooling toward warming — evidence that scale changes the physical design problem, not just the ownership-and-permitting one.
+**The physics scales too.** The transect is not only an institutional gradient; the [agrivoltaic](5-terminology.qmd#term-agrivoltaics) microclimate benefit is itself geometry- and scale-dependent. Soil-temperature reduction and moisture retention are broadly consistent across systems, but air-temperature effects are variable and site-specific, and a meta-analysis of design tipping points [@zhang2025] reports a system-size threshold beyond which the net temperature effect reverses from cooling toward warming — evidence that scale changes the physical design problem, not just the ownership-and-permitting one.
 
 > *Needs verification.* The specific size threshold (~2 ha, taken here from secondary summaries of @zhang2025) has not been confirmed against the primary text and should be read there before it is quoted.
 
@@ -52,7 +52,7 @@ Take one ground-layer function — **sheep grazing** — across the zones. The l
 - **A3:** grazing becomes a contracted service. New York distributed solar (1–20 MW on 6–120 acres) is where vegetation-management contracts appear, paying roughly $300–500/acre/year. Design must now accommodate a party who does not live there.
 - **A4–A5:** grazing is a logistics enterprise. @mccall2023 report median per-activity vegetation-management costs across 54 utility-scale sites: mowing ran about $113/acre/yr at sheep-grazing sites, $121 at native-vegetation sites, and $203 at turfgrass sites, while herbicide application was highest on gravel at $293/acre/yr. The design questions at this zone become flock rotation across non-contiguous parcels, water access, and fence-gate topology — none of which exist as design problems at A1.
 
-**The more important finding from the same study is a caution, not an endorsement.** While per-activity costs at native and pollinator-friendly ground covers were *lower* than at turfgrass, total combined vegetation O&M was slightly *higher*, because more separate activities are required through the first three to five years of establishment. [Restorative](5-general-terminology.qmd#term-restorative) ground cover is not cheaper from day one; it is more expensive during establishment and competitive afterward. Any argument for restorative practice that leads with cost savings should expect to meet an operator who has seen the establishment-phase invoices.
+**The more important finding from the same study is a caution, not an endorsement.** While per-activity costs at native and pollinator-friendly ground covers were *lower* than at turfgrass, total combined vegetation O&M was slightly *higher*, because more separate activities are required through the first three to five years of establishment. [Restorative](5-terminology.qmd#term-restorative) ground cover is not cheaper from day one; it is more expensive during establishment and competitive afterward. Any argument for restorative practice that leads with cost savings should expect to meet an operator who has seen the establishment-phase invoices.
 
 > *Citation caution.* These figures circulate widely in secondary sources with the activity labels transposed — the mowing cost incurred *at* grazing sites is frequently reported as the cost *of* grazing, and per-acre figures are converted to per-hectare without relabeling. A concrete, good-faith instance: @stewart2025 report McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 that number is the median *mowing* cost at sheep-grazed sites — the grazing activity itself ran a median of about $50/acre/yr. The two readings coexist in the primary literature and the per-hectare conversion compounds the ambiguity; McCall's own Table 4 is the arbiter, so practitioners quoting these figures should go to @mccall2023 directly.
 
@@ -87,7 +87,7 @@ This explains a pattern visible across the literature but rarely named: utility-
 
 ### Terms
 
-Terms introduced in this section are defined in the [Terminology](5-general-terminology.qmd) chapter (§5), under [Scale](5-general-terminology.qmd#sec-terms-scale), alongside every other term the document defines.
+Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Scale](5-terminology.qmd#sec-terms-scale), alongside every other term the document defines.
 
 ---
 

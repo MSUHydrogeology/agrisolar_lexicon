@@ -13,7 +13,7 @@ The framing is borrowed from conservation ecology's land-sharing / land-sparing 
 ::: {.position-table}
 | Position | Description | Characteristic |
 |---|---|---|
-| **S1 — Full sharing** | Production continues within the array footprint, in the same ground | Vegetable [agrivoltaics](5-general-terminology.qmd#term-agrivoltaics); crops between rows |
+| **S1 — Full sharing** | Production continues within the array footprint, in the same ground | Vegetable [agrivoltaics](5-terminology.qmd#term-agrivoltaics); crops between rows |
 | **S2 — Functional sharing** | Ground layer is productive but subordinate to the array; grazing, forage | Solar grazing at any scale |
 | **S3 — Coexistence** | *Neither sharing nor sparing.* The array takes ordinary ground outright — production stops on it — and the revenue sustains the farm enterprise that holds it. The land and the farm coexist at the level of the business rather than the field | The lease that keeps a working farm solvent and in operation |
 | **S4 — Idled-land sparing** | Array occupies ground already idle, marginal, or out of production, so that productive land is spared | Awkward remnants, fallow ground, brightfields |
@@ -62,11 +62,11 @@ What to take from it:
 
 *The clearest counterexample to the reading above would be a utility-scale S4 project assembled from scattered marginal remnants on ordinary farmland, rather than from the uniform pre-disturbed ground the standing exception already allows. None is documented here, and one would be worth reporting.*
 
-**Where the dual-use dispute sits.** American Farmland Trust holds that [dual use](5-general-terminology.qmd#term-agrivoltaics) requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — structurally, a mandate for S1–S2. Critics argue that this marginalizes ecovoltaics, whose ecological ground layers deliver their value as a function rather than as production, and so sit at S3 and below. Stated as positions, the disagreement becomes tractable: it is a dispute about which stretch of the axis deserves the name, not about what the word means. This document describes that dispute rather than settling it. *(See §5, Agrivoltaics / Ecovoltaics.)*
+**Where the dual-use dispute sits.** American Farmland Trust holds that [dual use](5-terminology.qmd#term-agrivoltaics) requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — structurally, a mandate for S1–S2. Critics argue that this marginalizes ecovoltaics, whose ecological ground layers deliver their value as a function rather than as production, and so sit at S3 and below. Stated as positions, the disagreement becomes tractable: it is a dispute about which stretch of the axis deserves the name, not about what the word means. This document describes that dispute rather than settling it. *(See §5, Agrivoltaics / Ecovoltaics.)*
 
 ### Terms
 
-Terms introduced in this section are defined in the [Terminology](5-general-terminology.qmd) chapter (§5), under [Sharing and sparing](5-general-terminology.qmd#sec-terms-sharing), alongside every other term the document defines.
+Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Sharing and sparing](5-terminology.qmd#sec-terms-sharing), alongside every other term the document defines.
 
 ---
 
