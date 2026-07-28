@@ -70,7 +70,7 @@ under **S**.
 
 ## F
 
-**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [2.2 The feasible region is a wedge, not a rectangle](2-the-sharingsparing-axis.qmd#sec-wedge)
+**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [2.2 Which positions scale allows](2-the-sharingsparing-axis.qmd#sec-wedge)
 
 **Featured archetype** — one of the six canonical archetypes developed in depth, ordered along the scale transect (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each with a worked real-world application — [The six featured archetypes](6-archetypes.qmd#sec-featured)
 
@@ -134,7 +134,7 @@ under **S**.
 
 **S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the centre of the axis — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, or a built surface taking no ground at all, so productive land is spared — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, so productive land is spared; arrays on buildings take no ground and hold no position (A0) — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
 **S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
