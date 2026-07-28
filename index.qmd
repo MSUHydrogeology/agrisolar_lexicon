@@ -131,18 +131,21 @@ Two of those forms can have almost nothing physically in common. Solar prairie s
 of restored prairie with panels standing among them, set where a field sheds its water: they end
 production on the strip, but the strip was the ground doing the most damage downstream, and what
 the farm buys is cleaner water and habitat. A small array over a barnyard shades the farm's own
-cows and runs the milking parlour, and gives up generation at scale to do it. The same handful
+cows and runs the milking parlor, and gives up generation at scale to do it. The same handful
 of questions describes both, which is what makes it possible to say exactly where they differ —
 and to hold either one against whatever is being proposed down the road from you.
 
 ::: {#sec-aim-not-dimensions}
-What the document refuses is the other kind of prescription: the fixed values a code would
-enforce, a required buffer width, a mandated seed mix, a single success metric. A shared
-language that hardened into that would lock in today's practice and close down the
-experimentation this field still needs. **The aim is argued; the dimensions are left to the
-site.** [Regionality](chapters/7-regionality.qmd) is the reason — the pressures are the same
-everywhere, but sun, water, crop, and utility decide how hard each one pushes, so the clearance
-that serves the aim in one county defeats it in the next.
+The same eight pressures meet very different ground. Sun and cloud, aridity, the cropping
+system, the grid operator, and whether the water beneath a field is being drawn down faster
+than it returns all change how hard each pressure pushes, and so change how a site ought to
+resolve. Shade that rescues a water-stressed crop in Arizona costs yield in Ohio. An argument
+for retiring irrigated ground is decisive over a depleted aquifer and has nothing to act on in
+a rain-fed county. [Regionality](chapters/7-regionality.qmd) works that through, and it is why
+this document argues an aim rather than issuing dimensions: restoration is a response to a
+particular place, and a fixed buffer width, a mandated seed mix, or a single success metric
+would flatten the local reading the work depends on. **The aim is argued; the dimensions are
+left to the site.**
 :::
 
 ## Where to start

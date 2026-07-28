@@ -22,7 +22,7 @@ If you know roughly how much land is in play, start here. The table gives the fo
 
 **Read the crowding.** A3 (Parcel) carries the most forms and A1 and A5 the fewest — which is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2) appearing in a table built for an entirely different purpose. Mid-scale is where the freedom to choose the ground and the freedom to manage it overlap, so it holds the most distinct answers; the ends narrow because one freedom or the other runs out. Scale narrows the menu before design begins — that is the whole argument of §1, arriving here as a practical fact.
 
-**A caution about reading down a column.** A form appearing at your zone means it *has been built* at that scale, not that it suits your site. Climate, soil, water, market, and what the neighbours will accept all cut the list further, and several of these forms are mutually exclusive on the same ground. The entries below say what each one demands.
+**A caution about reading down a column.** A form appearing at your zone means it *has been built* at that scale, not that it suits your site. Climate, soil, water, market, and what the neighbors will accept all cut the list further, and several of these forms are mutually exclusive on the same ground. The entries below say what each one demands.
 
 ## The six featured archetypes {#sec-featured}
 
@@ -39,18 +39,18 @@ If you know roughly how much land is in play, start here. The table gives the fo
 - **Position** — S1–S2 — the farm's own animals keep using the ground beneath
 - **Ground layer** — the existing yard or paddock; nothing new to establish
 - **Clearance** — enough for stock to walk in and shelter under (the case below: cows)
-- **Grid** — behind-the-meter — offsets the parlour, cold store, well pump
+- **Grid** — behind-the-meter — offsets the parlor, cold store, well pump
 - **Watch for** — muck and wear concentrating where the animals crowd into the shade
 :::
 *Farmstead scale [A1](1-the-scale-transect.qmd#sec-zones) · shares the ground with the farm's own animals [S1–S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
 
-Barnyard shelter solar has two layers that keep each other's company: the farm's own animals — a dairy herd, a few beef cows, a flock of hens — and a modest array raised over the yard or paddock where they already gather. The panels are shelter first and generation second: shade in the heat of the afternoon, a dry place out of the rain, a break from the wind, and for poultry a roof against the hawk. The same structure quietly runs the milking parlour, the cold store, the well pump — the farm's own power, drawn off its own meter.
+Barnyard shelter solar has two layers that keep each other's company: the farm's own animals — a dairy herd, a few beef cows, a flock of hens — and a modest array raised over the yard or paddock where they already gather. The panels are shelter first and generation second: shade in the heat of the afternoon, a dry place out of the rain, a break from the wind, and for poultry a roof against the hawk. The same structure quietly runs the milking parlor, the cold store, the well pump — the farm's own power, drawn off its own meter.
 
 This is the smallest archetype and the most fully the farmer's own. One person holds the animals, the panels, and the labor, and can set the array exactly where the herd stands on a July afternoon — no lease, no contractor, no grid study, every lever in a single pair of hands. The reward is read in the animals as much as the meter: shaded dairy cows run a degree cooler and pant less through the worst of the heat, and hens with cover overhead range farther from the coop. The catch is simply scale — a few tens of kilowatts offset a farm, not a county — and the shade that draws the herd also concentrates it, so the muck and the wear gather where the animals crowd beneath the panels.
 
 *Dominant pressures: agricultural continuity, operational simplicity. Yielded: generation at scale — the array is sized to the farm, not the grid.*
 
-**West Central Research and Outreach Center, Morris, Minnesota** — a University of Minnesota dairy where a 30-kilowatt array was raised over the pasture in 2018 to shade thirty to forty grazing cows and power the milking equipment; the shaded herd ran about a degree cooler and panted less, while the same panels carried the parlour's load — a working demonstration that shelter and generation can sit together on one small farm.
+**West Central Research and Outreach Center, Morris, Minnesota** — a University of Minnesota dairy where a 30-kilowatt array was raised over the pasture in 2018 to shade thirty to forty grazing cows and power the milking equipment; the shaded herd ran about a degree cooler and panted less, while the same panels carried the parlor's load — a working demonstration that shelter and generation can sit together on one small farm.
 
 ### Vegetable Agrivoltaics {#arch-vegetable}
 

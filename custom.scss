@@ -91,9 +91,9 @@
 // The zone table is banded with a SEQUENTIAL ramp because scale runs one way,
 // small to large. The sharing–sparing axis is not sequential — it is DIVERGING:
 // sharing at one end, sparing at the other, and coexistence (S3) as a genuine
-// neutral centre rather than a midpoint on a ramp. So it gets two hues with a
+// neutral center rather than a midpoint on a ramp. So it gets two hues with a
 // near-neutral middle, deliberately not green (green is scale's) and deliberately
-// symmetric in lightness about the centre: the document holds that no position is
+// symmetric in lightness about the center: the document holds that no position is
 // better than another, and an asymmetric ramp would imply one wing carried more
 // weight. Blue #7FB3D9 · #BFDAEC — neutral #EFEEEA — purple #D9CBE6 · #B69ED4.
 // All five clear WCAG AA for #2c2c2a body text (5.9:1 at the darkest).
@@ -119,11 +119,11 @@
   background-color: #f6f5f1;
 }
 
-// Diverging bands, one per sharing position. Text colour is set explicitly so the
+// Diverging bands, one per sharing position. Text color is set explicitly so the
 // validated contrast holds even where the surrounding theme changes.
 .position-table tbody tr:nth-child(1) td { background-color: #7fb3d9; color: #2c2c2a; } // S1 sharing
 .position-table tbody tr:nth-child(2) td { background-color: #bfdaec; color: #2c2c2a; } // S2
-.position-table tbody tr:nth-child(3) td { background-color: #efeeea; color: #2c2c2a; } // S3 centre
+.position-table tbody tr:nth-child(3) td { background-color: #efeeea; color: #2c2c2a; } // S3 center
 .position-table tbody tr:nth-child(4) td { background-color: #d9cbe6; color: #2c2c2a; } // S4
 .position-table tbody tr:nth-child(5) td { background-color: #b69ed4; color: #2c2c2a; } // S5 sparing
 
@@ -184,5 +184,5 @@
   .routes { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
   .region-table tbody td:first-child { background-color: rgba(255, 255, 255, 0.04); }
   // The position bands keep their light tints in dark mode, exactly as the zone
-  // bands do, so their text stays dark — see the explicit colour set above.
+  // bands do, so their text stays dark — see the explicit color set above.
 }
