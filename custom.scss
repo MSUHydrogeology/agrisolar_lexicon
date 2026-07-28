@@ -7,6 +7,7 @@
 
 // Wide tables scroll inside their own container rather than the page body.
 #tbl-lever-matrix,
+.position-table,
 .zone-table {
   overflow-x: auto;
   max-width: 100%;
@@ -85,6 +86,75 @@
 .at-a-glance ul { margin-bottom: 0.25rem; }
 .at-a-glance li { margin-bottom: 0.2rem; }
 
+// ===== Sharing–sparing positions table (landing page, §2.1 summary) =====
+// Same rules as the zone table, but neutral: the positions are not a gradient
+// and should not be shaded as if they were one.
+.position-table table {
+  border-collapse: collapse;
+}
+.position-table table th,
+.position-table table td {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0.35rem 0.5rem;
+  vertical-align: top;
+}
+.position-table thead th {
+  background-color: #d3d1c7;
+  color: #2c2c2a;
+}
+.position-table tbody td:first-child {
+  background-color: #f6f5f1;
+}
+
+// ===== Landing page =====
+
+// Standing note about the draft's status, above the welcome.
+.draft-note {
+  background-color: #f6f5f1;
+  border-left: 4px solid #d3d1c7;
+  border-radius: 3px;
+  padding: 0.6rem 1rem;
+  margin: 1.25rem 0 1.75rem;
+  font-size: 0.9rem;
+}
+.draft-note > p:first-child { margin-top: 0; }
+.draft-note > p:last-child { margin-bottom: 0; }
+
+// Opening welcome: set slightly larger and looser than body text.
+// (Deliberately not named .lead — Bootstrap gives that class to the subtitle.)
+.welcome {
+  font-size: 1.13rem;
+  line-height: 1.6;
+  margin: 0 0 2rem;
+}
+.welcome > p:last-child { margin-bottom: 0; }
+
+// Worked readings of a site — the design language used on a real project.
+// Neutral border so they do not read as another call to action.
+.example {
+  border-left: 4px solid #d3d1c7;
+  padding: 0.2rem 0 0.2rem 1.1rem;
+  margin: 1rem 0 1.25rem;
+}
+.example > p:first-child { margin-top: 0; }
+.example > p:last-child { margin-bottom: 0; }
+
+// "Where to start" routes — one paragraph per route, each opening in bold.
+.routes {
+  background-color: #f6f5f1;
+  border-left: 4px solid #639922;
+  border-radius: 3px;
+  padding: 0.9rem 1.1rem;
+  margin: 1rem 0 1.5rem;
+}
+.routes > p { margin-bottom: 0.85rem; }
+.routes > p:first-child { margin-top: 0; }
+.routes > p:last-child { margin-bottom: 0; }
+
 @media (prefers-color-scheme: dark) {
   .at-a-glance { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
+  .draft-note { background-color: rgba(255, 255, 255, 0.04); border-left-color: rgba(255, 255, 255, 0.2); }
+  .example { border-left-color: rgba(255, 255, 255, 0.25); }
+  .routes { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
+  .position-table tbody td:first-child { background-color: rgba(255, 255, 255, 0.04); }
 }

@@ -1,75 +1,188 @@
-# The Lexicon of Restorative Agrisolar Design {.unnumbered}
-
-### A shared design language for agrisolar photovoltaic landscapes
-
-
-Draft
-
-Agrisolar already has communities. Solar graziers, extension agents, agrivoltaic researchers,
-community-solar developers, farmland-protection advocates, conservation biologists, hydrologists,
-and county planners have each built real practice around their part of the problem. What they do
-not have is a vocabulary that crosses between them — the terms were built separately, so the parts
-do not compose. What is missing is not a community; it is a shared translation layer between the
-ones already at work.
-
-This lexicon is descriptive about how sites are built and openly committed about what they are
-for. It aims to let two people who have never met describe their sites to each other precisely,
-recognize which design problems they share, and locate their genuine disagreements — and it holds,
-in its title and throughout, that ecological, hydrological, and community function belong among the
-objectives of agrisolar design rather than among its accidents.
-
+---
+title: "Welcome"
 ---
 
-## Start here
+::: {.draft-note}
+**Working draft, circulated for comment.** Some citations are
+[not yet verified](chapters/sources.qmd) and are marked where they appear, and the
+[open issues](chapters/7-open-issues.qmd) record what this document has deliberately
+not settled.
+:::
 
-**If you have land in mind and want to know what is possible on it**, go straight to
-[what appears at each scale](chapters/6-archetypes.qmd#sec-by-zone) — the forms that recur at each
-size of project, from a barn roof to a regional complex, with what each one asks of the ground.
+::: {.welcome}
+Welcome. This is a vocabulary for talking about solar arrays on agricultural land: what one
+does to a piece of ground, what it asks of the people who farm it, and what it might be made
+to give back.
 
-**If you are weighing a specific proposal**, the [design pressures](chapters/3-design-pressures.qmd)
-name the forces pulling on it and the conflicts worth arguing about openly.
+It is meant to be used rather than only read. The aim is that two people who have never met
+can describe their sites to each other precisely, recognize the design problems they have in
+common, and find the places where they genuinely disagree.
+:::
+
+## Why a shared language
+
+A solar grazier, a township planner, a hydrologist, and a developer can stand on the same
+eighty acres and describe it in four vocabularies that do not translate. Each of those
+vocabularies is real: solar graziers, extension agents, agrivoltaic researchers,
+community-solar developers, farmland-protection advocates, conservation biologists,
+hydrologists, and county planners have each built genuine practice around their part of the
+problem. They were built separately, though, so the parts do not compose — and until the words
+line up, people cannot tell whether they actually disagree or are merely using terms
+differently.
+
+What is missing, then, is not another community. It is a translation layer between the ones
+already at work: descriptive about how sites are built, and openly committed about what they
+are for. The title says *restorative* on purpose. This document holds that ecological,
+hydrological, and community function belong among the objectives of agrisolar design rather
+than among its accidents — and it argues that position rather than assuming it. The
+[preface](chapters/preface.qmd) sets out the commitment in full, along with who the document
+is written for: the farmers, community decision-makers, and solar professionals who actually
+make these decisions.
+
+## The design language, in brief
+
+Three structural devices carry the document — scale, sharing–sparing, and pressures — and two
+further registers hang off them. All five are sketched here, so that a phrase met later
+— *an A3 site at S2, carrying a hydrologic function* — reads as a sentence rather than a code.
+
+### Where a project sits — the scale transect (§1) {#sec-intro-scale}
+
+Scale settles what is physically, economically, and institutionally possible before design
+begins, so it comes first. The [scale transect](chapters/1-the-scale-transect.qmd) is a single
+gradient from the farmstead to the region, written **A1** through **A5**. It is a transect
+rather than a set of size bins because several attributes move together along it: how a project
+connects to the grid, who decides, what permitting it faces, and who manages the ground beneath
+the panels.
+
+::: {.zone-table}
+| Zone | Indicative footprint | What changes at this size |
+|---|---|---|
+| **A1 — Farmstead** | under ~1 acre | One owner-operator, existing farm labor, behind the meter |
+| **A2 — Field** | ~0.5–8 acres | Still the landowner's decision, perhaps one lease counterparty |
+| **A3 — Parcel** | ~5–80 acres | Multi-party; ground-layer management becomes a contract |
+| **A4 — Landscape** | ~60–400 acres | Developer-led; grazing and habitat become enterprises |
+| **A5 — Regional** | ~300 to 10,000+ acres | Transmission, institutional capital, many jurisdictions |
+:::
+
+A sixth case sits at the origin: **A0**, arrays on buildings, which take no ground at all.
+Capacity is given alongside acreage in [§1.2](chapters/1-the-scale-transect.qmd#sec-zones), but
+where the two disagree, the land is the better guide to what the design problem will be.
+
+![The scale transect. Interconnection posture, siting latitude, and restoration mode covary along one gradient — which is what makes it a transect rather than a set of size bins.](figures/fig_scale_transect.svg)
+
+### What happens to production — the sharing–sparing axis (§2) {#sec-intro-sharing}
+
+The second dimension, largely independent of the first. Does the array **share** the land with
+agricultural production, **spare** land by taking ground out of it — or neither? The
+[sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) gives five positions, written
+**S1** through **S5**:
+
+::: {.position-table}
+| Position | What it records |
+|---|---|
+| **S1 — Full sharing** | Production continues in the same ground, inside the footprint |
+| **S2 — Functional sharing** | The ground layer is productive but subordinate — grazing, forage |
+| **S3 — Coexistence** | *Neither.* Production stops on that ground, and the revenue sustains the farm enterprise that holds it |
+| **S4 — Idled-land sparing** | The array takes ground already idle or marginal, sparing land that is not |
+| **S5 — Impaired-land retirement** | Production ends on ground that was carrying a burden off-site |
+:::
+
+The centre of the axis is the honest one: most solar on farmland is neither sharing nor
+sparing. **S3** exists to say so — and to mark the difference between a lease that keeps a
+working farm solvent and a conversion that simply ends an operation. A position describes the
+ground, never the goodness of the project.
+
+### What pulls on a design — the design pressures (§3) {#sec-intro-pressures}
+
+Every site is a settlement of forces that genuinely pull against one another.
+[Eight of them](chapters/3-design-pressures.qmd) are named: generation yield, capital
+discipline, operational simplicity, agricultural continuity, restorative ambition, social
+license, offtake conformity, and decommissioning & reversibility. They are not axes — they have
+direction, they conflict, and real people advocate for them. This is where the document takes
+sides on purpose, and where it names the conflicts plainly rather than letting them surface as
+vague friction.
+
+### What the land is made to do — restorative functions (§4) {#sec-intro-functions}
+
+Scale and position map where a project *sits*; they say nothing about restoration. So there is a
+second register: five [restorative functions](chapters/4-restorative-functions.qmd) — hydrologic,
+soil and carbon, biodiversity and habitat, microclimate, and community and economic — that are
+reachable from many structural positions at once. They are a palette of capacities, not a
+scorecard: no good project maximizes all of them, and some work against each other. Alongside
+them sits the [SCALE footprint](chapters/4-restorative-functions.qmd#sec-scale), which reads a
+project's influence across four domains — Sustainable Communities, Agriculture, Landscapes,
+Energy.
+
+### How they settle — archetypes (§6) {#sec-intro-archetypes}
+
+The design templates already in circulation are not the object of this lexicon. They are
+[**archetypes**](chapters/6-archetypes.qmd) — recurring ways the pressures have been resolved at
+a particular scale and sharing position, each carrying particular functions. Naming the forces
+first is what lets a fifth, a sixth, and a twentieth archetype be described in the same language.
+
+## Reading a site in the language
+
+Put together, the pieces describe a real place in a few coordinates. Each site names its zone,
+its position, the functions it carries, and which pressures it settled for — and which it gave
+up, which the document calls the pressures it *yields*.
+
+::: {.example}
+**Solar prairie strips** are a **parcel-scale (A3)** form that retires the strip ground
+(**S5**), planted where the field sheds its water, carrying **hydrologic** and
+**biodiversity** functions. They are settled for **restorative ambition** and **social
+license**, and yield a little **generation** to the prairie.
+:::
+
+::: {.example}
+A **forty-kilowatt array over the barnyard**, shading the farm's own cows, is
+**farmstead-scale (A1)** and **shares the ground (S1–S2)** with the animals already there.
+It is settled for **agricultural continuity** and **operational simplicity**, and yields
+**generation at scale** — the array is sized to the farm, not to the grid.
+:::
+
+Two projects that share almost nothing physically are now described in the same terms, which
+is what makes it possible to say where they actually differ — and to compare either one with
+whatever is being proposed down the road from you.
+
+## How the document is organized
+
+The three structural devices come first — [the scale
+transect](chapters/1-the-scale-transect.qmd) (§1), [the sharing–sparing
+axis](chapters/2-the-sharingsparing-axis.qmd) (§2), and [design
+pressures](chapters/3-design-pressures.qmd) (§3). Then the [restorative
+functions](chapters/4-restorative-functions.qmd) (§4) that give the title its structural home,
+the [general terminology](chapters/5-general-terminology.qmd) (§5) the field already uses, and
+the [archetypes](chapters/6-archetypes.qmd) (§6) in which all of it settles. The
+[open issues](chapters/7-open-issues.qmd) (§7) close by showing the seams, and
+[Sources](chapters/sources.qmd) records what has been verified and what has not.
+
+It is written to be read in order. Nothing requires that of you, and the next section is for
+readers who would rather not.
+
+## Where to start
+
+::: {.routes}
+**If you have land in mind and want to know what is possible on it**, go to
+[what appears at each scale](chapters/6-archetypes.qmd#sec-by-zone) — the forms that recur at
+each size of project, from a barn roof to a regional complex, with what each one asks of the
+ground.
+
+**If you are weighing a specific proposal**, the
+[design pressures](chapters/3-design-pressures.qmd) name the forces pulling on it and the
+conflicts worth arguing about openly.
 
 **If you are trying to pin down a term** someone has used, the
-[alphabetical index](chapters/index-alphabetical.qmd) lists everything this document defines.
+[alphabetical index](chapters/index-alphabetical.qmd) lists everything this document defines,
+and the search box at the top of every page finds the rest.
 
-Everything else is the reasoning behind those three, and reads in order.
+**If you want the argument rather than the vocabulary**, start with the
+[preface](chapters/preface.qmd) and read straight through.
+:::
 
----
+## Joining in
 
-## How it is organized
-
-Three structural devices carry the document.
-
-**[The Scale Transect](chapters/1-the-scale-transect.qmd)** — a single gradient from
-farmstead to regional that most other terms are read against. Scale determines what is physically,
-economically, and institutionally possible before design begins.
-
-**[The Sharing–Sparing Axis](chapters/2-the-sharingsparing-axis.qmd)** — whether the
-array shares land with production, spares land by taking ground out of it, or neither.
-
-**[Design Pressures](chapters/3-design-pressures.qmd)** — the competing forces every
-site must settle. This is where the document takes sides, on purpose — pressures are meant to pull in a direction.
-
-The design templates in circulation are not the object of this lexicon. They are
-**[archetypes](chapters/6-archetypes.qmd)** — ways the pressures have been resolved
-at particular scales and sharing postures.
-
-In one line: three structural devices (scale, sharing–sparing, pressures) →
-**[general terminology](chapters/5-general-terminology.qmd)** →
-**[archetypes](chapters/6-archetypes.qmd)** →
-**[open issues](chapters/7-open-issues.qmd)**.
-
-To look a term up directly, see the **[Index — Alphabetical](chapters/index-alphabetical.qmd)**;
-the built-in search box at the top of every page complements it.
-
----
-
-## Status
-
-This is a working draft circulated for comment. Two things in particular are unresolved:
-
-- Several citations are **[not yet verified](chapters/sources.qmd)** and are marked as such.
-- The **[open issues](chapters/7-open-issues.qmd)** list records decisions the document
-  has deliberately not made.
-
-Corrections, disagreements, and proposed terms are welcome as GitHub issues or pull requests.
+This is a working document, and it improves by being disagreed with. Corrections, counterexamples,
+and proposed terms are welcome as issues or pull requests on
+[GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon) — an archetype that recurs in your
+region and is missing here, a term that lands badly with the people who have to use it, or a
+citation you can trace further than we have.
