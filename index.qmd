@@ -13,10 +13,12 @@ not settled.
 Solar and farming want the same ground: flat, open, well drained, and generous with sun. Both
 are ways of harvesting sunlight over a wide area, so the competition between them is inherent
 rather than incidental — every acre of panels is an acre of crop, and that is the argument now
-running in county boardrooms across the country. But its terms are set by design rather than
-by physics. What an array does to the soil beneath it, to the water leaving it, and to the farm
-that holds it are decisions, not consequences, and made well they can settle the tension rather
-than simply resolve it in one direction.
+running in county boardrooms across the country. But an array is not one thing. The same acres
+can carry pollinator habitat or bare gravel, slow a field's runoff or speed it, build soil
+carbon or strip it, shade a herd through a July afternoon, take irrigation off an aquifer being
+drawn down, or carry a farm through a decade that would otherwise have ended it. None of that
+is a side effect. Those are design decisions, made differently on every site, and made well
+they settle the tension rather than resolve it in one direction.
 
 **Agrisolar** is the name for that whole field: solar generation on agricultural land, whatever
 happens to production underneath. It is worth distinguishing from **agrivoltaics**, the
