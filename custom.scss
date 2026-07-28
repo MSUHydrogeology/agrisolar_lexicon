@@ -63,3 +63,21 @@
 .zone-table tbody tr:nth-child(3) td { background-color: #c0dd97; } // A3
 .zone-table tbody tr:nth-child(4) td { background-color: #aed483; } // A4
 .zone-table tbody tr:nth-child(5) td { background-color: #97c459; } // A5
+
+
+// ===== Archetype "At a glance" blocks (§6) =====
+.at-a-glance {
+  background-color: #f6f5f1;
+  border-left: 4px solid #639922;
+  border-radius: 3px;
+  padding: 0.85rem 1.1rem 0.6rem;
+  margin: 1rem 0 1.25rem;
+  font-size: 0.94rem;
+}
+.at-a-glance > p:first-child { margin-top: 0; }
+.at-a-glance ul { margin-bottom: 0.25rem; }
+.at-a-glance li { margin-bottom: 0.2rem; }
+
+@media (prefers-color-scheme: dark) {
+  .at-a-glance { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
+}

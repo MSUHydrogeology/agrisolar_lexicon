@@ -6,6 +6,9 @@ authors:
   - family-names: Kendall
     given-names: Anthony
     affiliation: Michigan State University
+  - family-names: Thompson
+    given-names: Aaron
+    affiliation: Purdue University
 repository-code: "https://github.com/MSUHydrogeology/agrisolar_lexicon"
 url: "https://msuhydrogeology.github.io/agrisolar_lexicon"
 abstract: >-

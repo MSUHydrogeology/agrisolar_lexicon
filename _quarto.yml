@@ -7,7 +7,9 @@ project:
 book:
   title: "The Lexicon of Restorative Agrisolar Design"
   subtitle: "A shared design language for agrisolar photovoltaic landscapes"
-  author: "Anthony Kendall"
+  author:
+    - "Anthony Kendall"
+    - "Aaron Thompson"
   date: last-modified
   site-url: "https://msuhydrogeology.github.io/agrisolar_lexicon/"
   repo-url: "https://github.com/MSUHydrogeology/agrisolar_lexicon"

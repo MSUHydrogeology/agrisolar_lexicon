@@ -22,17 +22,23 @@ So the transect is defined by covarying bundles, with nameplate capacity as an *
 
 ### 1.2 The Zones {#sec-zones}
 
-**A1–A5** — five zones along the gradient:
+**A1–A5** — five zones along the gradient, with a zero-land case (A0) noted at its origin:
 
 ::: {.zone-table}
-| Zone | Indicative capacity | Interconnection | Decision unit | Ground-layer management |
-|---|---|---|---|---|
-| **A1 — Farmstead** | <100 kW | Behind-the-meter, net metered | Single owner-operator | Existing farm labor and equipment |
-| **A2 — Field** | 100 kW–1 MW | Behind-meter to distribution | Landowner, possibly one lease counterparty | Existing equipment, modest adaptation |
-| **A3 — Parcel** | 1–10 MW | Distribution; community solar, mid-market PPA | Multi-party: landowner, developer, offtaker, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
-| **A4 — Landscape** | 10–50 MW | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
-| **A5 — Regional** | 50 MW+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
+| Zone | Indicative capacity | Indicative footprint | Interconnection | Decision unit | Ground-layer management |
+|---|---|---|---|---|---|
+| **A1 — Farmstead** | <100 kW | under ~1 acre | Behind-the-meter, net metered | Single owner-operator | Existing farm labor and equipment |
+| **A2 — Field** | 100 kW–1 MW | ~0.5–8 acres | Behind-meter to distribution | Landowner, possibly one lease counterparty | Existing equipment, modest adaptation |
+| **A3 — Parcel** | 1–10 MW | ~5–80 acres | Distribution; community solar, mid-market PPA | Multi-party: landowner, developer, offtaker, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
+| **A4 — Landscape** | 10–50 MW | ~60–400 acres | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
+| **A5 — Regional** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
 :::
+
+**Acres, not just megawatts.** Capacity is how the industry files a project; acreage is how a farmer, a township board, and an assessor experience it, so both are given. The two are only loosely coupled — trackers and agrivoltaic clearances take more land per megawatt than close-packed fixed tilt, so a high-clearance A3 site can occupy the acreage of a conventional A4 one. Where the two disagree, **the land is the better guide to what the design problem will be**.
+
+**A0 — the zero-land case.** Arrays mounted on buildings — barn and shed roofs, silo faces, pole-barn structures — take no ground at all. Because this transect is fundamentally about *land use*, that puts them at the transect's origin rather than on it: no siting latitude to spend, no ground layer to design, no sharing-or-sparing question to answer (§2). A0 is named here because it is often a farm's first solar decision and because it is the honest answer to "how do I add solar without giving up any field," but the rest of this document is about arrays that touch the ground.
+
+**The top of the transect keeps going.** A5 is open-ended by design: it holds everything from a 50 MW single site to multi-thousand-acre regional complexes and the emerging 5,000–10,000+ acre, gigawatt-class developments. These differ enormously in land assembly, jurisdiction count, and community interface, and a future calibration may well split A5 — but the restoration problem stays recognisably the same across them (management-led, contract-enterprise), which is why the lexicon has not split it yet (§7, issue 1).
 
 ![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient — which is what makes it a transect rather than a set of size bins.](../figures/fig_scale_transect.svg){#fig-transect}
 
