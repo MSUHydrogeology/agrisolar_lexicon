@@ -1,7 +1,7 @@
 # Index — Alphabetical {#sec-index-alpha}
 
 Every defined or coined term in the lexicon, ordered A–Z. This is the
-alphabetical view of the [Terminology](5-general-terminology.qmd) chapter
+alphabetical view of the [Terminology](5-terminology.qmd) chapter
 (§5), which holds the same set grouped by register — use this one when you
 know the word, that one when you want the neighbourhood it belongs to.
 
@@ -18,189 +18,189 @@ under **S**.
 
 ## A
 
-**A0 — the zero-land case** — arrays on buildings, which take no ground at all: no siting latitude, no ground layer, and no sharing–sparing position; the transect's origin rather than a point on it — [§5](5-general-terminology.qmd#term-a0) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A0 — the zero-land case** — arrays on buildings, which take no ground at all: no siting latitude, no ground layer, and no sharing–sparing position; the transect's origin rather than a point on it — [§5](5-terminology.qmd#term-a0) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A1 — Farmstead** — <100 kW, behind-the-meter, single owner-operator, existing farm labour — [§5](5-general-terminology.qmd#term-a1) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A1 — Farmstead** — <100 kW, behind-the-meter, single owner-operator, existing farm labour — [§5](5-terminology.qmd#term-a1) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A2 — Field** — 100 kW–1 MW, behind-meter to distribution, landowner with possibly one lease counterparty — [§5](5-general-terminology.qmd#term-a2) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A2 — Field** — 100 kW–1 MW, behind-meter to distribution, landowner with possibly one lease counterparty — [§5](5-terminology.qmd#term-a2) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A3 — Parcel** — 1–10 MW, distribution / community solar, multi-party, purpose-built ground management — [§5](5-general-terminology.qmd#term-a3) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A3 — Parcel** — 1–10 MW, distribution / community solar, multi-party, purpose-built ground management — [§5](5-terminology.qmd#term-a3) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A4 — Landscape** — 10–50 MW, developer-led institutional capital, contract-enterprise management — [§5](5-general-terminology.qmd#term-a4) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A4 — Landscape** — 10–50 MW, developer-led institutional capital, contract-enterprise management — [§5](5-terminology.qmd#term-a4) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A5 — Regional** — 50 MW+, transmission, utility/IPP, contract enterprise at ranch scale — [§5](5-general-terminology.qmd#term-a5) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A5 — Regional** — 50 MW+, transmission, utility/IPP, contract enterprise at ranch scale — [§5](5-terminology.qmd#term-a5) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**Agricultural continuity** — design pressure: keep working land working — [§5](5-general-terminology.qmd#term-agricultural-continuity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Agricultural continuity** — design pressure: keep working land working — [§5](5-terminology.qmd#term-agricultural-continuity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the sharing–sparing axis — [§5](5-general-terminology.qmd#term-agrisolar)
+**Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the sharing–sparing axis — [§5](5-terminology.qmd#term-agrisolar)
 
-**Agrivoltaics** — crop or livestock production within the array footprint (S1–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [§5](5-general-terminology.qmd#term-agrivoltaics)
+**Agrivoltaics** — crop or livestock production within the array footprint (S1–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [§5](5-terminology.qmd#term-agrivoltaics)
 
-**Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [§5](5-general-terminology.qmd#term-agroenergy)
+**Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [§5](5-terminology.qmd#term-agroenergy)
 
-**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [§5](5-general-terminology.qmd#term-archetype) · [6. Archetypes](6-archetypes.qmd)
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position; the structure register — [§5](5-terminology.qmd#term-archetype) · [6. Archetypes](6-archetypes.qmd)
 
-**Archetype × function matrix** — the descriptive model relating the two registers: archetypes as rows, functions as columns, cells as the degree to which an archetype makes a function reachable; a palette, not a scorecard — [§5](5-general-terminology.qmd#term-archetype-function-matrix) · [4. Restorative Functions](4-restorative-functions.qmd)
+**Archetype × function matrix** — the descriptive model relating the two registers: archetypes as rows, functions as columns, cells as the degree to which an archetype makes a function reachable; a palette, not a scorecard — [§5](5-terminology.qmd#term-archetype-function-matrix) · [4. Restorative Functions](4-restorative-functions.qmd)
 
 
 ## B
 
-**Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [§5](5-general-terminology.qmd#term-bare-conversion) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [§5](5-terminology.qmd#term-bare-conversion) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**Biodiversity & habitat function** — restorative function: habitat built from the ground layer up, with mowing and grazing *timing* as decisive as the seed mix; reachable across S2–S5 — [§5](5-general-terminology.qmd#term-fn-biodiversity) · [4.3 Biodiversity & habitat function](4-restorative-functions.qmd#sec-fn-biodiversity)
+**Biodiversity & habitat function** — restorative function: habitat built from the ground layer up, with mowing and grazing *timing* as decisive as the seed mix; reachable across S2–S5 — [§5](5-terminology.qmd#term-fn-biodiversity) · [4.3 Biodiversity & habitat function](4-restorative-functions.qmd#sec-fn-biodiversity)
 
 
 ## C
 
-**Capital discipline** — design pressure: minimize installed cost per watt — [§5](5-general-terminology.qmd#term-capital-discipline) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Capital discipline** — design pressure: minimize installed cost per watt — [§5](5-terminology.qmd#term-capital-discipline) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [§5](5-general-terminology.qmd#term-carrying-capacity) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [§5](5-terminology.qmd#term-carrying-capacity) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
 
-**Coexistence (S3)** — *see* S3 — Coexistence; the centre of the sharing–sparing axis, neither sharing nor sparing — [§5](5-general-terminology.qmd#term-s3) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**Coexistence (S3)** — *see* S3 — Coexistence; the centre of the sharing–sparing axis, neither sharing nor sparing — [§5](5-terminology.qmd#term-s3) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [§5](5-general-terminology.qmd#term-colocation-integration)
+**Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [§5](5-terminology.qmd#term-colocation-integration)
 
-**Community & economic function** — the socioeconomic restorative function: economic prosperity, livability, and health & equity built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [§5](5-general-terminology.qmd#term-fn-community) · [4.5 Community & economic function](4-restorative-functions.qmd#sec-fn-community)
+**Community & economic function** — the socioeconomic restorative function: economic prosperity, livability, and health & equity built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [§5](5-terminology.qmd#term-fn-community) · [4.5 Community & economic function](4-restorative-functions.qmd#sec-fn-community)
 
-**Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [§5](5-general-terminology.qmd#term-community-benefit)
+**Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [§5](5-terminology.qmd#term-community-benefit)
 
-**Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [§5](5-general-terminology.qmd#term-contract-grazing) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [§5](5-terminology.qmd#term-contract-grazing) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
 
-**Covarying attribute bundle** — the attributes that move together along the transect, so naming a zone tells you many things at once — [§5](5-general-terminology.qmd#term-covarying-bundle) · [1.1 A gradient, not a set of size bins](1-the-scale-transect.qmd#sec-transect-why)
+**Covarying attribute bundle** — the attributes that move together along the transect, so naming a zone tells you many things at once — [§5](5-terminology.qmd#term-covarying-bundle) · [1.1 A gradient, not a set of size bins](1-the-scale-transect.qmd#sec-transect-why)
 
 
 ## D
 
-**Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [§5](5-general-terminology.qmd#term-decommissioning)
+**Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [§5](5-terminology.qmd#term-decommissioning)
 
-**Decommissioning & reversibility** — the eighth design pressure: minimize the residual footprint and preserve the option to return the ground to its prior use — [§5](5-general-terminology.qmd#term-decommissioning-pressure) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Decommissioning & reversibility** — the eighth design pressure: minimize the residual footprint and preserve the option to return the ground to its prior use — [§5](5-terminology.qmd#term-decommissioning-pressure) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled — [§5](5-general-terminology.qmd#term-design-levers) · [3.3 Design levers](3-design-pressures.qmd#sec-levers)
+**Design levers** — the degrees of freedom — structural, land-and-ecology, institutional — through which pressures get settled — [§5](5-terminology.qmd#term-design-levers) · [3.3 Design levers](3-design-pressures.qmd#sec-levers)
 
-**Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates — [§5](5-general-terminology.qmd#term-design-pressures) · [3. Design Pressures](3-design-pressures.qmd)
+**Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates — [§5](5-terminology.qmd#term-design-pressures) · [3. Design Pressures](3-design-pressures.qmd)
 
-**Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [§5](5-general-terminology.qmd#term-dual-use)
+**Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [§5](5-terminology.qmd#term-dual-use)
 
 
 ## E
 
-**Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation; its ecological ground layer is a restorative function rather than an axis position, most often built at S3 — [§5](5-general-terminology.qmd#term-ecovoltaics)
+**Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation; its ecological ground layer is a restorative function rather than an axis position, most often built at S3 — [§5](5-terminology.qmd#term-ecovoltaics)
 
 
 ## F
 
-**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [§5](5-general-terminology.qmd#term-feasible-wedge) · [2.2 Which positions scale allows](2-the-sharingsparing-axis.qmd#sec-wedge)
+**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [§5](5-terminology.qmd#term-feasible-wedge) · [2.2 Which positions scale allows](2-the-sharingsparing-axis.qmd#sec-wedge)
 
-**Featured archetype** — one of the six canonical archetypes developed in depth, ordered along the scale transect (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each with a worked real-world application — [§5](5-general-terminology.qmd#term-featured-archetype) · [The six featured archetypes](6-archetypes.qmd#sec-featured)
+**Featured archetype** — one of the six canonical archetypes developed in depth, ordered along the scale transect (Barnyard Shelter Solar, Vegetable Agrivoltaics, Marginal Land Solar, Solar Prairie Strips, Regenerative Solar Grazing, Water-Sustainability Solar), each with a worked real-world application — [§5](5-terminology.qmd#term-featured-archetype) · [The six featured archetypes](6-archetypes.qmd#sec-featured)
 
-**Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [§5](5-general-terminology.qmd#term-footprint-influence)
+**Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [§5](5-terminology.qmd#term-footprint-influence)
 
 
 ## G
 
-**Generation yield** — design pressure: maximize energy per unit land — [§5](5-general-terminology.qmd#term-generation-yield) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Generation yield** — design pressure: maximize energy per unit land — [§5](5-terminology.qmd#term-generation-yield) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Ground Coverage Ratio (GCR)** — ratio of module area to ground area; the array's density; the number behind the row-geometry ↔ ground-layer coupling — [§5](5-general-terminology.qmd#term-gcr)
+**Ground Coverage Ratio (GCR)** — ratio of module area to ground area; the array's density; the number behind the row-geometry ↔ ground-layer coupling — [§5](5-terminology.qmd#term-gcr)
 
-**Ground Layer** — whatever occupies the surface beneath and between panels; primary carrier of restorative function; *syn.* understory, ground cover — [§5](5-general-terminology.qmd#term-ground-layer)
+**Ground Layer** — whatever occupies the surface beneath and between panels; primary carrier of restorative function; *syn.* understory, ground cover — [§5](5-terminology.qmd#term-ground-layer)
 
 
 ## H
 
-**Hydrologic function** — restorative function: infiltration and recharge raised, runoff slowed and filtered, soil moisture buffered — and at scale, consumptive use retired from a basin's budget — [§5](5-general-terminology.qmd#term-fn-hydrologic) · [4.1 Hydrologic function](4-restorative-functions.qmd#sec-fn-hydrologic)
+**Hydrologic function** — restorative function: infiltration and recharge raised, runoff slowed and filtered, soil moisture buffered — and at scale, consumptive use retired from a basin's budget — [§5](5-terminology.qmd#term-fn-hydrologic) · [4.1 Hydrologic function](4-restorative-functions.qmd#sec-fn-hydrologic)
 
 
 ## I
 
-**Influence Zone** — the larger, typically asymmetric area whose hydrology, microclimate, soil, or wildlife movement is measurably affected — [§5](5-general-terminology.qmd#term-footprint-influence)
+**Influence Zone** — the larger, typically asymmetric area whose hydrology, microclimate, soil, or wildlife movement is measurably affected — [§5](5-terminology.qmd#term-footprint-influence)
 
-**Integration** — functional interdependence — panel height set by livestock clearance, spacing by forage light, tracking by photosynthetic timing — [§5](5-general-terminology.qmd#term-colocation-integration)
+**Integration** — functional interdependence — panel height set by livestock clearance, spacing by forage light, tracking by photosynthetic timing — [§5](5-terminology.qmd#term-colocation-integration)
 
 
 ## L
 
-**Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [§5](5-general-terminology.qmd#term-ler)
+**Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [§5](5-terminology.qmd#term-ler)
 
-**Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5 — [§5](5-general-terminology.qmd#term-lever-matrix) · [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
+**Levers × Scale-Zones matrix** — the descriptive grid of how each design lever's latitude and character shift across zones A1–A5 — [§5](5-terminology.qmd#term-lever-matrix) · [3.4 Levers across the transect](3-design-pressures.qmd#sec-lever-matrix)
 
 
 ## M
 
-**Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [§5](5-general-terminology.qmd#term-management-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+**Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [§5](5-terminology.qmd#term-management-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Marginal / Previously Disturbed Land** — the low-value ground that idled-land sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [§5](5-general-terminology.qmd#term-marginal-land)
+**Marginal / Previously Disturbed Land** — the low-value ground that idled-land sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [§5](5-terminology.qmd#term-marginal-land)
 
-**Microclimate & thermal–water buffering function** — restorative function: the array's reshaping of the near-surface energy balance; its sign flips with climate and crop — [§5](5-general-terminology.qmd#term-fn-microclimate) · [4.4 Microclimate & thermal–water buffering function](4-restorative-functions.qmd#sec-fn-microclimate)
+**Microclimate & thermal–water buffering function** — restorative function: the array's reshaping of the near-surface energy balance; its sign flips with climate and crop — [§5](5-terminology.qmd#term-fn-microclimate) · [4.4 Microclimate & thermal–water buffering function](4-restorative-functions.qmd#sec-fn-microclimate)
 
-**Microclimate Modification** — the array's reshaping of the below-panel environment (shade, temperature, evaporative demand, soil moisture); a restorative function (§4.4) — [§5](5-general-terminology.qmd#term-microclimate)
+**Microclimate Modification** — the array's reshaping of the below-panel environment (shade, temperature, evaporative demand, soil moisture); a restorative function (§4.4) — [§5](5-terminology.qmd#term-microclimate)
 
-**Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [§5](5-general-terminology.qmd#term-module-technology)
+**Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [§5](5-terminology.qmd#term-module-technology)
 
 
 ## O
 
-**Offtake conformity** — design pressure: satisfy the criteria of whoever buys the power, attributes, or tax position — [§5](5-general-terminology.qmd#term-offtake-conformity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Offtake conformity** — design pressure: satisfy the criteria of whoever buys the power, attributes, or tax position — [§5](5-terminology.qmd#term-offtake-conformity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Operational simplicity** — design pressure: minimize management burden across a 25–40 year asset life — [§5](5-general-terminology.qmd#term-operational-simplicity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Operational simplicity** — design pressure: minimize management burden across a 25–40 year asset life — [§5](5-terminology.qmd#term-operational-simplicity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [§5](5-general-terminology.qmd#term-overhead-interspace) · [6. Archetypes](6-archetypes.qmd)
+**Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [§5](5-terminology.qmd#term-overhead-interspace) · [6. Archetypes](6-archetypes.qmd)
 
 
 ## P
 
-**Pore Space** — the three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space — [§5](5-general-terminology.qmd#term-pore-space)
+**Pore Space** — the three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space — [§5](5-terminology.qmd#term-pore-space)
 
-**Pressure conflict** — the framing that treats disputes between pressures as legitimate forces in genuine tension rather than as definitional errors — [§5](5-general-terminology.qmd#term-pressure-conflict) · [3.2 The conflicts worth naming](3-design-pressures.qmd#sec-conflicts)
+**Pressure conflict** — the framing that treats disputes between pressures as legitimate forces in genuine tension rather than as definitional errors — [§5](5-terminology.qmd#term-pressure-conflict) · [3.2 The conflicts worth naming](3-design-pressures.qmd#sec-conflicts)
 
 
 ## R
 
-**Reading rule** — production first, then prior status: a site where production continues is S1–S2 whatever the ground used to be; only where it stops do S3–S5 apply — [§5](5-general-terminology.qmd#term-reading-rule) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**Reading rule** — production first, then prior status: a site where production continues is S1–S2 whatever the ground used to be; only where it stops do S3–S5 apply — [§5](5-terminology.qmd#term-reading-rule) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**Restoration mode** — whether restorative work is delivered by choice of ground, array geometry, or operation — Siting-led, Structure-led, or Management-led — [§5](5-general-terminology.qmd#term-restoration-mode) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+**Restoration mode** — whether restorative work is delivered by choice of ground, array geometry, or operation — Siting-led, Structure-led, or Management-led — [§5](5-terminology.qmd#term-restoration-mode) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation — [§5](5-general-terminology.qmd#term-restorative)
+**Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation — [§5](5-terminology.qmd#term-restorative)
 
-**Restorative ambition** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [§5](5-general-terminology.qmd#term-restorative-ambition) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Restorative ambition** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [§5](5-terminology.qmd#term-restorative-ambition) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one socioeconomic (community & economic) — [§5](5-general-terminology.qmd#term-restorative-function) · [4. Restorative Functions](4-restorative-functions.qmd)
+**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one socioeconomic (community & economic) — [§5](5-terminology.qmd#term-restorative-function) · [4. Restorative Functions](4-restorative-functions.qmd)
 
 
 ## S
 
-**S1 — Full sharing** — production continues within the array footprint, in the same ground — [§5](5-general-terminology.qmd#term-s1) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S1 — Full sharing** — production continues within the array footprint, in the same ground — [§5](5-terminology.qmd#term-s1) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S2 — Functional sharing** — ground layer productive but subordinate to the array; grazing, forage — [§5](5-general-terminology.qmd#term-s2) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S2 — Functional sharing** — ground layer productive but subordinate to the array; grazing, forage — [§5](5-terminology.qmd#term-s2) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the centre of the axis — [§5](5-general-terminology.qmd#term-s3) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the centre of the axis — [§5](5-terminology.qmd#term-s3) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, so productive land is spared; arrays on buildings take no ground and hold no position (A0) — [§5](5-general-terminology.qmd#term-s4) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, so productive land is spared; arrays on buildings take no ground and hold no position (A0) — [§5](5-terminology.qmd#term-s4) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [§5](5-general-terminology.qmd#term-s5) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+**S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [§5](5-terminology.qmd#term-s5) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**SCALE footprint** — a whole-project reading across four domains (Sustainable Communities, Agriculture, Landscapes, Energy), each running from regeneration to depletion; carries direction, not a pass mark — [§5](5-general-terminology.qmd#term-scale-footprint) · [The SCALE footprint](4-restorative-functions.qmd#sec-scale)
+**SCALE footprint** — a whole-project reading across four domains (Sustainable Communities, Agriculture, Landscapes, Energy), each running from regeneration to depletion; carries direction, not a pass mark — [§5](5-terminology.qmd#term-scale-footprint) · [The SCALE footprint](4-restorative-functions.qmd#sec-scale)
 
-**Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [§5](5-general-terminology.qmd#term-scale-transect) · [1. The Scale Transect](1-the-scale-transect.qmd)
+**Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [§5](5-terminology.qmd#term-scale-transect) · [1. The Scale Transect](1-the-scale-transect.qmd)
 
-**Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [§5](5-general-terminology.qmd#term-screening)
+**Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [§5](5-terminology.qmd#term-screening)
 
-**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production, spares land by taking ground out of it, or neither; five positions centred on S3 — [§5](5-general-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
+**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production, spares land by taking ground out of it, or neither; five positions centred on S3 — [§5](5-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 
-**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [§5](5-general-terminology.qmd#term-siting-latitude) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [§5](5-terminology.qmd#term-siting-latitude) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [§5](5-general-terminology.qmd#term-siting-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+**Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [§5](5-terminology.qmd#term-siting-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
-**Social license** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [§5](5-general-terminology.qmd#term-social-license) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Social license** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [§5](5-terminology.qmd#term-social-license) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Soil & carbon function** — restorative function: perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability, against a construction-disturbance debt paid first — [§5](5-general-terminology.qmd#term-fn-soil) · [4.2 Soil & carbon function](4-restorative-functions.qmd#sec-fn-soil)
+**Soil & carbon function** — restorative function: perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability, against a construction-disturbance debt paid first — [§5](5-terminology.qmd#term-fn-soil) · [4.2 Soil & carbon function](4-restorative-functions.qmd#sec-fn-soil)
 
-**Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [§5](5-general-terminology.qmd#term-stocking-density) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [§5](5-terminology.qmd#term-stocking-density) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
 
-**Structure register / function register** — the document's two layers: the structure register is the two axes and the archetypes they produce; the function register is the restorative capacities laid over them — [§5](5-general-terminology.qmd#term-registers) · [4. Restorative Functions](4-restorative-functions.qmd)
+**Structure register / function register** — the document's two layers: the structure register is the two axes and the archetypes they produce; the function register is the restorative capacities laid over them — [§5](5-terminology.qmd#term-registers) · [4. Restorative Functions](4-restorative-functions.qmd)
 
-**Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [§5](5-general-terminology.qmd#term-structure-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
+**Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [§5](5-terminology.qmd#term-structure-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
 
 ## T
 
-**Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [§5](5-general-terminology.qmd#term-tracking-curtailment)
+**Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [§5](5-terminology.qmd#term-tracking-curtailment)
