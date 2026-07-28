@@ -5,7 +5,7 @@ title: "Welcome"
 ::: {.draft-note}
 **Working draft, circulated for comment.** Some citations are
 [not yet verified](chapters/sources.qmd) and are marked where they appear, and the
-[open issues](chapters/7-open-issues.qmd) record what this document has deliberately
+[open issues](chapters/8-open-issues.qmd) record what this document has deliberately
 not settled.
 :::
 
@@ -41,9 +41,10 @@ make these decisions.
 
 ## The design language, in brief
 
-Three structural devices carry the document — scale, sharing–sparing, and pressures — and two
-further registers hang off them. All five are sketched here, so that a phrase met later
-— *an A3 site at S2, carrying a hydrologic function* — reads as a sentence rather than a code.
+Three structural devices carry the document — scale, sharing–sparing, and pressures — with two
+further registers hanging off them, and one claim about all of it: that the answer moves with
+the region. All six are sketched here, so that a phrase met later — *an A3 site at S2, carrying
+a hydrologic function* — reads as a sentence rather than a code.
 
 ### Where a project sits — the scale transect (§1) {#sec-intro-scale}
 
@@ -94,7 +95,7 @@ ground, never the goodness of the project.
 
 ### What pulls on a design — the design pressures (§3) {#sec-intro-pressures}
 
-Every site is a settlement of forces that genuinely pull against one another.
+Every site is a resolution of forces that genuinely pull against one another.
 [Eight of them](chapters/3-design-pressures.qmd) are named: generation yield, capital
 discipline, operational simplicity, agricultural continuity, restorative ambition, social
 license, offtake conformity, and decommissioning & reversibility. They are not axes — they have
@@ -113,30 +114,40 @@ them sits the [SCALE footprint](chapters/4-restorative-functions.qmd#sec-scale),
 project's influence across four domains — Sustainable Communities, Agriculture, Landscapes,
 Energy.
 
-### How they settle — archetypes (§6) {#sec-intro-archetypes}
+### How they resolve — archetypes (§6) {#sec-intro-archetypes}
 
 The design templates already in circulation are not the object of this lexicon. They are
 [**archetypes**](chapters/6-archetypes.qmd) — recurring ways the pressures have been resolved at
 a particular scale and sharing position, each carrying particular functions. Naming the forces
 first is what lets a fifth, a sixth, and a twentieth archetype be described in the same language.
 
+### Why the answer moves — regionality (§7) {#sec-intro-regionality}
+
+The pressures are the same everywhere; their weights are not. Sun and cloud, the grid operator,
+aridity, latitude, the cropping system, and irrigation all vary across space, and each one
+changes how a site should resolve. Shade that relieves a water-stressed crop in Arizona costs
+yield in Ohio; a retirement argument that is decisive over a depleted aquifer has nothing to act
+on in a rain-fed county. [**Regionality**](chapters/7-regionality.qmd) is the chapter that says
+so — and the reason this document argues for an aim without prescribing dimensions. **There is
+no one-size-fits-all design.**
+
 ## Reading a site in the language
 
 Put together, the pieces describe a real place in a few coordinates. Each site names its zone,
-its position, the functions it carries, and which pressures it settled for — and which it gave
+its position, the functions it carries, and which pressures the design favoured — and which it gave
 up, which the document calls the pressures it *yields*.
 
 ::: {.example}
 **Solar prairie strips** are a **parcel-scale (A3)** form that retires the strip ground
 (**S5**), planted where the field sheds its water, carrying **hydrologic** and
-**biodiversity** functions. They are settled for **restorative ambition** and **social
+**biodiversity** functions. They resolve in favour of **restorative ambition** and **social
 license**, and yield a little **generation** to the prairie.
 :::
 
 ::: {.example}
 A **forty-kilowatt array over the barnyard**, shading the farm's own cows, is
 **farmstead-scale (A1)** and **shares the ground (S1–S2)** with the animals already there.
-It is settled for **agricultural continuity** and **operational simplicity**, and yields
+It resolves in favour of **agricultural continuity** and **operational simplicity**, and yields
 **generation at scale** — the array is sized to the farm, not to the grid.
 :::
 
@@ -153,9 +164,9 @@ pressures](chapters/3-design-pressures.qmd) (§3). Then the [restorative
 functions](chapters/4-restorative-functions.qmd) (§4) that give the title its structural home,
 the [terminology](chapters/5-terminology.qmd) (§5) — every term the document defines,
 grouped by register — and the [archetypes](chapters/6-archetypes.qmd) (§6) in which all of it
-settles. The
-[open issues](chapters/7-open-issues.qmd) (§7) close by showing the seams, and
-[Sources](chapters/sources.qmd) records what has been verified and what has not.
+resolves. [Regionality](chapters/7-regionality.qmd) (§7) then says why those resolutions differ
+across the country, and the [open issues](chapters/8-open-issues.qmd) (§8) close by showing the
+seams. [Sources](chapters/sources.qmd) records what has been verified and what has not.
 
 It is written to be read in order. Nothing requires that of you, and the next section is for
 readers who would rather not.

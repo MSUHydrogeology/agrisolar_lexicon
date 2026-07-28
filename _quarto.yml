@@ -28,7 +28,8 @@ book:
     - chapters/4-restorative-functions.qmd
     - chapters/5-terminology.qmd
     - chapters/6-archetypes.qmd
-    - chapters/7-open-issues.qmd
+    - chapters/7-regionality.qmd
+    - chapters/8-open-issues.qmd
     - chapters/sources.qmd
   appendices:
     - chapters/index-alphabetical.qmd

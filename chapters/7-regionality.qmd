@@ -1,0 +1,96 @@
+# 7. Regionality {#sec-regionality}
+
+The eight [design pressures](3-design-pressures.qmd) act on every site. They do not weigh the same everywhere.
+
+A resolution that works in the San Joaquin Valley works badly in Michigan — not because one design team was less careful, but because the sun, the water, the crop, and the utility are different. Shade that relieves a water-stressed crop in Arizona subtracts yield from maize in Ohio. A retirement argument that is overwhelming over a depleted aquifer has nothing to act on in a rain-fed county. A parcel-scale community-solar project is an ordinary thing to build in Minnesota and close to unbuildable two states away, for reasons that have nothing to do with the land.
+
+**So there is no one-size-fits-all answer, and this chapter is where the document says so precisely.** Six factors vary across space; each changes how the pressures resolve; together they explain why practice already clusters the way it does. This is not a caveat appended to the framework — it is why the framework describes rather than prescribes. A lexicon that fixed a row spacing, a seed mix, or a clearance would be fixing it for one region and exporting it to the rest.
+
+**What does not vary.** The two axes, the [reading rule](5-terminology.qmd#term-reading-rule), the pressures, and the [restorative functions](4-restorative-functions.qmd) are the same everywhere; they are how you describe a site anywhere. What varies is which positions are *available*, which functions are *reachable*, and how hard each pressure *pulls*. Regionality is a statement about weights and availability, not about the vocabulary.
+
+### 7.1 Six factors {#sec-rg-factors}
+
+#### The resource: sun and cloud {#sec-rg-resource}
+
+Two things vary, and only one of them is the number in the pro forma. **How much light** ranges from roughly 5.5–6.5 kWh/m²/day of global horizontal irradiance in the desert Southwest to roughly 3.5–4.5 in the Northeast and Pacific Northwest, with most of the country in a 4–6 band. **What kind of light** varies with cloud: cloud cover collapses direct-beam irradiance while diffuse irradiance holds up, so humid and cloudy regions run a higher diffuse fraction than their totals alone suggest.
+
+The second matters more to this document than the first. Diffuse light is not directional, so it reaches under and between panels far better than beam light does — it is most of what a [ground layer](5-terminology.qmd#term-ground-layer) actually lives on. A cloudy region gives up generation and gets back a more forgiving floor. Tracking, meanwhile, earns its keep on beam irradiance, so where the diffuse fraction is high the case for trackers weakens and fixed or vertical geometry is easier to justify — a [structural lever](3-design-pressures.qmd#sec-levers) decided partly by climate.
+
+Where the resource is strong, every acre carries more generation, so yielding generation to clearance and spacing costs more per acre — and there is more of it to yield. Strong resource does not settle the argument in either direction; it raises the stakes of it.
+
+#### The grid operator {#sec-rg-grid}
+
+The market a project sells into is as regional as the weather, and it usually decides the [zone](1-the-scale-transect.qmd#sec-zones) before anything else does.
+
+Interconnection queues and curtailment risk differ sharply by territory: MISO has been reported carrying more than 170 GW of solar, wind, and storage awaiting interconnection with multi-year delays; ERCOT more than 2,000 active requests; curtailment in SPP has been reported up roughly sixfold since 2020, with PJM — historically a low-curtailment region — seeing a comparable jump in 2024. Curtailment risk devalues the marginal megawatt, which is the same as saying it softens how hard [generation yield](5-terminology.qmd#term-generation-yield) pulls against clearance, row spacing, and everything a ground layer needs.
+
+State program design decides whether the middle of the transect exists at all. Community solar is concentrated in a handful of states — New York around 2.6 GW~ac~, with Maine, Minnesota, and Massachusetts each near 0.9–1.0 GW~ac~ and Illinois well below them — and Maine closed its program at the end of 2025. Where such a program exists, **A3 (Parcel)** is a zone with a business model behind it; where it does not, projects jump from A2 to A4 with little in between, and the region loses the widest part of the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2) — the scale at which all five sharing positions are open. A state can foreclose a design space by writing a tariff.
+
+#### Aridity {#sec-rg-aridity}
+
+This is the factor that flips a sign rather than moving a dial.
+
+In water-limited, high-radiation settings, panel shade relieves midday depression in photosynthesis, cuts evaporative demand, and can leave yield equal or better while using markedly less water; reported irrigation savings in arid agrivoltaic settings run to 30–40%. In humid and temperate settings the same shade costs yield without a compensating water saving, and the reported outcomes for staple grains there are mixed to negative. The [full-sharing](5-terminology.qmd#term-s1) case is therefore not a matter of ambition; it is a matter of where you are standing.
+
+Aridity also redirects the [hydrologic function](4-restorative-functions.qmd#sec-fn-hydrologic) (§4.1). In dry regions it shows up as moisture conservation and demand relief — water not transpired, not pumped. In wet regions it shows up as interception: runoff slowed, sediment and nutrient held back, and sometimes drainage designed so the array does not create a waterlogging problem of its own. Same function, opposite instrument.
+
+#### Latitude {#sec-rg-latitude}
+
+Latitude sets sun angle, which sets tilt and row spacing, which sets how many acres a megawatt takes — all before anyone argues about agriculture.
+
+Higher latitudes need steeper tilt and wider rows to avoid inter-row shading, so achievable [ground coverage ratio](5-terminology.qmd#term-gcr) falls as you go north. Published guidance covering 17°N to 75°N reports fixed-tilt arrays at lower latitudes reaching about 0.55 GCR within a 2.5% shading loss, where tracked and vertical geometries reach that same loss at roughly 0.22 and 0.10; bifacial modules want a slightly lower GCR still, to preserve the rear-face view.
+
+For this document the consequence is the [pore space](5-terminology.qmd#term-pore-space) (§5): the inter-row light budget a ground layer lives in is partly a gift of latitude. Wide northern rows are generous to the floor and expensive in land; a tighter southern array packs more capacity onto the same ground and leaves the floor darker. Vertical bifacial geometry improves relatively as latitude rises, which is one reason the utility-scale S1 exception in §2.2 is not evenly distributed across the country. And high latitude concentrates generation into the same short season the crop needs, so array and crop compete for one narrow window rather than sharing a long one.
+
+#### Cropping system {#sec-rg-cropping}
+
+What is grown decides whether [sharing](2-the-sharingsparing-axis.qmd#sec-positions) is conceivable at all. Shade-tolerant leafy and root horticulture and many forage grasses tolerate — sometimes welcome — moderate shade; C4 grains and most fruiting crops do not (§3.3, coupling note). A region dominated by maize and soybeans is a region where S1 will be rare and S2 and S3 carry the practice.
+
+USDA's Farm Resource Regions are the ready-made map here, drawn from county-level specialization rather than state lines: the **Heartland** (cash grain and cattle, the most farms and the most cropland), the **Northern Crescent** (dairy and general crop), the **Prairie Gateway** (beef), the **Fruitful Rim** (fruit, vegetable, nursery, cotton), and five more.
+
+Observed agrivoltaic practice already lines up with them. Reported national tracking puts grazing predominantly in Massachusetts, New York, and California with a southern presence in Tennessee and Georgia; pollinator habitat dominant in Minnesota and Illinois; crop production mostly in the Northeast, the West Coast, and Colorado; greenhouse activity concentrated in Colorado, California, and Georgia — across roughly 596 sites, 65,699 acres, and 10,473 MW identified as of early 2025. **The archetype map in §6 is partly a map of the country**: what appears at each scale is also what appears in each region.
+
+#### Irrigation {#sec-rg-irrigation}
+
+Irrigation is what makes [impaired-land retirement](5-terminology.qmd#term-s5) a large-scale option in some regions and unavailable in others.
+
+Where a district draws beyond its aquifer's budget, retiring irrigated ground saves water that no efficiency measure can, and the array is what makes the retirement pay. In California's San Joaquin Valley, implementing the Sustainable Groundwater Management Act is projected to take at least 500,000 acres — around a tenth of the valley's cropland — out of irrigated production, and Westlands Water District has adopted a plan to repurpose up to about 136,000 acres for solar, storage, and transmission. Over the High Plains, the Ogallala irrigates on the order of 13.6 million acres, with water tables down 100–200 feet in the thinner southern reaches.
+
+Where farming is rain-fed, that argument has nothing to act on: there is no consumptive use to retire, and the water question turns instead to what leaves the field — the runoff, sediment, and nutrient interception that [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) are designed for. [Water-sustainability solar](6-archetypes.qmd#arch-water) is a regional archetype, not a universal one, and this is the factor that regionalizes it.
+
+### 7.2 A worked calibration: the United States {#sec-rg-us}
+
+One calibration, offered as a worked example rather than a finding. Regions are drawn loosely on the USDA resource regions and named for recognizability; the last column is what the factors, taken together, tend to push a region toward.
+
+::: {.region-table}
+| Region | Resource & light | Water | Cropping | Market | Tends toward |
+|---|---|---|---|---|---|
+| **Desert Southwest** | Highest GHI, low diffuse, strong beam | Arid; groundwater-limited | Irrigated specialty, rangeland | CAISO / WECC, large-scale | Shade as a benefit; S1 where irrigated horticulture persists, S5 where water is the binding constraint |
+| **Central Valley & irrigated West** | High GHI | Arid, and governed — SGMA | High-value specialty, heavily irrigated | CAISO, strong offtake | Retirement at scale (S5); [water-sustainability solar](6-archetypes.qmd#arch-water) |
+| **High Plains** | High GHI, high latitude spread | Ogallala overdraft; declining wells | Grain, cotton, beef | SPP / ERCOT, curtailment risk | S5 where the aquifer binds; grazing (S2) at A4–A5 |
+| **Corn Belt** | Moderate GHI, moderate diffuse | Rain-fed; runoff and nutrient export | C4 grain, soybean | MISO / PJM, deep queues | S3 and S2; hydrologic function as interception — [prairie strips](6-archetypes.qmd#arch-prairie-strips), pollinator ground layers |
+| **Great Lakes & Northeast** | Lowest GHI, highest diffuse fraction | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs; A3 is real | S1–S2 at small and parcel scale; [vegetable agrivoltaics](6-archetypes.qmd#arch-vegetable), [barnyard shelter](6-archetypes.qmd#arch-barnyard) |
+| **Southeast** | Moderate-to-high GHI, humid and cloudy | Humid; rainfall intensity | Row crop, pasture, poultry | Largely non-ISO, utility-led | S2 grazing at scale; S3 with managed ground layers |
+:::
+
+Read a row as a starting hypothesis about which positions and archetypes are likely to be live, not as an assignment. Every cell has counterexamples, and the ones worth reporting are exactly the counterexamples — a region doing something its profile says it should not.
+
+### 7.3 What follows {#sec-rg-consequences}
+
+**The pressures are constant; their weights are not.** [Generation yield](5-terminology.qmd#term-generation-yield) pulls hardest where the resource is strong and curtailment rare. [Agricultural continuity](5-terminology.qmd#term-agricultural-continuity) pulls hardest where the cropping system can actually continue under an array. [Restorative ambition](5-terminology.qmd#term-restorative-ambition) finds different instruments in a dry region than in a wet one. Two competent teams reading the same pressure set in two regions should arrive at different designs, and the framework is working when they do.
+
+**Importing a resolution across regions is the characteristic failure.** It is how a shade benefit demonstrated in the Southwest ends up assumed in the Midwest, how a habitat specification calibrated on one establishment cost is written into an offtake contract for a region with another, and how the phrase *best practice* starts doing work that a site visit should be doing. Where the design is imported, the [offtake-conformity](5-terminology.qmd#term-offtake-conformity) pressure is usually the vehicle (§3.2): a buyer's criterion travels further and faster than the evidence behind it.
+
+**This is why the document prescribes the aim and not the dimensions.** The [preface](preface.qmd) states that commitment; regionality is its justification. A shared language can hold a position on what agrisolar is *for* and still refuse to fix a clearance height, because the clearance that serves the aim in one place defeats it in another.
+
+**Regional calibrations are the most useful contribution this document can receive.** The zone capacity bands are indicative for the US Midwest (§1.2). The table above is one calibration by people who work in one part of one country. A calibration from a region not represented here — different bands, absent zones, a different binding constraint — is an addition, not a correction.
+
+### Evidence status {#sec-rg-evidence}
+
+**Everything in this chapter is *trace before citing*.** The figures given — irradiance ranges, queue and curtailment magnitudes, community-solar capacities, GCR thresholds, acreages under SGMA and over the Ogallala, and the national agrivoltaic site tallies — were assembled from secondary and program sources and have **not** been checked against primary records. They are recorded in [Sources](sources.qmd) under the unverified list, and they should be traced before any of them is quoted in a proposal, a filing, or a paper. The *structure* of the argument — that these six factors vary spatially and that the pressures resolve differently as a result — does not depend on any single number; the numbers are there to show the size of the differences, not to settle them.
+
+### Terms
+
+Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Regionality](5-terminology.qmd#sec-terms-regionality), alongside every other term the document defines.
+
+---

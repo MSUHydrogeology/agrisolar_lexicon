@@ -1,6 +1,6 @@
 # 3. Design Pressures {#sec-pressures-ch}
 
-Every site is a [settlement](6-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. Pressures are not axes: they have direction, they conflict, and real parties advocate for them. A developer arguing for cost and a township arguing for setbacks are not misunderstanding each other — they are pulling opposite ways on the same design.
+Every site is a [resolution](6-archetypes.qmd#sec-archetypes) of forces that genuinely pull against one another. Pressures are not axes: they have direction, they conflict, and real parties advocate for them. A developer arguing for cost and a township arguing for setbacks are not misunderstanding each other — they are pulling opposite ways on the same design.
 
 Naming the forces separately is what lets a disagreement be located. Most disputes that present as a clash of values resolve into two legitimate pressures meeting in a single decision about clearance, ground cover, or a fence line, and the pressure that was quietly yielded is usually the one worth arguing about.
 
