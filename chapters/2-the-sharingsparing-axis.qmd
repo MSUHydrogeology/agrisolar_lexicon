@@ -64,20 +64,9 @@ What to take from it:
 
 **Where the dual-use dispute sits.** American Farmland Trust holds that [dual use](5-general-terminology.qmd#term-agrivoltaics) requires active agricultural production sustained across the project's 30–40 year life, within the array footprint — structurally, a mandate for S1–S2. Critics argue that this marginalizes ecovoltaics, whose ecological ground layers deliver their value as a function rather than as production, and so sit at S3 and below. Stated as positions, the disagreement becomes tractable: it is a dispute about which stretch of the axis deserves the name, not about what the word means. This document describes that dispute rather than settling it. *(See §5, Agrivoltaics / Ecovoltaics.)*
 
-### Associated Terminology
+### Terms
 
-Terms this section introduces; cross-referenced terms link to their home section.
-
-- **Sharing–Sparing Axis** — the second, scale-independent dimension: whether the array shares land with production, spares land by taking ground out of it, or neither. Five positions, centred on S3. Defined here.
-- **S1 — Full sharing** — production continues within the array footprint, in the same ground.
-- **S2 — Functional sharing** — ground layer is productive but subordinate to the array.
-- **S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical. The centre of the axis.
-- **Bare conversion** — the same ground fact without the restorative one: ordinary ground converted, the operation ended. The non-restorative baseline the axis is read against, not a position on it.
-- **Reading rule** — production first, then prior status: a site where production continues is S1–S2 whatever the ground used to be; only where it stops do S3–S5 apply, told apart by the ground's prior status.
-- **S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, so productive land is spared.
-- **S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden, or that sits where such a burden can be intercepted; the removal acts on the ground taken rather than on land elsewhere.
-- **Feasible wedge** — the feasible region across scale and sharing, shaped like a lens: all five positions open at A3 (Parcel), closing toward the S2–S3 middle at both extremes — at A5 as land assembly and capital discipline remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Grazing (S2) and coexistence (S3) are the spine; each thinned corner has an exception. Defined here (§2.2).
-- **Siting latitude** — the designer's freedom over where the array goes; the constraint that makes the region a wedge. See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
-- **Agrivoltaics / Ecovoltaics** — production (S1–S2) versus ecological ground layers, which are functions (§4) reachable across S2–S5. See [§5](5-general-terminology.qmd#term-agrivoltaics).
+Terms introduced in this section are defined in the [Terminology](5-general-terminology.qmd) chapter (§5), under [Sharing and sparing](5-general-terminology.qmd#sec-terms-sharing), alongside every other term the document defines.
 
 ---
+

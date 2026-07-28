@@ -84,25 +84,9 @@ The levers are not equally available at every scale. Some are live degrees of fr
 
 **Reading note.** The institutional rows restate the covarying bundle already given by the [zones](1-the-scale-transect.qmd#sec-zones) (§1.2); the structural and land rows carry what the zone table does not. Read every cell as *latitude* — how much freedom is left in that lever — rather than as a fixed attribute of the zone.
 
-### Associated Terminology
+### Terms
 
-Terms this section introduces (defined above; this is their collection point):
-
-**Design pressures** — the competing forces every site must settle; unlike axes they have direction, conflict, and advocates. The eight:
-
-- **Generation yield** — maximize energy per unit land.
-- **Capital discipline** — minimize installed cost per watt.
-- **Operational simplicity** — minimize management burden across a 25–40 year asset life.
-- **Agricultural continuity** — keep working land working.
-- **Restorative ambition** — make ecological, hydrological, and economic resilience a design objective co-equal with generation.
-- **Social license** — secure and sustain community acceptance *and* community benefit: two forces that can come apart, held in one pressure.
-- **Offtake conformity** — satisfy whoever buys the power, attributes, or tax position; the channel through which external parties impose pressures on a design.
-- **Decommissioning & reversibility** — minimize residual footprint; preserve the option to return the ground.
-
-**Pressure conflict** — the framing that treats these disputes (e.g. agricultural continuity vs. restorative ambition; operational simplicity vs. everything) as legitimate forces in genuine tension rather than definitional errors.
-
-**Design levers** — the adjustable choices — structural, land-and-ecology, institutional — a designer uses to settle the pressures; grouped so each family can be extended on its own.
-
-**Levers × Scale-Zones matrix** — the descriptive grid (§3.4, @tbl-lever-matrix) of how each lever's latitude and character shift across zones A1–A5, recording what is typical and available rather than required.
+Terms introduced in this section are defined in the [Terminology](5-general-terminology.qmd) chapter (§5), under [Pressures and levers](5-general-terminology.qmd#sec-terms-pressures), alongside every other term the document defines.
 
 ---
+

@@ -99,13 +99,9 @@ A project can score well on one of these and badly on the rest. Naming them sepa
 
 ---
 
-### Associated Terminology
+### Terms
 
-Terms this section introduces; cross-referenced terms link to their home section.
-
-- **Restorative function** — a restorative capacity a project can be designed to deliver, obtainable to varying degrees across many structural positions; a *column* of the archetype × function matrix. Four are **biophysical** (hydrologic, soil & carbon, biodiversity & habitat, microclimate); one is **socioeconomic** (community & economic). Defined here.
-- **Community & economic function** — the socioeconomic restorative function: the economic prosperity, livability, and health & equity a project builds for its host community; the [SCALE](#sec-scale) **Communities** domain read as an outcome, distinct from the [social-license](3-design-pressures.qmd#sec-pressures) pressure and [community-benefit](5-general-terminology.qmd#term-community-benefit) lever that aim at it. Defined in §4.5.
-- **Function register / structure register** — the document's two layers: the *structure* register is the scale × sharing–sparing axes and the [archetypes](6-archetypes.qmd) they produce; the *function* register is these restorative capacities that overlay them.
-- **Archetype × function matrix** — the descriptive model relating the two registers: archetypes as rows, functions as columns, cells as the degree to which an archetype makes a function reachable. A palette, not a scorecard.
+Terms introduced in this section are defined in the [Terminology](5-general-terminology.qmd) chapter (§5), under [Restorative functions](5-general-terminology.qmd#sec-terms-functions), alongside every other term the document defines.
 
 ---
+
