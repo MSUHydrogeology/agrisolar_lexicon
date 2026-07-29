@@ -120,6 +120,8 @@ under **S**.
 
 **Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [§5](5-terminology.qmd#term-module-technology)
 
+**Multi-use solar** — the field's competing umbrella (Merheb et al. 2025), covering agrivoltaics, rangevoltaics, and ecovoltaics; narrower than *agrisolar* as used here, which also covers S3–S5 — [§5](5-terminology.qmd#term-agrisolar)
+
 ## O
 
 **Offtake conformity** — design pressure: satisfy the criteria of whoever buys the power, attributes, or tax position — [§5](5-terminology.qmd#term-offtake-conformity) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
@@ -133,6 +135,8 @@ under **S**.
 **Pore Space** — the three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space — [§5](5-terminology.qmd#term-pore-space)
 
 ## R
+
+**Rangevoltaics** — grazing under and between the panels (S2); the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [§5](5-terminology.qmd#term-rangevoltaics) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
 
 **Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [§5](5-terminology.qmd#term-regional-calibration) · [7.2 A worked calibration](7-regionality.qmd#sec-rg-us)
 
@@ -173,6 +177,8 @@ under **S**.
 **Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [§5](5-terminology.qmd#term-siting-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
 **Social license** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [§5](5-terminology.qmd#term-social-license) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+
+**Solar grazing** — *see* Rangevoltaics — [§5](5-terminology.qmd#term-rangevoltaics)
 
 **Soil & carbon function** — restorative function: perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability, against a construction-disturbance debt paid first — [§5](5-terminology.qmd#term-fn-soil) · [4.2 Soil & carbon function](4-restorative-functions.qmd#sec-fn-soil)
 

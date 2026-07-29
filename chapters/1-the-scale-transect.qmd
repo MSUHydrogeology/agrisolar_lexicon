@@ -34,7 +34,7 @@ The physics changes too, not only the paperwork. The shade benefit from an [agri
 | **A5 — Regional** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
 :::
 
-Capacity is how a project gets filed, but acreage is how a farmer, a township board, and an assessor experience it, so both are given. They track each other only loosely, since trackers and agrivoltaic clearance take more land per megawatt than panels packed flat and close, and a high-clearance A3 site can therefore cover as much ground as a conventional A4 one. **When the two disagree, the acreage is the better guide to what the design problem will be.**
+Capacity is how a project gets filed, but acreage is how a farmer, a township board, and an assessor experience it, so both are given. The acreage bands are consistent with the power density the siting literature uses for single-axis tracking systems, roughly 0.43 to 0.45 MW per hectare, or a little under six acres per megawatt [@gallaher2026; @sturchio2025croplands]. They track each other only loosely, since trackers and agrivoltaic clearance take more land per megawatt than panels packed flat and close, and a high-clearance A3 site can therefore cover as much ground as a conventional A4 one. **When the two disagree, the acreage is the better guide to what the design problem will be.**
 
 Arrays on buildings, meaning barn and shed roofs, silo faces, and pole barns, take no ground at all. Because this transect is about land use, that puts them at its origin rather than anywhere along it: no ground to choose, no ground layer to design, and no sharing-or-sparing question to answer (§2). **A0** gets a name because it is often the first solar decision a farm makes, and because it is the honest answer to whether solar can be added without giving up a field. The rest of this document concerns arrays that sit on the ground.
 
@@ -46,7 +46,7 @@ These bands fit the US Midwest and should be redrawn elsewhere. A zone is define
 
 ### 1.3 One practice, three design problems {#sec-grazing}
 
-Follow one job, keeping the vegetation down with sheep, up the transect, and it becomes three different jobs.
+Follow one job, keeping the vegetation down with sheep, up the transect, and it becomes three different jobs. Sheep rather than something else: goats climb the racking and chew wiring, and cattle and horses are too large for standard clearances and interfere with the structure [@merheb2025], so the animal is largely settled before the scale question comes up at all.
 
 - **A1–A2, the farmer's own flock.** The array modifies an operation that already exists, adding shade and shifting when forage comes on. Stocking is something to calibrate rather than a number to look up, because **stocking density** (animals on a piece of ground at one moment) and **carrying capacity** (what the forage feeds across a season) come apart as growth, use, and weather vary. Penn State Extension reports New York and Michigan experience converging on roughly 3 ewes/acre for mature ewes [@hartman2026], while rotational trials on the Cornell array have run from 4 to 20 sheep/acre.
 - **A3, grazing as a hired service.** New York distributed solar (1–20 MW on 6–120 acres) is where vegetation-management contracts appear, paying roughly $300–500/acre/year. The design now has to work for someone who does not live there.

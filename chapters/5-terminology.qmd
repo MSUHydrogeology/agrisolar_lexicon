@@ -226,11 +226,25 @@ Energy infrastructure sited and designed to interact intentionally with agricult
 
 Agroenergy specific to photovoltaics — the lexicon's working umbrella, because it is neutral across the [sharing–sparing axis](2-the-sharingsparing-axis.qmd). The word is already in active use, since NCAT's DOE-funded **AgriSolar Clearinghouse** promotes it for solar co-located with agriculture, and this lexicon draws case material from that body of work. Where the lexicon differs is in **broadening** the term past agricultural co-location: as used here *agrisolar* also covers the positions with no farming in the footprint at all (S3–S5), so the word names the whole design space rather than only its production end.
 
+A competing umbrella is in circulation and worth knowing. @merheb2025 use **multi-use solar** for the co-located family and sort it into three named strategies: [agrivoltaics](#term-agrivoltaics) with crops, [rangevoltaics](#term-rangevoltaics) with grazing, and [ecovoltaics](#term-ecovoltaics) with native vegetation. That set covers S1 and S2 plus the ecological ground layers, which is most of what this lexicon calls restorative, but it stops where production and ecological function stop. *Agrisolar* is kept here because the design space also includes the ordinary conversions at S3 and the removals at S4 and S5, and those need a name too.
+
+**Syn.:** multi-use solar (narrower: excludes S3–S5 without an ecological ground layer).
+
 #### Agrivoltaics {#term-agrivoltaics}
 
 Crop or livestock production within the array footprint (S1–S2). Terminology is regionally fractured: *agrophotovoltaics* in German literature, *agrivoltaics* in French and US usage, *photovoltaic agriculture* in Chinese literature, *solar sharing* in Japanese usage.
 
+Whether the shade helps or costs the crop is set largely by temperature. Across 367 paired observations spanning agrivoltaic, agroforestry, greenhouse, and shade-net systems, @merheb2025 fit crop-yield change under shade as a function of ambient temperature, and the curve sits below zero through the temperate middle of the range and turns positive above roughly 30 °C. Shading is an adaptation to heat and water limitation before it is anything else, which is why the same array geometry is a gain in one region and a loss in another (§7).
+
 **Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese).
+
+#### Rangevoltaics {#term-rangevoltaics}
+
+Grazing under and between the panels, which this lexicon reads as [functional sharing](2-the-sharingsparing-axis.qmd#sec-positions) (S2). @merheb2025 name it as one of the three multi-use strategies and use it for arrays on grassland and rangeland, where the structure supplies shade and shelter and the animals supply vegetation management. The everyday name is **solar grazing**, and that is the one a farmer will use; *rangevoltaics* is worth recognizing because it is how the practice is being indexed in the ecological literature.
+
+Species compatibility is narrower than the general term suggests. Sheep are the workable animal. Goats climb the racking and chew wiring, and cattle and horses are too large for standard clearances and interfere with the structure [@merheb2025]. Shade is also a benefit that can be a requirement, since Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
+
+**Syn.:** solar grazing.
 
 #### Ecovoltaics {#term-ecovoltaics}
 
@@ -239,6 +253,7 @@ Solar development incorporating ecological understanding into array design *and 
 - @tolgyesi2023 offer five pillars: eco-smart landscape siting; eco-smart layout; trait-based design of novel grassland ecosystems; lifespan management; and stakeholder engagement embedded in a viable business model. **Pillars 4 and 5 treat management and business model as design questions, not afterthoughts.**
 - @walston2025 characterize ecovoltaic development as sited on previously disturbed land, co-prioritizing generation with restoration, with measured outcomes including more grassland bird species and more stable communities than row-crop controls.
 - The literature makes **operational** claims, not just planting ones: an ecovoltaic approach to array operation might orient panels parallel to the sun's rays in the morning to maximize light reaching plants — a tracking-schedule decision.
+- @sturchio2025croplands add a **siting** tenet the planting-level definitions leave implicit: ecovoltaics avoids development in pristine and sensitive native ecosystems. The gain is supposed to come from repairing homogenized ground rather than from occupying ground that was already intact, which is the same logic the sparing wing of the axis runs on (§2.1).
 
 > **The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [sharing–sparing axis](2-the-sharingsparing-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural continuity and restorative ambition (§3.2) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
 

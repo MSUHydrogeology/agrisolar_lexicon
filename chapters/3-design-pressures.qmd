@@ -42,13 +42,15 @@ Said out loud, these can be argued on their merits. Left unnamed, they show up l
 
 **Offtake conformity vs. restorative ambition.** Buyers, certification schemes, and habitat scorecards set ground-layer rules in advance and from a distance [@epri2021]: a seed mix, a production requirement, a maintenance standard. When the rule happens to fit the site, it spreads good practice quickly. When it does not, it locks in something that a person standing on that particular ground would have rejected, and locks it in for the length of the contract. **Standardization pushes restoration forward and holds it back at the same time**, and that will get sharper as more buyers start writing these rules.
 
-**Generation yield vs. restorative ambition.** The obvious tradeoff, and softer than people assume. How much shade a crop tolerates and how far apart the rows sit interact, so there are ranges where you can open the rows and give up very little.
+**Generation yield vs. restorative ambition.** The obvious tradeoff, and softer than people assume. How much shade a crop tolerates and how far apart the rows sit interact, so there are ranges where you can open the rows and give up very little. It sometimes runs the other way entirely: vegetation under the array cools the modules and holds down dust, and dust has been measured cutting output by 15 to 60% at field and experimental sites, while vegetated ground also cuts the water needed for panel washing [@merheb2025]. A working ground layer occasionally pushes with generation rather than against it.
 
 **Capital discipline vs. operational simplicity.** Often mistaken for a single pressure. They split on what to plant, how high to mount, and how to get equipment in: cheap to build is frequently expensive to keep.
 
 **Reversibility vs. restorative ambition.** Two restorative instincts pushing opposite ways. Deep roots, rebuilt soil, and established habitat are exactly what you would not want to tear up, and exactly what restoration spends years building. A project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
 
 **Social license vs. capital discipline.** Community benefit is real money, including PILOT payments and tax revenue, agreements, good-neighbor checks, and part-ownership, so it pushes directly against building cheaply. But it cannot simply be bought, because benefit without a fair process reads as a bribe. This one is not settled at the checkbook.
+
+A caution about how large these conflicts actually are. Argued in a room they sound expensive; modeled across a whole state they can be small. @gallaher2026 optimized New York's entire 2050 utility-scale build three separate ways, for least cost, for biodiversity, and for farmland preservation, and the biodiversity-conscious portfolio came in 0.17% higher in annualized cost than the least-cost one. A rounding error bought a different landscape. Not every conflict is that cheap, and the farmland-preservation run in the same study cost more and pushed conversion into forest, but the price of a restorative choice is something to calculate on the site in front of you rather than assume.
 
 ### 3.3 Design levers {#sec-levers}
 
