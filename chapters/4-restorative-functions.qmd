@@ -153,7 +153,3 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 ![The SCALE footprint: a project's influence read across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes, each running from regeneration at the center to depletion at the rim. The reading is evaluative by design, which is what *restorative* commits the document to, but it is a direction of travel rather than a pass mark; no threshold line is drawn (§8, issue 5). The polygon shown is a worked example.](../figures/fig_scale_footprint.svg){#fig-scale}
 
 ---
-
-### Terms
-
-Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Restorative functions](7-terminology.qmd#sec-terms-functions), alongside every other term the document defines.

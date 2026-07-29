@@ -51,8 +51,4 @@ S1 is climate- and crop-conditional: it is most plausible for shade-tolerant cro
 
 American Farmland Trust's production-based [dual-use](7-terminology.qmd#term-agrivoltaics) definition requires S1 or S2. Critics include ecovoltaics, whose ecological ground layers sit as functions at S3 and below [@hernandez2019]. This document describes that dispute rather than settling it.
 
-### Terms
-
-Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Sharing and sparing](7-terminology.qmd#sec-terms-sharing), alongside every other term the document defines.
-
 ---

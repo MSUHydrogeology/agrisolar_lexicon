@@ -59,8 +59,4 @@ This is why the document prescribes an [aim rather than dimensions](../index.qmd
 The quantitative figures in this chapter are *trace before citing*: they come from secondary and program sources and have not been checked against primary records. The regional argument does not depend on any one figure.
 :::
 
-### Terms
-
-Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Regionality](7-terminology.qmd#sec-terms-regionality), alongside every other term the document defines.
-
 ---
