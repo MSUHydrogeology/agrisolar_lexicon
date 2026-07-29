@@ -1,6 +1,8 @@
 # 4. Restorative Functions {#sec-functions}
 
-Zone and position tell you where a project sits. **Restorative functions** name what its land can be designed to provide.
+Zone and position bound what a project could do. Neither decides what it does. Two arrays can hold the same position on the sharing–sparing axis, sit at the same point on the transect, and carry the same hardware, while one keeps gravel and herbicide under the racking and the other carries a planting rooted deep enough to hold a storm. Nothing about the ground separates them. What separates them is how the design resolved its pressures (§3), and in particular whether restorative ambition won anything against capital discipline and operational simplicity or was given up early and quietly.
+
+*Restorative* is therefore not a property a piece of ground has. It is a result a design produces, and on most sites it can be produced or withheld. **Restorative functions** name what a design can be aimed at, and there are five.
 
 - **Water** (§4.1) — what soaks in, what runs off, and what the aquifer gets back
 - **Soil and carbon** (§4.2) — what builds back up underneath
@@ -8,7 +10,7 @@ Zone and position tell you where a project sits. **Restorative functions** name 
 - **Microclimate** (§4.4) — shade, temperature, and moisture right at the ground
 - **Community and economy** (§4.5) — what the people hosting it actually get
 
-**A function is not a position on the sharing–sparing axis.** A project holds exactly one position, which records what happened to agricultural production on its ground (§2). It can deliver several functions at once, and the same function turns up at many different positions: pollinator habitat is reachable under grazing (S2), on ordinary converted ground (S3), and on spared or retired ground (S4–S5) alike. That is why habitat is a function and not a sixth position. Functions are outcomes, which also separates them from the pressures that push on a site and the levers that act on it. Treat the five as a palette rather than a scorecard, since what a site can reach depends on its ground and its design, and no project is expected to deliver all of them.
+**A function is not a position on the sharing–sparing axis.** A project holds exactly one position, which records what happened to agricultural production on its ground (§2). It can deliver several functions at once, and the same function turns up at many different positions: pollinator habitat is reachable under grazing (S2), on ordinary converted ground (S3), and on spared or retired ground (S4–S5) alike. That is why habitat is a function and not a sixth position. The three registers stay distinct: a pressure is a force pushing on the design, a lever is an instrument the design uses, and a function is the result the two produce. Treat the five as a palette rather than a scorecard, since no project is expected to deliver all of them and some work against each other.
 
 **A note on "co-benefits."** The field usually calls these co-benefits. The word is worth handling with care: it is an umbrella term with acknowledged definitional ambivalence, and its grammar quietly demotes what it names, since a *co-*benefit is something that arrives alongside the real objective [@mayrhofer2016]. That is the opposite of what this document argues. The functions below are named as objectives, which is why the lexicon says *restorative function* and keeps *co-benefit* for describing how others frame the same ground.
 
