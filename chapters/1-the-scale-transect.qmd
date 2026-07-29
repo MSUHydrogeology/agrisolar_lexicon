@@ -2,11 +2,7 @@
 
 ### 1.1 A gradient, not a set of size bins {#sec-transect-why}
 
-A 30-kilowatt array behind a barn and a 300-megawatt project spread across four townships are both "solar on farmland," and almost nothing else about them is the same. Different people decide, different money pays for it, different people mow it, and completely different things can grow underneath. Much of the confusion in this field comes from using one set of words for both.
-
-Scale sorts that out, but not as a set of size buckets. It works as a **transect**, one gradient along which a whole set of things change together, so that naming a point on it tells you many things at once. Walk from a farmstead array up to a regional one and the grid connection, the paperwork, the money, the number of people who have to be consulted, and who cuts the grass all shift in step. The idea is borrowed rather than invented. Naturalists have described landscapes this way since Humboldt drew shore, wetland, plain, and upland as one continuous gradient, long before anyone applied it to towns.
-
-Megawatts alone make a poor definition. "Utility-scale" is really about a project's role in the power system, and the numbers people attach to it disagree: SEIA puts the line above 1 MW, NREL uses 5 MW, and New York treats 25 MW and up as major facilities. Community solar blurs it further, connecting at fairly large sizes but billed like a small distributed system. Capacity is a useful hint, not a definition. What actually moves together is this:
+A 30-kilowatt barn array and a 300-megawatt regional project are both solar on farmland, but their decision-makers, finance, grid connection, ground management, and possible land functions differ. **Scale** is therefore a transect: a gradient of attributes that change together, rather than a set of capacity bins. Capacity is a useful hint, not the definition. What moves together is:
 
 - **How it connects to the grid**: behind the meter → distribution → transmission
 - **Who decides**: one landowner → several parties at a table → a utility with a place in the interconnection queue
@@ -16,9 +12,7 @@ Megawatts alone make a poor definition. "Utility-scale" is really about a projec
 - **Who has to be talked to**: the neighbors → the township → a regional process
 - **[Siting latitude](#sec-siting-latitude)**: opportunistic → strategic → decided by what land could be assembled near a substation
 
-The physics changes too, not only the paperwork. The shade benefit from an [agrivoltaic](5-terminology.qmd#term-agrivoltaics) array depends on its geometry and its size. Cooler soil and better moisture retention hold up fairly consistently across systems, but air-temperature effects vary site to site, and a meta-analysis of design tipping points [@zhang2025] reports a size threshold past which the net temperature effect flips from cooling toward warming.
-
-> *Needs verification.* The specific size threshold (~2 ha, taken here from secondary summaries of @zhang2025) has not been confirmed against the primary text and should be read there before it is quoted.
+Physical effects change with geometry and scale as well. Soil cooling and moisture retention are more consistent than air-temperature effects, which vary by site [@zhang2025].
 
 ### 1.2 The Zones {#sec-zones}
 
@@ -34,29 +28,25 @@ The physics changes too, not only the paperwork. The shade benefit from an [agri
 | **A5 — Regional** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
 :::
 
-Capacity is how a project gets filed, but acreage is how a farmer, a township board, and an assessor experience it, so both are given. The acreage bands are consistent with the power density the siting literature uses for single-axis tracking systems, roughly 0.43 to 0.45 MW per hectare, or a little under six acres per megawatt [@gallaher2026; @sturchio2025croplands]. They track each other only loosely, since trackers and agrivoltaic clearance take more land per megawatt than panels packed flat and close, and a high-clearance A3 site can therefore cover as much ground as a conventional A4 one. **When the two disagree, the acreage is the better guide to what the design problem will be.**
+Capacity is how a project is filed; acreage is how landholders and communities experience it. Trackers and agrivoltaic clearance use more land per megawatt than dense arrays, so **acreage is the better guide when the two disagree** [@gallaher2026; @sturchio2025croplands].
 
-Arrays on buildings, meaning barn and shed roofs, silo faces, and pole barns, take no ground at all. Because this transect is about land use, that puts them at its origin rather than anywhere along it: no ground to choose, no ground layer to design, and no sharing-or-sparing question to answer (§2). **A0** gets a name because it is often the first solar decision a farm makes, and because it is the honest answer to whether solar can be added without giving up a field. The rest of this document concerns arrays that sit on the ground.
-
-A5 has no ceiling. It holds everything from one 50 MW site to multi-thousand-acre complexes and the gigawatt-class developments now appearing at 5,000 to 10,000 acres and up. Those differ enormously in how land gets assembled, how many jurisdictions are involved, and how communities experience them, and a later calibration may well split the zone. What keeps them together for now is that the restoration problem stays recognizably the same across all of them, since placement is fixed and management carries the work (§8, issue 1).
+Building-mounted arrays are **A0**: no ground to choose, manage, share, or spare. A5 has no ceiling; its common condition is placement fixed by land assembly and restoration carried by management (§8, issue 1).
 
 ![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient, which is what makes it a transect rather than a set of size bins.](../figures/fig_scale_transect.svg){#fig-transect}
 
-These bands fit the US Midwest and should be redrawn elsewhere. A zone is defined by what clusters together, not by the megawatts, and not every zone exists everywhere. A region with no transmission-adjacent land simply has no A5, which is a fact about that region rather than a gap in it.
+These indicative bands fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
 
 ### 1.3 One practice, three design problems {#sec-grazing}
 
-Follow one job, keeping the vegetation down with sheep, up the transect, and it becomes three different jobs. Sheep rather than something else: goats climb the racking and chew wiring, and cattle and horses are too large for standard clearances and interfere with the structure [@merheb2025], so the animal is largely settled before the scale question comes up at all.
+Follow sheep grazing up the transect and one job becomes three. Sheep generally fit standard racking; goats, cattle, and horses often do not [@merheb2025].
 
-- **A1–A2, the farmer's own flock.** The array modifies an operation that already exists, adding shade and shifting when forage comes on. Stocking is something to calibrate rather than a number to look up, because **stocking density** (animals on a piece of ground at one moment) and **carrying capacity** (what the forage feeds across a season) come apart as growth, use, and weather vary. Penn State Extension reports New York and Michigan experience converging on roughly 3 ewes/acre for mature ewes [@hartman2026], while rotational trials on the Cornell array have run from 4 to 20 sheep/acre.
-- **A3, grazing as a hired service.** New York distributed solar (1–20 MW on 6–120 acres) is where vegetation-management contracts appear, paying roughly $300–500/acre/year. The design now has to work for someone who does not live there.
-- **A4–A5, grazing as a logistics business.** @mccall2023 report median per-activity vegetation-management costs across 54 utility-scale sites: mowing ran about $113/acre/yr at sheep-grazing sites, $121 at native-vegetation sites, and $203 at turfgrass sites, while herbicide was highest on gravel at $293/acre/yr. The design questions become moving flocks between parcels that do not touch, getting water to them, and where the gates go, none of which exist at A1.
+- **A1–A2, the farmer's own flock.** The array modifies an existing operation. Stocking density and carrying capacity must be calibrated to forage and weather, not taken from a universal rate.
+- **A3, grazing as a hired service.** The design must work for a grazier who does not live on site.
+- **A4–A5, grazing as logistics.** Water, gates, travel, and multi-site rotation become central.
 
-The more useful finding from that study is a warning rather than an endorsement. Per-activity costs at native and pollinator-friendly ground covers were *lower* than at turfgrass, but total vegetation O&M came out slightly *higher*, because the first three to five years take more separate operations to establish. [Restorative](5-terminology.qmd#term-restorative) ground cover is more expensive while it establishes and competitive afterward, so anyone arguing for it on cost savings should expect to meet an operator who has seen the establishment invoices.
+Native and pollinator-friendly covers can cost more during establishment even where later operations compare well with turf [@mccall2023]. Quote grazing-cost figures from the primary table: secondary sources often confuse mowing at grazing sites with the cost of grazing itself.
 
-> *Citation caution.* These figures circulate widely in secondary sources with the activity labels transposed: the mowing cost incurred *at* grazing sites is frequently reported as the cost *of* grazing, and per-acre figures are converted to per-hectare without relabeling. A concrete, good-faith instance is @stewart2025, who report McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 that number is the median *mowing* cost at sheep-grazed sites; the grazing activity itself ran a median of about $50/acre/yr. Both readings coexist in the primary literature and the per-hectare conversion compounds the ambiguity, so practitioners quoting these figures should go to @mccall2023 directly.
-
-A conversation about "solar grazing" that never says which zone it means is three conversations happening at once.
+“Solar grazing” without a zone can mean three different practices.
 
 ### 1.4 Siting latitude and the restoration mode shift {#sec-siting-latitude}
 
@@ -69,9 +59,7 @@ One item in that list decides which restorative moves are available at all: **si
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
 | **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
 
-The same shift runs through the agroenergy literature. At the farmstead it is opportunity and profit; at the community scale it is who benefits and who might object; at the regional scale it is demand and grid topology; at the state level it is policy. That is one thing changing along one gradient rather than four separate conversations.
-
-As projects get bigger, restoration does not fade, it changes instrument. When the freedom to choose ground falls away, delivering benefit shifts from where the array is placed to how it is run. Management capacity moves the opposite way, since contract grazing, professional habitat planting, and dedicated maintenance barely exist below a certain size and are routine above it. A forty-acre owner cannot keep a contract grazier busy, while a thousand-acre site can and gets seeded establishment and monitoring with it. The two lines cross somewhere between A3 and A4, which gives three ways to deliver restoration:
+As projects grow, restoration changes instrument. Siting latitude falls while management capacity rises, crossing around A3–A4:
 
 - **Siting-led**, where the work is done by choosing the ground. Needs A2–A3 freedom.
 - **Structure-led**, where the hardware does it: clearance, row spacing, how much light the modules let through.
@@ -79,9 +67,7 @@ As projects get bigger, restoration does not fade, it changes instrument. When t
 
 ![Siting latitude and management leverage move in opposite directions and cross between A3 and A4. Restoration does not diminish with scale so much as change instrument.](../figures/fig_siting_latitude.svg){#fig-siting}
 
-This explains something visible across the literature but rarely said plainly. Restorative practice at utility scale is almost entirely about ground cover and grazing [@macknick2022; @boggis2020], while at small and mid scale the conversation is almost entirely about placement. Those are not competing fashions but the only tools available at each end.
-
-The freedom peaks in the middle, at A2–A3, because something binds at both ends: the land market and the grid at A5, the property line at A1. A farmstead operator answers to nobody but has almost no ground to choose among, and [barnyard shelter solar](6-archetypes.qmd#arch-barnyard) (§6) goes where the yard, the herd, and the service drop already are. That is opportunistic placement, which is real but is not the same as picking ground *for* what it can do. Only in the middle zones does someone have both enough land to choose from and enough control to choose on purpose, which is why the two archetypes that restore by choosing ground, [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) and [marginal land solar](6-archetypes.qmd#arch-marginal), both live there.
+At utility scale, restorative practice is mainly ground cover and grazing; at small and mid scale it is mainly placement [@macknick2022; @boggis2020]. Latitude peaks at A2–A3, bounded by the property line at A1 and land assembly and grid access at A5. That is why siting-led forms such as [solar prairie strips](6-archetypes.qmd#arch-prairie-strips) and [marginal land solar](6-archetypes.qmd#arch-marginal) live in the middle zones.
 
 ### Terms
 

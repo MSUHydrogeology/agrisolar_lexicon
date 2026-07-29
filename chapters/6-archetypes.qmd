@@ -1,10 +1,8 @@
 # 6. Archetypes {#sec-archetypes}
 
-Certain designs keep turning up. Put the same pressures against the same scale and the same sharing position and projects tend to land in the same handful of shapes: a farmer's flock under panels, a strip of prairie down the wet draw, a retired irrigated field. Those recurring shapes are **archetypes**: what the two axes produce once the pressures have been settled, with the [restorative functions](4-restorative-functions.qmd) layered on top. We use *archetype* in its plain sense, meaning a characteristic, recurring, transformable pattern, not an exhaustive set.
+Certain designs recur when the same pressures meet the same scale and sharing position: a farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field. These **archetypes** are recurring, transformable patterns rather than an exhaustive typology. They classify how pressures are resolved; hardware taxonomies classify structure. The two can be read together.
 
-**Two kinds of hardware sit underneath all of this.** The field's engineering standards (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy) sort agrivoltaic hardware into **overhead** systems, with modules elevated *above* the working surface, the vegetable-agrivoltaics case, and **interspace** systems, with modules mounted low and the crop or cover *between* the rows, the vertical-bifacial and grazing cases. That typology classifies the *structure*; the archetypes here classify the *resolution of pressures*. The two are complementary, not rival: one structural class can appear in several archetypes, and one archetype can be built in more than one class.
-
-This chapter develops **six featured archetypes** in depth, each with its pressures, its internal variation, and a worked real-world application, then reads them across the [SCALE domains](#sec-archetype-domains), and closes with **seven further archetypes** in current circulation. They are ordered along the [scale transect](1-the-scale-transect.qmd), from the farmstead yard to the region, and the mid scales hold the most because that is where the freedom to choose the ground and the freedom to manage it overlap. An archetype is featured here if it recurs in the field and carries at least one documented case; a form that looks promising but is not yet documented as recurring appears among the further archetypes, marked as emerging. Each archetype states its *dominant* and *yielded* pressures; read across the domains, those trade-offs become a characteristic footprint that distinguishes one archetype from another.
+Six featured archetypes, ordered from farmstead to region, each have a documented case. Seven further forms are included more briefly. Their dominant and yielded pressures produce the [SCALE](#sec-archetype-domains) profiles that follow.
 
 ## What appears at each scale {#sec-by-zone}
 
@@ -20,9 +18,7 @@ If you know roughly how much land is in play, start here. The table gives the fo
 | **A5 — Regional** | ~300 acres to 10,000+ | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 :::
 
-**Read the crowding.** A3 (Parcel) carries the most forms and A1 and A5 the fewest, which is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2) appearing in a table built for an entirely different purpose. Mid-scale is where the freedom to choose the ground and the freedom to manage it overlap, so it holds the most distinct answers; the ends narrow because one freedom or the other runs out. Scale narrows the menu before design begins, which is the whole argument of §1, arriving here as a practical fact.
-
-**A caution about reading down a column.** A form appearing at your zone means it *has been built* at that scale, not that it suits your site. Climate, soil, water, market, and what the neighbors will accept all cut the list further, and several of these forms are mutually exclusive on the same ground. The entries below say what each one demands.
+The crowding at A3 is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wedge) in practical form: siting and management latitude overlap there. A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
 
 ## The six featured archetypes {#sec-featured}
 
@@ -44,9 +40,7 @@ If you know roughly how much land is in play, start here. The table gives the fo
 :::
 *Farmstead scale [A1](1-the-scale-transect.qmd#sec-zones) · shares the ground with the farm's own animals [S1–S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
 
-Barnyard shelter solar has two layers that keep each other's company: the farm's own animals, whether a dairy herd, a few beef cows, or a flock of hens, and a modest array raised over the yard or paddock where they already gather. The panels are shelter first and generation second: shade in the heat of the afternoon, a dry place out of the rain, a break from the wind, and for poultry a roof against the hawk. The same structure quietly runs the milking parlor, the cold store, and the well pump on the farm's own power, drawn off its own meter.
-
-This is the smallest archetype and the most fully the farmer's own. One person holds the animals, the panels, and the labor, and can set the array exactly where the herd stands on a July afternoon. No lease, no contractor, no grid study, every lever in a single pair of hands. The reward is read in the animals as much as the meter: shaded dairy cows run a degree cooler and pant less through the worst of the heat, and hens with cover overhead range farther from the coop. The catch is simply scale: a few tens of kilowatts offset a farm, not a county, and the shade that draws the herd also concentrates it, so the muck and the wear gather where the animals crowd beneath the panels.
+Barnyard shelter solar places a modest array above the yard or paddock the farm's own animals already use. It provides shade and shelter while offsetting the parlor, cold store, or well pump. The same farmer holds the animals, array, and labor, but the array serves the farm rather than the grid; concentrated shade also concentrates manure and wear.
 
 *Dominant pressures: agricultural continuity, operational simplicity. Yielded: generation at scale, since the array is sized to the farm rather than the grid.*
 
@@ -67,9 +61,7 @@ This is the smallest archetype and the most fully the farmer's own. One person h
 :::
 *Field scale [A2–A3](1-the-scale-transect.qmd#sec-zones) · shares the ground for food [S1](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's built*
 
-Vegetable agrivoltaics has two layers that share the same ground: a food crop below, meaning greens, tomatoes, peppers, and the other shade-tolerant vegetables, and solar panels above, raised and spaced so that enough light still reaches the rows. The crop keeps the land in production; the panels add power and a second income, and in hot, dry country their shade is not a cost but a gift, cutting the heat and water stress on the plants beneath.
-
-Everything turns on light. The panels sit high enough to work under and far enough apart, or clear enough, to leave the crop what it needs, which makes this the most engineering-intensive archetype, its geometry tuned to a particular plant in a particular climate. Push the shade too far and yield falls; get it right somewhere like the desert Southwest and the same panels that make electricity also make the afternoon survivable for a tomato [@barrongafford2019]. It stays small, close to the farmer, and it lives or dies on whether the crop underneath still pays.
+Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels raised and spaced for their light and work needs. Its geometry is tuned to a crop and climate: excess shade cuts yield, while in hot, dry settings it can reduce heat and water stress [@barrongafford2019]. The form succeeds only where the crop still pays.
 
 *Dominant pressures: agricultural continuity, social license. Yielded: some generation and capital, to the clearance and spacing the crop demands.*
 
@@ -90,9 +82,7 @@ Everything turns on light. The panels sit high enough to work under and far enou
 :::
 *Field to parcel scale [A2–A3](1-the-scale-transect.qmd#sec-zones) · spares by taking idled ground [S4](2-the-sharingsparing-axis.qmd#sec-positions), or [S2](2-the-sharingsparing-axis.qmd#sec-positions) where that ground still grazes · restoration by where you site*
 
-Marginal land solar has two layers only loosely joined: a patch of ground the farm had all but given up on: a flood-prone corner, a rocky headland, a wet or oddly-shaped remnant that never paid its way, and an array set on it, turning idle acres into a second income without touching the good fields. Whatever the ground can still carry comes along underneath: rough grazing where it drains, naturalized or pollinator cover where it does not.
-
-The defining choice is made before anyone thinks about output, since it is a decision about *which* ground rather than how to wring watts from it, and the array simply accepts the orientation and layout the site dictates. That is also the catch: land that was marginal for farming is often marginal for solar too, awkwardly shaped or oriented, sometimes needing costly answers: ballast on rock, elevation above a floodplain, a longer run to the interconnection. It works when the new income clears that penalty, and like the prairie strips it leans on the mid-scale freedom to choose the parcel; assemble enough contiguous acres and the choice is gone.
+Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. The same conditions that made the parcel marginal can make solar costly, through rock, flood risk, or a long interconnect; the income must clear that penalty.
 
 *Dominant pressures: farm economic resilience, capital discipline. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
@@ -113,11 +103,7 @@ The defining choice is made before anyone thinks about output, since it is a dec
 :::
 *Parcel scale [A3](1-the-scale-transect.qmd#sec-zones) · retires impaired ground [S5](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by where you plant*
 
-Solar prairie strips have two distinct layers: a strip of prairie that captures water, sediment, and nutrient runoff while providing habitat and biodiversity, and solar panels that anchor the strips, giving them a lasting reason to stay in the ground, while generating power and income for the farmer.
-
-They go in where a field sheds its water: along the contour, down the low draws, around the wet corners, sometimes circling a restored wetland. The panels stand among the grasses rather than over bare or mown ground. Big bluestem, coneflower, and milkweed root deep, holding the soil and slowing the water while the array shares their ground. How much prairie, and where, is a measured decision: enough to soak up a given storm, catch the sediment, keep nitrogen out of the creek. Where runoff must be intercepted the prairie runs in narrow bands across the slope; where a low field or a wetland edge already collects the water, it widens into blocks.
-
-The pattern is not new. It comes from the STRIPS research, which found that converting as little as a tenth of a field to native prairie, set exactly where the water runs, can cut soil loss by more than ninety percent and sharply reduce the nitrogen and phosphorus that leave with it [@schulte2017]. The solar is simply what keeps that patch worth planting. It asks for a place where clean water is paid for, and it does not carry to utility scale, where no one gets to choose the ground.
+Solar prairie strips pair panels with deep-rooted prairie placed where a field sheds water: contours, low draws, wet corners, and wetland edges. The planting slows runoff and holds sediment and nutrients; the array gives it a durable revenue stream. STRIPS research found that converting about a tenth of a field to prairie in the right places can cut soil loss by more than 90% [@schulte2017]. This is a parcel-scale form where clean water is valued, not a utility-scale template.
 
 *Dominant pressures: restorative ambition, social license. Yielded: a little generation, to the prairie.*
 
@@ -138,9 +124,7 @@ The pattern is not new. It comes from the STRIPS research, which found that conv
 :::
 *Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · shares the ground for grazing [S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
 
-Regenerative solar grazing has two layers doing complementary work: a flock, usually sheep, that eats the vegetation the array would otherwise pay to mow, and the panels above and among them that make the power. Managed well, the animals are more than a mower on legs; moved across the site on a planned rotation, they trample litter, cycle nutrients, and can leave the soil better than they found it, so the ground cover turns into habitat and the grazing into a small regenerative enterprise.
-
-This is a large-scale practice, and its vegetation is a service rather than the landowner's own farming: a contract grazier brings the flock, the security fence doubles as the paddock, interior fencing and gates lay out the rotation, and clearance height and water points decide what stock can work beneath the modules. The tension is over the calendar. The array wants its grass held low on its own schedule, the shepherd needs to move animals on the flock's, and the regenerative version asks the site to graze for soil and sward health, not only for a tidy sightline. It reaches cost parity with mowing rather than beating it outright [@mccall2023], and where the understory is native and well-managed the ground can gain soil carbon over the array's life instead of merely holding steady [@krasner2025].
+Regenerative solar grazing uses a planned flock rotation to manage vegetation, cycle nutrients, and support ground cover beneath a utility-scale array. It is usually a contracted service rather than the landowner's own operation, with fences, gates, clearance, and water points setting the rotation. The plant's mowing calendar and the shepherd's flock calendar must be reconciled. Grazing can reach cost parity with mowing [@mccall2023]; well-managed native understory can also improve soil carbon [@krasner2025].
 
 *Dominant pressures: generation yield, operational simplicity. Yielded: the farm's own agricultural continuity, since the grazing is a tenancy rather than the operation.*
 
@@ -161,9 +145,7 @@ This is a large-scale practice, and its vegetation is a service rather than the 
 :::
 *Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · retires impaired irrigated ground [S5](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by relieving the water budget*
 
-Water-sustainability solar has two layers in a subtractive relationship: the array, which needs no irrigation, and the aquifer beneath it, which the array is placed to stop draining. Where irrigated farming has been pulling more water than the ground can replace, converting those fields to solar simply ends the demand [@stid2025]. The restoration is not something added to the site. It is something that stops happening to the water.
-
-The logic only works where the overdraft is real, measured, and governed. It needs an aquifer stressed enough that retired demand is worth more than the crop, a regulatory regime that makes the saving count rather than letting a neighbor pump it [@zwickle2021], and ground whose farming was marginal on its own terms, being drainage-impaired, salt-affected, or expensive to irrigate, so retirement is not simply taking good land out of food production. That combination is regional rather than scattered, which is why this is the one removal archetype that scales: where a whole district is over its budget there is no cherry-picking to do, and retirement and utility scale stop fighting each other (§2.2). Food production is deliberately let go here, and the archetype should be read as making that trade openly rather than avoiding it.
+Water-sustainability solar retires irrigated demand above an overdrawn aquifer [@stid2025]. It is credible only where the overdraft is measured and governance keeps the saved water from being pumped elsewhere [@zwickle2021], preferably on drainage-impaired, salt-affected, or otherwise marginal irrigated ground. Food production is deliberately given up; this is a regional form because the impairment must be regional too.
 
 *Dominant pressures: restorative ambition (a water-quantity target), capital discipline. Yielded: agricultural production, by design.*
 
@@ -171,20 +153,18 @@ The logic only works where the overdraft is real, measured, and governed. It nee
 
 ## Archetypes across the SCALE domains {#sec-archetype-domains}
 
-The six featured archetypes and the [restorative functions](4-restorative-functions.qmd) meet in a matrix: each archetype, by settling its pressures a particular way, produces a characteristic profile across the [SCALE](4-restorative-functions.qmd#sec-scale) domains, meaning which of Communities, Agriculture, Landscapes, and Energy it foregrounds, and which it trades away. This is the archetype × function matrix read one row at a time.
-
-**How the profiles are derived, so they can be checked.** Each shape is generated from the archetype's own stated pressures by one rule: a **dominant** pressure pushes its domain toward regeneration, a **yielded** pressure pushes its domain toward depletion, and a pressure the archetype does not engage leaves its domain mid-scale. The pressure-to-domain mapping is the one set out in §4: agricultural continuity → Agriculture; restorative ambition and the biophysical functions → Landscapes; social license and the community & economic function → Communities; generation yield, capital discipline and operational simplicity → Energy. Nothing else feeds the shape: no site measurements, no weighting, no aggregate score across domains. That makes each profile reproducible from the text above it and, more importantly, **contestable**: to disagree with a shape, disagree with the pressure reading that produced it. These are judgments about *forms*, not audits of the named projects.
+Each featured archetype has a characteristic profile across Communities, Agriculture, Landscapes, and Energy. A dominant pressure moves its domain toward regeneration; a yielded pressure moves it toward depletion; unengaged domains remain mid-scale. The profiles are judgments about forms, not measurements or audits of the named projects.
 
 ![Each featured archetype as a SCALE footprint across the four domains: a domain it regenerates sits toward the center, one it depletes or trades away reaches toward the rim, read from its dominant and yielded pressures. Descriptive profiles, site-conditional, and not a ranking or a score against a limit of sustainability.](../figures/fig_archetype_footprints.svg){#fig-archetypes}
 
-- [**Barnyard Shelter Solar**](#arch-barnyard) (A1 · S1–S2) leans on **Agriculture** (the farm's own animals keep producing) and **Communities** (one operator, behind-the-meter resilience), with **Landscapes** a modest welfare-and-microclimate gain and **Energy** deliberately small — sized to the farm, not the grid.
-- [**Vegetable Agrivoltaics**](#arch-vegetable) (A2–A3 · S1) leans on **Agriculture** (food keeps growing in the footprint) and **Communities** (a farmer, a local face), trading **Energy** (the clearance and spacing the crop needs cost generation).
-- [**Marginal Land Solar**](#arch-marginal) (A2–A3 · S4, or S2 where grazed) is anchored in **Communities**, meaning the farm's financial resilience, on **Agriculture**'s cast-off ground, with **Energy** cheap to build but modest in yield.
-- [**Solar Prairie Strips**](#arch-prairie-strips) (A3 · S5) is a **Landscapes** archetype first — clean water and habitat — with **Communities** benefit visible, yielding some **Energy** to the prairie.
-- [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2) foregrounds **Energy** (utility-scale generation) and **Landscapes** (grazed cover, soil, habitat), with **Agriculture** present only as a grazing service, not the farm's own operation.
-- [**Water-Sustainability Solar**](#arch-water) (A4–A5 · S5) is a **Landscapes** archetype in the water sense, easing an overdrawn aquifer, and deliberately giving up **Agriculture** at the arid end while delivering **Energy** at scale.
+- [**Barnyard Shelter Solar**](#arch-barnyard) (A1 · S1–S2): Agriculture and Communities.
+- [**Vegetable Agrivoltaics**](#arch-vegetable) (A2–A3 · S1): Agriculture and Communities, trading Energy.
+- [**Marginal Land Solar**](#arch-marginal) (A2–A3 · S4, or S2): Communities and cast-off agricultural ground.
+- [**Solar Prairie Strips**](#arch-prairie-strips) (A3 · S5): Landscapes, with some Energy yielded.
+- [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2): Energy and Landscapes; Agriculture as a service.
+- [**Water-Sustainability Solar**](#arch-water) (A4–A5 · S5): Landscapes and Energy, with Agriculture deliberately given up.
 
-No archetype fills every domain, and none is meant to: the profiles differ because the pressures were resolved differently. A real project's profile is its own, shaped by site and design; these six are reference shapes, not targets. Whether to overlay the SCALE *limit of sustainability*, turning these descriptive profiles into an evaluation of depletion vs. regeneration, is the call the [metrics open issue](8-open-issues.qmd) (§8, issue 5) leaves deliberately unmade.
+These are reference shapes, not targets or pass marks. A project profile remains site- and design-specific.
 
 ## Further archetypes in current circulation {#sec-further-types}
 
@@ -253,4 +233,3 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Archetypes](5-terminology.qmd#sec-terms-archetypes), alongside every other term the document defines.
 
 ---
-

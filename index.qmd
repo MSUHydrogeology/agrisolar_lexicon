@@ -10,59 +10,22 @@ not settled.
 :::
 
 ::: {.welcome}
-Solar and farming want the same ground: flat, open, well drained, and generous with sun. Both
-are ways of harvesting sunlight over a wide area, so the competition between them is inherent
-rather than incidental — every acre of panels is an acre of crop, and that is the argument now
-running in county boardrooms across the country. But an array is not one thing. The same acres
-can carry pollinator habitat or bare gravel, slow a field's runoff or speed it, build soil
-carbon or strip it, shade a herd through a July afternoon, take irrigation off an aquifer being
-drawn down, or carry a farm through a decade that would otherwise have ended it. None of that
-is a side effect. Those are design decisions, made differently on every site, and made well
-they settle the tension rather than resolve it in one direction.
+Solar and farming want the same flat, open, well-drained ground. An array can carry pollinator habitat or gravel, slow runoff or redirect it, shade stock, retire irrigation demand, or help sustain a farm. Those are design decisions.
 
-**Agrisolar** is the name for that whole field: solar generation on agricultural land, whatever
-happens to production underneath. It is worth distinguishing from **agrivoltaics**, the
-better-known term, which covers the narrower case of crops or livestock raised inside the array
-itself — sheep between the rows, lettuce in the shade of a panel. That case is real, and it is
-rare: cropping directly under or between panels runs on the order of 2% of what has been built
-[@stid2022; @macknick2022]. The rest is still solar on farmland, and it still decides where the
-water goes, what lives in the soil, and whether the farm is still farming in ten years.
+**Agrisolar** names solar generation on agricultural land, whether or not production continues below it. **Agrivoltaics** is the narrower case of crops or livestock inside the footprint. Direct crop production under or between panels remains a small share of built practice [@stid2022; @macknick2022].
 
-**Restorative agrisolar design** is a claim about the wider category — that these arrays can be
-built so the land and the community around them are better off for their presence, and that
-ecological, hydrological, and community function belong among the objectives of the design
-rather than among its accidents. This document argues that claim rather than assuming it, and
-gives it a vocabulary precise enough to be tested on real ground.
+**Restorative agrisolar design** holds that ecological, hydrological, and community function belong among a project's objectives. This document gives that claim a vocabulary that can be tested on real ground.
 :::
 
 ## A shared language
 
-A solar grazier, a township planner, a hydrologist, and a developer can stand on the same
-eighty acres and describe it in four vocabularies that do not translate. Each of the four is a
-real body of practice, built by people who know their part of the problem well — and each was
-built separately, so the parts do not compose. Until the words line up, no one can tell whether
-they actually disagree or are merely using terms differently, and the argument runs on words
-instead of on ground.
+A solar grazier, township planner, hydrologist, and developer can describe the same eighty acres in incompatible terms. This lexicon is for the people deciding what an array does to an operation and a place: farmers and landowners, community decision-makers, and solar professionals. It favors recognizable terms, defined carefully.
 
-There is no agrisolar design profession to write to, so this is addressed to the people who
-actually make the decisions: farmers and landowners weighing what an array would do to an
-operation, community decision-makers who have to judge a proposal on its merits, and solar
-professionals who need to discuss land with both. It should read as rigorous to a landscape
-architect, an agronomist, or a hydrologist; it is not written to them first. Where the precise
-term and the recognizable one differ, this document takes the recognizable one and defines it
-carefully.
-
-None of this stays hypothetical for long. A net-zero grid by 2050 would put solar on
-60,000–90,000 km² of land — roughly 1% of the contiguous United States, or a third of the
-ground its cities now occupy [@larson2021] — and most of it will be farmland.
+A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of the contiguous United States [@larson2021]. Much of it will be farmland.
 
 ## How the language works
 
-Three questions decide what a site becomes, and the document is built around them. **Scale**
-settles what is possible before anyone draws anything. **Sharing and sparing** records what the
-project costs the land, here and by consequence elsewhere. The **design pressures** are the
-forces that bear on the decision and genuinely oppose one another. Together they resolve into a
-recognizable form, which carries some restorative functions and not others.
+Three questions organize the document. **Scale** sets what is possible; **sharing and sparing** records what the project costs the land; **design pressures** name the forces that resolve the tradeoffs. Together they produce an archetype with particular restorative functions.
 
 ![How the pieces fit. Scale, sharing–sparing, and the design pressures resolve into an archetype and the functions it carries, with regionality setting how hard each pressure pushes.](figures/fig_language_structure.svg)
 
@@ -84,9 +47,7 @@ what permitting it faces, and who manages the ground beneath the panels.
 | **A5 — Regional** | ~300 to 10,000+ acres | Transmission, institutional capital, many jurisdictions |
 :::
 
-A sixth case sits at the origin: arrays on buildings, which take no ground at all. Capacity is
-given alongside acreage in [§1.2](chapters/1-the-scale-transect.qmd#sec-zones), but where the
-two disagree, the land is the better guide to what the design problem will be.
+Building-mounted arrays sit at the origin because they take no ground. Where capacity and acreage disagree, land area is the better guide to the design problem.
 
 ### Sharing and sparing
 
@@ -95,8 +56,8 @@ fence. Ground kept in production here is ground that need not be broken somewher
 taken out of production here has to be made up elsewhere, or it goes unmade. That is the logic
 the [sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) borrows from conservation
 ecology's land-sharing and land-sparing debate [@green2005; @phalan2011], where the underlying
-question — farm gently everywhere, or intensively in some places and not at all in others —
-remains genuinely unsettled. Five positions run from production continuing inside the array to
+question remains genuinely unsettled: farm gently everywhere, or intensively in some places and
+not at all in others. Five positions run from production continuing inside the array to
 production ending on ground that was doing damage off-site.
 
 ::: {.position-table}
@@ -109,52 +70,18 @@ production ending on ground that was doing damage off-site.
 | **S5 — Impaired-land retirement** | Production ends on ground that was carrying a burden off-site |
 :::
 
-The center is the honest position, and it is where most projects sit. An ordinary array on
-ordinary ground shares nothing and spares nothing: that field becomes a power plant. What can
-still be restorative about it is the farm — where the lease is the margin that funds a
-succession, retires a debt, or carries an operation through a bad decade, the project restores
-the enterprise even though it restores nothing in the soil. A position records what happened to
-the ground, never the merit of the project.
+The center is the honest position and where most projects sit: ordinary ground becomes a power plant. A lease can still sustain a farm enterprise, but a position records what happened to the ground, not the project's merit.
 
 ### Design pressures
 
-Scale and position describe a site; neither explains why it was built that way. Eight
-[design pressures](chapters/3-design-pressures.qmd) do that: generation yield, capital
-discipline, operational simplicity, agricultural continuity, restorative ambition, social
-license, offtake conformity, and decommissioning and reversibility. They are not axes. They have
-direction, they conflict, and real people advocate for them, which is why the document names the
-conflicts plainly rather than letting them surface as vague friction. It is also where the
-document takes sides: restorative ambition sits on that list because the argument is that it
-belongs there.
+Scale and position describe a site; eight [design pressures](chapters/3-design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative ambition belongs among them.
 
 ![The eight design pressures. Every site is a resolution of forces that work against one another; naming them is what makes the trade-offs arguable rather than merely felt.](figures/fig_design_pressures.svg)
 
-Everything after that is consequence. What a site is finally made to *do* forms a second
-register — five [restorative functions](chapters/4-restorative-functions.qmd), reachable from
-many structural positions at once, which is why they are a palette rather than a scorecard: no
-good project delivers all five, and some work against each other. The recurring ways the three
-questions settle are the [archetypes](chapters/6-archetypes.qmd), and naming the forces first is
-what lets a fifth, a sixth, and a twentieth be described in the same language.
-
-Two of those forms can have almost nothing physically in common. Solar prairie strips are bands
-of restored prairie with panels standing among them, set where a field sheds its water: they end
-production on the strip, but the strip was the ground doing the most damage downstream, and what
-the farm buys is cleaner water and habitat. A small array over a barnyard shades the farm's own
-cows and runs the milking parlor, and gives up generation at scale to do it. The same handful
-of questions describes both, which is what makes it possible to say exactly where they differ —
-and to hold either one against whatever is being proposed down the road from you.
+The resulting [restorative functions](chapters/4-restorative-functions.qmd) are a palette, not a scorecard. Recurring resolutions become [archetypes](chapters/6-archetypes.qmd), from solar prairie strips to barnyard shelter, and can be compared in the same language.
 
 ::: {#sec-aim-not-dimensions}
-The same eight pressures meet very different ground. Sun and cloud, aridity, the cropping
-system, the grid operator, and whether the water beneath a field is being drawn down faster
-than it returns all change how hard each pressure pushes, and so change how a site ought to
-resolve. Shade that rescues a water-stressed crop in Arizona costs yield in Ohio. An argument
-for retiring irrigated ground is decisive over a depleted aquifer and has nothing to act on in
-a rain-fed county. [Regionality](chapters/7-regionality.qmd) works that through, and it is why
-this document argues an aim rather than issuing dimensions: restoration is a response to a
-particular place, and a fixed buffer width, a mandated seed mix, or a single success metric
-would flatten the local reading the work depends on. **The aim is argued; the dimensions are
-left to the site.**
+The same pressures meet very different ground. Sun, water, crop, and grid conditions change their weight. [Regionality](chapters/7-regionality.qmd) explains why this document argues an aim rather than issuing dimensions. **The aim is argued; the dimensions are left to the site.**
 :::
 
 ## Where to start
@@ -164,12 +91,12 @@ Nothing requires that of you.
 
 ::: {.routes}
 **If you have land in mind and want to know what is possible on it**, go to
-[what appears at each scale](chapters/6-archetypes.qmd#sec-by-zone) — the forms that recur at
-each size of project, from a barn roof to a regional complex, with what each one asks of the
+[what appears at each scale](chapters/6-archetypes.qmd#sec-by-zone), which sets out the forms that
+recur at each size of project, from a barn roof to a regional complex, with what each one asks of the
 ground.
 
 **If you are weighing a specific proposal**, the
-[design pressures](chapters/3-design-pressures.qmd) name the forces pulling on it and the
+[design pressures](chapters/3-design-pressures.qmd) name the forces pushing on it and the
 conflicts worth arguing about openly.
 
 **If you are trying to pin down a term** someone has used, the
@@ -186,6 +113,6 @@ not.
 
 This is a working document, and it improves by being disagreed with. Corrections,
 counterexamples, and proposed terms are welcome as issues or pull requests on
-[GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon) — an archetype that recurs in
+[GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon). An archetype that recurs in
 your region and is missing here, a term that lands badly with the people who have to use it, or
 a citation you can trace further than we have.
