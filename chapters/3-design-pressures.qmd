@@ -21,7 +21,7 @@ Eight forces act on every site. The third column is the one worth arguing about,
 
 Read the third column as the direction a pressure pushes, not as a verdict on anyone advocating it. Every one of the eight has someone arguing for it in good faith, and a site with no capital discipline does not get built.
 
-![Eight competing forces resolving into one site design. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance, but it is a force among forces, not a coordinate to be scored against.](../figures/fig_design_pressures.svg){#fig-pressures}
+![Eight pressures bearing on one site at once, arranged by the direction they push. The restorative half is on the right and the half that pushes away is on the left, with the two whose direction the site or the buyer decides sitting on the dividing line itself. Restorative ambition is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
