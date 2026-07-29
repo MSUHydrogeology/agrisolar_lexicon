@@ -32,7 +32,7 @@ Capacity is how a project is filed; acreage is how landholders and communities e
 
 Building-mounted arrays are **A0**: no ground to choose, manage, share, or spare. A5 has no ceiling; its common condition is placement fixed by land assembly and restoration carried by management (§8, issue 1).
 
-![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient, which is what makes it a transect rather than a set of size bins.](../figures/fig_scale_transect.svg){#fig-transect}
+![**Figure 1.1.** The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient, which is what makes it a transect rather than a set of size bins.](../figures/fig_scale_transect.svg)
 
 These indicative bands fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
 
@@ -77,6 +77,6 @@ As projects grow, restoration changes instrument. Siting latitude falls while ma
 - **Structure-led**, where the hardware does it: clearance, row spacing, how much light the modules let through.
 - **Management-led**, where placement is fixed and ground cover, grazing, and operation carry everything.
 
-![Siting latitude and management leverage move in opposite directions and cross between A3 and A4. Restoration does not diminish with scale so much as change instrument.](../figures/fig_siting_latitude.svg){#fig-siting}
+![**Figure 1.2.** How the freedom to choose ground trades off against the ability to manage it. Siting latitude is how much say you have over where the array goes. It peaks in the middle of the transect: at A1 the property line leaves almost nothing to choose among, and at A5 the choice belongs to the land market and the interconnection queue. Management leverage runs the other way, because contract grazing, professional seeding, and dedicated maintenance barely exist below a certain size and are routine above it. The two cross between A3 and A4, and that crossing is where the instrument changes: below it you restore land by choosing which ground to take, above it by deciding how the ground is run. Restoration does not fall away with scale, it changes tool.](../figures/fig_siting_latitude.svg)
 
 At utility scale, restorative practice is mainly ground cover and grazing; at small and mid scale it is mainly placement [@macknick2022; @boggis2020]. Latitude peaks at A2–A3, bounded by the property line at A1 and land assembly and grid access at A5. That is why siting-led forms such as [solar prairie strips](5-archetypes.qmd#arch-prairie-strips) and [marginal land solar](5-archetypes.qmd#arch-marginal) live in the middle zones.

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="468" viewBox="0 0 760 468" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" role="img">
 <title>The feasible region as a lens on a five-position axis centred on coexistence (S3)</title>
 <desc>Centred sharing-sparing axis with five positions. Full and functional sharing (S1-S2) sit above the scale line; coexistence (S3) sits on it; idled-land sparing and impaired-land retirement (S4-S5) sit below. The feasible region is widest at A3 (Parcel) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Animals run S2 at every scale, from the farm's own barnyard shelter through contract grazing to a grazing enterprise; coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
 <defs>
@@ -8,8 +8,8 @@
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .ts{font-size:13.5px;fill:#5f5e5a}.rl{font-size:13.5px;font-weight:600;fill:#3d3d3a}
-.an{font-size:11.5px;fill:#7a7973}.sm{font-size:12.5px;fill:#7a7973}
-.pr{font-size:12px;fill:#4a4843}.ex{font-size:12.5px;font-style:italic;fill:#993C1D}.gy{font-size:12.5px;font-style:italic;fill:#6f6e68}
+.an{font-size:11.5px;fill:#7a7973}
+.ex{font-size:12.5px;font-style:italic;fill:#993C1D}.gy{font-size:12.5px;font-style:italic;fill:#6f6e68}
 .dir{font-size:13px;font-weight:700;letter-spacing:.04em;fill:#2f77bf}
 .dir2{font-size:13px;font-weight:700;letter-spacing:.04em;fill:#a85c28}
 .ctr{font-size:12px;font-weight:600;letter-spacing:.04em;fill:#6f6e68}
@@ -36,8 +36,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="ts" x="440" y="358" text-anchor="middle">A3</text><text class="an" x="440" y="373" text-anchor="middle">Parcel</text>
 <text class="ts" x="583" y="358" text-anchor="middle">A4</text><text class="an" x="583" y="373" text-anchor="middle">Landscape</text>
 <text class="ts" x="725" y="358" text-anchor="middle">A5</text><text class="an" x="725" y="373" text-anchor="middle">Regional</text>
-<text class="gy" x="212" y="114" text-anchor="middle">next to, not under</text>
-<text class="gy" x="310" y="303" text-anchor="middle">sparing, but negligible</text>
+<text class="gy" x="240" y="114" text-anchor="middle">animals shelter beside it</text>
+<text class="gy" x="310" y="303" text-anchor="middle">sparing here spares very little</text>
 <circle cx="182" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="182" y="154" text-anchor="middle" fill="#993C1D">barnyard shelter</text>
 <circle cx="440" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="440" y="154" text-anchor="middle" fill="#993C1D">contract grazing</text>
 <circle cx="632" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="632" y="154" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
@@ -50,10 +50,4 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <circle cx="556" cy="92" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="556" y="81" text-anchor="middle">vertical bifacial</text>
 <circle cx="632" cy="252" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="632" y="241" text-anchor="middle">brightfield</text>
 <circle cx="686" cy="296" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="686" y="314" text-anchor="middle">water-sustainability</text>
-<text class="pr" x="718" y="98" text-anchor="end">S1 constrained:</text>
-<text class="pr" x="718" y="113" text-anchor="end">clearance vs. capital</text>
-<text class="sm" x="60" y="398">Solid = robustly on. Hatch = the space thins (light at small scale, dense at large). Hollow = exceptions.</text>
-<text class="sm" x="60" y="415">Grazing (S2) and coexistence (S3) are the spine at every scale; both ends converge on the S2&#8211;S3 middle.</text>
-<text class="sm" x="60" y="432">S4 and S5 fail differently: S4's ground is scattered and rarely assembles; S5 needs regional impairment.</text>
-<text class="sm" x="60" y="449">Roof-mounted arrays have no land footprint: they are the A0 zero-land case and sit off this axis entirely.</text>
 </svg>

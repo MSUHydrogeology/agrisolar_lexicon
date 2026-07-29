@@ -155,7 +155,7 @@ Water-sustainability solar retires irrigated demand above an overdrawn aquifer [
 
 Each featured archetype has a characteristic profile across Communities, Agriculture, Landscapes, and Energy. A dominant pressure moves its domain toward regeneration; a yielded pressure moves it toward depletion; unengaged domains remain mid-scale. The profiles are judgments about forms, not measurements or audits of the named projects.
 
-![Each featured archetype as a SCALE footprint across the four domains: a domain it regenerates sits toward the center, one it depletes or trades away reaches toward the rim, read from its dominant and yielded pressures. Descriptive profiles, site-conditional, and not a ranking or a score against a limit of sustainability.](../figures/fig_archetype_footprints.svg){#fig-archetypes}
+![**Figure 5.1.** Each featured archetype as a SCALE footprint across the four domains: a domain it regenerates sits toward the center, one it depletes or trades away reaches toward the rim, read from its dominant and yielded pressures. Descriptive profiles, site-conditional, and not a ranking or a score against a limit of sustainability.](../figures/fig_archetype_footprints.svg)
 
 - [**Barnyard Shelter Solar**](#arch-barnyard) (A1 · S1–S2): Agriculture and Communities.
 - [**Vegetable Agrivoltaics**](#arch-vegetable) (A2–A3 · S1): Agriculture and Communities, trading Energy.
