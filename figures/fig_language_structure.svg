@@ -15,13 +15,6 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .eyebrow{font-size:10.5px;font-weight:600;fill:#8a8880;letter-spacing:0.06em}
 .card{fill:none;stroke:#d3d1c7;stroke-width:1}
 .join{stroke:#b4b2a9;stroke-width:1.4;fill:none}
-@media (prefers-color-scheme:dark){
-  .ct{fill:#e8e6dd}.cs{fill:#9c9a92}.cc{fill:#8a8880}
-  .rt{fill:#e8e6dd}.rs{fill:#9c9a92}
-  .card{stroke:#5f5e5a}.join{stroke:#6f6d66}.eyebrow{fill:#75736c}
-  /* .fn is deliberately NOT re-coloured: the function chips keep light fills in
-     both modes, so their text must stay dark to remain legible. */
-}
 </style>
 
 <defs>

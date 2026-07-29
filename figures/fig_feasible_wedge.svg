@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="448" viewBox="0 0 760 448" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="468" viewBox="0 0 760 468" role="img">
 <title>The feasible region as a lens on a five-position axis centred on coexistence (S3)</title>
 <desc>Centred sharing-sparing axis with five positions. Full and functional sharing (S1-S2) sit above the scale line; coexistence (S3) sits on it; idled-land sparing and impaired-land retirement (S4-S5) sit below. The feasible region is widest at A3 (Parcel) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Animals run S2 at every scale, from the farm's own barnyard shelter through contract grazing to a grazing enterprise; coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
 <defs>
@@ -7,54 +7,53 @@
 </defs>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.ts{font-size:12px;fill:#5f5e5a}.rl{font-size:12px;font-weight:500;fill:#3d3d3a}
-.an{font-size:10px;fill:#7a7973}.sm{font-size:11px;fill:#7a7973}
-.pr{font-size:11px;fill:#4a4843}.ex{font-size:11px;font-style:italic;fill:#993C1D}.gy{font-size:11px;font-style:italic;fill:#6f6e68}
-.dir{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#2f77bf}
-.dir2{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#a85c28}
-.ctr{font-size:11px;font-weight:600;letter-spacing:.04em;fill:#6f6e68}
+.ts{font-size:13.5px;fill:#5f5e5a}.rl{font-size:13.5px;font-weight:600;fill:#3d3d3a}
+.an{font-size:11.5px;fill:#7a7973}.sm{font-size:12.5px;fill:#7a7973}
+.pr{font-size:12px;fill:#4a4843}.ex{font-size:12.5px;font-style:italic;fill:#993C1D}.gy{font-size:12.5px;font-style:italic;fill:#6f6e68}
+.dir{font-size:13px;font-weight:700;letter-spacing:.04em;fill:#2f77bf}
+.dir2{font-size:13px;font-weight:700;letter-spacing:.04em;fill:#a85c28}
+.ctr{font-size:12px;font-weight:600;letter-spacing:.04em;fill:#6f6e68}
 .ax{stroke:#b4b2a9;stroke-width:1}.cen{stroke:#9c9a92;stroke-width:1;stroke-dasharray:4 4}
-@media (prefers-color-scheme:dark){.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.an{fill:#8f8e86}.sm{fill:#8f8e86}.pr{fill:#c2c0b6}.ex{fill:#cf8a55}.gy{fill:#9c9a92}.ctr{fill:#9c9a92}.dir{fill:#6aa6e0}.dir2{fill:#cf8a55}.ax{stroke:#5f5e5a}.cen{stroke:#6f6e68}}
 </style>
-<polygon points="420,80 685,80 685,138" fill="url(#hatchD)" opacity="0.85"/>
-<polygon points="420,310 685,310 685,195" fill="url(#hatchD)" opacity="0.85"/>
-<polygon points="160,80 420,80 160,138" fill="url(#hatchL)" opacity="0.7"/>
-<polygon points="160,310 420,310 160,195" fill="url(#hatchL)" opacity="0.7"/>
-<polygon points="160,138 420,80 685,138 685,195 420,310 160,195" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
-<line class="ax" x1="160" y1="58" x2="160" y2="326"/>
-<line class="ax" x1="146" y1="195" x2="700" y2="195"/>
-<line class="cen" x1="160" y1="195" x2="685" y2="195"/>
-<text class="dir" x="148" y="64" text-anchor="end">SHARING &#8593;</text>
-<text class="dir2" x="148" y="330" text-anchor="end">SPARING &#8595;</text>
-<text class="rl" x="150" y="84" text-anchor="end">S1 full sharing</text>
-<text class="rl" x="150" y="142" text-anchor="end">S2 functional</text>
-<text class="rl" x="150" y="192" text-anchor="end">S3 coexistence</text>
-<text class="ctr" x="150" y="206" text-anchor="end">neither</text>
-<text class="rl" x="150" y="257" text-anchor="end">S4 idled land</text>
-<text class="rl" x="150" y="314" text-anchor="end">S5 impaired land</text>
-<text class="ts" x="160" y="350" text-anchor="middle">A1</text><text class="an" x="160" y="363" text-anchor="middle">Farmstead</text>
-<text class="ts" x="295" y="350" text-anchor="middle">A2</text><text class="an" x="295" y="363" text-anchor="middle">Field</text>
-<text class="ts" x="420" y="350" text-anchor="middle">A3</text><text class="an" x="420" y="363" text-anchor="middle">Parcel</text>
-<text class="ts" x="555" y="350" text-anchor="middle">A4</text><text class="an" x="555" y="363" text-anchor="middle">Landscape</text>
-<text class="ts" x="685" y="350" text-anchor="middle">A5</text><text class="an" x="685" y="363" text-anchor="middle">Regional</text>
-<text class="gy" x="212" y="117" text-anchor="middle">next to, not under</text>
-<text class="gy" x="305" y="296" text-anchor="middle">sparing, but negligible</text>
-<circle cx="188" cy="138" r="5" fill="#D85A30"/><text class="ts" x="188" y="154" text-anchor="middle" fill="#993C1D">barnyard shelter</text>
-<circle cx="420" cy="138" r="5" fill="#D85A30"/><text class="ts" x="420" y="154" text-anchor="middle" fill="#993C1D">contract grazing</text>
-<circle cx="600" cy="138" r="5" fill="#D85A30"/><text class="ts" x="600" y="154" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
-<circle cx="390" cy="92" r="5" fill="#D85A30"/><text class="ts" x="402" y="88" text-anchor="start" fill="#993C1D">vegetables</text>
-<circle cx="280" cy="195" r="5" fill="#D85A30"/><text class="ts" x="280" y="211" text-anchor="middle" fill="#993C1D">lease income</text>
-<circle cx="625" cy="195" r="5" fill="#D85A30"/><text class="ts" x="625" y="211" text-anchor="middle" fill="#993C1D">native grassland</text>
-<circle cx="390" cy="253" r="5" fill="#D85A30"/><text class="ts" x="390" y="243" text-anchor="middle" fill="#993C1D">marginal land</text>
-<circle cx="445" cy="297" r="5" fill="#D85A30"/><text class="ts" x="445" y="313" text-anchor="middle" fill="#993C1D">solar prairie strips</text>
-<circle cx="290" cy="99" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="290" y="89" text-anchor="middle">greenhouse PV</text>
-<circle cx="530" cy="96" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="530" y="86" text-anchor="middle">vertical bifacial</text>
-<circle cx="600" cy="248" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="600" y="238" text-anchor="middle">brightfield</text>
-<circle cx="648" cy="290" r="5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="648" y="306" text-anchor="middle">water-sustainability</text>
-<text class="pr" x="678" y="100" text-anchor="end">S1 constrained &#8212;</text>
-<text class="pr" x="678" y="114" text-anchor="end">clearance vs. capital</text>
-<text class="sm" x="160" y="390">Solid = robustly on. Hatch = the space thins (light at small scale, dense at large). Hollow = exceptions.</text>
-<text class="sm" x="160" y="405">Grazing (S2) and coexistence (S3) are the spine at every scale; both ends converge on the S2&#8211;S3 middle.</text>
-<text class="sm" x="160" y="435">Roof-mounted arrays have no land footprint — they are the A0 zero-land case and sit off this axis entirely.</text>
-<text class="sm" x="160" y="420">S4 and S5 fail differently: S4's ground is scattered and rarely assembles; S5 needs regional impairment.</text>
+<polygon points="440,74 725,74 725,136" fill="url(#hatchD)" opacity="0.85"/>
+<polygon points="440,318 725,318 725,198" fill="url(#hatchD)" opacity="0.85"/>
+<polygon points="152,74 440,74 152,136" fill="url(#hatchL)" opacity="0.7"/>
+<polygon points="152,318 440,318 152,198" fill="url(#hatchL)" opacity="0.7"/>
+<polygon points="152,136 440,74 725,136 725,198 440,318 152,198" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
+<line class="ax" x1="152" y1="50" x2="152" y2="334"/>
+<line class="ax" x1="138" y1="198" x2="740" y2="198"/>
+<line class="cen" x1="152" y1="198" x2="725" y2="198"/>
+<text class="dir" x="140" y="56" text-anchor="end">SHARING &#8593;</text>
+<text class="dir2" x="140" y="338" text-anchor="end">SPARING &#8595;</text>
+<text class="rl" x="142" y="78" text-anchor="end">S1 full sharing</text>
+<text class="rl" x="142" y="140" text-anchor="end">S2 functional</text>
+<text class="rl" x="142" y="195" text-anchor="end">S3 coexistence</text>
+<text class="ctr" x="142" y="210" text-anchor="end">neither</text>
+<text class="rl" x="142" y="262" text-anchor="end">S4 idled land</text>
+<text class="rl" x="142" y="322" text-anchor="end">S5 impaired land</text>
+<text class="ts" x="152" y="358" text-anchor="middle">A1</text><text class="an" x="152" y="373" text-anchor="middle">Farmstead</text>
+<text class="ts" x="296" y="358" text-anchor="middle">A2</text><text class="an" x="296" y="373" text-anchor="middle">Field</text>
+<text class="ts" x="440" y="358" text-anchor="middle">A3</text><text class="an" x="440" y="373" text-anchor="middle">Parcel</text>
+<text class="ts" x="583" y="358" text-anchor="middle">A4</text><text class="an" x="583" y="373" text-anchor="middle">Landscape</text>
+<text class="ts" x="725" y="358" text-anchor="middle">A5</text><text class="an" x="725" y="373" text-anchor="middle">Regional</text>
+<text class="gy" x="212" y="114" text-anchor="middle">next to, not under</text>
+<text class="gy" x="310" y="303" text-anchor="middle">sparing, but negligible</text>
+<circle cx="182" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="182" y="154" text-anchor="middle" fill="#993C1D">barnyard shelter</text>
+<circle cx="440" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="440" y="154" text-anchor="middle" fill="#993C1D">contract grazing</text>
+<circle cx="632" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="632" y="154" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
+<circle cx="404" cy="88" r="5.5" fill="#D85A30"/><text class="ts" x="417" y="84" text-anchor="start" fill="#993C1D">vegetables</text>
+<circle cx="282" cy="198" r="5.5" fill="#D85A30"/><text class="ts" x="282" y="216" text-anchor="middle" fill="#993C1D">lease income</text>
+<circle cx="658" cy="198" r="5.5" fill="#D85A30"/><text class="ts" x="658" y="216" text-anchor="middle" fill="#993C1D">native grassland</text>
+<circle cx="404" cy="258" r="5.5" fill="#D85A30"/><text class="ts" x="404" y="247" text-anchor="middle" fill="#993C1D">marginal land</text>
+<circle cx="466" cy="304" r="5.5" fill="#D85A30"/><text class="ts" x="466" y="322" text-anchor="middle" fill="#993C1D">solar prairie strips</text>
+<circle cx="296" cy="95" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="296" y="84" text-anchor="middle">greenhouse PV</text>
+<circle cx="556" cy="92" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="556" y="81" text-anchor="middle">vertical bifacial</text>
+<circle cx="632" cy="252" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="632" y="241" text-anchor="middle">brightfield</text>
+<circle cx="686" cy="296" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="686" y="314" text-anchor="middle">water-sustainability</text>
+<text class="pr" x="718" y="98" text-anchor="end">S1 constrained:</text>
+<text class="pr" x="718" y="113" text-anchor="end">clearance vs. capital</text>
+<text class="sm" x="60" y="398">Solid = robustly on. Hatch = the space thins (light at small scale, dense at large). Hollow = exceptions.</text>
+<text class="sm" x="60" y="415">Grazing (S2) and coexistence (S3) are the spine at every scale; both ends converge on the S2&#8211;S3 middle.</text>
+<text class="sm" x="60" y="432">S4 and S5 fail differently: S4's ground is scattered and rarely assembles; S5 needs regional impairment.</text>
+<text class="sm" x="60" y="449">Roof-mounted arrays have no land footprint: they are the A0 zero-land case and sit off this axis entirely.</text>
 </svg>

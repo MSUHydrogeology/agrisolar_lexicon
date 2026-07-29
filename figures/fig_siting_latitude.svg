@@ -3,41 +3,42 @@
 <desc>Siting latitude peaks in the middle of the transect and falls at large scale, while management leverage rises steadily. The curves cross between A3 and A4, where restoration shifts from siting-led to management-led.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.ts{font-size:12px;fill:#5f5e5a}
-.rl{font-size:12px;font-weight:500}
+.ts{font-size:14px;fill:#5f5e5a}
+.rl{font-size:15px;font-weight:600}
+.lg{font-size:13.5px}
+.fn{font-size:13px;fill:#5f5e5a}
 .ax{stroke:#b4b2a9;stroke-width:1}
 .gl{stroke:#d3d1c7;stroke-width:1;stroke-dasharray:3 3}
-@media (prefers-color-scheme:dark){.ts{fill:#9c9a92}.ax{stroke:#5f5e5a}.gl{stroke:#444441}}
 </style>
 
-<line class="ax" x1="90" y1="40" x2="90" y2="240"/>
-<line class="ax" x1="90" y1="240" x2="700" y2="240"/>
+<line class="ax" x1="58" y1="40" x2="58" y2="240"/>
+<line class="ax" x1="58" y1="240" x2="744" y2="240"/>
 
-<text class="ts" x="82" y="52" text-anchor="end">high</text>
-<text class="ts" x="82" y="238" text-anchor="end">low</text>
+<text class="ts" x="50" y="52" text-anchor="end">high</text>
+<text class="ts" x="50" y="238" text-anchor="end">low</text>
 
-<line class="gl" x1="430" y1="40" x2="430" y2="240"/>
-<text class="ts" x="430" y="32" text-anchor="middle">restoration mode flips</text>
+<line class="gl" x1="475" y1="40" x2="475" y2="240"/>
+<text class="ts" x="475" y="32" text-anchor="middle">restoration mode flips</text>
 
-<path d="M130 128 L250 92 L370 104 L490 172 L650 214" fill="none" stroke="#1D9E75" stroke-width="2.5"/>
-<path d="M130 220 L250 198 L370 156 L490 106 L650 68" fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-dasharray="7 4"/>
+<path d="M100 128 L250 92 L400 104 L550 172 L715 214" fill="none" stroke="#1D9E75" stroke-width="3"/>
+<path d="M100 220 L250 198 L400 156 L550 106 L715 68" fill="none" stroke="#7F77DD" stroke-width="3" stroke-dasharray="8 5"/>
 
-<circle cx="130" cy="128" r="3.5" fill="#1D9E75"/><circle cx="250" cy="92" r="3.5" fill="#1D9E75"/><circle cx="370" cy="104" r="3.5" fill="#1D9E75"/><circle cx="490" cy="172" r="3.5" fill="#1D9E75"/><circle cx="650" cy="214" r="3.5" fill="#1D9E75"/>
-<circle cx="130" cy="220" r="3.5" fill="#7F77DD"/><circle cx="250" cy="198" r="3.5" fill="#7F77DD"/><circle cx="370" cy="156" r="3.5" fill="#7F77DD"/><circle cx="490" cy="106" r="3.5" fill="#7F77DD"/><circle cx="650" cy="68" r="3.5" fill="#7F77DD"/>
+<circle cx="100" cy="128" r="4.5" fill="#1D9E75"/><circle cx="250" cy="92" r="4.5" fill="#1D9E75"/><circle cx="400" cy="104" r="4.5" fill="#1D9E75"/><circle cx="550" cy="172" r="4.5" fill="#1D9E75"/><circle cx="715" cy="214" r="4.5" fill="#1D9E75"/>
+<circle cx="100" cy="220" r="4.5" fill="#7F77DD"/><circle cx="250" cy="198" r="4.5" fill="#7F77DD"/><circle cx="400" cy="156" r="4.5" fill="#7F77DD"/><circle cx="550" cy="106" r="4.5" fill="#7F77DD"/><circle cx="715" cy="68" r="4.5" fill="#7F77DD"/>
 
-<text class="rl" x="116" y="84" fill="#0F6E56">siting latitude</text>
-<text class="rl" x="530" y="92" fill="#534AB7">management leverage</text>
+<text class="rl" x="250" y="78" text-anchor="middle" fill="#0F6E56">siting latitude</text>
+<text class="rl" x="560" y="92" text-anchor="middle" fill="#534AB7">management leverage</text>
 
-<text class="ts" x="130" y="262" text-anchor="middle">A1</text>
-<text class="ts" x="250" y="262" text-anchor="middle">A2</text>
-<text class="ts" x="370" y="262" text-anchor="middle">A3</text>
-<text class="ts" x="490" y="262" text-anchor="middle">A4</text>
-<text class="ts" x="650" y="262" text-anchor="middle">A5</text>
+<text class="ts" x="100" y="264" text-anchor="middle">A1</text>
+<text class="ts" x="250" y="264" text-anchor="middle">A2</text>
+<text class="ts" x="400" y="264" text-anchor="middle">A3</text>
+<text class="ts" x="550" y="264" text-anchor="middle">A4</text>
+<text class="ts" x="715" y="264" text-anchor="middle">A5</text>
 
-<rect x="130" y="278" width="270" height="22" rx="4" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.5"/>
-<rect x="440" y="278" width="240" height="22" rx="4" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.5"/>
-<text x="265" y="293" text-anchor="middle" font-size="12" fill="#0F6E56">siting-led restoration</text>
-<text x="560" y="293" text-anchor="middle" font-size="12" fill="#3C3489">management-led restoration</text>
+<rect x="100" y="280" width="310" height="24" rx="4" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.5"/>
+<rect x="475" y="280" width="240" height="24" rx="4" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.5"/>
+<text class="lg" x="255" y="296" text-anchor="middle" fill="#0F6E56">siting-led restoration</text>
+<text class="lg" x="595" y="296" text-anchor="middle" fill="#3C3489">management-led restoration</text>
 
-<text class="ts" x="90" y="320">Latitude peaks at A2–A3: at A1 the parcel boundary binds hardest, and at A5 the land market does — see §1.4.</text>
+<text class="fn" x="58" y="322">Latitude peaks at A2–A3: at A1 the parcel boundary binds hardest, at A5 the land market does. See §1.4.</text>
 </svg>

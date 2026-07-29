@@ -9,7 +9,6 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .zn{font-size:14px;font-weight:500;fill:#173404}
 .zc{font-size:12px;fill:#3b6d11}
 .gl{stroke:#d3d1c7;stroke-width:1}
-@media (prefers-color-scheme:dark){.th{fill:#e8e6dd}.ts{fill:#9c9a92}.rl{fill:#c2c0b6}.gl{stroke:#5f5e5a}}
 </style>
 
 <rect x="160" y="30" width="132" height="64" rx="6" fill="#EAF3DE" stroke="#639922" stroke-width="0.5"/>
