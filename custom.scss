@@ -74,6 +74,19 @@
 .zone-table tbody tr:nth-child(5) td { background-color: #97c459; } // A5
 
 
+// ===== Figures =====
+// The SVGs are inconsistent about declaring an intrinsic width: some carry
+// width="760", others none at all. An <img> uses that intrinsic width as its
+// natural size, so a 760px figure sat 18px short in a 778px column while an
+// 880px one filled it — the same diagram looking smaller than its neighbours for
+// a reason invisible in the markup. These are diagrams drawn to be read at
+// whatever width they are given, so let them take the column.
+figure img,
+.quarto-figure img {
+  width: 100%;
+  height: auto;
+}
+
 // ===== Archetype "At a glance" blocks (§6) =====
 .at-a-glance {
   background-color: #f6f5f1;
@@ -155,8 +168,6 @@
 }
 .welcome > p:last-child { margin-bottom: 0; }
 
-// Worked readings of a site — the design language used on a real project.
-// Neutral border so they do not read as another call to action.
 // Neutral stone rather than green/blue/ochre: a worked case is the one box that
 // makes no claim about status. It still needs a fill and a rule dark enough to
 // read as deliberate — an unfilled block sitting next to .how-to and .evidence
@@ -231,15 +242,24 @@
 .routes > p:first-child { margin-top: 0; }
 .routes > p:last-child { margin-bottom: 0; }
 
-@media (prefers-color-scheme: dark) {
-  .at-a-glance { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
-  .draft-note { background-color: rgba(255, 255, 255, 0.04); border-left-color: rgba(255, 255, 255, 0.2); }
-  .example { background-color: rgba(255, 255, 255, 0.04); border-left-color: rgba(255, 255, 255, 0.3); }
-  .routes { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
-  .evidence { background-color: rgba(255, 255, 255, 0.04); border-left-color: #8fa9bd; }
-  .caution { background-color: rgba(255, 255, 255, 0.05); border-left-color: #c99a4e; }
-  .how-to { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
-  .region-table tbody td:first-child { background-color: rgba(255, 255, 255, 0.04); }
-  // The position bands keep their light tints in dark mode, exactly as the zone
-  // bands do, so their text stays dark — see the explicit color set above.
-}
+// ===== Dark mode: deliberately not implemented =====
+// There was a @media (prefers-color-scheme: dark) block here. It was actively
+// harmful and has been removed, for two independent reasons:
+//
+// 1. There is no dark page theme. _quarto.yml sets `theme: [cosmo, custom.scss]`,
+//    a single light theme, so the page background stays white no matter what the
+//    reader's OS says. The overrides set box fills to rgba(255,255,255,0.04) and
+//    some borders to rgba(255,255,255,0.3) — both invisible on white. Any reader
+//    with OS dark mode on saw the callout boxes as bare indented text.
+//
+// 2. It was the wrong mechanism regardless. Quarto's light/dark support does not
+//    use prefers-color-scheme; it stamps a class on <body> and swaps stylesheets.
+//    Dark rules have to be written against that, not against the media query.
+//
+// To add dark mode properly: set `theme: {light: [cosmo, custom.scss], dark:
+// [darkly, custom-dark.scss]}` in _quarto.yml, which generates the navbar toggle,
+// then write the dark variants in custom-dark.scss. Note that the zone ramp and
+// the S1–S5 diverging palette below deliberately pair light tints with dark text,
+// so both need a real dark pass rather than an inversion. The figures in figures/
+// still carry their own prefers-color-scheme blocks; those degrade to grey-on-
+// white rather than disappearing, so they are left in place for that work.

@@ -50,7 +50,7 @@ under **S**.
 
 **Capital discipline** — design pressure: minimize installed cost per watt — [§5](5-terminology.qmd#term-capital-discipline) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [§5](5-terminology.qmd#term-carrying-capacity) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [§5](5-terminology.qmd#term-carrying-capacity) · [1.3 A worked example: grazing across the transect](1-the-scale-transect.qmd#sec-grazing)
 
 **Coexistence (S3)** — *see* S3 — Coexistence; the center of the sharing–sparing axis, neither sharing nor sparing — [§5](5-terminology.qmd#term-s3) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
@@ -60,7 +60,7 @@ under **S**.
 
 **Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [§5](5-terminology.qmd#term-community-benefit)
 
-**Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [§5](5-terminology.qmd#term-contract-grazing) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [§5](5-terminology.qmd#term-contract-grazing) · [1.3 A worked example: grazing across the transect](1-the-scale-transect.qmd#sec-grazing)
 
 ## D
 
@@ -136,7 +136,7 @@ under **S**.
 
 ## R
 
-**Rangevoltaics** — grazing under and between the panels (S2); the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [§5](5-terminology.qmd#term-rangevoltaics) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Rangevoltaics** — grazing under and between the panels (S2); the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [§5](5-terminology.qmd#term-rangevoltaics) · [1.3 A worked example: grazing across the transect](1-the-scale-transect.qmd#sec-grazing)
 
 **Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [§5](5-terminology.qmd#term-regional-calibration) · [7.2 A worked calibration](7-regionality.qmd#sec-rg-us)
 
@@ -182,7 +182,7 @@ under **S**.
 
 **Soil & carbon function** — restorative function: perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability, against a construction-disturbance debt paid first — [§5](5-terminology.qmd#term-fn-soil) · [4.2 Soil & carbon function](4-restorative-functions.qmd#sec-fn-soil)
 
-**Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [§5](5-terminology.qmd#term-stocking-density) · [1.3 One practice, three design problems](1-the-scale-transect.qmd#sec-grazing)
+**Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [§5](5-terminology.qmd#term-stocking-density) · [1.3 A worked example: grazing across the transect](1-the-scale-transect.qmd#sec-grazing)
 
 **Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [§5](5-terminology.qmd#term-structure-led) · [1.4 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 
