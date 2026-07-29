@@ -1,6 +1,6 @@
 # 4. Restorative Functions {#sec-functions}
 
-Zone and position bound what a project could do. Neither decides what it does. Two arrays can hold the same position on the sharing–sparing axis, sit at the same point on the transect, and carry the same hardware, while one keeps gravel and herbicide under the racking and the other carries a planting rooted deep enough to hold a storm. Nothing about the ground separates them. What separates them is how the design resolved its pressures (§3), and in particular whether restorative ambition won anything against capital discipline and operational simplicity or was given up early and quietly.
+Zone and position bound what a project could do. Neither decides what it does. Two arrays can hold the same position on the sharing–sparing axis, sit at the same point on the transect, and carry the same hardware, while one keeps gravel and herbicide under the racking and the other carries a planting rooted deep enough to hold a storm. Nothing about the ground separates them. What separates them is how the design resolved its pressures (§3), and in particular whether restorative goals won anything against build cost and operations and maintenance or were given up early and quietly.
 
 *Restorative* is therefore not a property a piece of ground has. It is a result a design produces, and on most sites it can be produced or withheld. **Restorative functions** name what a design can be aimed at, and there are five.
 
@@ -15,8 +15,6 @@ Zone and position bound what a project could do. Neither decides what it does. T
 **A note on "co-benefits."** The field usually calls these co-benefits. The word is worth handling with care: it is an umbrella term with acknowledged definitional ambivalence, and its grammar quietly demotes what it names, since a *co-*benefit is something that arrives alongside the real objective [@mayrhofer2016]. That is the opposite of what this document argues. The functions below are named as objectives, which is why the lexicon says *restorative function* and keeps *co-benefit* for describing how others frame the same ground.
 
 Each section sets out mechanism, design dependencies, which sites can deliver it, its point of use, and evidence status.
-
----
 
 ## The five functions {#sec-the-functions}
 
@@ -111,8 +109,6 @@ A project can score well on one of these and badly on the rest. Naming them sepa
 **Evidence status.** The design principle is **verified** in the ecovoltaic frameworks themselves, where @tolgyesi2023 make a viable business model with embedded stakeholder engagement one of five co-equal pillars. The burden side is better measured than the benefit side: who gains and who bears the costs [@bessette2024], and property-value effects across six US states [@elmallah2023]. The benefit mechanisms are real and documented but sit largely in **gray literature** rather than peer-reviewed synthesis. The function is widely practiced and its instruments well known; which structures deliver durable, fairly-shared benefit is still thinly evidenced.
 :::
 
----
-
 ## 4.6 Where each function applies {#sec-benefit-range}
 
 A function is produced in one place and used in another, and the two are frequently not the same ground. Ecosystem-service research treats this as its central spatial problem, since the area that *provides* a service and the area that *benefits* from it differ often enough that they have to be mapped separately [@syrbe2012]. The distinction earns its place here for a plain reason. A restorative claim cannot be checked until it says where the benefit goes and who receives it, because "this project delivers a hydrologic function" might mean moisture held under the panels or nitrogen kept out of a creek three miles downstream, and those two need different evidence, reach different people, and answer different objections.
@@ -143,8 +139,6 @@ One case in this family runs the other way. Demonstration sites, extension field
 2. **Who captures it.** A landowner captures on-site benefit and can be paid for it. Downstream and regional benefits accrue to people holding no contract with the project, which is why they generally need a policy, a market, or a watershed authority behind them before they amount to more than goodwill.
 3. **Which objection it answers.** This also explains why some arguments about a project never meet. A neighbor objecting to the view is describing something delivered at the fence line, and a developer answering with a carbon figure is describing something delivered everywhere and to no one in particular. Both statements can be true at the same time, and neither is a reply to the other. Naming how each benefit is delivered is what makes that mismatch visible instead of leaving it as mutual frustration.
 :::
-
----
 
 ## 4.7 The SCALE footprint {#sec-scale}
 
