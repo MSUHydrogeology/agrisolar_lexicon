@@ -72,7 +72,7 @@ under **S**.
 
 **End-of-life responsibility** — a design pressure: minimize the residual footprint and preserve the option to return the ground to its prior use — [§7](7-terminology.qmd#term-end-of-life) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Delivery by preservation** — the mode in which nothing moves and the benefit is ground elsewhere that stayed as it was; what land sparing delivers, and it rests on a counterfactual — [§7](7-terminology.qmd#term-displaced-benefit) · [4.6 Where each function applies](4-restorative-functions.qmd#sec-benefit-range)
+**Delivery by preservation** — the mode in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [§7](7-terminology.qmd#term-displaced-benefit) · [4.6 Where each function applies](4-restorative-functions.qmd#sec-benefit-range)
 
 **Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [§7](7-terminology.qmd#term-design-import) · [6.3 What follows](6-regionality.qmd#sec-rg-consequences)
 
