@@ -3,7 +3,7 @@
 Every defined or coined term in the lexicon, ordered A–Z. This is the
 alphabetical view of the [Terminology](7-terminology.qmd) chapter
 (§7), which holds the same set grouped by subject — use this one when you
-know the word, that one when you want the neighbourhood it belongs to.
+know the word, that one when you want the neighborhood it belongs to.
 
 Each entry gives a short gloss and two links: **§7** for the definition, and,
 where a chapter develops the term, the section that does so. The built-in
@@ -44,6 +44,8 @@ under **S**.
 
 **Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [§7](7-terminology.qmd#term-bare-conversion) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
+**Benefit range** — where a function's benefit actually lands, which is not always the ground that produced it: on-site, adjacent, downstream, or regional; distinct from the influence zone, which is how far the array physically reaches — [§7](7-terminology.qmd#term-benefit-range) · [4. Where the benefit lands](4-restorative-functions.qmd#sec-benefit-range)
+
 **Biodiversity & habitat function** — restorative function: habitat built from the ground layer up, with mowing and grazing *timing* as decisive as the seed mix; reachable across S2–S5 — [§7](7-terminology.qmd#term-fn-biodiversity) · [4.3 Biodiversity & habitat function](4-restorative-functions.qmd#sec-fn-biodiversity)
 
 ## C
@@ -53,6 +55,8 @@ under **S**.
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [§7](7-terminology.qmd#term-carrying-capacity) · [1.2 Worked example: grazing](1-the-scale-transect.qmd#sec-grazing)
 
 **Coexistence (S3)** — *see* S3 — Coexistence; the center of the sharing–sparing axis, neither sharing nor sparing — [§7](7-terminology.qmd#term-s3) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
+
+**Co-benefit** — the field's usual word for a restorative function; recorded but not adopted, because its grammar demotes what it names to something arriving alongside the real objective — [§7](7-terminology.qmd#term-cobenefit)
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [§7](7-terminology.qmd#term-colocation-integration)
 
@@ -75,6 +79,8 @@ under **S**.
 **Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [§7](7-terminology.qmd#term-design-pressures) · [3. Design Pressures](3-design-pressures.qmd)
 
 **Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [§7](7-terminology.qmd#term-diffuse-fraction) · [6.1 Six factors](6-regionality.qmd#sec-rg-resource)
+
+**Displaced benefit** — the benefit of land sparing, which is the ground *not* taken; it has no location to measure and rests on a counterfactual — [§7](7-terminology.qmd#term-displaced-benefit) · [4. Where the benefit lands](4-restorative-functions.qmd#sec-benefit-range)
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [§7](7-terminology.qmd#term-dual-use)
 
@@ -174,7 +180,7 @@ under **S**.
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [§7](7-terminology.qmd#term-screening)
 
-**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centred on S3 — [§7](7-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
+**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [§7](7-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 
 **Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [§7](7-terminology.qmd#term-siting-latitude) · [1.3 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 

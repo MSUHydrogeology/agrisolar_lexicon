@@ -170,6 +170,18 @@ The array's reshaping of the near-surface and below-panel energy balance: shade 
 
 The one socioeconomic function: the economic prosperity, livability, and health and equity a project builds for its host, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-social-license) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§4.5](4-restorative-functions.qmd#sec-fn-community).
 
+#### Benefit range {#term-benefit-range}
+
+Where a function's benefit actually lands, which is not always the ground that produced it. Four ranges cover the biophysical functions: **on-site**, where provider and beneficiary are the same ground; **adjacent**, at roughly the distance a pollinator forages or a viewshed carries; **downstream**, carried by flow, so direction matters more than distance; and **regional**, across a basin, aquifer, or habitat network. Distinct from the [influence zone](#term-footprint-influence), which is how far the array physically reaches: the two come apart in both directions. The [community and economic function](#term-fn-community) has no range at all, travelling by tenure, contract, and jurisdiction instead. Follows the providing-area and benefiting-area distinction in ecosystem-service research [@syrbe2012; @costanza2008]. See [§4](4-restorative-functions.qmd#sec-benefit-range).
+
+#### Displaced benefit {#term-displaced-benefit}
+
+The benefit of [land sparing](#term-s4), which is the ground *not* taken. It may sit in the next county or exist only as a development that did not happen, so it has no location to measure and rests on a counterfactual. Real, and unusually hard to verify, which is why sparing claims earn scrutiny (§2.2). See [§4](4-restorative-functions.qmd#sec-benefit-range).
+
+#### Co-benefit {#term-cobenefit}
+
+The field's usual word for what this lexicon calls a [restorative function](#term-restorative-function). Recorded here because it is what practitioners will say, and used here only to describe how others frame the same ground. The term carries acknowledged definitional ambivalence, and its grammar demotes what it names, since a *co-*benefit arrives alongside the real objective [@mayrhofer2016]. This document argues these capacities are objectives, so it does not adopt the word. *Cf.* **techno-ecological synergy**, the literature's own attempt at a framing that does not subordinate them [@hernandez2019].
+
 #### SCALE footprint {#term-scale-footprint}
 
 A whole-project reading across four domains — Sustainable Communities, Agriculture, Landscapes, and Energy, each running from regeneration to depletion. Evaluative by design, but carrying direction rather than a pass mark. See [§4](4-restorative-functions.qmd#sec-scale).
