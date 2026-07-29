@@ -80,7 +80,7 @@ The center is where most projects sit: ordinary ground becomes a power plant. A 
 
 Scale and position describe a site; eight [design pressures](chapters/3-design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
 
-![Nine pressures bearing on one site at once, arranged by the direction they push. The restorative half is on the right, the half that pushes away is on the left, and the three whose direction the site, the buyer, or the county decides sit in the band between them. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](figures/fig_design_pressures.svg)
+![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the grey wedges between them, so the two coloured groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](figures/fig_design_pressures.svg)
 
 The resulting [restorative functions](chapters/4-restorative-functions.qmd) are a palette, not a scorecard. Recurring resolutions become [archetypes](chapters/5-archetypes.qmd), from solar prairie strips to barnyard shelter, and can be compared in the same language.
 

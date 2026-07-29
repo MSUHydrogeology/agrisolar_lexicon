@@ -1,18 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="500" viewBox="0 0 880 500" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img">
 <title>How each restorative function is delivered</title>
-<desc>Benefit ranges drawn as distance from the array: on-site, adjacent, and regional and global as concentric bands, with downstream shown as a directional flow leaving the site and visited as movement of people toward it. Two cases sit off the distance scale entirely: the displaced benefit of land sparing, which has no point of use, and the community and economic function, which travels by tenure, contract, and jurisdiction.</desc>
+<desc>Delivery by proximity is drawn as concentric bands of distance from the array: on-site, adjacent, and regional and global, with downstream following the water rather than the radius and visits running inward. Delivery by preservation is drawn as a nearby parcel that was never built, since it is proximate but counterfactual. Delivery by channel sits apart, moving along tenure, contract, and jurisdiction rather than any distance.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.bt{font-size:13px;font-weight:600;fill:#2c2c2a}
-.bs{font-size:10.5px;fill:#5f5e5a}
-.it{font-size:9.5px;font-style:italic;fill:#8a8880}
+.bt{font-size:12.5px;font-weight:600;fill:#2c2c2a}
+.it{font-size:10px;font-style:italic;fill:#8a8880}
 .eyebrow{font-size:10px;font-weight:600;fill:#8a8880;letter-spacing:0.06em}
 .pt{font-size:11.5px;font-weight:600}
 .b1{fill:#eae7dd;stroke:#cfc8b8;stroke-width:1}
 .b2{fill:#f4f2eb;stroke:#cfc8b8;stroke-width:1}
 .b3{fill:#faf9f5;stroke:#cfc8b8;stroke-width:1}
-.panel{fill:none;stroke:#b4b2a9;stroke-width:1}
-.on{fill:#8a5a2b}.adj{fill:#4e8a3f}.reg{fill:#2f8f9a}.dwn{fill:#2f77bf}.vis{fill:#c8871f}
+.on{fill:#8a5a2b}.adj{fill:#4e8a3f}.reg{fill:#2f8f9a}.dwn{fill:#2f77bf}.vis{fill:#c8871f}.pre{fill:#6b6a63}
 </style>
 
 <defs>
@@ -24,69 +22,55 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 </marker>
 </defs>
 
-<!-- ===== concentric bands ===== -->
-<circle class="b3" cx="300" cy="250" r="200"/>
-<circle class="b2" cx="300" cy="250" r="120"/>
-<circle class="b1" cx="300" cy="250" r="52"/>
+<!-- ===== proximity: concentric bands ===== -->
+<circle class="b3" cx="300" cy="222" r="182"/>
+<circle class="b2" cx="300" cy="222" r="112"/>
+<circle class="b1" cx="300" cy="222" r="50"/>
 
-<!-- downstream: a directional flow that leaves the site entirely -->
-<path d="M325 275 Q432 352 548 434" stroke="#2f77bf" stroke-width="13" stroke-opacity="0.18" fill="none" stroke-linecap="round"/>
-<path d="M325 275 Q432 352 540 428" stroke="#2f77bf" stroke-width="1.8" fill="none" marker-end="url(#flow)"/>
-<text class="pt dwn" x="447" y="326">downstream</text>
-<text class="it" x="447" y="340">carried by flow, so direction</text>
-<text class="it" x="447" y="352">matters more than distance</text>
+<!-- downstream -->
+<path d="M322 244 Q418 316 520 396" stroke="#2f77bf" stroke-width="12" stroke-opacity="0.18" fill="none" stroke-linecap="round"/>
+<path d="M322 244 Q418 316 512 392" stroke="#2f77bf" stroke-width="1.8" fill="none" marker-end="url(#flow)"/>
+<text class="pt dwn" x="436" y="316">downstream</text>
 
-<!-- visited: the benefit stays put and people come to it -->
-<line x1="26" y1="236" x2="90" y2="236" stroke="#c8871f" stroke-width="1.6" marker-end="url(#visit)"/>
-<line x1="26" y1="264" x2="90" y2="264" stroke="#c8871f" stroke-width="1.6" marker-end="url(#visit)"/>
-<text class="pt vis" x="24" y="214">visited</text>
-<text class="it" x="24" y="292">the benefit stays put</text>
-<text class="it" x="24" y="304">and people travel to it</text>
+<!-- visited: movement inward -->
+<line x1="26" y1="212" x2="86" y2="212" stroke="#c8871f" stroke-width="1.6" marker-end="url(#visit)"/>
+<line x1="26" y1="236" x2="86" y2="236" stroke="#c8871f" stroke-width="1.6" marker-end="url(#visit)"/>
+<text class="pt vis" x="24" y="196">visited</text>
+
+<!-- preservation: a nearby parcel that was never built -->
+<rect x="376" y="96" width="76" height="50" rx="3" fill="none" stroke="#6b6a63" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text class="pt pre" x="414" y="82" text-anchor="middle">preservation</text>
+<text class="it" x="414" y="164" text-anchor="middle">the parcel not built</text>
 
 <!-- the array -->
-<rect x="272" y="234" width="56" height="32" rx="3" fill="#ffffff" stroke="#5f5e5a" stroke-width="1.2"/>
-<line x1="281" y1="242" x2="281" y2="258" stroke="#8a8880" stroke-width="1"/>
-<line x1="293" y1="242" x2="293" y2="258" stroke="#8a8880" stroke-width="1"/>
-<line x1="305" y1="242" x2="305" y2="258" stroke="#8a8880" stroke-width="1"/>
-<line x1="317" y1="242" x2="317" y2="258" stroke="#8a8880" stroke-width="1"/>
+<rect x="274" y="207" width="52" height="30" rx="3" fill="#ffffff" stroke="#5f5e5a" stroke-width="1.2"/>
+<line x1="283" y1="214" x2="283" y2="230" stroke="#8a8880" stroke-width="1"/>
+<line x1="294" y1="214" x2="294" y2="230" stroke="#8a8880" stroke-width="1"/>
+<line x1="305" y1="214" x2="305" y2="230" stroke="#8a8880" stroke-width="1"/>
+<line x1="316" y1="214" x2="316" y2="230" stroke="#8a8880" stroke-width="1"/>
 
-<!-- band labels, stacked up the vertical axis -->
-<text class="pt reg" x="300" y="78"  text-anchor="middle">regional and global</text>
-<text class="it"     x="300" y="92"  text-anchor="middle">basin · aquifer · habitat network · atmosphere</text>
+<!-- band labels -->
+<text class="pt reg" x="300" y="70"  text-anchor="middle">regional and global</text>
+<text class="pt adj" x="300" y="134" text-anchor="middle">adjacent</text>
+<text class="pt on"  x="300" y="192" text-anchor="middle">on-site</text>
 
-<text class="pt adj" x="300" y="152" text-anchor="middle">adjacent</text>
-<text class="it"     x="300" y="166" text-anchor="middle">pollination outward · viewshed inward</text>
+<text class="eyebrow" x="300" y="428" text-anchor="middle">DELIVERED BY PROXIMITY</text>
 
-<text class="pt on"  x="300" y="214" text-anchor="middle">on-site</text>
-<text class="it"     x="300" y="228" text-anchor="middle">soil · moisture · microclimate</text>
+<!-- ===== channel: no geography ===== -->
+<line x1="606" y1="40" x2="606" y2="400" stroke="#cfc8b8" stroke-width="1" stroke-dasharray="4 4"/>
+<text class="eyebrow" x="632" y="80">NO GEOGRAPHY AT ALL</text>
 
-<text class="eyebrow" x="300" y="482" text-anchor="middle">DELIVERED BY PROXIMITY</text>
+<text class="bt" x="632" y="118">Delivered by channel</text>
+<text class="it" x="632" y="138">the community and economic function</text>
 
-<!-- ===== off the distance scale ===== -->
-<line x1="590" y1="40" x2="590" y2="460" stroke="#cfc8b8" stroke-width="1" stroke-dasharray="4 4"/>
-<text class="eyebrow" x="610" y="58">NOT A DISTANCE AT ALL</text>
+<line x1="632" y1="176" x2="700" y2="176" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="712" y="179">the lease</text>
+<line x1="632" y1="206" x2="700" y2="206" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="712" y="209">the tax roll</text>
+<line x1="632" y1="236" x2="700" y2="236" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="712" y="239">the subscription</text>
+<line x1="632" y1="266" x2="700" y2="266" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="712" y="269">the payroll</text>
 
-<rect class="panel" x="610" y="80" width="256" height="122" rx="7" stroke-dasharray="5 4"/>
-<text class="bt" x="630" y="108">Delivered by preservation</text>
-<text class="bs" x="630" y="128">Land sparing delivers nothing that</text>
-<text class="bs" x="630" y="144">moves. The benefit is ground elsewhere</text>
-<text class="bs" x="630" y="160">that stayed as it was, perhaps only a</text>
-<text class="bs" x="630" y="176">development that did not happen.</text>
-<text class="it" x="630" y="192">No point of use to measure.</text>
-
-<rect class="panel" x="610" y="230" width="256" height="164" rx="7" stroke="#c8871f"/>
-<text class="bt" x="630" y="258">Delivered by channel</text>
-<text class="bs" x="630" y="278">The community and economic function</text>
-<text class="bs" x="630" y="294">moves along tenure, contract, and</text>
-<text class="bs" x="630" y="310">jurisdiction. A route, not a radius.</text>
-<line x1="630" y1="330" x2="706" y2="330" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
-<text class="it" x="716" y="333">the lease</text>
-<line x1="630" y1="352" x2="706" y2="352" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
-<text class="it" x="716" y="355">the tax roll</text>
-<line x1="630" y1="374" x2="706" y2="374" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
-<text class="it" x="716" y="377">the subscription</text>
-
-<text class="it" x="610" y="424">Asking how far either carries is the wrong question.</text>
-<text class="it" x="610" y="438">For the first, ask whether the alternative was real.</text>
-<text class="it" x="610" y="452">For the second, ask along which channel, and to whom.</text>
+<text class="it" x="632" y="316">A route, not a radius.</text>
 </svg>

@@ -22,7 +22,7 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 
 Read the third column as the direction a pressure pushes, not as a verdict on anyone advocating it. Every one of the nine has someone arguing for it in good faith, and a site with no build cost does not get built.
 
-![Nine pressures bearing on one site at once, arranged by the direction they push. The restorative half is on the right, the half that pushes away is on the left, and the three whose direction the site, the buyer, or the county decides sit in the band between them. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-pressures}
+![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the grey wedges between them, so the two coloured groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
