@@ -55,7 +55,9 @@ This is why the document prescribes an [aim rather than dimensions](../index.qmd
 
 ### Evidence status {#sec-rg-evidence}
 
+::: {.evidence}
 The quantitative figures in this chapter are *trace before citing*: they come from secondary and program sources and have not been checked against primary records. The regional argument does not depend on any one figure.
+:::
 
 ### Terms
 

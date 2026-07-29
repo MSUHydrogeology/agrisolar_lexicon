@@ -157,13 +157,67 @@
 
 // Worked readings of a site — the design language used on a real project.
 // Neutral border so they do not read as another call to action.
+// Neutral stone rather than green/blue/ochre: a worked case is the one box that
+// makes no claim about status. It still needs a fill and a rule dark enough to
+// read as deliberate — an unfilled block sitting next to .how-to and .evidence
+// looks like stray indentation, not a peer.
 .example {
-  border-left: 4px solid #d3d1c7;
-  padding: 0.2rem 0 0.2rem 1.1rem;
+  background-color: #f6f5f1;
+  border-left: 4px solid #a9a698;
+  border-radius: 3px;
+  padding: 0.85rem 1.1rem;
   margin: 1rem 0 1.25rem;
 }
 .example > p:first-child { margin-top: 0; }
 .example > p:last-child { margin-bottom: 0; }
+
+// ===== Evidence status (§4.1–4.5, §7) =====
+// The document's most repeated structural element, so it is deliberately quiet:
+// a reader meets it six times and it should read as furniture, not as an alarm.
+// Blue-grey rather than green (scale) or ochre (caution) — it is neither a
+// prescription nor a warning, it is the honest state of what is known.
+.evidence {
+  background-color: #f4f6f8;
+  border-left: 4px solid #8fa9bd;
+  border-radius: 3px;
+  padding: 0.7rem 1.1rem;
+  margin: 1rem 0 1.25rem;
+  font-size: 0.92rem;
+}
+.evidence > p:first-child { margin-top: 0; }
+.evidence > p:last-child { margin-bottom: 0; }
+
+// ===== Cautions =====
+// Contested or misreported material: a figure that circulates wrong, a dispute
+// the document holds open rather than settles. Ochre, because it is the one
+// place the document tells the reader to slow down.
+.caution {
+  background-color: #faf6ee;
+  border-left: 4px solid #b5843a;
+  border-radius: 3px;
+  padding: 0.7rem 1.1rem;
+  margin: 1rem 0 1.25rem;
+  font-size: 0.92rem;
+}
+.caution > p:first-child { margin-top: 0; }
+.caution > p:last-child { margin-bottom: 0; }
+
+// ===== Procedures the reader is meant to apply =====
+// Not description: instruction. Placing your own site on the axis, naming who
+// actually receives a benefit. Zone-green, because these are the moments the
+// vocabulary is put to work.
+.how-to {
+  background-color: #f6f9f1;
+  border-left: 4px solid #639922;
+  border-radius: 3px;
+  padding: 0.85rem 1.1rem;
+  margin: 1rem 0 1.5rem;
+}
+.how-to > p:first-child { margin-top: 0; }
+.how-to > p:last-child,
+.how-to > ol:last-child,
+.how-to > ul:last-child { margin-bottom: 0; }
+.how-to li { margin-bottom: 0.35rem; }
 
 // "Where to start" routes — one paragraph per route, each opening in bold.
 .routes {
@@ -180,8 +234,11 @@
 @media (prefers-color-scheme: dark) {
   .at-a-glance { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
   .draft-note { background-color: rgba(255, 255, 255, 0.04); border-left-color: rgba(255, 255, 255, 0.2); }
-  .example { border-left-color: rgba(255, 255, 255, 0.25); }
+  .example { background-color: rgba(255, 255, 255, 0.04); border-left-color: rgba(255, 255, 255, 0.3); }
   .routes { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
+  .evidence { background-color: rgba(255, 255, 255, 0.04); border-left-color: #8fa9bd; }
+  .caution { background-color: rgba(255, 255, 255, 0.05); border-left-color: #c99a4e; }
+  .how-to { background-color: rgba(255, 255, 255, 0.04); border-left-color: #97c459; }
   .region-table tbody td:first-child { background-color: rgba(255, 255, 255, 0.04); }
   // The position bands keep their light tints in dark mode, exactly as the zone
   // bands do, so their text stays dark — see the explicit color set above.

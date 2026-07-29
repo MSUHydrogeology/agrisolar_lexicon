@@ -30,7 +30,9 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 
 **Where on the map.** Broadly available, because water moves through every site, but most *legible* where the ground layer is designed for it (S2–S5: grazing, prairie/buffer, restored marginal and retired ground) and least so under bare-ground or gravel management. Solar prairie strips are its characteristic siting-led case; managed perennial cover is its characteristic case at scale.
 
+::: {.evidence}
 **Evidence status.** The dryland microclimate-to-soil-moisture link is **verified** [@barrongafford2019; @sturchio2025; @pinos2026], though effect size is bounded at some sites [@kannenberg2023]. Evidence for infiltration, recharge, and stormwater effects at depth remains thinner [@yavari2022]. Perennial cover has stronger evidence for nutrient-load reduction than for whole water-balance change: it cuts nutrient runoff in cropped landscapes by as much as 85%, and the avoided nitrogen and phosphorus loads from retiring corn-ethanol ground are quantified in [§2.1](2-the-sharingsparing-axis.qmd#sec-positions) [@sturchio2025croplands]. Treat recharge claims as a field-measurement question rather than a presumed outcome.
+:::
 
 ---
 
@@ -42,7 +44,9 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 
 **Where on the map.** Most reachable under perennial and grazed cover and native-grassland restoration (S2–S3), where the ground layer is designed for continuity, and on restored marginal or retired ground (S4–S5) recovering from a degraded baseline. Least available under annual tillage inside full-sharing cropping (S1) or wherever disturbance is frequent, since each reset spends the accumulated carbon. Regenerative solar grazing and solar prairie strips are its characteristic cases; the marginal-land-solar case depends on how degraded the starting soil was.
 
+::: {.evidence}
 **Evidence status.** Early soil-carbon and surface gains are **verified** for ecovoltaic grassland restoration [@krasner2025], but construction can produce an initial loss and long-run accumulation remains thinly measured [@carvalho2024]. Baseline land cover sets the sign: perennialization can improve a tilled row-crop baseline, while conversion of existing grassland can create a soil-carbon debt [@merheb2025].
+:::
 
 ### 4.3 Biodiversity & habitat function {#sec-fn-biodiversity}
 
@@ -54,7 +58,9 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 
 **Where on the map.** Obtainable from the productive middle right through the removal end (S2–S5), via wildflower interrows over grazing (S2), dedicated habitat plantings on converted ground (S3), and restored or retired parcels (S4–S5), which is exactly why it reads as a function reachable at many positions rather than one. Least available under bare-ground, gravel, or intensively disturbed understories. Solar prairie strips and regenerative solar grazing are its characteristic cases.
 
-**Evidence status.** **Verified** for grassland-bird gains at solar sites [@walston2025], for insect-community response to habitat establishment [@walston2024], and for bee-species diversity in pollinator-planted arrays [@bruningasocolar2025]. Pollinator-friendly solar scorecards codify these choices as scored attributes, though what each program credits differs [@epri2021]. But the finding is **context-dependent**, and the honest reading says so: the marginal habitat benefit is greatest where the surrounding landscape is already sparse in semi-natural habitat, and correspondingly smaller where semi-natural habitat is abundant. It is a real gain rather than a uniform good, and its size is set by what the site would otherwise have been rather than by the planting alone.
+::: {.evidence}
+**Evidence status.** **Verified** for grassland-bird gains [@walston2025], insect-community response [@walston2024], and bee-species diversity in pollinator-planted arrays [@bruningasocolar2025]; scorecards codify the choices, though what each credits differs [@epri2021]. The gain is **context-dependent**: it is largest where the surrounding landscape is already sparse in semi-natural habitat and smaller where that habitat is abundant. Its size is set by what the site would otherwise have been, not by the planting alone.
+:::
 
 ### 4.4 Microclimate & thermal–water buffering function {#sec-fn-microclimate}
 
@@ -64,7 +70,9 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 
 **Where on the map.** Pronounced in hot, water-limited settings and for shade-tolerant ground layers, where lowered temperature and vapor-pressure deficit relieve real stress; muted to adverse in cool or humid settings and for light-demanding crops, where the shade subtracts more than it buffers. It is itself scale- and geometry-dependent, the [design tipping-point noted in §1.1](1-the-scale-transect.qmd#sec-siting-latitude), so its availability is set by the array's form and the site's climate together, not by position on the sharing–sparing axis alone.
 
-**Evidence status.** **Verified** for the underlying principles and for dryland effects: agrivoltaic and ecovoltaic microclimates redistribute radiation and buffer temperature and moisture [@sturchio2023; @sturchio2025], and soil-moisture and thermal moderation are documented in desert array interspaces [@pinos2026], with the foundational dryland shade-and-moisture link established for arid agrivoltaics [@barrongafford2019]. The buffering also raises water-use efficiency under shaded pasture [@adeh2018], and modeling reproduces the same soil-moisture response in arid Northwest China [@wu2022]. The crop-facing magnitudes, meaning how much the buffering helps or hurts a given crop, are carried by the shade-tolerance sources in [§5](5-terminology.qmd#term-agrivoltaics) and remain **climate- and crop-conditional**. The buffering is also not uniform across climates in the way the dryland framing suggests. Compiling reported agrivoltaic sites, @merheb2025 find the soil-moisture gain under panels rising with annual precipitation rather than falling with it, while the module-cooling effect strengthens as ambient temperature rises, reaching around 10 °C over vegetated ground in hot climates. In short: the physics is verified and the dryland benefit well-evidenced, but in temperate and humid settings the effect's sign and size depend on a geometry-and-climate match and stay conditional.
+::: {.evidence}
+**Evidence status.** The physics is **verified**, and so is the dryland benefit: agrivoltaic and ecovoltaic microclimates redistribute radiation and buffer temperature and moisture [@sturchio2023; @sturchio2025; @pinos2026; @barrongafford2019], water-use efficiency rises under shaded pasture [@adeh2018], and modeling reproduces the soil-moisture response [@wu2022]. The buffering is not uniform in the way the dryland framing implies: across reported sites the soil-moisture gain rises with annual precipitation rather than falling with it, and module cooling strengthens with ambient temperature, reaching about 10 °C over vegetated ground in hot climates [@merheb2025]. Crop-facing magnitudes stay **climate- and crop-conditional**.
+:::
 
 ---
 
@@ -76,7 +84,8 @@ The one function that is not about the land, and the [SCALE](#sec-scale) **Commu
 
 Two figures give the lease argument its size. Landowners leasing cropland to solar earn three to four times more per acre than most crops return at current market prices [@sturchio2025croplands], and where production continues alongside the array the reported gains from the same ground run higher still, roughly 15 times for a vineyard and 10 to 22 times for rabbit pasture [@merheb2025]. Even where co-location does not improve yields at all, the systems can stay profitable [@merheb2025]. The consequence runs past the balance sheet. Federal biofuel policy has made conservation payments the less profitable option on much of the same acreage, so solar income can be the thing that makes a conservation practice affordable that was not affordable before [@sturchio2025croplands]. That is the clearest published statement of the mechanism this lexicon calls [coexistence](2-the-sharingsparing-axis.qmd#sec-positions): restoration paid for by the enterprise rather than by the field.
 
-**Whose benefit — the actors do not move together.** "The community" is not one party, and a benefit to one can be a loss to another, so this function is only legible once the recipients are named separately:
+::: {.how-to}
+**Name the recipients separately.** "The community" is not one party, and a benefit to one can be a loss to another, so this function is only legible once the actors are pulled apart:
 
 - **Landowner** — lease and royalty income; the party a land payment reaches first, and often the only one it reaches.
 - **Tenant farmer** — frequently the party who *loses*. Nearly 40% of agricultural land in California's Central Valley is rented or leased, and the leading analysis of agrisolar economics there assumes returns reach landowning or partial-owning farmers, naming that assumption as one of its own limitations [@stid2025]. A conversion that sustains an owner can end the operation of the person actually farming the ground. This is the sharpest misalignment in the set, and the one a lease-income argument most often hides.
@@ -88,12 +97,15 @@ Two figures give the lease argument its size. Landowners leasing cropland to sol
 - **Subscribers and ratepayers** — community-solar savings, which may accrue well outside the host community entirely.
 
 A project can score well on one of these and badly on the rest. Naming them separately is what keeps "community benefit" from collapsing into "somebody was paid."
+:::
 
 **Design dependencies.** The institutional levers are primary: ownership and control structure, offtake structure, and the [community-benefit](5-terminology.qmd#term-community-benefit) instruments (CBA / HCA, PILOT, good-neighbor payments, community-solar subscription, local hiring, co-ownership). [Screening](5-terminology.qmd#term-screening) and edge treatment carry the livability sub-capacity on the visual side. Unlike the biophysical functions this one is not much bounded by scale zone or sharing position, since it is reachable across the transect, but its *character* shifts with scale: a farmstead array serves one household's resilience, a utility array a jurisdiction's tax base.
 
 **Where on the map.** Reachable at every position, because every project has a host, but its dominant currency changes along the transect. At the farmstead and small-parcel end it is private economic resilience; at utility scale it is fiscal base, local hiring, and subscriber access. It is most at risk where a project is developer-owned, absentee, and offers benefit without engagement; most fully realized under locally-owned or co-ownership models with early, genuine participation.
 
-**Evidence status.** The design principle is **verified** in the ecovoltaic frameworks themselves: @tolgyesi2023 make stakeholder engagement embedded in a viable business model one of five co-equal design pillars, treating community and economic viability as a design question rather than an afterthought. The burden side is better measured: interviews on who gains and who bears the costs [@bessette2024], and property-value effects near arrays across six US states [@elmallah2023]. The benefit mechanisms of lease income, PILOT and tax revenue, community-solar savings, and local jobs are real and documented, but largely in **gray literature** (developer disclosures, NREL economic-impact tooling, community-benefit guidance) rather than a settled peer-reviewed synthesis; the grazing-economics and community-benefit sources are recorded as *trace before citing* in the [Sources](sources.qmd). In short: the function is real and widely practiced, its instruments well known, but which structures deliver durable, fairly-shared benefit is still thinly evidenced.
+::: {.evidence}
+**Evidence status.** The design principle is **verified** in the ecovoltaic frameworks themselves, where @tolgyesi2023 make a viable business model with embedded stakeholder engagement one of five co-equal pillars. The burden side is better measured than the benefit side: who gains and who bears the costs [@bessette2024], and property-value effects across six US states [@elmallah2023]. The benefit mechanisms are real and documented but sit largely in **gray literature** rather than peer-reviewed synthesis. The function is widely practiced and its instruments well known; which structures deliver durable, fairly-shared benefit is still thinly evidenced.
+:::
 
 ---
 

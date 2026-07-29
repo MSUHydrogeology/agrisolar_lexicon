@@ -242,7 +242,9 @@ Grazing under and between panels, read here as [functional sharing](2-the-sharin
 
 Solar development that co-prioritizes ecosystem function with generation through siting, layout, ground-layer design, operations, and a viable business model [@sturchio2023; @tolgyesi2023]. This lexicon treats its ecological ground layer as a [restorative function](4-restorative-functions.qmd), not an axis position. The framework favors repair of disturbed ground over conversion of intact native ecosystems [@sturchio2025croplands].
 
-> **The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [sharing–sparing axis](2-the-sharingsparing-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural continuity and restorative ambition (§3.2) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
+::: {.caution}
+**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [sharing–sparing axis](2-the-sharingsparing-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural continuity and restorative ambition (§3.2) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
+:::
 
 **Source:** @sturchio2023 — [Sources](sources.qmd).
 

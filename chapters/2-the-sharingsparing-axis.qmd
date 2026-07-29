@@ -18,16 +18,24 @@ Most public argument about solar on farmland is an argument about this axis, con
 
 Coexistence is the center of the axis and where most projects sit; direct crop production under panels remains a small share of US installations [@stid2022; @macknick2022]. **S3 is where restoration is socioeconomic before it is biophysical**: the lease sustains the farm enterprise although production stops in the footprint. Where rent reaches a non-farming owner and the operation ends, the site is **bare conversion**, the non-restorative baseline. The distinction must be made for the landowner and tenant separately (§4.5) [@stid2025].
 
-S4 and S5 both end production but differ in where benefit lands. S4 moves solar onto ground already idle or marginal, sparing land not taken. S5 retires ground carrying a measurable off-site burden, acting on the ground taken and its downstream effects. Prairie plantings on drainage-impaired crop ground illustrate the distinction [@schulte2017]. Corn-ethanol land is the large American S5 case, and it reverses the usual objection. About 12 million hectares of US cropland, an area the size of New York State, already grows energy rather than food. One hectare of utility-scale array matches the energy of roughly 31 hectares of corn grown for ethanol, so converting 3.2% of that acreage would replace all of its energy and take utility-scale solar from 3.9% to 13% of US supply, while retiring the nutrient-exporting fraction under perennial vegetation would remove an estimated 54.8 million kg of nitrogen and 26.3 million kg of phosphorus from annual application [@sturchio2025croplands]. The substitution is imperfect, because electrons and a fuel additive serve different end uses, but the land arithmetic is not close: this is not food land lost to energy, it is energy land used about thirty times better.
+S4 and S5 both end production but differ in where benefit lands. S4 moves solar onto ground already idle or marginal, sparing land not taken. S5 retires ground carrying a measurable off-site burden, acting on the ground taken and its downstream effects. Prairie plantings on drainage-impaired crop ground illustrate the distinction [@schulte2017].
+
+::: {.example}
+**Corn-ethanol land: the large American S5 case.** It reverses the usual objection. About 12 million hectares of US cropland, an area the size of New York State, already grows energy rather than food. One hectare of utility-scale array matches the energy of roughly 31 hectares of corn grown for ethanol, so converting 3.2% of that acreage would replace all of its energy and take utility-scale solar from 3.9% to 13% of US supply. Retiring the nutrient-exporting fraction under perennial vegetation would remove an estimated 54.8 million kg of nitrogen and 26.3 million kg of phosphorus from annual application [@sturchio2025croplands].
+
+The substitution is imperfect, because electrons and a fuel additive serve different end uses. But the land arithmetic is not close: this is not food land lost to energy, it is energy land used about thirty times better.
+:::
 
 A position records the ground fact, not project quality. Pollinator habitat, prairie, and native grassland are [restorative functions](4-restorative-functions.qmd), not positions: the same planting can occur at S2 through S5. The axis says what happened to production; §4 says what the land was made to do.
 
-The positions are exclusive, and two questions in order settle which one applies.
+::: {.how-to}
+**Placing a site.** The positions are exclusive, and two questions in order settle which one applies.
 
 1. **Does agricultural production continue within the footprint?** If it does, the site is **S1** (production in the same ground) or **S2** (a productive but subordinate ground layer), whatever the ground used to be. A flood-prone corner that still carries the farm's sheep is S2, not S4.
 2. **If production has stopped, what was the ground beforehand?** Ordinary productive land gives **S3**, ground already idle or marginal gives **S4**, and ground carrying a measurable off-site burden gives **S5**. The same flood-prone corner, left to naturalize under the panels, is S4.
 
 S3 asks one further question: does the farm enterprise survive the conversion? If not, it is bare conversion.
+:::
 
 Sparing remains a landscape claim. S4 benefits only if the land left untaken was the genuine alternative and the array did not move onto something else worth keeping. Siting New York's 2050 build to preserve farmland spares roughly 80% of the farmland a least-cost build would take and opens more than 41,000 hectares of forest doing it, while the least-cost run itself concentrates on pasture and hay, nearly half of which overlaps grassland bird habitat [@gallaher2026]. The array goes somewhere, and a position read at the site alone will not say where. S4 includes unlike sites, from remnants to brownfields, whose contamination and permitting constraints still belong in the site description. Building-mounted arrays are [A0](1-the-scale-transect.qmd#sec-zones) and hold no position.
 

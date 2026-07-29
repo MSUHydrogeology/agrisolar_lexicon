@@ -64,13 +64,13 @@ production ending on ground that was doing damage off-site.
 | Position | What it records |
 |---|---|
 | **S1 — Full sharing** | Production continues in the same ground, inside the footprint |
-| **S2 — Functional sharing** | The ground layer is productive but subordinate — grazing, forage |
+| **S2 — Functional sharing** | The ground layer is productive but subordinate: grazing, forage |
 | **S3 — Coexistence** | *Neither.* Production stops on that ground, and the revenue sustains the farm enterprise that holds it |
 | **S4 — Idled-land sparing** | The array takes ground already idle or marginal, sparing land that is not |
 | **S5 — Impaired-land retirement** | Production ends on ground that was carrying a burden off-site |
 :::
 
-The center is the honest position and where most projects sit: ordinary ground becomes a power plant. A lease can still sustain a farm enterprise, but a position records what happened to the ground, not the project's merit.
+The center is where most projects sit: ordinary ground becomes a power plant. A lease can still sustain a farm enterprise, but a position records what happened to the ground, not the project's merit.
 
 ### Design pressures
 
@@ -113,6 +113,6 @@ not.
 
 This is a working document, and it improves by being disagreed with. Corrections,
 counterexamples, and proposed terms are welcome as issues or pull requests on
-[GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon). An archetype that recurs in
-your region and is missing here, a term that lands badly with the people who have to use it, or
-a citation you can trace further than we have.
+[GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon). Especially useful: an archetype
+that recurs in your region and is missing here, a term that lands badly with the people who have
+to use it, or a citation you can trace further than we have.

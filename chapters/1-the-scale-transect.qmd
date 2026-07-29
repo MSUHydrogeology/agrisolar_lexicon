@@ -52,7 +52,9 @@ Follow sheep grazing up the transect and one job becomes three. Sheep generally 
 
 Establishment is the cost that surprises people. Per-activity costs at native and pollinator-friendly covers run *below* turfgrass, but total vegetation O&M came out slightly *higher*, because the first three to five years take more separate operations [@mccall2023]. Restorative ground cover is more expensive to establish and competitive afterward, so anyone arguing for it on cost savings should expect to meet an operator who has seen the establishment invoices.
 
-> *Citation caution.* These figures are widely misquoted with the activity labels transposed, reporting the mowing cost incurred *at* grazing sites as the cost *of* grazing. @stewart2025 give McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr. Go to @mccall2023 directly.
+::: {.caution}
+**Citation caution.** These figures are widely misquoted with the activity labels transposed, reporting the mowing cost incurred *at* grazing sites as the cost *of* grazing. @stewart2025 give McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr. Go to @mccall2023 directly.
+:::
 
 “Solar grazing” without a zone can mean three different practices.
 
