@@ -26,7 +26,7 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 #### A3 — Parcel {#term-a3}
 
-1–10 MW, roughly 5–80 acres; distribution, community solar or mid-market PPA, multi-party, purpose-built ground management. The widest part of the [feasible wedge](#term-feasible-wedge). See [§1.2](1-the-scale-transect.qmd#sec-zones).
+1–10 MW, roughly 5–80 acres; distribution, community solar or mid-market PPA, multi-party, purpose-built ground management. Big enough that management matters and small enough to site strategically, which is why it is the widest part of the [feasible wedge](#term-feasible-wedge). See [§1.2](1-the-scale-transect.qmd#sec-zones).
 
 #### A4 — Landscape {#term-a4}
 
