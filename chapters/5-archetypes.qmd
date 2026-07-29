@@ -227,5 +227,3 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 *Dominant pressures:* build cost (uniformly low-value ground), community acceptance (reuse of degraded land).
 *Yielded:* some energy yield (sites are constrained).
 *Signature levers:* placement on reclaimed mine land, landfills, and brownfields [@hernandez2019]; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
-
----

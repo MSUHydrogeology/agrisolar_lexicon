@@ -337,5 +337,3 @@ The standard dual-use productivity metric: the land a monoculture would need to 
 #### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 
 The end-of-life questions a 25–40-year asset raises: *decommissioning* (removing the array and restoring the ground), *repowering* (replacing modules to extend the site), and *reversibility* (how completely the prior land use can return). Foundation type, soil disturbance, and financial assurance (decommissioning bonds) set how reversible a project is; reversibility is often the crux of the farmland-protection argument, and is itself one of the eight [design pressures](3-design-pressures.qmd#sec-pressures) (§3.1).
-
----

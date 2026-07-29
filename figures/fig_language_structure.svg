@@ -99,7 +99,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="gbo" x="602" y="139">farming · grid · policy</text>
 <text class="gaw" x="602" y="154">energy · build · upkeep</text>
 <text class="cc" x="602" y="180">Three push toward restoration,</text>
-<text class="cc" x="602" y="194">three away, three either way.</text>
+<text class="cc" x="602" y="194">three away, three both ways.</text>
 
 <!-- ============ converge ============ -->
 <path class="join" d="M143 206 L143 228 Q143 238 153 238 L427 238"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="618" viewBox="0 0 760 618" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="600" viewBox="0 0 760 600" role="img">
 <title>Nine design pressures converging on one site, grouped by which way they push on restoration</title>
-<desc>Nine design pressures drawn as arrows converging on a central disc labelled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, build cost and operations and maintenance. Two grey wedges hold the three whose direction is conditional: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because grey sits at both boundaries between the coloured wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
+<desc>Nine design pressures drawn as arrows converging on a central disc labelled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, build cost and operations and maintenance. Two grey wedges hold the three that go both ways: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because grey sits at both boundaries between the coloured wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .nm{font-size:13px;font-weight:600;fill:#3d3d3a}
@@ -25,7 +25,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="380" y1="300" x2="453.5" y2="502" stroke="#ffffff" stroke-width="2"/>
 <line x1="380" y1="300" x2="306.5" y2="502" stroke="#ffffff" stroke-width="2"/>
 
-<!-- either way: top -->
+<!-- both ways: top -->
 <line x1="314.3" y1="119.6" x2="359.5" y2="243.6" stroke="#6f6d66" stroke-width="2.6" marker-end="url(#Wb)"/>
 <text class="nm" x="301" y="66" text-anchor="middle">Agricultural</text><text class="nm" x="301" y="81" text-anchor="middle">production</text>
 <line x1="445.7" y1="119.6" x2="400.5" y2="243.6" stroke="#6f6d66" stroke-width="2.6" marker-end="url(#Wb)"/>
@@ -39,7 +39,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="503.4" y1="447.1" x2="418.6" y2="346" stroke="#35887a" stroke-width="2.6" marker-end="url(#Wt)"/>
 <text class="nm" x="529" y="472" text-anchor="start">End-of-life</text><text class="nm" x="529" y="487" text-anchor="start">responsibility</text>
 
-<!-- either way: bottom -->
+<!-- both ways: bottom -->
 <line x1="380" y1="492" x2="380" y2="360" stroke="#6f6d66" stroke-width="2.6" marker-end="url(#Wb)"/>
 <text class="nm" x="380" y="534" text-anchor="middle">Policy and permission</text>
 
@@ -56,11 +56,13 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="ct" x="380" y="295" text-anchor="middle">one site&#8217;s</text>
 <text class="ct" x="380" y="312" text-anchor="middle">resolution</text>
 
-<!-- the tension, restated as an axis -->
-<text class="lg" x="312" y="562" text-anchor="middle" fill="#b5643a">pushes away</text>
-<text class="lg" x="448" y="562" text-anchor="middle" fill="#35887a">pushes toward</text>
-<line x1="380" y1="574" x2="248" y2="574" stroke="#b5643a" stroke-width="2.2" marker-end="url(#Wa)"/>
-<line x1="380" y1="574" x2="512" y2="574" stroke="#35887a" stroke-width="2.2" marker-end="url(#Wt)"/>
-<rect x="340" y="590" width="13" height="13" rx="2" fill="#eae8e3" stroke="#6f6d66" stroke-width="0.8"/>
-<text class="lg" x="359" y="601" fill="#6f6d66">either way</text>
+<!-- the tension as a three-segment axis: away | both ways | toward -->
+<text class="lg" x="293" y="558" text-anchor="middle" fill="#b5643a">pushes away</text>
+<text class="lg" x="380" y="558" text-anchor="middle" fill="#6f6d66">both ways</text>
+<text class="lg" x="467" y="558" text-anchor="middle" fill="#35887a">pushes toward</text>
+<polygon points="228,574 248,565 248,583" fill="#b5643a"/>
+<rect x="248" y="569" width="90" height="10" fill="#b5643a"/>
+<rect x="346" y="569" width="68" height="10" fill="#6f6d66"/>
+<rect x="422" y="569" width="90" height="10" fill="#35887a"/>
+<polygon points="532,574 512,565 512,583" fill="#35887a"/>
 </svg>

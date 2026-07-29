@@ -147,5 +147,3 @@ One case in this family runs the other way. Demonstration sites, extension field
 SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes, and Energy**, each from regeneration to depletion. Communities aligns with the community and economic function; Landscapes with the biophysical functions; Agriculture with continuity and the sharing–sparing axis; Energy with the design pressures. The reading is evaluative, but it has no pass mark or threshold (§8, issue 5).
 
 ![The SCALE footprint: a project's influence read across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes, each running from regeneration at the center to depletion at the rim. The reading is evaluative by design, which is what *restorative* commits the document to, but it is a direction of travel rather than a pass mark; no threshold line is drawn (§8, issue 5). The polygon shown is a worked example.](../figures/fig_scale_footprint.svg){#fig-scale}
-
----

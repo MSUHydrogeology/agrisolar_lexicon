@@ -4,7 +4,7 @@ The developer, neighbor, farmer, buyer, and county do not want the same thing fr
 
 ### 3.1 The pressures {#sec-pressures}
 
-Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go either way depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the reversibility argument in §3.2 the hard one.
+Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the reversibility argument in §3.2 the hard one.
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
@@ -77,5 +77,3 @@ Levers change with scale. Read down a column for the choices available at that z
 : Design levers across the scale transect — what each lever usually looks like at each zone, and how much room is left in it. A description of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
 
 Freedom shifts from hardware at the small end, to siting at A2–A3, to management and deal structure at scale. Read each cell as the latitude remaining in a lever, not a fixed fact about a zone.
-
----

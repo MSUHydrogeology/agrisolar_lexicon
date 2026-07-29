@@ -50,5 +50,3 @@ Grazing and coexistence form the spine. The thinned corners remain possible: gre
 S1 is climate- and crop-conditional: it is most plausible for shade-tolerant crops in hot, water-limited settings and mixed to negative for staple grains in temperate or humid settings [@barrongafford2019; @weselek2019; @merheb2025].
 
 American Farmland Trust's production-based [dual-use](7-terminology.qmd#term-agrivoltaics) definition requires S1 or S2. Critics include ecovoltaics, whose ecological ground layers sit as functions at S3 and below [@hernandez2019]. This document describes that dispute rather than settling it.
-
----

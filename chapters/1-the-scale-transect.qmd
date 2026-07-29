@@ -80,5 +80,3 @@ As projects grow, restoration changes instrument. Siting latitude falls while ma
 ![Siting latitude and management leverage move in opposite directions and cross between A3 and A4. Restoration does not diminish with scale so much as change instrument.](../figures/fig_siting_latitude.svg){#fig-siting}
 
 At utility scale, restorative practice is mainly ground cover and grazing; at small and mid scale it is mainly placement [@macknick2022; @boggis2020]. Latitude peaks at A2–A3, bounded by the property line at A1 and land assembly and grid access at A5. That is why siting-led forms such as [solar prairie strips](5-archetypes.qmd#arch-prairie-strips) and [marginal land solar](5-archetypes.qmd#arch-marginal) live in the middle zones.
-
----
