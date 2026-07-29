@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="500" viewBox="0 0 880 500" role="img">
-<title>Where each restorative function applies</title>
+<title>How each restorative function is delivered</title>
 <desc>Benefit ranges drawn as distance from the array: on-site, adjacent, and regional and global as concentric bands, with downstream shown as a directional flow leaving the site and visited as movement of people toward it. Two cases sit off the distance scale entirely: the displaced benefit of land sparing, which has no point of use, and the community and economic function, which travels by tenure, contract, and jurisdiction.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
@@ -60,25 +60,25 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="pt on"  x="300" y="214" text-anchor="middle">on-site</text>
 <text class="it"     x="300" y="228" text-anchor="middle">soil · moisture · microclimate</text>
 
-<text class="eyebrow" x="300" y="482" text-anchor="middle">DISTANCE FROM THE ARRAY</text>
+<text class="eyebrow" x="300" y="482" text-anchor="middle">DELIVERED BY PROXIMITY</text>
 
 <!-- ===== off the distance scale ===== -->
 <line x1="590" y1="40" x2="590" y2="460" stroke="#cfc8b8" stroke-width="1" stroke-dasharray="4 4"/>
-<text class="eyebrow" x="610" y="58">OFF THE DISTANCE SCALE</text>
+<text class="eyebrow" x="610" y="58">NOT A DISTANCE AT ALL</text>
 
 <rect class="panel" x="610" y="80" width="256" height="122" rx="7" stroke-dasharray="5 4"/>
-<text class="bt" x="630" y="108">Displaced</text>
-<text class="bs" x="630" y="128">The benefit of land sparing is the</text>
-<text class="bs" x="630" y="144">ground not taken. It may be in the next</text>
-<text class="bs" x="630" y="160">county, or exist only as a development</text>
-<text class="bs" x="630" y="176">that did not happen.</text>
+<text class="bt" x="630" y="108">Delivered by preservation</text>
+<text class="bs" x="630" y="128">Land sparing delivers nothing that</text>
+<text class="bs" x="630" y="144">moves. The benefit is ground elsewhere</text>
+<text class="bs" x="630" y="160">that stayed as it was, perhaps only a</text>
+<text class="bs" x="630" y="176">development that did not happen.</text>
 <text class="it" x="630" y="192">No point of use to measure.</text>
 
 <rect class="panel" x="610" y="230" width="256" height="164" rx="7" stroke="#c8871f"/>
-<text class="bt" x="630" y="258">Community and economic</text>
-<text class="bs" x="630" y="278">Travels along tenure, contract, and</text>
-<text class="bs" x="630" y="294">jurisdiction rather than outward from</text>
-<text class="bs" x="630" y="310">the array.</text>
+<text class="bt" x="630" y="258">Delivered by channel</text>
+<text class="bs" x="630" y="278">The community and economic function</text>
+<text class="bs" x="630" y="294">moves along tenure, contract, and</text>
+<text class="bs" x="630" y="310">jurisdiction. A route, not a radius.</text>
 <line x1="630" y1="330" x2="706" y2="330" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
 <text class="it" x="716" y="333">the lease</text>
 <line x1="630" y1="352" x2="706" y2="352" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
