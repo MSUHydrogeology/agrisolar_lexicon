@@ -36,11 +36,9 @@ Building-mounted arrays are **A0**: no ground to choose, manage, share, or spare
 
 These indicative bands fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
 
-### 1.3 A worked example: grazing across the transect {#sec-grazing}
+:::: {#sec-grazing .example}
+**A worked example: grazing across the transect.** A transect is only worth having if naming a zone tells you something you did not already know. Here is the test. Take one practice, sheep grazing, and follow it from the farmstead to the region. The name never changes. The job changes three times.
 
-A transect is only worth having if naming a zone tells you something you did not already know. Here is the test. Take one practice, sheep grazing, and follow it from the farmstead to the region. The name never changes. The job changes three times.
-
-:::: {.example}
 Sheep generally fit standard racking; goats climb it and chew wiring, and cattle and horses are too large for standard clearances [@merheb2025], so the animal is settled before the scale question comes up.
 
 | Zone | Who grazes | Typical figures | The design problem |
@@ -54,15 +52,15 @@ Sheep generally fit standard racking; goats climb it and chew wiring, and cattle
 **Stocking density** (animals on the ground at one moment) and **carrying capacity** (what the forage feeds across a season) come apart as growth, use, and weather vary, which is why the A1–A2 figures are a range and not a rate.
 
 Establishment is the cost that surprises people. Per-activity costs at native and pollinator-friendly covers run *below* turfgrass, but total vegetation O&M came out slightly *higher*, because the first three to five years take more separate operations [@mccall2023]. Restorative ground cover is more expensive to establish and competitive afterward, so anyone arguing for it on cost savings should expect to meet an operator who has seen the establishment invoices.
+
+“Solar grazing” without a zone can mean three different practices.
 ::::
 
 ::: {.caution}
 **Citation caution.** The figures in the table above are widely misquoted with the activity labels transposed, reporting the mowing cost incurred *at* grazing sites as the cost *of* grazing. @stewart2025 give McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr. Go to @mccall2023 directly.
 :::
 
-“Solar grazing” without a zone can mean three different practices.
-
-### 1.4 Siting latitude and the restoration mode shift {#sec-siting-latitude}
+### 1.3 Siting latitude and the restoration mode shift {#sec-siting-latitude}
 
 One item in that list decides which restorative moves are available at all: **siting latitude**, the freedom to choose where the array goes. What controls it changes as projects get bigger.
 

@@ -38,29 +38,29 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 #### Siting latitude {#term-siting-latitude}
 
-The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
+The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [§1.3](1-the-scale-transect.qmd#sec-siting-latitude).
 
 #### Restoration mode {#term-restoration-mode}
 
-Whether restorative work is delivered by the choice of ground, by array geometry, or by how the array is run. The mode shifts as siting latitude falls up the transect (§1.4). Three modes:
+Whether restorative work is delivered by the choice of ground, by array geometry, or by how the array is run. The mode shifts as siting latitude falls up the transect (§1.3). Three modes:
 
 - []{#term-siting-led}**Siting-led** — the restorative work is done by the choice of ground; requires the A2–A3 latitude to choose it.
 - []{#term-structure-led}**Structure-led** — array geometry is the instrument: clearance, row spacing, module transmissivity.
 - []{#term-management-led}**Management-led** — placement is a given, and the ground cover, grazing regime, and operational schedule carry everything. The dominant mode at A4–A5.
 
-See [§1.4](1-the-scale-transect.qmd#sec-siting-latitude).
+See [§1.3](1-the-scale-transect.qmd#sec-siting-latitude).
 
 #### Stocking density {#term-stocking-density}
 
-Instantaneous animals per unit area at a moment; diverges from carrying capacity with forage growth, utilization, and climate. A grazing design variable to calibrate, not a fixed rate. See [§1.3](1-the-scale-transect.qmd#sec-grazing).
+Instantaneous animals per unit area at a moment; diverges from carrying capacity with forage growth, utilization, and climate. A grazing design variable to calibrate, not a fixed rate. See [§1.2](1-the-scale-transect.qmd#sec-grazing).
 
 #### Carrying capacity {#term-carrying-capacity}
 
-The season-long forage the land sustains over time, distinct from instantaneous [stocking density](#term-stocking-density). See [§1.3](1-the-scale-transect.qmd#sec-grazing).
+The season-long forage the land sustains over time, distinct from instantaneous [stocking density](#term-stocking-density). See [§1.2](1-the-scale-transect.qmd#sec-grazing).
 
 #### Contract grazing {#term-contract-grazing}
 
-Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up into a logistics enterprise. See [§1.3](1-the-scale-transect.qmd#sec-grazing).
+Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up into a logistics enterprise. See [§1.2](1-the-scale-transect.qmd#sec-grazing).
 
 ### 5.2 Sharing and sparing {#sec-terms-sharing}
 
@@ -312,7 +312,7 @@ The panel itself as a lever (§3.3): *monofacial* vs *bifacial* (both faces gene
 
 #### Tracking Schedule & Curtailment {#term-tracking-curtailment}
 
-Two operational-regime levers (§3.3). *Tracking schedule* is how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* is the deliberate reduction of output for grid, price, or ecological reasons. Both are decisions about how the array is *run*, the instrument of management-led restoration at A4–A5 (§1.4).
+Two operational-regime levers (§3.3). *Tracking schedule* is how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* is the deliberate reduction of output for grid, price, or ecological reasons. Both are decisions about how the array is *run*, the instrument of management-led restoration at A4–A5 (§1.3).
 
 #### Land Equivalent Ratio (LER) {#term-ler}
 
