@@ -13,12 +13,6 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .b3{fill:#faf9f5;stroke:#cfc8b8;stroke-width:1}
 .panel{fill:none;stroke:#b4b2a9;stroke-width:1}
 .on{fill:#8a5a2b}.adj{fill:#4e8a3f}.reg{fill:#2f8f9a}.dwn{fill:#2f77bf}.vis{fill:#c8871f}
-@media (prefers-color-scheme:dark){
-  .bt{fill:#e8e6dd}.bs{fill:#9c9a92}.it{fill:#75736c}.eyebrow{fill:#75736c}
-  .b1{fill:#2f2f2c;stroke:#5f5e5a}.b2{fill:#272725;stroke:#5f5e5a}.b3{fill:#201f1e;stroke:#5f5e5a}
-  .panel{stroke:#6f6d66}
-  .on{fill:#bd9161}.adj{fill:#82bd70}.reg{fill:#5fb8c0}.dwn{fill:#6aa6e0}.vis{fill:#e0b45a}
-}
 </style>
 
 <defs>

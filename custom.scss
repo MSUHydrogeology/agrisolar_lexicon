@@ -302,5 +302,8 @@ figure img,
 // then write the dark variants in custom-dark.scss. Note that the zone ramp and
 // the S1–S5 diverging palette below deliberately pair light tints with dark text,
 // so both need a real dark pass rather than an inversion. The figures in figures/
-// still carry their own prefers-color-scheme blocks; those degrade to grey-on-
-// white rather than disappearing, so they are left in place for that work.
+// no longer carry prefers-color-scheme blocks either: they were removed for the
+// same reasons, and fig_terminology_scales.svg had been left with the
+// declarations from one such block but not its opening line, so its pale dark
+// variants were overriding the intended colors unconditionally, in light mode
+// included. Every figure now defines one set of colors, for the light page.
