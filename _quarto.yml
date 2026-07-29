@@ -25,9 +25,9 @@ book:
     - chapters/2-the-sharingsparing-axis.qmd
     - chapters/3-design-pressures.qmd
     - chapters/4-restorative-functions.qmd
-    - chapters/5-terminology.qmd
-    - chapters/6-archetypes.qmd
-    - chapters/7-regionality.qmd
+    - chapters/5-archetypes.qmd
+    - chapters/6-regionality.qmd
+    - chapters/7-terminology.qmd
     - chapters/8-open-issues.qmd
     - chapters/sources.qmd
   appendices:

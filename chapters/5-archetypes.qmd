@@ -1,4 +1,4 @@
-# 6. Archetypes {#sec-archetypes}
+# 5. Archetypes {#sec-archetypes}
 
 Certain designs recur when the same pressures meet the same scale and sharing position: a farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field. These **archetypes** are recurring, transformable patterns rather than an exhaustive typology. They classify how pressures are resolved; hardware taxonomies classify structure. The two can be read together.
 
@@ -178,7 +178,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 *Dominant pressures:* [agricultural continuity](3-design-pressures.qmd#sec-pressures), [generation yield](3-design-pressures.qmd#sec-pressures).
 *Yielded:* [capital discipline](3-design-pressures.qmd#sec-pressures) (frameless glass–glass modules, more posts per watt), land-use density.
-*Signature levers:* vertical east–west [module technology](5-terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
+*Signature levers:* vertical east–west [module technology](7-terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
 
 ### Community-Solar Pollinator Array {#arch-community-solar}
 
@@ -186,7 +186,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 *Dominant pressures:* [social license](3-design-pressures.qmd#sec-pressures), [restorative ambition](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [offtake conformity](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel [@epri2021]).
 *Yielded:* some [operational simplicity](3-design-pressures.qmd#sec-pressures) during the multi-year establishment.
-*Signature levers:* whole-site native [ground-layer](5-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom [@blaydes2022].
+*Signature levers:* whole-site native [ground-layer](7-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom [@blaydes2022].
 
 ### Native-Grassland Utility Array {#arch-native-grassland}
 
@@ -210,7 +210,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 *Dominant pressures:* [capital discipline](3-design-pressures.qmd#sec-pressures) (land already disturbed and often already controlled), [social license](3-design-pressures.qmd#sec-pressures) (prime fields left untouched).
 *Yielded:* [generation yield](3-design-pressures.qmd#sec-pressures) and [operational simplicity](3-design-pressures.qmd#sec-pressures), since a corridor is a costly shape to build and maintain.
-*Signature levers:* placement along highway, rail, pipeline, and transmission easements; mounting specified for the wind and shadow conditions of a corridor; ground layer doubling as verge management. The geometry is the archetype: exceptionally long, narrow bands, so a strip a hundred feet wide and a mile long behaves nothing like a block of the same acreage. Its edge-to-area ratio is extreme, which is what makes it interesting for connectivity and hazardous for edge effects (see [influence zone](5-terminology.qmd#term-footprint-influence)), and it uses land already fragmented by the infrastructure beside it.
+*Signature levers:* placement along highway, rail, pipeline, and transmission easements; mounting specified for the wind and shadow conditions of a corridor; ground layer doubling as verge management. The geometry is the archetype: exceptionally long, narrow bands, so a strip a hundred feet wide and a mile long behaves nothing like a block of the same acreage. Its edge-to-area ratio is extreme, which is what makes it interesting for connectivity and hazardous for edge effects (see [influence zone](7-terminology.qmd#term-footprint-influence)), and it uses land already fragmented by the infrastructure beside it.
 
 ### Ag-Industrial Microgrid Array {#arch-microgrid}
 
@@ -230,6 +230,6 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 ## Terms {#sec-arch-terms}
 
-Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Archetypes](5-terminology.qmd#sec-terms-archetypes), alongside every other term the document defines.
+Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Archetypes](7-terminology.qmd#sec-terms-archetypes), alongside every other term the document defines.
 
 ---

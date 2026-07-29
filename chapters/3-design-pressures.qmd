@@ -10,8 +10,8 @@ Eight forces act on every site. The third column is the one worth arguing about,
 | Pressure | What it asks for | Push on restoration |
 |---|---|---|
 | **Restorative ambition** | Wider rows, mixed ground cover, a plan covering all thirty years, and choices made for the sake of what grows underneath [@hernandez2019] | **Toward.** The pressure this document exists to advance, and still one force among eight |
-| **Social license** | Early engagement that can change the design; tax revenue, [community-benefit agreements](5-terminology.qmd#term-community-benefit), payments, subscriptions, local hiring, part-ownership | **Toward,** mostly. Community benefit is itself a [restorative function](4-restorative-functions.qmd#sec-fn-community), though a community can also ask for tidiness. Money without fair process does not reliably buy acceptance [@crawford2022; @ryder2023] |
-| **Decommissioning & reversibility** | Removable foundations, less digging, funded [decommissioning](5-terminology.qmd#term-decommissioning) | **Toward.** Less digging spares the soil what the construction phase otherwise costs it (§4.2), and a funded bond protects the community. Its collision with restorative ambition (§3.2) is two restorative aims disagreeing about what to preserve, not a pull away |
+| **Social license** | Early engagement that can change the design; tax revenue, [community-benefit agreements](7-terminology.qmd#term-community-benefit), payments, subscriptions, local hiring, part-ownership | **Toward,** mostly. Community benefit is itself a [restorative function](4-restorative-functions.qmd#sec-fn-community), though a community can also ask for tidiness. Money without fair process does not reliably buy acceptance [@crawford2022; @ryder2023] |
+| **Decommissioning & reversibility** | Removable foundations, less digging, funded [decommissioning](7-terminology.qmd#term-decommissioning) | **Toward.** Less digging spares the soil what the construction phase otherwise costs it (§4.2), and a funded bond protects the community. Its collision with restorative ambition (§3.2) is two restorative aims disagreeing about what to preserve, not a pull away |
 | **Agricultural continuity** | Clearance for a tractor, room to turn at the end of a row, something worth growing underneath, a contract the farmer can work within | **Both.** It carries S1–S2 sharing, and it rules out the ecological ground layers ecovoltaics wants. The dispute in §3.2 is this cell |
 | **Offtake conformity** | Whatever the buyer scores: the electricity, the renewable-energy credits, or the tax benefits | **Both.** Spreads good practice quickly where the rule fits the site, and locks in a bad fit for the length of the contract |
 | **Operational simplicity** | Cover that is simple to mow, or gravel that does not grow at all, for twenty-five to forty years | **Away, then toward.** Natives cost more to establish and less every year after (§1.2), so the sign flips with the time horizon |
@@ -27,7 +27,7 @@ Read the third column as the direction a pressure pushes, not as a verdict on an
 
 Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapped for turf.
 
-**Agricultural continuity vs. restorative ambition.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](5-terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
+**Agricultural continuity vs. restorative ambition.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](7-terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
 
 **Operational simplicity vs. everything.** Gravel and herbicide are easy; diverse perennial cover is not. The maintenance bill decides many restorative designs.
 
@@ -45,11 +45,11 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 The things a project can actually change fall into three groups.
 
-*Structural — the hardware and its geometry:* mounting type (fixed, single-axis, dual-axis, vertical bifacial) · how high the panels sit · how far apart the rows are, and how much of the ground they cover · [pore-space](5-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
+*Structural — the hardware and its geometry:* mounting type (fixed, single-axis, dual-axis, vertical bifacial) · how high the panels sit · how far apart the rows are, and how much of the ground they cover · [pore-space](7-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective).
 
-*Land and ecology — the ground and how it is run:* what grows underneath · where on the parcel the array goes · whether the landscape holds a few large sites or many small ones · which ecological outcome is being aimed at · how the ground is managed across the project's life · how the array is operated (tracking schedule, curtailment) · how the edges are treated (setback, buffer, berm, fencing, [screening](5-terminology.qmd#term-screening)).
+*Land and ecology — the ground and how it is run:* what grows underneath · where on the parcel the array goes · whether the landscape holds a few large sites or many small ones · which ecological outcome is being aimed at · how the ground is managed across the project's life · how the array is operated (tracking schedule, curtailment) · how the edges are treated (setback, buffer, berm, fencing, [screening](7-terminology.qmd#term-screening)).
 
-*Institutional — who owns it, who buys it, who benefits:* ownership and control · offtake structure · interconnection posture · which regulations and certifications apply · [community-benefit](5-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
+*Institutional — who owns it, who buys it, who benefits:* ownership and control · offtake structure · interconnection posture · which regulations and certifications apply · [community-benefit](7-terminology.qmd#term-community-benefit) structure (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond).
 
 **Coupled levers.** Row spacing and ground layer are one decision: crops differ in shade tolerance [@weselek2019]. Edge treatment is both social-license and habitat design, with costs in land, shading, and farming room.
 
@@ -79,6 +79,6 @@ Freedom shifts from hardware at the small end, to siting at A2–A3, to manageme
 
 ### Terms
 
-Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Pressures and levers](5-terminology.qmd#sec-terms-pressures), alongside every other term the document defines.
+Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Pressures and levers](7-terminology.qmd#sec-terms-pressures), alongside every other term the document defines.
 
 ---

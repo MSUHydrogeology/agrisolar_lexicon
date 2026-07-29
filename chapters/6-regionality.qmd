@@ -1,12 +1,12 @@
-# 7. Regionality {#sec-regionality}
+# 6. Regionality {#sec-regionality}
 
 The [design pressures](3-design-pressures.qmd) act on every site but carry different weight by region. Shade that relieves a water-stressed crop in Arizona can cut maize yield in Ohio; retirement above a depleted aquifer has no equivalent in a rain-fed county. The vocabulary travels. The available positions, reachable functions, and binding pressures do not. That is why this lexicon describes rather than prescribes dimensions.
 
-### 7.1 Six factors {#sec-rg-factors}
+### 6.1 Six factors {#sec-rg-factors}
 
 #### The resource: sun and cloud {#sec-rg-resource}
 
-Solar resource varies in amount and type. Cloudier regions have a higher diffuse share, which reaches under and between panels more readily than direct beam light and gives a [ground layer](5-terminology.qmd#term-ground-layer) a more forgiving floor. Stronger beam resources increase the value of tracking and the opportunity cost of clearance and wider rows; they do not settle the design tradeoff.
+Solar resource varies in amount and type. Cloudier regions have a higher diffuse share, which reaches under and between panels more readily than direct beam light and gives a [ground layer](7-terminology.qmd#term-ground-layer) a more forgiving floor. Stronger beam resources increase the value of tracking and the opportunity cost of clearance and wider rows; they do not settle the design tradeoff.
 
 #### The grid operator {#sec-rg-grid}
 
@@ -18,7 +18,7 @@ Aridity can reverse the value of shade. In water-limited, high-radiation setting
 
 #### Latitude {#sec-rg-latitude}
 
-Latitude sets sun angle, tilt, row spacing, and therefore [ground coverage ratio](5-terminology.qmd#term-gcr). Wider northern rows give the [ground layer](5-terminology.qmd#term-ground-layer) more light but use more land; tighter southern arrays do the reverse. The resulting [pore space](5-terminology.qmd#term-pore-space) also helps explain why vertical-bifacial full sharing is not equally viable nationwide.
+Latitude sets sun angle, tilt, row spacing, and therefore [ground coverage ratio](7-terminology.qmd#term-gcr). Wider northern rows give the [ground layer](7-terminology.qmd#term-ground-layer) more light but use more land; tighter southern arrays do the reverse. The resulting [pore space](7-terminology.qmd#term-pore-space) also helps explain why vertical-bifacial full sharing is not equally viable nationwide.
 
 #### Cropping system {#sec-rg-cropping}
 
@@ -26,9 +26,9 @@ The cropping system determines whether [sharing](2-the-sharingsparing-axis.qmd#s
 
 #### Irrigation {#sec-rg-irrigation}
 
-Irrigation makes [impaired-land retirement](5-terminology.qmd#term-s5) possible where a district exceeds its aquifer budget. There, retiring demand can save water and solar can make the retirement pay. Rain-fed regions have no consumptive use to retire; their water work is runoff, sediment, and nutrient interception, including [solar prairie strips](6-archetypes.qmd#arch-prairie-strips). [Water-sustainability solar](6-archetypes.qmd#arch-water) is therefore regional rather than universal.
+Irrigation makes [impaired-land retirement](7-terminology.qmd#term-s5) possible where a district exceeds its aquifer budget. There, retiring demand can save water and solar can make the retirement pay. Rain-fed regions have no consumptive use to retire; their water work is runoff, sediment, and nutrient interception, including [solar prairie strips](5-archetypes.qmd#arch-prairie-strips). [Water-sustainability solar](5-archetypes.qmd#arch-water) is therefore regional rather than universal.
 
-### 7.2 A worked calibration: the United States {#sec-rg-us}
+### 6.2 A worked calibration: the United States {#sec-rg-us}
 
 The table below is one calibration, offered as a worked example rather than a finding. Regions are drawn loosely on the USDA resource regions and named for recognizability, and the last column is what the factors, taken together, tend to push a region toward.
 
@@ -36,18 +36,18 @@ The table below is one calibration, offered as a worked example rather than a fi
 | Region | Resource & light | Water | Cropping | Market | Tends toward |
 |---|---|---|---|---|---|
 | **Desert Southwest** | Highest GHI, low diffuse, strong beam | Arid; groundwater-limited | Irrigated specialty, rangeland | CAISO / WECC, large-scale | Shade as a benefit; S1 where irrigated horticulture persists, S5 where water is the binding constraint |
-| **Central Valley & irrigated West** | High GHI | Arid, and governed under SGMA | High-value specialty, heavily irrigated | CAISO, strong offtake | Retirement at scale (S5); [water-sustainability solar](6-archetypes.qmd#arch-water) |
+| **Central Valley & irrigated West** | High GHI | Arid, and governed under SGMA | High-value specialty, heavily irrigated | CAISO, strong offtake | Retirement at scale (S5); [water-sustainability solar](5-archetypes.qmd#arch-water) |
 | **High Plains** | High GHI, high latitude spread | Ogallala overdraft; declining wells | Grain, cotton, beef | SPP / ERCOT, curtailment risk | S5 where the aquifer binds; grazing (S2) at A4–A5 |
-| **Corn Belt** | Moderate GHI, moderate diffuse | Rain-fed; runoff and nutrient export | C4 grain, soybean | MISO / PJM, deep queues | S3 and S2; hydrologic function as interception, via [prairie strips](6-archetypes.qmd#arch-prairie-strips) and pollinator ground layers |
-| **Great Lakes & Northeast** | Lowest GHI, highest diffuse fraction | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs; A3 is real | S1–S2 at small and parcel scale; [vegetable agrivoltaics](6-archetypes.qmd#arch-vegetable), [barnyard shelter](6-archetypes.qmd#arch-barnyard) |
+| **Corn Belt** | Moderate GHI, moderate diffuse | Rain-fed; runoff and nutrient export | C4 grain, soybean | MISO / PJM, deep queues | S3 and S2; hydrologic function as interception, via [prairie strips](5-archetypes.qmd#arch-prairie-strips) and pollinator ground layers |
+| **Great Lakes & Northeast** | Lowest GHI, highest diffuse fraction | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs; A3 is real | S1–S2 at small and parcel scale; [vegetable agrivoltaics](5-archetypes.qmd#arch-vegetable), [barnyard shelter](5-archetypes.qmd#arch-barnyard) |
 | **Southeast** | Moderate-to-high GHI, humid and cloudy | Humid; rainfall intensity | Row crop, pasture, poultry | Largely non-ISO, utility-led | S2 grazing at scale; S3 with managed ground layers |
 :::
 
 Read each row as a starting hypothesis, not an assignment. Counterexamples are worth reporting.
 
-### 7.3 What follows {#sec-rg-consequences}
+### 6.3 What follows {#sec-rg-consequences}
 
-The pressures are constant but their weights are not. Designs should differ when resource, grid, crop, or water conditions differ. The characteristic failure is importing a resolution from another region, often through an [offtake-conformity](5-terminology.qmd#term-offtake-conformity) rule that travels farther than the evidence behind it.
+The pressures are constant but their weights are not. Designs should differ when resource, grid, crop, or water conditions differ. The characteristic failure is importing a resolution from another region, often through an [offtake-conformity](7-terminology.qmd#term-offtake-conformity) rule that travels farther than the evidence behind it.
 
 What the array replaces is itself a regional fact, and it changes what a sparing argument even means. Nationally, cropland is the dominant thing US solar has displaced. In New York it is not: of utility-scale solar built to date, 48% displaced pasture and hay, 38% cultivated crops, and 11% forest [@gallaher2026]. That puts forest conversion and grassland bird habitat at the center of a conversation that in Iowa would be about row crops and nutrient export. A position on the axis travels between regions; what sits on the other side of the decision does not.
 
@@ -61,6 +61,6 @@ The quantitative figures in this chapter are *trace before citing*: they come fr
 
 ### Terms
 
-Terms introduced in this section are defined in the [Terminology](5-terminology.qmd) chapter (§5), under [Regionality](5-terminology.qmd#sec-terms-regionality), alongside every other term the document defines.
+Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Regionality](7-terminology.qmd#sec-terms-regionality), alongside every other term the document defines.
 
 ---

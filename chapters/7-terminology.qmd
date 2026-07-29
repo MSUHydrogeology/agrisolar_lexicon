@@ -1,10 +1,10 @@
-# 5. Terminology {#sec-terminology}
+# 7. Terminology {#sec-terminology}
 
 Definitions are grouped by subject and link to their fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
 ![The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the five [restorative functions](4-restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg){#fig-terminology}
 
-### 5.1 Scale {#sec-terms-scale}
+### 7.1 Scale {#sec-terms-scale}
 
 Developed in [§1, The Scale Transect](1-the-scale-transect.qmd).
 
@@ -62,7 +62,7 @@ The season-long forage the land sustains over time, distinct from instantaneous 
 
 Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up into a logistics enterprise. See [§1.2](1-the-scale-transect.qmd#sec-grazing).
 
-### 5.2 Sharing and sparing {#sec-terms-sharing}
+### 7.2 Sharing and sparing {#sec-terms-sharing}
 
 Developed in [§2, The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd).
 
@@ -98,7 +98,7 @@ Ordinary ground converted with the farm operation ended: the same ground fact as
 
 The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes, at A5 as land assembly and capital discipline remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§2.2](2-the-sharingsparing-axis.qmd#sec-wedge).
 
-### 5.3 Pressures and levers {#sec-terms-pressures}
+### 7.3 Pressures and levers {#sec-terms-pressures}
 
 Developed in [§3, Design Pressures](3-design-pressures.qmd).
 
@@ -142,7 +142,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 The adjustable choices a designer uses to resolve the pressures, in three families: structural, land-and-ecology, and institutional, kept separable so each can be extended on its own. See [§3.3](3-design-pressures.qmd#sec-levers).
 
-### 5.4 Restorative functions {#sec-terms-functions}
+### 7.4 Restorative functions {#sec-terms-functions}
 
 Developed in [§4, Restorative Functions](4-restorative-functions.qmd).
 
@@ -174,43 +174,43 @@ The one socioeconomic function: the economic prosperity, livability, and health 
 
 A whole-project reading across four domains — Sustainable Communities, Agriculture, Landscapes, and Energy, each running from regeneration to depletion. Evaluative by design, but carrying direction rather than a pass mark. See [§4](4-restorative-functions.qmd#sec-scale).
 
-### 5.5 Archetypes {#sec-terms-archetypes}
+### 7.5 Archetypes {#sec-terms-archetypes}
 
-Developed in [§6, Archetypes](6-archetypes.qmd).
+Developed in [§5, Archetypes](5-archetypes.qmd).
 
 #### Archetype {#term-archetype}
 
-A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. See [§6](6-archetypes.qmd).
+A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. See [§5](5-archetypes.qmd).
 
 #### Overhead and interspace systems {#term-overhead-interspace}
 
-The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy): *overhead* systems mount modules above the working surface, *interspace* systems mount them low with the crop or cover between the rows. It classifies the structure, where an archetype classifies the resolution of pressures. See [§6](6-archetypes.qmd).
+The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy): *overhead* systems mount modules above the working surface, *interspace* systems mount them low with the crop or cover between the rows. It classifies the structure, where an archetype classifies the resolution of pressures. See [§5](5-archetypes.qmd).
 
-### 5.6 Regionality {#sec-terms-regionality}
+### 7.6 Regionality {#sec-terms-regionality}
 
-Developed in [§7, Regionality](7-regionality.qmd).
+Developed in [§6, Regionality](6-regionality.qmd).
 
 #### Regionality {#term-regionality}
 
-The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pushes are not. See [§7](7-regionality.qmd).
+The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pushes are not. See [§6](6-regionality.qmd).
 
 #### Regional factors {#term-regional-factors}
 
-The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§7.1](7-regionality.qmd#sec-rg-factors).
+The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§6.1](6-regionality.qmd#sec-rg-factors).
 
 #### Regional calibration {#term-regional-calibration}
 
-A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §7.2 is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§7.2](7-regionality.qmd#sec-rg-us).
+A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §6.2 is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§6.2](6-regionality.qmd#sec-rg-us).
 
 #### Design import {#term-design-import}
 
-The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Offtake conformity](#term-offtake-conformity) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§7.3](7-regionality.qmd#sec-rg-consequences).
+The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Offtake conformity](#term-offtake-conformity) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§6.3](6-regionality.qmd#sec-rg-consequences).
 
 #### Diffuse fraction {#term-diffuse-fraction}
 
-The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§7.1](7-regionality.qmd#sec-rg-resource).
+The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§6.1](6-regionality.qmd#sec-rg-resource).
 
-### 5.7 Field terms and metrics {#sec-terms-field}
+### 7.7 Field terms and metrics {#sec-terms-field}
 
 The vocabulary the lexicon adopts from the wider field and pins down for use here.
 
