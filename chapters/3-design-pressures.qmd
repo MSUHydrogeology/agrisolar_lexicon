@@ -4,16 +4,16 @@ The developer, neighbor, farmer, buyer, and county do not want the same thing fr
 
 ### 3.1 The pressures {#sec-pressures}
 
-Eight forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Only one pressure pushes reliably toward restoration, three genuinely cut both ways, and the rest push away with conditions attached. That is why the conflicts in §3.2 are real conflicts rather than misunderstandings.
+Eight forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three pressures push toward restoration, two genuinely cut both ways, and three push away with conditions attached. Two pressures can point the same way and still collide, which is what makes the reversibility argument in §3.2 the hard one.
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
 |---|---|---|
 | **Restorative ambition** | Wider rows, mixed ground cover, a plan covering all thirty years, and choices made for the sake of what grows underneath [@hernandez2019] | **Toward.** The pressure this document exists to advance, and still one force among eight |
 | **Social license** | Early engagement that can change the design; tax revenue, [community-benefit agreements](5-terminology.qmd#term-community-benefit), payments, subscriptions, local hiring, part-ownership | **Toward,** mostly. Community benefit is itself a [restorative function](4-restorative-functions.qmd#sec-fn-community), though a community can also ask for tidiness. Money without fair process does not reliably buy acceptance [@crawford2022; @ryder2023] |
+| **Decommissioning & reversibility** | Removable foundations, less digging, funded [decommissioning](5-terminology.qmd#term-decommissioning) | **Toward.** Less digging spares the soil what the construction phase otherwise costs it (§4.2), and a funded bond protects the community. Its collision with restorative ambition (§3.2) is two restorative aims disagreeing about what to preserve, not a pull away |
 | **Agricultural continuity** | Clearance for a tractor, room to turn at the end of a row, something worth growing underneath, a contract the farmer can work within | **Both.** It carries S1–S2 sharing, and it rules out the ecological ground layers ecovoltaics wants. The dispute in §3.2 is this cell |
 | **Offtake conformity** | Whatever the buyer scores: the electricity, the renewable-energy credits, or the tax benefits | **Both.** Spreads good practice quickly where the rule fits the site, and locks in a bad fit for the length of the contract |
-| **Decommissioning & reversibility** | Removable foundations, less digging, funded [decommissioning](5-terminology.qmd#term-decommissioning) | **Both.** A restorative instinct that fights restoration: deep roots and rebuilt soil are exactly what you would not want to tear up |
 | **Operational simplicity** | Cover that is simple to mow, or gravel that does not grow at all, for twenty-five to forty years | **Away, then toward.** Natives cost more to establish and less every year after (§1.2), so the sign flips with the time horizon |
 | **Generation yield** | Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field | **Away.** This is why a conventional array looks the way it does, though cover that cools modules and holds down dust occasionally aligns the two [@merheb2025] |
 | **Capital discipline** | Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes | **Away.** Though the premium can be small: 0.17% for a biodiversity-conscious New York build [@gallaher2026] |
@@ -37,7 +37,7 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 **Capital discipline vs. operational simplicity.** Often mistaken for a single pressure. They split on what to plant, how high to mount, and how to get equipment in: cheap to build is frequently expensive to keep.
 
-**Reversibility vs. restorative ambition.** Established habitat and rebuilt soil take years to create and resist clean removal.
+**Reversibility vs. restorative ambition.** The hard one, because both pressures push toward restoration and still collide. Established habitat and rebuilt soil take years to create and resist clean removal: a project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
 
 **Social license vs. capital discipline.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
 
