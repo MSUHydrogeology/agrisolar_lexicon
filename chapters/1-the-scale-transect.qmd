@@ -16,8 +16,6 @@ Physical effects change with geometry and scale as well. Soil cooling and moistu
 
 ### 1.2 The Zones {#sec-zones}
 
-**A1–A5** are five zones along the gradient, with a zero-land case (A0) at its origin.
-
 ::: {.zone-table}
 | Zone | Indicative capacity | Indicative footprint | Interconnection | Decision unit | Ground-layer management |
 |---|---|---|---|---|---|
@@ -37,7 +35,7 @@ Building-mounted arrays are **A0**: no ground to choose, manage, share, or spare
 These indicative bands fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
 
 :::: {#sec-grazing .example}
-**A worked example: grazing across the transect.** A transect is only worth having if naming a zone tells you something you did not already know. Here is the test. Take one practice, sheep grazing, and follow it from the farmstead to the region. The name never changes. The job changes three times.
+**A worked example: grazing across the transect.** Take one practice, sheep grazing, and follow it from the farmstead to the region. The name never changes. The job changes three times.
 
 Sheep generally fit standard racking; goats climb it and chew wiring, and cattle and horses are too large for standard clearances [@merheb2025], so the animal is settled before the scale question comes up.
 
