@@ -44,7 +44,7 @@ under **S**.
 
 **Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [§7](7-terminology.qmd#term-bare-conversion) · [2.1 The positions](2-the-sharingsparing-axis.qmd#sec-positions)
 
-**Benefit range** — where a function's benefit actually lands, which is not always the ground that produced it: on-site, adjacent, downstream, or regional; distinct from the influence zone, which is how far the array physically reaches — [§7](7-terminology.qmd#term-benefit-range) · [4. Where the benefit lands](4-restorative-functions.qmd#sec-benefit-range)
+**Benefit range** — where a function is actually used, which is not always the ground that produced it: on-site, adjacent, downstream, regional, or visited; distinct from the influence zone, which is how far the array physically reaches — [§7](7-terminology.qmd#term-benefit-range) · [4. Production and use are not the same place](4-restorative-functions.qmd#sec-benefit-range)
 
 **Biodiversity & habitat function** — restorative function: habitat built from the ground layer up, with mowing and grazing *timing* as decisive as the seed mix; reachable across S2–S5 — [§7](7-terminology.qmd#term-fn-biodiversity) · [4.3 Biodiversity & habitat function](4-restorative-functions.qmd#sec-fn-biodiversity)
 
@@ -80,7 +80,7 @@ under **S**.
 
 **Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [§7](7-terminology.qmd#term-diffuse-fraction) · [6.1 Six factors](6-regionality.qmd#sec-rg-resource)
 
-**Displaced benefit** — the benefit of land sparing, which is the ground *not* taken; it has no location to measure and rests on a counterfactual — [§7](7-terminology.qmd#term-displaced-benefit) · [4. Where the benefit lands](4-restorative-functions.qmd#sec-benefit-range)
+**Displaced benefit** — the benefit of land sparing, which is the ground *not* taken; it has no point of use to measure and rests on a counterfactual — [§7](7-terminology.qmd#term-displaced-benefit) · [4. Production and use are not the same place](4-restorative-functions.qmd#sec-benefit-range)
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [§7](7-terminology.qmd#term-dual-use)
 
