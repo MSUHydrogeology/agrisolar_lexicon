@@ -66,7 +66,7 @@ under **S**.
 
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [§5](5-terminology.qmd#term-decommissioning)
 
-**Decommissioning & reversibility** — the eighth design pressure: minimize the residual footprint and preserve the option to return the ground to its prior use — [§5](5-terminology.qmd#term-decommissioning-pressure) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+**Decommissioning & reversibility** — a design pressure: minimize the residual footprint and preserve the option to return the ground to its prior use — [§5](5-terminology.qmd#term-decommissioning-pressure) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
 **Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; offtake conformity is the usual vehicle — [§5](5-terminology.qmd#term-design-import) · [7.3 What follows](7-regionality.qmd#sec-rg-consequences)
 

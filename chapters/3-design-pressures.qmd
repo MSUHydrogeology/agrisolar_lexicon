@@ -4,23 +4,24 @@ The developer, neighbor, farmer, buyer, and county do not want the same thing fr
 
 ### 3.1 The pressures {#sec-pressures}
 
-**Generation yield** — get the most electricity out of the ground. Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field. This is why a conventional array looks the way it does.
+Eight forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Only one pressure pushes reliably toward restoration, three genuinely cut both ways, and the rest push away with conditions attached. That is why the conflicts in §3.2 are real conflicts rather than misunderstandings.
 
-**Capital discipline** — build it for the least money. Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes. Anything unusual costs more, and this pressure asks why it is worth it.
+::: {.pressure-table}
+| Pressure | What it asks for | Push on restoration |
+|---|---|---|
+| **Restorative ambition** | Wider rows, mixed ground cover, a plan covering all thirty years, and choices made for the sake of what grows underneath [@hernandez2019] | **Toward.** The pressure this document exists to advance, and still one force among eight |
+| **Social license** | Early engagement that can change the design; tax revenue, [community-benefit agreements](5-terminology.qmd#term-community-benefit), payments, subscriptions, local hiring, part-ownership | **Toward,** mostly. Community benefit is itself a [restorative function](4-restorative-functions.qmd#sec-fn-community), though a community can also ask for tidiness. Money without fair process does not reliably buy acceptance [@crawford2022; @ryder2023] |
+| **Agricultural continuity** | Clearance for a tractor, room to turn at the end of a row, something worth growing underneath, a contract the farmer can work within | **Both.** It carries S1–S2 sharing, and it rules out the ecological ground layers ecovoltaics wants. The dispute in §3.2 is this cell |
+| **Offtake conformity** | Whatever the buyer scores: the electricity, the renewable-energy credits, or the tax benefits | **Both.** Spreads good practice quickly where the rule fits the site, and locks in a bad fit for the length of the contract |
+| **Decommissioning & reversibility** | Removable foundations, less digging, funded [decommissioning](5-terminology.qmd#term-decommissioning) | **Both.** A restorative instinct that fights restoration: deep roots and rebuilt soil are exactly what you would not want to tear up |
+| **Operational simplicity** | Cover that is simple to mow, or gravel that does not grow at all, for twenty-five to forty years | **Away, then toward.** Natives cost more to establish and less every year after (§1.2), so the sign flips with the time horizon |
+| **Generation yield** | Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field | **Away.** This is why a conventional array looks the way it does, though cover that cools modules and holds down dust occasionally aligns the two [@merheb2025] |
+| **Capital discipline** | Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes | **Away.** Though the premium can be small: 0.17% for a biodiversity-conscious New York build [@gallaher2026] |
+:::
 
-**Operational simplicity** — keep it easy to run for the next twenty-five to forty years. Somebody has to manage that ground every one of those years, which pushes toward cover that is simple to mow, or gravel that does not grow at all. *It can push against capital discipline rather than with it: seeding natives costs more to put in and less every year after.*
+Read the third column as the direction a pressure pushes, not as a verdict on anyone advocating it. Every one of the eight has someone arguing for it in good faith, and a site with no capital discipline does not get built.
 
-**Agricultural continuity** — keep working land working. Panels high enough to get a tractor under, room to turn equipment at the end of a row, something growing underneath that is worth growing, and a contract the farmer can actually operate within.
-
-**Restorative ambition** — leave the land better rather than merely less damaged, treating water, soil, habitat, and the farm's own finances as real goals alongside electricity [@hernandez2019]. It pushes for wider rows, mixed ground cover, a plan that covers all thirty years, and some choices made for the sake of what grows underneath. This is the pressure the document exists to advance. It is still one force among eight.
-
-**Social license** — secure community acceptance and benefit. Acceptance requires early engagement that can change the design; benefit can include tax revenue, [community-benefit agreements](5-terminology.qmd#term-community-benefit), payments, subscriptions, local hiring, and part-ownership. Money without a fair process does not reliably buy acceptance [@crawford2022; @ryder2023].
-
-**Offtake conformity** — satisfy whoever is buying: the electricity, the renewable-energy credits, or the tax benefits. The design bends toward whatever the buyer scores. This is how a decision made in an office somewhere ends up determining what gets planted on one specific field.
-
-**Decommissioning & reversibility** — leave little behind and keep open the option of farming again. It pushes for removable foundations, less digging, and funded [decommissioning](5-terminology.qmd#term-decommissioning).
-
-![Eight competing forces resolving into one site design; the eighth is decommissioning & reversibility. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance, but it is a force among forces, not a coordinate to be scored against.](../figures/fig_design_pressures.svg){#fig-pressures}
+![Eight competing forces resolving into one site design. Restorative ambition is shown in red because it is the pressure this lexicon exists to advance, but it is a force among forces, not a coordinate to be scored against.](../figures/fig_design_pressures.svg){#fig-pressures}
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 

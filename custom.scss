@@ -8,6 +8,7 @@
 // Wide tables scroll inside their own container rather than the page body.
 #tbl-lever-matrix,
 .position-table,
+.pressure-table,
 .region-table,
 .zone-table {
   overflow-x: auto;
@@ -144,6 +145,46 @@ figure img,
 .position-table tbody td a { color: #1f4f75; }
 .position-table tbody tr:nth-child(4) td a,
 .position-table tbody tr:nth-child(5) td a { color: #4a2f6b; }
+
+// ===== Design pressures (§3.1) =====
+// Banded by which way the pressure pushes on restoration, in three states
+// rather than two. Half the pressures do not have a consistent sign:
+// agricultural continuity carries sharing and forecloses ecological ground
+// layers, offtake conformity spreads good practice and locks in bad fits,
+// reversibility fights the very soil-building it is a sibling of, and
+// operational simplicity flips with the time horizon. A two-colour toward/away
+// scheme would have to lie about four of eight rows, so "both" gets its own
+// band and the cell names the condition.
+//
+// Teal → neutral → terracotta, chosen to stay clear of the two palettes already
+// spoken for: green is scale's (and the lever matrix on this same page uses the
+// zone ramp), blue↔purple is the sharing–sparing axis's. Neutral is the same
+// #EFEEEA the S3 centre uses, so "it depends" reads consistently across the
+// document. Rows are ordered by direction, so the band is a gradient down the
+// table rather than scattered.
+.pressure-table table {
+  border-collapse: collapse;
+}
+.pressure-table table th,
+.pressure-table table td {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0.4rem 0.55rem;
+  vertical-align: top;
+}
+.pressure-table thead th {
+  background-color: #d3d1c7;
+  color: #2c2c2a;
+}
+.pressure-table tbody tr:nth-child(1) td,
+.pressure-table tbody tr:nth-child(2) td { background-color: #d5e7e2; color: #2c2c2a; } // toward
+.pressure-table tbody tr:nth-child(3) td,
+.pressure-table tbody tr:nth-child(4) td,
+.pressure-table tbody tr:nth-child(5) td { background-color: #efeeea; color: #2c2c2a; } // both
+.pressure-table tbody tr:nth-child(6) td,
+.pressure-table tbody tr:nth-child(7) td,
+.pressure-table tbody tr:nth-child(8) td { background-color: #f4ded2; color: #2c2c2a; } // away
+
+.pressure-table tbody td a { color: #1f4f75; }
 
 // ===== Landing page =====
 
