@@ -84,7 +84,7 @@ Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels ra
 
 Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. The same conditions that made the parcel marginal can make solar costly, through rock, flood risk, or a long interconnect; the income must clear that penalty.
 
-*Dominant pressures: farm economic resilience, build cost. Yielded: some generation, since marginal ground is rarely shaped for output.*
+*Dominant pressures: build cost, since the conditions that made the parcel marginal also make the array dearer. What it is for is the [community & economic function](4-restorative-functions.qmd#sec-fn-community): income from ground that was not paying. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
 **Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working. *This particular site reads as [S2](2-the-sharingsparing-axis.qmd#sec-positions), not S4: the siting decision was the marginal corner, but production never stopped there, since the herd still grazes beneath the panels. It is the archetype's sharing variant, and the reading rule in §2.1 settles it.*
 
@@ -200,7 +200,7 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 [A2](1-the-scale-transect.qmd#sec-zones)–[A3](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [restorative goals](3-design-pressures.qmd#sec-pressures) (a water-quantity target), farm economic resilience.
+*Dominant pressures:* [restorative goals](3-design-pressures.qmd#sec-pressures) (a water-quantity target), [build cost](3-design-pressures.qmd#sec-pressures). What makes it pay is the [community & economic function](4-restorative-functions.qmd#sec-fn-community).
 *Yielded:* some [energy yield](3-design-pressures.qmd#sec-pressures) (corners are small and awkwardly shaped).
 *Signature levers:* placement on ground already out of production where infiltration can be increased, characteristically the dry corners a center-pivot never reaches, with ground-layer and grading chosen to move rainfall downward rather than off [@yavari2022]. The supply-side counterpart to [water-sustainability solar](#arch-water): where that one subtracts demand at scale, this one adds recharge on ground already out of production, and the pivot circle keeps farming beside it. **Emerging rather than established.** Kansas Geological Survey, Kansas State, and Michigan State researchers are testing the approach over the Ogallala; it is included as a named pathway to watch, not a documented recurring form.
 
