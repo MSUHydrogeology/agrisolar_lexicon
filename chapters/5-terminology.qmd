@@ -68,7 +68,7 @@ Developed in [§2, The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd).
 
 #### Sharing–Sparing Axis {#term-sharing-sparing}
 
-The second, largely scale-independent dimension: whether the array shares land with agricultural production, spares land by taking ground out of it, or neither. Five positions, centred on S3. See [§2](2-the-sharingsparing-axis.qmd).
+The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centred on S3. See [§2](2-the-sharingsparing-axis.qmd).
 
 #### S1 — Full sharing {#term-s1}
 
@@ -140,7 +140,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 #### Design levers {#term-design-levers}
 
-The adjustable choices a designer uses to settle the pressures, in three families: structural, land-and-ecology, and institutional, kept separable so each can be extended on its own. See [§3.3](3-design-pressures.qmd#sec-levers).
+The adjustable choices a designer uses to resolve the pressures, in three families: structural, land-and-ecology, and institutional, kept separable so each can be extended on its own. See [§3.3](3-design-pressures.qmd#sec-levers).
 
 ### 5.4 Restorative functions {#sec-terms-functions}
 

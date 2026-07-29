@@ -110,6 +110,10 @@ under **S**.
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [§5](5-terminology.qmd#term-ler)
 
+**Land sharing** — production continues on the ground the array occupies; the sharing wing of the axis (S1–S2). Borrowed from conservation ecology — [§5](5-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
+
+**Land sparing** — ground comes out of production so other ground can be left alone; the sparing wing of the axis (S4–S5). Borrowed from conservation ecology — [§5](5-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
+
 ## M
 
 **Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [§5](5-terminology.qmd#term-management-led) · [1.3 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
@@ -170,7 +174,7 @@ under **S**.
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [§5](5-terminology.qmd#term-screening)
 
-**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production, spares land by taking ground out of it, or neither; five positions centred on S3 — [§5](5-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
+**Sharing–Sparing Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centred on S3 — [§5](5-terminology.qmd#term-sharing-sparing) · [2. The Sharing–Sparing Axis](2-the-sharingsparing-axis.qmd)
 
 **Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [§5](5-terminology.qmd#term-siting-latitude) · [1.3 Siting latitude and the restoration mode shift](1-the-scale-transect.qmd#sec-siting-latitude)
 

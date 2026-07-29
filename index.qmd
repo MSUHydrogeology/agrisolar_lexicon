@@ -25,7 +25,7 @@ A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of t
 
 ## How the language works
 
-Three questions organize the document. **Scale** sets what is possible; **sharing and sparing** records what the project costs the land; **design pressures** name the forces that resolve the tradeoffs. Together they produce an archetype with particular restorative functions.
+Three questions organize the document. **Scale** sets what is possible; **land sharing and land sparing** records what the project costs the land; **design pressures** name the forces that resolve the tradeoffs. Together they produce an archetype with particular restorative functions.
 
 ![How the pieces fit. Scale, sharing–sparing, and the design pressures resolve into an archetype and the functions it carries, with regionality setting how hard each pressure pushes.](figures/fig_language_structure.svg)
 
@@ -49,16 +49,20 @@ what permitting it faces, and who manages the ground beneath the panels.
 
 Building-mounted arrays sit at the origin because they take no ground. Where capacity and acreage disagree, land area is the better guide to the design problem.
 
-### Sharing and sparing
+### Land sharing and land sparing
 
 The second question is what the array costs the land, and the accounting does not stop at the
-fence. Ground kept in production here is ground that need not be broken somewhere else; ground
-taken out of production here has to be made up elsewhere, or it goes unmade. That is the logic
-the [sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) borrows from conservation
-ecology's land-sharing and land-sparing debate [@green2005; @phalan2011], where the underlying
-question remains genuinely unsettled: farm gently everywhere, or intensively in some places and
-not at all in others. Five positions run from production continuing inside the array to
-production ending on ground that was doing damage off-site.
+fence. **Land sharing** keeps production going on the same ground the array occupies. **Land
+sparing** takes ground out of production so that other ground can be left alone. The pair comes
+from a long-running argument in conservation ecology [@green2005; @phalan2011], where the
+underlying question is genuinely unsettled: farm gently everywhere, or intensively in some places
+and not at all in others.
+
+The logic carries over to solar. Ground kept in production here is ground that need not be broken
+somewhere else; ground taken out of production here has to be made up elsewhere, or it goes
+unmade. The [sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) runs five positions on
+that logic, from production continuing inside the array to production ending on ground that was
+doing damage off-site.
 
 ::: {.position-table}
 | Position | What it records |
