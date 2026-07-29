@@ -78,7 +78,7 @@ The center is where most projects sit: ordinary ground becomes a power plant. A 
 
 ### Design pressures
 
-Scale and position describe a site; eight [design pressures](chapters/3-design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
+Scale and position describe a site; nine [design pressures](chapters/3-design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
 
 ![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](figures/fig_design_pressures.svg)
 
