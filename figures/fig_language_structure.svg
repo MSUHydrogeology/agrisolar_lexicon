@@ -12,6 +12,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .rt{font-size:15px;font-weight:600;fill:#2c2c2a}
 .rs{font-size:12px;fill:#5f5e5a}
 .fn{font-size:11px;fill:#3d3d3a}
+.gtw{font-size:10px;fill:#35887a}
+.gbo{font-size:10px;fill:#6f6d66}
+.gaw{font-size:10px;fill:#b5643a}
 .eyebrow{font-size:10.5px;font-weight:600;fill:#8a8880;letter-spacing:0.06em}
 .card{fill:none;stroke:#d3d1c7;stroke-width:1}
 .join{stroke:#b4b2a9;stroke-width:1.4;fill:none}
@@ -21,8 +24,14 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">
   <path d="M0,1 L9,5 L0,9 z" fill="#b4b2a9"/>
 </marker>
-<marker id="ap" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#C08A12"/>
+<marker id="apt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#35887a"/>
+</marker>
+<marker id="apa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#b5643a"/>
+</marker>
+<marker id="apb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#6f6d66"/>
 </marker>
 </defs>
 
@@ -72,20 +81,23 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="ct" x="602" y="80">Design pressures</text>
 <text class="cs" x="602" y="99">eight forces, genuinely opposed</text>
 
-<line x1="806" y1="146" x2="785" y2="146" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="795.5" y1="171.5" x2="780.6" y2="156.6" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="770" y1="182" x2="770" y2="161" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="744.5" y1="171.5" x2="759.4" y2="156.6" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="734" y1="146" x2="755" y2="146" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="744.5" y1="120.5" x2="759.4" y2="135.4" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="770" y1="110" x2="770" y2="131" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<line x1="795.5" y1="120.5" x2="780.6" y2="135.4" stroke="#C08A12" stroke-width="1.5" marker-end="url(#ap)"/>
-<circle cx="770" cy="146" r="6" fill="#C08A12" fill-opacity="0.25" stroke="#C08A12" stroke-width="1"/>
-<text class="cc" x="602" y="126">yield · cost · simplicity</text>
-<text class="cc" x="602" y="142">farming · restoration</text>
-<text class="cc" x="602" y="158">license · offtake · reversal</text>
-<text class="cc" x="602" y="184">Where the document takes</text>
-<text class="cc" x="602" y="198">sides, on purpose.</text>
+<path d="M790,114 A32,32 0 0 1 790,178 Z" fill="#d9e9e4"/>
+<path d="M790,114 A32,32 0 0 0 790,178 Z" fill="#f6e2d7"/>
+<line x1="790" y1="114" x2="790" y2="178" stroke="#9c9a92" stroke-width="0.8" stroke-dasharray="3 3"/>
+<line x1="820" y1="146" x2="803" y2="146" stroke="#35887a" stroke-width="1.5" marker-end="url(#apt)"/>
+<line x1="811.2" y1="167.2" x2="799.2" y2="155.2" stroke="#35887a" stroke-width="1.5" marker-end="url(#apt)"/>
+<line x1="811.2" y1="124.8" x2="799.2" y2="136.8" stroke="#35887a" stroke-width="1.5" marker-end="url(#apt)"/>
+<line x1="760" y1="146" x2="777" y2="146" stroke="#b5643a" stroke-width="1.5" marker-end="url(#apa)"/>
+<line x1="768.8" y1="167.2" x2="780.8" y2="155.2" stroke="#b5643a" stroke-width="1.5" marker-end="url(#apa)"/>
+<line x1="768.8" y1="124.8" x2="780.8" y2="136.8" stroke="#b5643a" stroke-width="1.5" marker-end="url(#apa)"/>
+<line x1="790" y1="176" x2="790" y2="159" stroke="#6f6d66" stroke-width="1.5" marker-end="url(#apb)"/>
+<line x1="790" y1="116" x2="790" y2="133" stroke="#6f6d66" stroke-width="1.5" marker-end="url(#apb)"/>
+<circle cx="790" cy="146" r="7" fill="#ffffff" stroke="#cfc8b8" stroke-width="0.8"/>
+<text class="gtw" x="602" y="124">restoration · license · reversal</text>
+<text class="gbo" x="602" y="139">farming · offtake</text>
+<text class="gaw" x="602" y="154">yield · cost · simplicity</text>
+<text class="cc" x="602" y="180">Three push toward restoration,</text>
+<text class="cc" x="602" y="194">three away, two either way.</text>
 
 <!-- ============ converge ============ -->
 <path class="join" d="M143 206 L143 228 Q143 238 153 238 L427 238"/>
