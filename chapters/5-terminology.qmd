@@ -234,7 +234,7 @@ Crop or livestock production within the array footprint (S1–S2). Crop response
 
 #### Rangevoltaics {#term-rangevoltaics}
 
-Grazing under and between panels, read here as [functional sharing](2-the-sharingsparing-axis.qmd#sec-positions) (S2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking.
+Grazing under and between panels, read here as [functional sharing](2-the-sharingsparing-axis.qmd#sec-positions) (S2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§1.3). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
 
 **Syn.:** solar grazing.
 

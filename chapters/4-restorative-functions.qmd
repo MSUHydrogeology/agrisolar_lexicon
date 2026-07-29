@@ -30,7 +30,7 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 
 **Where on the map.** Broadly available, because water moves through every site, but most *legible* where the ground layer is designed for it (S2–S5: grazing, prairie/buffer, restored marginal and retired ground) and least so under bare-ground or gravel management. Solar prairie strips are its characteristic siting-led case; managed perennial cover is its characteristic case at scale.
 
-**Evidence status.** The dryland microclimate-to-soil-moisture link is **verified** [@barrongafford2019; @sturchio2025; @pinos2026], though effect size is bounded at some sites [@kannenberg2023]. Evidence for infiltration, recharge, and stormwater effects at depth remains thinner [@yavari2022]. Perennial cover has stronger evidence for nutrient-load reduction than for whole water-balance change. Treat recharge claims as a field-measurement question rather than a presumed outcome.
+**Evidence status.** The dryland microclimate-to-soil-moisture link is **verified** [@barrongafford2019; @sturchio2025; @pinos2026], though effect size is bounded at some sites [@kannenberg2023]. Evidence for infiltration, recharge, and stormwater effects at depth remains thinner [@yavari2022]. Perennial cover has stronger evidence for nutrient-load reduction than for whole water-balance change: it cuts nutrient runoff in cropped landscapes by as much as 85%, and the avoided nitrogen and phosphorus loads from retiring corn-ethanol ground are quantified in [§2.1](2-the-sharingsparing-axis.qmd#sec-positions) [@sturchio2025croplands]. Treat recharge claims as a field-measurement question rather than a presumed outcome.
 
 ---
 

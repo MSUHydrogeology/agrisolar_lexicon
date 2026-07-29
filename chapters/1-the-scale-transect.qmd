@@ -38,13 +38,21 @@ These indicative bands fit the US Midwest and should be redrawn elsewhere. Not e
 
 ### 1.3 One practice, three design problems {#sec-grazing}
 
-Follow sheep grazing up the transect and one job becomes three. Sheep generally fit standard racking; goats, cattle, and horses often do not [@merheb2025].
+Follow sheep grazing up the transect and one job becomes three. Sheep generally fit standard racking; goats climb it and chew wiring, and cattle and horses are too large for standard clearances [@merheb2025], so the animal is settled before the scale question comes up.
 
-- **A1–A2, the farmer's own flock.** The array modifies an existing operation. Stocking density and carrying capacity must be calibrated to forage and weather, not taken from a universal rate.
-- **A3, grazing as a hired service.** The design must work for a grazier who does not live on site.
-- **A4–A5, grazing as logistics.** Water, gates, travel, and multi-site rotation become central.
+| Zone | Who grazes | Typical figures | The design problem |
+|:--|:--|:--|:--|
+| **A1–A2** | the farm's own flock | ~3 ewes/acre in New York and Michigan experience [@hartman2026]; 4–20 sheep/acre in rotational trials at Cornell | calibrating stocking to forage and weather rather than to a published rate |
+| **A3** | a contracted grazier | ~$300–500/acre/yr for vegetation management | making the design work for someone who does not live there |
+| **A4–A5** | a logistics enterprise | mowing medians across 54 utility-scale sites: $113/acre/yr at sheep-grazed sites, $121 at native-vegetation, $203 at turfgrass; herbicide $293 on gravel [@mccall2023] | water, gates, travel, and rotation between parcels that do not touch |
 
-Native and pollinator-friendly covers can cost more during establishment even where later operations compare well with turf [@mccall2023]. Quote grazing-cost figures from the primary table: secondary sources often confuse mowing at grazing sites with the cost of grazing itself.
+: Solar grazing across the transect. {#tbl-grazing}
+
+**Stocking density** (animals on the ground at one moment) and **carrying capacity** (what the forage feeds across a season) come apart as growth, use, and weather vary, which is why the A1–A2 figures are a range and not a rate.
+
+Establishment is the cost that surprises people. Per-activity costs at native and pollinator-friendly covers run *below* turfgrass, but total vegetation O&M came out slightly *higher*, because the first three to five years take more separate operations [@mccall2023]. Restorative ground cover is more expensive to establish and competitive afterward, so anyone arguing for it on cost savings should expect to meet an operator who has seen the establishment invoices.
+
+> *Citation caution.* These figures are widely misquoted with the activity labels transposed, reporting the mowing cost incurred *at* grazing sites as the cost *of* grazing. @stewart2025 give McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr. Go to @mccall2023 directly.
 
 “Solar grazing” without a zone can mean three different practices.
 

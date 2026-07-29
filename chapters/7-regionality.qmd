@@ -14,7 +14,7 @@ The grid market often determines the [zone](1-the-scale-transect.qmd#sec-zones) 
 
 #### Aridity {#sec-rg-aridity}
 
-Aridity can reverse the value of shade. In water-limited, high-radiation settings it can reduce evaporative demand and support crop yield; in humid and temperate settings it often reduces yield without a compensating water saving. Hydrologic design likewise shifts from moisture conservation and demand relief in dry regions to runoff, sediment, and nutrient interception in wet ones.
+Aridity can reverse the value of shade. In water-limited, high-radiation settings it can reduce evaporative demand and support crop yield; in humid and temperate settings it often reduces yield without a compensating water saving. A synthesis of 367 paired observations puts the turn near 30 °C ambient, below which shaded yields generally run negative [@merheb2025]. Hydrologic design likewise shifts from moisture conservation and demand relief in dry regions to runoff, sediment, and nutrient interception in wet ones.
 
 #### Latitude {#sec-rg-latitude}
 
