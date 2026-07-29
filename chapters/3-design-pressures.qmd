@@ -78,8 +78,4 @@ Levers change with scale. Read down a column for the choices available at that z
 
 Freedom shifts from hardware at the small end, to siting at A2–A3, to management and deal structure at scale. Read each cell as the latitude remaining in a lever, not a fixed fact about a zone.
 
-### Terms
-
-Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Pressures and levers](7-terminology.qmd#sec-terms-pressures), alongside every other term the document defines.
-
 ---

@@ -81,8 +81,4 @@ As projects grow, restoration changes instrument. Siting latitude falls while ma
 
 At utility scale, restorative practice is mainly ground cover and grazing; at small and mid scale it is mainly placement [@macknick2022; @boggis2020]. Latitude peaks at A2–A3, bounded by the property line at A1 and land assembly and grid access at A5. That is why siting-led forms such as [solar prairie strips](5-archetypes.qmd#arch-prairie-strips) and [marginal land solar](5-archetypes.qmd#arch-marginal) live in the middle zones.
 
-### Terms
-
-Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Scale](7-terminology.qmd#sec-terms-scale), alongside every other term the document defines.
-
 ---

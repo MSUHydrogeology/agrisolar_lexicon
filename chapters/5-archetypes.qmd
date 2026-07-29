@@ -228,8 +228,4 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 *Yielded:* some energy yield (sites are constrained).
 *Signature levers:* placement on reclaimed mine land, landfills, and brownfields [@hernandez2019]; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
-## Terms {#sec-arch-terms}
-
-Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Archetypes](7-terminology.qmd#sec-terms-archetypes), alongside every other term the document defines.
-
 ---
