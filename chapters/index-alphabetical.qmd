@@ -2,12 +2,12 @@
 
 Every defined or coined term in the lexicon, ordered A–Z. This is the
 alphabetical view of the [Terminology](7-terminology.qmd) chapter
-(§7), which holds the same set grouped by subject — use this one when you
+(§7), which holds the same set grouped by subject. Use this one when you
 know the word, that one when you want the neighborhood it belongs to.
 
 Each entry gives a short gloss and two links: **§7** for the definition, and,
 where a chapter develops the term, the section that does so. The built-in
-site search (top of every page) complements both — search finds a word
+site search (top of every page) complements both, since search finds a word
 anywhere in the prose, while this list is the curated set of terms the
 document actually defines.
 

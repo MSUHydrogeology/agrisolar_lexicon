@@ -2,7 +2,7 @@
 
 Definitions are grouped by subject and link to their fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
-![The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the five [restorative functions](4-restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg){#fig-terminology}
+![**Figure 7.1.** The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the five [restorative functions](4-restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg)
 
 ### 7.1 Scale {#sec-terms-scale}
 
@@ -164,7 +164,7 @@ Perennial, low-disturbance cover rebuilding soil organic carbon and aggregate st
 
 #### Biodiversity & habitat function {#term-fn-biodiversity}
 
-Habitat built from the ground layer up — floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix. Reachable across S2–S5, which is why it is a function and not a position. See [§4.3](4-restorative-functions.qmd#sec-fn-biodiversity).
+Habitat built from the ground layer up: floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix. Reachable across S2–S5, which is why it is a function and not a position. See [§4.3](4-restorative-functions.qmd#sec-fn-biodiversity).
 
 #### Microclimate & thermal–water buffering function {#term-fn-microclimate}
 
@@ -188,7 +188,7 @@ The field's usual word for what this lexicon calls a [restorative function](#ter
 
 #### SCALE footprint {#term-scale-footprint}
 
-A whole-project reading across four domains — Sustainable Communities, Agriculture, Landscapes, and Energy, each running from regeneration to depletion. Evaluative by design, but carrying direction rather than a pass mark. See [§4](4-restorative-functions.qmd#sec-scale).
+A whole-project reading across four domains, Sustainable Communities, Agriculture, Landscapes, and Energy, each running from regeneration to depletion. Evaluative by design, but carrying direction rather than a pass mark. See [§4](4-restorative-functions.qmd#sec-scale).
 
 ### 7.5 Archetypes {#sec-terms-archetypes}
 
@@ -292,7 +292,7 @@ Integration is also the line a design crosses to be restorative in the structura
 
 The zone can also act through *economics* rather than through hydrology or sightlines. @stid2025 document intentional fallowing of irrigated cropland **adjacent to** arrays, 968 ha across 58 utility-scale installations in California's Central Valley, about 27% of those arrays' own area, apparently funded by array revenue, and call the practice **solar fallowing** where the aim is reducing water use. The array changes what happens on ground it never occupies.
 
-Its multi-domain accounting — across Sustainable Communities, Agriculture, Landscapes, and Energy, is the [SCALE footprint](4-restorative-functions.qmd#sec-scale), introduced with the restorative functions (§4).
+Its multi-domain accounting across Sustainable Communities, Agriculture, Landscapes, and Energy is the [SCALE footprint](4-restorative-functions.qmd#sec-scale), introduced with the restorative functions (§4).
 
 #### Screening {#term-screening}
 

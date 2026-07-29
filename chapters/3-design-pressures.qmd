@@ -22,7 +22,7 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 
 Read the third column as the direction a pressure pushes, not as a verdict on anyone advocating it. Every one of the nine has someone arguing for it in good faith, and a site with no build cost does not get built.
 
-![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the grey wedges between them, so the two coloured groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-pressures}
+![**Figure 3.1.** Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg)
 
 ### 3.2 The conflicts worth naming {#sec-conflicts}
 
@@ -74,6 +74,6 @@ Levers change with scale. Read down a column for the choices available at that z
 | Offtake & interconnection | behind-the-meter | distribution edge | distribution / community | sub-transmission; developer PPA | transmission / wholesale |
 | Community-benefit structure | the household | good-neighbor scale | CBA / PILOT / subscription | PILOT + CBA customary | jurisdiction-scale |
 
-: Design levers across the scale transect — what each lever usually looks like at each zone, and how much room is left in it. A description of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
+: Design levers across the scale transect, showing what each lever usually looks like at each zone and how much room is left in it. A description of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
 
 Freedom shifts from hardware at the small end, to siting at A2–A3, to management and deal structure at scale. Read each cell as the latitude remaining in a lever, not a fixed fact about a zone.
