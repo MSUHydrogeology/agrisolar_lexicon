@@ -96,7 +96,7 @@ Ordinary ground converted with the farm operation ended: the same ground fact as
 
 #### Feasible wedge {#term-feasible-wedge}
 
-The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes, at A5 as land assembly and capital discipline remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§2.2](2-the-sharingsparing-axis.qmd#sec-wedge).
+The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes, at A5 as land assembly and build cost remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§2.2](2-the-sharingsparing-axis.qmd#sec-wedge).
 
 ### 7.3 Pressures and levers {#sec-terms-pressures}
 
@@ -106,35 +106,35 @@ Developed in [§3, Design Pressures](3-design-pressures.qmd).
 
 The competing forces every site must resolve. Unlike axes they have direction, they conflict, and real parties advocate for them. Eight are named. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Generation yield {#term-generation-yield}
+#### Energy yield {#term-energy-yield}
 
 Pressure: maximize energy per unit land. Pushes toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Capital discipline {#term-capital-discipline}
+#### Build cost {#term-build-cost}
 
 Pressure: minimize installed cost per watt. Pushes toward standard racking, low clearance, minimal ground preparation, conventional geometry. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Operational simplicity {#term-operational-simplicity}
+#### Operations and maintenance {#term-operations-maintenance}
 
-Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose capital discipline, since native seeding raises capex and lowers long-run opex. See [§3.1](3-design-pressures.qmd#sec-pressures).
+Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose build cost, since native seeding raises capex and lowers long-run opex. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Agricultural continuity {#term-agricultural-continuity}
+#### Agricultural production {#term-agricultural-production}
 
 Pressure: keep working land working. Pushes toward high clearance, equipment access, production [ground layers](#term-ground-layer), farmer contracts. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Restorative ambition {#term-restorative-ambition}
+#### Restorative goals {#term-restorative-goals}
 
 Pressure: make ecological, hydrological, and economic resilience a design objective co-equal with generation. The pressure this document exists to advance, and still a force among forces. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Social license {#term-social-license}
+#### Community acceptance and benefit {#term-community-acceptance}
 
 Pressure: secure and sustain community acceptance *and* community benefit, two forces that can come apart, held under one name because they have to be advanced together. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Offtake conformity {#term-offtake-conformity}
+#### Grid and market demands {#term-grid-market}
 
 Pressure: satisfy whoever is buying the power, the attributes, or the tax position. The channel through which outside parties push their requirements onto a design. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
-#### Decommissioning & reversibility {#term-decommissioning-pressure}
+#### End-of-life responsibility {#term-end-of-life}
 
 Pressure: minimize the residual footprint left after a 25–40 year asset life and preserve the option to return the ground to its prior use. For the end-of-life vocabulary itself, see [Decommissioning / Repowering / Reversibility](#term-decommissioning). See [§3.1](3-design-pressures.qmd#sec-pressures).
 
@@ -168,15 +168,15 @@ The array's reshaping of the near-surface and below-panel energy balance: shade 
 
 #### Community & economic function {#term-fn-community}
 
-The one socioeconomic function: the economic prosperity, livability, and health and equity a project builds for its host, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-social-license) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§4.5](4-restorative-functions.qmd#sec-fn-community).
+The one socioeconomic function: the economic prosperity, livability, and health and equity a project builds for its host, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§4.5](4-restorative-functions.qmd#sec-fn-community).
 
 #### Benefit range {#term-benefit-range}
 
-Where a function is actually used, which is not always the ground that produced it. Five ranges cover the biophysical functions: **on-site** (*in situ*), where point of production and point of use are the same ground; **adjacent** (*local proximal*), at roughly the distance a pollinator forages or a viewshed carries; **downstream** (*directional flow related*), carried by flow, so direction matters more than distance; **regional and global** (*global non-proximal*), across a basin, aquifer, habitat network, or the atmosphere; and **visited** (*user movement related*), where the benefit stays put and people travel to it. Distinct from the [influence zone](#term-footprint-influence), which is how far the array physically reaches: the two come apart in both directions. The [community and economic function](#term-fn-community) has no range at all, travelling by tenure, contract, and jurisdiction instead. Follows the providing-area and benefiting-area distinction in ecosystem-service research [@syrbe2012; @costanza2008]. Terms in italics are @costanza2008's. See [§4](4-restorative-functions.qmd#sec-benefit-range).
+Where a function is actually used, which is not always the ground that produced it. Five ranges cover the biophysical functions: **on-site** (*in situ*), where point of production and point of use are the same ground; **adjacent** (*local proximal*), at roughly the distance a pollinator forages or a viewshed carries; **downstream** (*directional flow related*), carried by flow, so direction matters more than distance; **regional and global** (*global non-proximal*), across a basin, aquifer, habitat network, or the atmosphere; and **visited** (*user movement related*), where the benefit stays put and people travel to it. Distinct from the [influence zone](#term-footprint-influence), which is how far the array physically reaches: the two come apart in both directions. The [community and economic function](#term-fn-community) has no range at all, travelling by tenure, contract, and jurisdiction instead. Follows the providing-area and benefiting-area distinction in ecosystem-service research [@syrbe2012; @costanza2008]. Terms in italics are @costanza2008's. See [§4.6](4-restorative-functions.qmd#sec-benefit-range).
 
 #### Displaced benefit {#term-displaced-benefit}
 
-The benefit of [land sparing](#term-s4), which is the ground *not* taken. It may sit in the next county or exist only as a development that did not happen, so it has no point of use to measure and rests on a counterfactual. Real, and unusually hard to verify, which is why sparing claims earn scrutiny (§2.2). See [§4](4-restorative-functions.qmd#sec-benefit-range).
+The benefit of [land sparing](#term-s4), which is the ground *not* taken. It may sit in the next county or exist only as a development that did not happen, so it has no point of use to measure and rests on a counterfactual. Real, and unusually hard to verify, which is why sparing claims earn scrutiny (§2.2). See [§4.6](4-restorative-functions.qmd#sec-benefit-range).
 
 #### Co-benefit {#term-cobenefit}
 
@@ -216,7 +216,7 @@ A restatement of the lexicon's indicative values for a particular region: capaci
 
 #### Design import {#term-design-import}
 
-The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Offtake conformity](#term-offtake-conformity) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§6.3](6-regionality.qmd#sec-rg-consequences).
+The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§6.3](6-regionality.qmd#sec-rg-consequences).
 
 #### Diffuse fraction {#term-diffuse-fraction}
 
@@ -255,7 +255,7 @@ Grazing under and between panels, read here as [functional sharing](2-the-sharin
 Solar development that co-prioritizes ecosystem function with generation through siting, layout, ground-layer design, operations, and a viable business model [@sturchio2023; @tolgyesi2023]. This lexicon treats its ecological ground layer as a [restorative function](4-restorative-functions.qmd), not an axis position. The framework favors repair of disturbed ground over conversion of intact native ecosystems [@sturchio2025croplands].
 
 ::: {.caution}
-**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [sharing–sparing axis](2-the-sharingsparing-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural continuity and restorative ambition (§3.2) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
+**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [sharing–sparing axis](2-the-sharingsparing-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural production and restorative goals (§3.2) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
 :::
 
 **Source:** @sturchio2023 — [Sources](sources.qmd).
@@ -292,11 +292,11 @@ Its multi-domain accounting — across Sustainable Communities, Agriculture, Lan
 
 #### Screening {#term-screening}
 
-The management of the array's outward visual presence: perimeter setbacks, vegetative buffers (hedgerows, tree/shrub belts), earthen berms, fencing treatment, and glint/glare control. It acts on the *visual* portion of the [Influence Zone](#term-footprint-influence). Screening is dual-function, since the same vegetative buffer that buys [social license](3-design-pressures.qmd#sec-pressures) can carry habitat and connectivity value, so it is pushed by both social license and restorative ambition, while costing generation (edge shade), land, and sometimes agricultural continuity; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows. Descriptive only: the lexicon names the lever, not a required buffer width, berm height, or setback.
+The management of the array's outward visual presence: perimeter setbacks, vegetative buffers (hedgerows, tree/shrub belts), earthen berms, fencing treatment, and glint/glare control. It acts on the *visual* portion of the [Influence Zone](#term-footprint-influence). Screening is dual-function, since the same vegetative buffer that buys [community acceptance](3-design-pressures.qmd#sec-pressures) can carry habitat and connectivity value, so it is pushed by both community acceptance and restorative goals, while costing generation (edge shade), land, and sometimes agricultural production; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows. Descriptive only: the lexicon names the lever, not a required buffer width, berm height, or setback.
 
 #### Community Benefit {#term-community-benefit}
 
-The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. Distinct from acceptance: benefit and acceptance can come apart, since benefit without a fair process can read as a bribe, so the [social license](3-design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent.
+The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. Distinct from acceptance: benefit and acceptance can come apart, since benefit without a fair process can read as a bribe, so the [community acceptance](3-design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent.
 
 #### Ground Layer {#term-ground-layer}
 
@@ -316,7 +316,7 @@ The low-value ground that [idled-land sparing](2-the-sharingsparing-axis.qmd#sec
 
 #### Ground Coverage Ratio (GCR) {#term-gcr}
 
-The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with generation yield and capital discipline; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§3.3).
+The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and build cost; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§3.3).
 
 #### Module Technology {#term-module-technology}
 

@@ -148,10 +148,11 @@ figure img,
 
 // ===== Design pressures (§3.1) =====
 // Banded by which way the pressure pushes on restoration, in three states
-// rather than two. Half the pressures do not have a consistent sign:
+// rather than two. A third of the pressures do not have a consistent sign:
 // agricultural continuity carries sharing and forecloses ecological ground
 // layers, offtake conformity spreads good practice and locks in bad fits, and
-// operational simplicity flips with the time horizon. So "both" gets its own
+// operations and maintenance flips with the time horizon, and policy points whichever
+// way the jurisdiction points. So "either way" gets its own
 // band and the cell names the condition that decides it.
 //
 // Reversibility is deliberately NOT in that band. What it asks for — less
@@ -179,14 +180,9 @@ figure img,
   background-color: #d3d1c7;
   color: #2c2c2a;
 }
-.pressure-table tbody tr:nth-child(1) td,
-.pressure-table tbody tr:nth-child(2) td,
-.pressure-table tbody tr:nth-child(3) td { background-color: #d5e7e2; color: #2c2c2a; } // toward
-.pressure-table tbody tr:nth-child(4) td,
-.pressure-table tbody tr:nth-child(5) td { background-color: #efeeea; color: #2c2c2a; } // both
-.pressure-table tbody tr:nth-child(6) td,
-.pressure-table tbody tr:nth-child(7) td,
-.pressure-table tbody tr:nth-child(8) td { background-color: #f4ded2; color: #2c2c2a; } // away
+.pressure-table tbody tr:nth-child(-n+3) td { background-color: #d5e7e2; color: #2c2c2a; } // toward
+.pressure-table tbody tr:nth-child(n+4):nth-child(-n+6) td { background-color: #efeeea; color: #2c2c2a; } // either way
+.pressure-table tbody tr:nth-child(n+7) td { background-color: #f4ded2; color: #2c2c2a; } // away
 
 .pressure-table tbody td a { color: #1f4f75; }
 

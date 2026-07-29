@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="500" viewBox="0 0 880 500" role="img">
+<title>Where each restorative function applies</title>
+<desc>Benefit ranges drawn as distance from the array: on-site, adjacent, and regional and global as concentric bands, with downstream shown as a directional flow leaving the site and visited as movement of people toward it. Two cases sit off the distance scale entirely: the displaced benefit of land sparing, which has no point of use, and the community and economic function, which travels by tenure, contract, and jurisdiction.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.bt{font-size:13px;font-weight:600;fill:#2c2c2a}
+.bs{font-size:10.5px;fill:#5f5e5a}
+.it{font-size:9.5px;font-style:italic;fill:#8a8880}
+.eyebrow{font-size:10px;font-weight:600;fill:#8a8880;letter-spacing:0.06em}
+.pt{font-size:11.5px;font-weight:600}
+.b1{fill:#eae7dd;stroke:#cfc8b8;stroke-width:1}
+.b2{fill:#f4f2eb;stroke:#cfc8b8;stroke-width:1}
+.b3{fill:#faf9f5;stroke:#cfc8b8;stroke-width:1}
+.panel{fill:none;stroke:#b4b2a9;stroke-width:1}
+.on{fill:#8a5a2b}.adj{fill:#4e8a3f}.reg{fill:#2f8f9a}.dwn{fill:#2f77bf}.vis{fill:#c8871f}
+@media (prefers-color-scheme:dark){
+  .bt{fill:#e8e6dd}.bs{fill:#9c9a92}.it{fill:#75736c}.eyebrow{fill:#75736c}
+  .b1{fill:#2f2f2c;stroke:#5f5e5a}.b2{fill:#272725;stroke:#5f5e5a}.b3{fill:#201f1e;stroke:#5f5e5a}
+  .panel{stroke:#6f6d66}
+  .on{fill:#bd9161}.adj{fill:#82bd70}.reg{fill:#5fb8c0}.dwn{fill:#6aa6e0}.vis{fill:#e0b45a}
+}
+</style>
+
+<defs>
+<marker id="flow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+  <path d="M0,1 L9,5 L0,9 z" fill="#2f77bf"/>
+</marker>
+<marker id="visit" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">
+  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#c8871f"/>
+</marker>
+</defs>
+
+<!-- ===== concentric bands ===== -->
+<circle class="b3" cx="300" cy="250" r="200"/>
+<circle class="b2" cx="300" cy="250" r="120"/>
+<circle class="b1" cx="300" cy="250" r="52"/>
+
+<!-- downstream: a directional flow that leaves the site entirely -->
+<path d="M325 275 Q432 352 548 434" stroke="#2f77bf" stroke-width="13" stroke-opacity="0.18" fill="none" stroke-linecap="round"/>
+<path d="M325 275 Q432 352 540 428" stroke="#2f77bf" stroke-width="1.8" fill="none" marker-end="url(#flow)"/>
+<text class="pt dwn" x="447" y="326">downstream</text>
+<text class="it" x="447" y="340">carried by flow, so direction</text>
+<text class="it" x="447" y="352">matters more than distance</text>
+
+<!-- visited: the benefit stays put and people come to it -->
+<line x1="26" y1="236" x2="90" y2="236" stroke="#c8871f" stroke-width="1.6" marker-end="url(#visit)"/>
+<line x1="26" y1="264" x2="90" y2="264" stroke="#c8871f" stroke-width="1.6" marker-end="url(#visit)"/>
+<text class="pt vis" x="24" y="214">visited</text>
+<text class="it" x="24" y="292">the benefit stays put</text>
+<text class="it" x="24" y="304">and people travel to it</text>
+
+<!-- the array -->
+<rect x="272" y="234" width="56" height="32" rx="3" fill="#ffffff" stroke="#5f5e5a" stroke-width="1.2"/>
+<line x1="281" y1="242" x2="281" y2="258" stroke="#8a8880" stroke-width="1"/>
+<line x1="293" y1="242" x2="293" y2="258" stroke="#8a8880" stroke-width="1"/>
+<line x1="305" y1="242" x2="305" y2="258" stroke="#8a8880" stroke-width="1"/>
+<line x1="317" y1="242" x2="317" y2="258" stroke="#8a8880" stroke-width="1"/>
+
+<!-- band labels, stacked up the vertical axis -->
+<text class="pt reg" x="300" y="78"  text-anchor="middle">regional and global</text>
+<text class="it"     x="300" y="92"  text-anchor="middle">basin · aquifer · habitat network · atmosphere</text>
+
+<text class="pt adj" x="300" y="152" text-anchor="middle">adjacent</text>
+<text class="it"     x="300" y="166" text-anchor="middle">pollination outward · viewshed inward</text>
+
+<text class="pt on"  x="300" y="214" text-anchor="middle">on-site</text>
+<text class="it"     x="300" y="228" text-anchor="middle">soil · moisture · microclimate</text>
+
+<text class="eyebrow" x="300" y="482" text-anchor="middle">DISTANCE FROM THE ARRAY</text>
+
+<!-- ===== off the distance scale ===== -->
+<line x1="590" y1="40" x2="590" y2="460" stroke="#cfc8b8" stroke-width="1" stroke-dasharray="4 4"/>
+<text class="eyebrow" x="610" y="58">OFF THE DISTANCE SCALE</text>
+
+<rect class="panel" x="610" y="80" width="256" height="122" rx="7" stroke-dasharray="5 4"/>
+<text class="bt" x="630" y="108">Displaced</text>
+<text class="bs" x="630" y="128">The benefit of land sparing is the</text>
+<text class="bs" x="630" y="144">ground not taken. It may be in the next</text>
+<text class="bs" x="630" y="160">county, or exist only as a development</text>
+<text class="bs" x="630" y="176">that did not happen.</text>
+<text class="it" x="630" y="192">No point of use to measure.</text>
+
+<rect class="panel" x="610" y="230" width="256" height="164" rx="7" stroke="#c8871f"/>
+<text class="bt" x="630" y="258">Community and economic</text>
+<text class="bs" x="630" y="278">Travels along tenure, contract, and</text>
+<text class="bs" x="630" y="294">jurisdiction rather than outward from</text>
+<text class="bs" x="630" y="310">the array.</text>
+<line x1="630" y1="330" x2="706" y2="330" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="716" y="333">the lease</text>
+<line x1="630" y1="352" x2="706" y2="352" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="716" y="355">the tax roll</text>
+<line x1="630" y1="374" x2="706" y2="374" stroke="#c8871f" stroke-width="1.4" marker-end="url(#visit)"/>
+<text class="it" x="716" y="377">the subscription</text>
+
+<text class="it" x="610" y="424">Asking how far either carries is the wrong question.</text>
+<text class="it" x="610" y="438">For the first, ask whether the alternative was real.</text>
+<text class="it" x="610" y="452">For the second, ask along which channel, and to whom.</text>
+</svg>

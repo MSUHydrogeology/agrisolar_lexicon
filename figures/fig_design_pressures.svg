@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="622" viewBox="0 0 760 622" role="img">
 <title>Eight design pressures converging on one site, arranged by which way they push on restoration</title>
-<desc>Eight design pressures drawn as arrows converging on a central disc labelled one site's resolution. The field is split down the middle: the right half is tinted for pressures that push toward restoration and holds restorative ambition, social license, and decommissioning and reversibility; the left half is tinted for pressures that push away and holds generation yield, capital discipline, and operational simplicity. Agricultural continuity and offtake conformity sit exactly on the dividing line, at top and bottom, because their direction is conditional rather than fixed: agricultural continuity carries sharing while foreclosing ecological ground layers, and offtake conformity spreads good practice or locks in a bad fit depending on what the buyer scores. Operational simplicity is annotated as flipping toward after establishment. All arrows are the same length; the figure claims a direction, not a magnitude.</desc>
+<desc>Eight design pressures drawn as arrows converging on a central disc labelled one site's resolution. The field is split down the middle: the right half is tinted for pressures that push toward restoration and holds restorative goals, community acceptance, and decommissioning and reversibility; the left half is tinted for pressures that push away and holds energy yield, build cost, and operations and maintenance. Agricultural production and grid and market demands sit exactly on the dividing line, at top and bottom, because their direction is conditional rather than fixed: agricultural production carries sharing while foreclosing ecological ground layers, and grid and market demands spreads good practice or locks in a bad fit depending on what the buyer scores. Operations and maintenance is annotated as flipping toward after establishment. All arrows are the same length; the figure claims a direction, not a magnitude.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .nm{font-size:13.5px;font-weight:600;fill:#3d3d3a}
@@ -30,23 +30,23 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line class="tw" x1="572" y1="300" x2="438" y2="300" marker-end="url(#mtw)"/>
 <text class="nm" x="602" y="294" text-anchor="start">Restorative</text><text class="nm" x="602" y="310" text-anchor="start">ambition</text>
 <line class="tw" x1="516" y1="164" x2="421" y2="259" marker-end="url(#mtw)"/>
-<text class="nm" x="541" y="143" text-anchor="start">Social license</text>
+<text class="nm" x="541" y="143" text-anchor="start">Community acceptance and benefit</text>
 <line class="tw" x1="516" y1="436" x2="421" y2="341" marker-end="url(#mtw)"/>
 <text class="nm" x="541" y="455" text-anchor="start">Decommissioning &amp;</text><text class="nm" x="541" y="471" text-anchor="start">reversibility</text>
 
 <!-- conditional: drawn on the dividing line itself -->
 <line class="bo" x1="380" y1="108" x2="380" y2="242" marker-end="url(#mbo)"/>
-<text class="nm" x="380" y="72" text-anchor="middle">Agricultural continuity</text>
+<text class="nm" x="380" y="72" text-anchor="middle">Agricultural production</text>
 <line class="bo" x1="380" y1="492" x2="380" y2="358" marker-end="url(#mbo)"/>
-<text class="nm" x="380" y="542" text-anchor="middle">Offtake conformity</text>
+<text class="nm" x="380" y="542" text-anchor="middle">Grid and market demands</text>
 
 <!-- away -->
 <line class="aw" x1="244" y1="164" x2="339" y2="259" marker-end="url(#maw)"/>
-<text class="nm" x="219" y="143" text-anchor="end">Generation yield</text>
+<text class="nm" x="219" y="143" text-anchor="end">Energy yield</text>
 <line class="aw" x1="188" y1="300" x2="322" y2="300" marker-end="url(#maw)"/>
-<text class="nm" x="148" y="304" text-anchor="end">Capital discipline</text>
+<text class="nm" x="148" y="304" text-anchor="end">Build cost</text>
 <line class="aw" x1="244" y1="436" x2="339" y2="341" marker-end="url(#maw)"/>
-<text class="nm" x="219" y="455" text-anchor="end">Operational simplicity</text>
+<text class="nm" x="219" y="455" text-anchor="end">Operations and maintenance</text>
 <text class="fn" x="219" y="471" text-anchor="end" fill="#35887a">flips toward after establishment</text>
 
 <!-- the site -->

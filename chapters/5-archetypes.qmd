@@ -42,7 +42,7 @@ The crowding at A3 is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wed
 
 Barnyard shelter solar places a modest array above the yard or paddock the farm's own animals already use. It provides shade and shelter while offsetting the parlor, cold store, or well pump. The same farmer holds the animals, array, and labor, but the array serves the farm rather than the grid; concentrated shade also concentrates manure and wear.
 
-*Dominant pressures: agricultural continuity, operational simplicity. Yielded: generation at scale, since the array is sized to the farm rather than the grid.*
+*Dominant pressures: agricultural production, operations and maintenance. Yielded: generation at scale, since the array is sized to the farm rather than the grid.*
 
 **West Central Research and Outreach Center, Morris, Minnesota**, a University of Minnesota dairy where a 30-kilowatt array was raised over the pasture in 2018 to shade thirty to forty grazing cows and power the milking equipment; the shaded herd ran about a degree cooler and panted less, while the same panels carried the parlor's load, a working demonstration that shelter and generation can sit together on one small farm.
 
@@ -63,7 +63,7 @@ Barnyard shelter solar places a modest array above the yard or paddock the farm'
 
 Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels raised and spaced for their light and work needs. Its geometry is tuned to a crop and climate: excess shade cuts yield, while in hot, dry settings it can reduce heat and water stress [@barrongafford2019]. The form succeeds only where the crop still pays.
 
-*Dominant pressures: agricultural continuity, social license. Yielded: some generation and capital, to the clearance and spacing the crop demands.*
+*Dominant pressures: agricultural production, community acceptance. Yielded: some generation and capital, to the clearance and spacing the crop demands.*
 
 **Jack's Solar Garden, Colorado** — the largest commercial agrivoltaics research site in the country: 1.2 megawatts of tracking panels over four acres where partner farmers grow chard, greens, and tomatoes among the rows, a living laboratory for NREL, Colorado State, and University of Arizona researchers.
 
@@ -84,7 +84,7 @@ Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels ra
 
 Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. The same conditions that made the parcel marginal can make solar costly, through rock, flood risk, or a long interconnect; the income must clear that penalty.
 
-*Dominant pressures: farm economic resilience, capital discipline. Yielded: some generation, since marginal ground is rarely shaped for output.*
+*Dominant pressures: farm economic resilience, build cost. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
 **Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working. *This particular site reads as [S2](2-the-sharingsparing-axis.qmd#sec-positions), not S4: the siting decision was the marginal corner, but production never stopped there, since the herd still grazes beneath the panels. It is the archetype's sharing variant, and the reading rule in §2.1 settles it.*
 
@@ -105,7 +105,7 @@ Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet re
 
 Solar prairie strips pair panels with deep-rooted prairie placed where a field sheds water: contours, low draws, wet corners, and wetland edges. The planting slows runoff and holds sediment and nutrients; the array gives it a durable revenue stream. STRIPS research found that converting about a tenth of a field to prairie in the right places can cut soil loss by more than 90% [@schulte2017]. This is a parcel-scale form where clean water is valued, not a utility-scale template.
 
-*Dominant pressures: restorative ambition, social license. Yielded: a little generation, to the prairie.*
+*Dominant pressures: restorative goals, community acceptance. Yielded: a little generation, to the prairie.*
 
 **Ramsey Renewable Station, Minnesota** — 3.4 megawatts of solar and storage whose native ground layer is the stormwater system itself: on that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all.
 
@@ -126,7 +126,7 @@ Solar prairie strips pair panels with deep-rooted prairie placed where a field s
 
 Regenerative solar grazing uses a planned flock rotation to manage vegetation, cycle nutrients, and support ground cover beneath a utility-scale array. It is usually a contracted service rather than the landowner's own operation, with fences, gates, clearance, and water points setting the rotation. The plant's mowing calendar and the shepherd's flock calendar must be reconciled. Grazing can reach cost parity with mowing [@mccall2023]; well-managed native understory can also improve soil carbon [@krasner2025].
 
-*Dominant pressures: generation yield, operational simplicity. Yielded: the farm's own agricultural continuity, since the grazing is a tenancy rather than the operation.*
+*Dominant pressures: energy yield, operations and maintenance. Yielded: the farm's own agricultural production, since the grazing is a tenancy rather than the operation.*
 
 **Aurora Solar, Minnesota** — 150 megawatts of generation across sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory: vegetation management as a grazing tenancy, at utility scale, rather than the landowner's own farm.
 
@@ -147,7 +147,7 @@ Regenerative solar grazing uses a planned flock rotation to manage vegetation, c
 
 Water-sustainability solar retires irrigated demand above an overdrawn aquifer [@stid2025]. It is credible only where the overdraft is measured and governance keeps the saved water from being pumped elsewhere [@zwickle2021], preferably on drainage-impaired, salt-affected, or otherwise marginal irrigated ground. Food production is deliberately given up; this is a regional form because the impairment must be regional too.
 
-*Dominant pressures: restorative ambition (a water-quantity target), capital discipline. Yielded: agricultural production, by design.*
+*Dominant pressures: restorative goals (a water-quantity target), build cost. Yielded: agricultural production, by design.*
 
 **Westlands Solar Park, San Joaquin Valley, California**, part of a plan to convert up to ~136,000 acres of drainage-impaired, previously-irrigated land to solar and storage under California's Sustainable Groundwater Management Act; because the panels use no water, retiring the fields eases the overdraft that irrigated farming had driven [@stid2022]. *Figures are developer- and program-reported; see [Sources](sources.qmd).*
 
@@ -176,56 +176,56 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 
 [A2](1-the-scale-transect.qmd#sec-zones)–[A4](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [agricultural continuity](3-design-pressures.qmd#sec-pressures), [generation yield](3-design-pressures.qmd#sec-pressures).
-*Yielded:* [capital discipline](3-design-pressures.qmd#sec-pressures) (frameless glass–glass modules, more posts per watt), land-use density.
+*Dominant pressures:* [agricultural production](3-design-pressures.qmd#sec-pressures), [energy yield](3-design-pressures.qmd#sec-pressures).
+*Yielded:* [build cost](3-design-pressures.qmd#sec-pressures) (frameless glass–glass modules, more posts per watt), land-use density.
 *Signature levers:* vertical east–west [module technology](7-terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
 
 ### Community-Solar Pollinator Array {#arch-community-solar}
 
 [A3](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [social license](3-design-pressures.qmd#sec-pressures), [restorative ambition](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [offtake conformity](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel [@epri2021]).
-*Yielded:* some [operational simplicity](3-design-pressures.qmd#sec-pressures) during the multi-year establishment.
+*Dominant pressures:* [community acceptance](3-design-pressures.qmd#sec-pressures), [restorative goals](3-design-pressures.qmd#sec-pressures) with a pollinator/biodiversity service target, [grid and market demands](3-design-pressures.qmd#sec-pressures) (community-solar subscribers plus pollinator/habitat certification as the buying-side channel [@epri2021]).
+*Yielded:* some [operations and maintenance](3-design-pressures.qmd#sec-pressures) during the multi-year establishment.
 *Signature levers:* whole-site native [ground-layer](7-terminology.qmd#term-ground-layer) composition, seeded establishment, mowing/grazing timing set for bloom [@blaydes2022].
 
 ### Native-Grassland Utility Array {#arch-native-grassland}
 
 [A4](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)** · *[management-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* generation yield, restorative ambition (grassland restoration [@walston2025]).
-*Yielded:* agricultural continuity.
+*Dominant pressures:* energy yield, restorative goals (grassland restoration [@walston2025]).
+*Yielded:* agricultural production.
 *Signature levers:* native seed mix, deferred/rotational mowing, soil-carbon establishment [@krasner2025; @carvalho2024]. The characteristic large-scale [convergence case](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
 ### Recharge Enhancement Array {#arch-recharge}
 
 [A2](1-the-scale-transect.qmd#sec-zones)–[A3](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [restorative ambition](3-design-pressures.qmd#sec-pressures) (a water-quantity target), farm economic resilience.
-*Yielded:* some [generation yield](3-design-pressures.qmd#sec-pressures) (corners are small and awkwardly shaped).
+*Dominant pressures:* [restorative goals](3-design-pressures.qmd#sec-pressures) (a water-quantity target), farm economic resilience.
+*Yielded:* some [energy yield](3-design-pressures.qmd#sec-pressures) (corners are small and awkwardly shaped).
 *Signature levers:* placement on ground already out of production where infiltration can be increased, characteristically the dry corners a center-pivot never reaches, with ground-layer and grading chosen to move rainfall downward rather than off [@yavari2022]. The supply-side counterpart to [water-sustainability solar](#arch-water): where that one subtracts demand at scale, this one adds recharge on ground already out of production, and the pivot circle keeps farming beside it. **Emerging rather than established.** Kansas Geological Survey, Kansas State, and Michigan State researchers are testing the approach over the Ogallala; it is included as a named pathway to watch, not a documented recurring form.
 
 ### Linear Infrastructure Array {#arch-linear}
 
 [A3](1-the-scale-transect.qmd#sec-zones)–[A4](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [capital discipline](3-design-pressures.qmd#sec-pressures) (land already disturbed and often already controlled), [social license](3-design-pressures.qmd#sec-pressures) (prime fields left untouched).
-*Yielded:* [generation yield](3-design-pressures.qmd#sec-pressures) and [operational simplicity](3-design-pressures.qmd#sec-pressures), since a corridor is a costly shape to build and maintain.
+*Dominant pressures:* [build cost](3-design-pressures.qmd#sec-pressures) (land already disturbed and often already controlled), [community acceptance](3-design-pressures.qmd#sec-pressures) (prime fields left untouched).
+*Yielded:* [energy yield](3-design-pressures.qmd#sec-pressures) and [operations and maintenance](3-design-pressures.qmd#sec-pressures), since a corridor is a costly shape to build and maintain.
 *Signature levers:* placement along highway, rail, pipeline, and transmission easements; mounting specified for the wind and shadow conditions of a corridor; ground layer doubling as verge management. The geometry is the archetype: exceptionally long, narrow bands, so a strip a hundred feet wide and a mile long behaves nothing like a block of the same acreage. Its edge-to-area ratio is extreme, which is what makes it interesting for connectivity and hazardous for edge effects (see [influence zone](7-terminology.qmd#term-footprint-influence)), and it uses land already fragmented by the infrastructure beside it.
 
 ### Ag-Industrial Microgrid Array {#arch-microgrid}
 
 [A3](1-the-scale-transect.qmd#sec-zones)–[A4](1-the-scale-transect.qmd#sec-zones) · **[S3](2-the-sharingsparing-axis.qmd#sec-positions)–[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* [offtake conformity](3-design-pressures.qmd#sec-pressures) in its purest form, since the load *is* the offtake, and farm economic resilience.
-*Yielded:* [restorative ambition](3-design-pressures.qmd#sec-pressures) on the ground layer, which is rarely the point at an industrial site.
+*Dominant pressures:* [grid and market demands](3-design-pressures.qmd#sec-pressures) in its purest form, since the load *is* the offtake, and farm economic resilience.
+*Yielded:* [restorative goals](3-design-pressures.qmd#sec-pressures) on the ground layer, which is rarely the point at an industrial site.
 *Signature levers:* siting against a heavy on-farm load such as grain drying, cold storage, a feedlot, or a processing complex, with battery storage sized to shave peaks, ride through outages, or arbitrage time-of-use rates. It is the one archetype organized around *when* power is used rather than what the ground does, and it is where the [community & economic function](4-restorative-functions.qmd#sec-fn-community) shows up as resilience rather than as rent.
 
 ### Brightfield / Reclaimed-Land Array {#arch-brightfield}
 
 [A3](1-the-scale-transect.qmd#sec-zones)–[A5](1-the-scale-transect.qmd#sec-zones) · **[S4](2-the-sharingsparing-axis.qmd#sec-positions)** · *[siting-led](1-the-scale-transect.qmd#sec-siting-latitude)*
 
-*Dominant pressures:* capital discipline (uniformly low-value ground), social license (reuse of degraded land).
-*Yielded:* some generation yield (sites are constrained).
+*Dominant pressures:* build cost (uniformly low-value ground), community acceptance (reuse of degraded land).
+*Yielded:* some energy yield (sites are constrained).
 *Signature levers:* placement on reclaimed mine land, landfills, and brownfields [@hernandez2019]; remediation constraints on foundations and ground layer. The standing [S4-at-A5 exception](2-the-sharingsparing-axis.qmd#sec-wedge) (§2.2).
 
 ## Terms {#sec-arch-terms}

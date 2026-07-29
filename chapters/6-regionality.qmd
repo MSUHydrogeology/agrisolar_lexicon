@@ -47,7 +47,7 @@ Read each row as a starting hypothesis, not an assignment. Counterexamples are w
 
 ### 6.3 What follows {#sec-rg-consequences}
 
-The pressures are constant but their weights are not. Designs should differ when resource, grid, crop, or water conditions differ. The characteristic failure is importing a resolution from another region, often through an [offtake-conformity](7-terminology.qmd#term-offtake-conformity) rule that travels farther than the evidence behind it.
+The pressures are constant but their weights are not. Designs should differ when resource, grid, crop, or water conditions differ. The characteristic failure is importing a resolution from another region, often through an [offtake-conformity](7-terminology.qmd#term-grid-market) rule that travels farther than the evidence behind it.
 
 What the array replaces is itself a regional fact, and it changes what a sparing argument even means. Nationally, cropland is the dominant thing US solar has displaced. In New York it is not: of utility-scale solar built to date, 48% displaced pasture and hay, 38% cultivated crops, and 11% forest [@gallaher2026]. That puts forest conversion and grassland bird habitat at the center of a conversation that in Iowa would be about row crops and nutrient export. A position on the axis travels between regions; what sits on the other side of the decision does not.
 

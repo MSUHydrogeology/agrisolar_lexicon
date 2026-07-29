@@ -8,19 +8,11 @@ Zone and position tell you where a project sits. **Restorative functions** name 
 - **Microclimate** (§4.4) — shade, temperature, and moisture right at the ground
 - **Community and economy** (§4.5) — what the people hosting it actually get
 
-**Functions are not positions.** A project occupies one position but can deliver several functions. Pollinator habitat and native grassland, for example, are reachable under grazing (S2), ordinary conversion (S3), and spared or retired ground (S4–S5). Positions are rows; functions are columns. The functions are outcomes, distinct from the pressures that push and the levers that act. Four concern land; community and economy concerns the people hosting it. This is a palette, not a scorecard: reachability depends on site and design, and no project is expected to maximize every function.
+**A function is not a position on the sharing–sparing axis.** A project holds exactly one position, which records what happened to agricultural production on its ground (§2). It can deliver several functions at once, and the same function turns up at many different positions: pollinator habitat is reachable under grazing (S2), on ordinary converted ground (S3), and on spared or retired ground (S4–S5) alike. That is why habitat is a function and not a sixth position. Functions are outcomes, which also separates them from the pressures that push on a site and the levers that act on it. Treat the five as a palette rather than a scorecard, since what a site can reach depends on its ground and its design, and no project is expected to deliver all of them.
 
 **A note on "co-benefits."** The field usually calls these co-benefits. The word is worth handling with care: it is an umbrella term with acknowledged definitional ambivalence, and its grammar quietly demotes what it names, since a *co-*benefit is something that arrives alongside the real objective [@mayrhofer2016]. That is the opposite of what this document argues. The functions below are named as objectives, which is why the lexicon says *restorative function* and keeps *co-benefit* for describing how others frame the same ground.
 
 Each section sets out mechanism, design dependencies, which sites can deliver it, its point of use, and evidence status.
-
----
-
-## The SCALE footprint {#sec-scale}
-
-SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes, and Energy**, each from regeneration to depletion. Communities aligns with the community and economic function; Landscapes with the biophysical functions; Agriculture with continuity and the sharing–sparing axis; Energy with the design pressures. The reading is evaluative, but it has no pass mark or threshold (§8, issue 5).
-
-![The SCALE footprint: a project's influence read across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes, each running from regeneration at the center to depletion at the rim. The reading is evaluative by design, which is what *restorative* commits the document to, but it is a direction of travel rather than a pass mark; no threshold line is drawn (§8, issue 5). The polygon shown is a worked example.](../figures/fig_scale_footprint.svg){#fig-scale}
 
 ---
 
@@ -39,8 +31,6 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 ::: {.evidence}
 **Evidence status.** The dryland microclimate-to-soil-moisture link is **verified** [@barrongafford2019; @sturchio2025; @pinos2026], though effect size is bounded at some sites [@kannenberg2023]. Evidence for infiltration, recharge, and stormwater effects at depth remains thinner [@yavari2022]. Perennial cover has stronger evidence for nutrient-load reduction than for whole water-balance change: it cuts nutrient runoff in cropped landscapes by as much as 85%, and the avoided nitrogen and phosphorus loads from retiring corn-ethanol ground are quantified in [§2.1](2-the-sharingsparing-axis.qmd#sec-positions) [@sturchio2025croplands]. Treat recharge claims as a field-measurement question rather than a presumed outcome.
 :::
-
----
 
 ### 4.2 Soil & carbon function {#sec-fn-soil}
 
@@ -86,8 +76,6 @@ SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes,
 **Evidence status.** The physics is **verified**, and so is the dryland benefit: agrivoltaic and ecovoltaic microclimates redistribute radiation and buffer temperature and moisture [@sturchio2023; @sturchio2025; @pinos2026; @barrongafford2019], water-use efficiency rises under shaded pasture [@adeh2018], and modeling reproduces the soil-moisture response [@wu2022]. The buffering is not uniform in the way the dryland framing implies: across reported sites the soil-moisture gain rises with annual precipitation rather than falling with it, and module cooling strengthens with ambient temperature, reaching about 10 °C over vegetated ground in hot climates [@merheb2025]. Crop-facing magnitudes stay **climate- and crop-conditional**.
 :::
 
----
-
 ### 4.5 Community & economic function {#sec-fn-community}
 
 The one function that is not about the land, and the [SCALE](#sec-scale) **Communities** domain read as an outcome. The other four ask what the ground can provide. This one asks what the people hosting the project actually get. It is the result that the [social-license pressure](3-design-pressures.qmd#sec-pressures) and the [community-benefit lever](7-terminology.qmd#term-community-benefit) are aiming at, not another name for them. Three things sit inside it: **economic prosperity**, meaning durable local income and tax base; **livability**, meaning whether people can live alongside the thing and had a real say in it; and **health & equity**, meaning whether the burdens and the benefits land on the same people.
@@ -123,11 +111,13 @@ A project can score well on one of these and badly on the rest. Naming them sepa
 
 ---
 
-## Production and use are not the same place {#sec-benefit-range}
+## 4.6 Where each function applies {#sec-benefit-range}
 
 A function is produced in one place and used in another, and the two are frequently not the same ground. Ecosystem-service research treats this as its central spatial problem: the area that *provides* a service and the area that *benefits* from it differ often enough that they have to be mapped separately [@syrbe2012]. @costanza2008 sorts services by exactly that relation, running from those used where they are made to those whose benefit does not depend on proximity at all. Agrisolar inherits the structure, and it matters here for a practical reason. A project can be genuinely restorative in ways its own operator never sees a return from, and can deliver nothing where the case for it was argued.
 
 The lexicon calls a function's answer to this its **benefit range**. It is not the [influence zone](7-terminology.qmd#term-footprint-influence), which is how far the array physically reaches. The two come apart in both directions, since relieving an aquifer is felt well outside any influence zone, and an array's influence extends over ground that gains nothing from it.
+
+![Where each function applies. The concentric bands are distance from the array. Downstream is directional, following the water rather than the radius, and visited is the one range where the benefit stays put and people travel to it. The displaced benefit of land sparing and the community and economic function sit off the distance scale altogether.](../figures/fig_benefit_range.svg){#fig-benefit-range}
 
 Five ranges cover the biophysical functions. Costanza's terms are given alongside, because they are what the literature uses.
 
@@ -157,8 +147,14 @@ Two cases sit outside that scale, and both matter.
 
 ---
 
+## 4.7 The SCALE footprint {#sec-scale}
+
+SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes, and Energy**, each from regeneration to depletion. Communities aligns with the community and economic function; Landscapes with the biophysical functions; Agriculture with continuity and the sharing–sparing axis; Energy with the design pressures. The reading is evaluative, but it has no pass mark or threshold (§8, issue 5).
+
+![The SCALE footprint: a project's influence read across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes, each running from regeneration at the center to depletion at the rim. The reading is evaluative by design, which is what *restorative* commits the document to, but it is a direction of travel rather than a pass mark; no threshold line is drawn (§8, issue 5). The polygon shown is a worked example.](../figures/fig_scale_footprint.svg){#fig-scale}
+
+---
+
 ### Terms
 
 Terms introduced in this section are defined in the [Terminology](7-terminology.qmd) chapter (§7), under [Restorative functions](7-terminology.qmd#sec-terms-functions), alongside every other term the document defines.
-
----

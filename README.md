@@ -70,6 +70,23 @@ bibliography). Both are direct, evidence-first, and unhurried. The working rules
 - **Describe, don't prescribe — but prescribe the aim, not the dimensions.** The lexicon holds a
   position on what agrisolar is *for*, and refuses to fix a clearance height.
 
+Those rules catch tics at the sentence level. The harder failure is a paragraph that is fluent,
+correct, and says nothing a reader can picture. Four more rules for that:
+
+- **Show the instance, not the category.** "In California, groundwater law pays a grower to retire
+  irrigated ground; in Iowa, the ethanol mandate pays them to keep planting it" beats "the
+  direction is set by the jurisdiction." When a sentence describes the *shape* of a thing rather
+  than the thing, put an example in its place. There should be a person, a place, a number, or an
+  object in most paragraphs.
+- **A cross-reference is not a description.** "(§4.5)" tells the reader where to look, not what is
+  true. State the claim, then point.
+- **"Not X, but Y" is a crutch.** The reversal reads as insight and usually isn't. Keep it where
+  the contrast is the actual point; cut it where it is supplying rhythm. Same for "it is less about
+  X than about Y" and "X rather than Y" used as a closing flourish.
+- **Watch the balanced pair.** "Spreads good practice where the rule fits; locks in a bad fit where
+  it does not." One of those is a sentence. Three in a row is a cadence the reader starts to hear,
+  and it flattens real differences into symmetry.
+
 A rough check for the first rule, run from the repository root:
 
 ```bash
