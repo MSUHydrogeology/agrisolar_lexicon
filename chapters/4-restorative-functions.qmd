@@ -1,8 +1,10 @@
 # 4. Restorative Functions {#sec-functions}
 
-Zone and position bound what a project could do. Neither decides what it does. Two arrays can hold the same position on the sharing–sparing axis, sit at the same point on the transect, and carry the same hardware, while one keeps gravel and herbicide under the racking and the other carries a planting rooted deep enough to hold a storm. Nothing about the ground separates them. What separates them is how the design resolved its pressures (§3), and in particular whether restorative goals won anything against build cost and operations and maintenance or were given up early and quietly.
+Two solar farms in the same county, the same size, the same panels, the same crop ground underneath. Under one, gravel and a herbicide schedule; under the other, a planting rooted deep enough to hold a summer storm where it falls.
 
-*Restorative* is therefore not a property a piece of ground has. It is a result a design produces, and on most sites it can be produced or withheld. **Restorative functions** name what a design can be aimed at, and there are five.
+Nothing about the land separates them. Where a project sits (§1) and what happened to the farming on it (§2) set the outer limits of what is possible there, but what the ground actually ends up doing is settled by how the design resolved its competing pressures (§3), and above all by whether anyone was still pushing for restoration when the cheaper option was on the table.
+
+*Restorative* is therefore not something a piece of ground is. It is something a design produces, and on most sites it can be produced or withheld. **Restorative functions** name the five things a design can be aimed at.
 
 - **Water** (§4.1) — what soaks in, what runs off, and what the aquifer gets back
 - **Soil and carbon** (§4.2) — what builds back up underneath
