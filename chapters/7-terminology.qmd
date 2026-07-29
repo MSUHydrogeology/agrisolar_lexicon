@@ -134,6 +134,10 @@ Pressure: secure and sustain community acceptance *and* community benefit, two f
 
 Pressure: satisfy whoever is buying the power, the attributes, or the tax position. The channel through which outside parties push their requirements onto a design. See [§3.1](3-design-pressures.qmd#sec-pressures).
 
+#### Policy and permission {#term-policy-permission}
+
+Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](6-regionality.qmd) as much as to §3. See [§3.1](3-design-pressures.qmd#sec-pressures).
+
 #### End-of-life responsibility {#term-end-of-life}
 
 Pressure: minimize the residual footprint left after a 25–40 year asset life and preserve the option to return the ground to its prior use. For the end-of-life vocabulary itself, see [Decommissioning / Repowering / Reversibility](#term-decommissioning). See [§3.1](3-design-pressures.qmd#sec-pressures).

@@ -1,60 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="622" viewBox="0 0 760 622" role="img">
-<title>Eight design pressures converging on one site, arranged by which way they push on restoration</title>
-<desc>Eight design pressures drawn as arrows converging on a central disc labelled one site's resolution. The field is split down the middle: the right half is tinted for pressures that push toward restoration and holds restorative goals, community acceptance, and decommissioning and reversibility; the left half is tinted for pressures that push away and holds energy yield, build cost, and operations and maintenance. Agricultural production and grid and market demands sit exactly on the dividing line, at top and bottom, because their direction is conditional rather than fixed: agricultural production carries sharing while foreclosing ecological ground layers, and grid and market demands spreads good practice or locks in a bad fit depending on what the buyer scores. Operations and maintenance is annotated as flipping toward after establishment. All arrows are the same length; the figure claims a direction, not a magnitude.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="624" viewBox="0 0 760 624" role="img">
+<title>Nine design pressures converging on one site, arranged by which way they push on restoration</title>
+<desc>Nine design pressures drawn as arrows converging on a central disc labelled one site's resolution. The field is divided into three vertical zones. The right zone is tinted for pressures that push toward restoration and holds restorative goals, community acceptance and benefit, and end-of-life responsibility. The left zone is tinted for pressures that push away and holds energy yield, build cost, and operations and maintenance. The middle band holds the three whose direction is conditional rather than fixed: agricultural production, grid and market demands, and policy and permission. Operations and maintenance is annotated as flipping toward after establishment. All arrows are the same length; the figure claims a direction, not a magnitude.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.nm{font-size:13.5px;font-weight:600;fill:#3d3d3a}
-.ax{font-size:12.5px;font-weight:700;letter-spacing:.03em}
-.fn{font-size:12px;fill:#7a7973}
+.nm{font-size:13px;font-weight:600;fill:#3d3d3a}
+.ax{font-size:12px;font-weight:700;letter-spacing:.03em}
+.fn{font-size:11.5px;fill:#7a7973}
 .ct{font-size:12.5px;font-style:italic;fill:#5f5e5a}
 .tw{stroke:#35887a;stroke-width:2.6}
 .aw{stroke:#b5643a;stroke-width:2.6}
 .bo{stroke:#6f6d66;stroke-width:2.6}
-.dv{stroke:#9c9a92;stroke-width:1.2;stroke-dasharray:5 5}
+.dv{stroke:#9c9a92;stroke-width:1.1;stroke-dasharray:5 5}
 </style>
 <defs>
 <marker id="mtw" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#35887a"/></marker>
 <marker id="maw" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#b5643a"/></marker>
 <marker id="mbo" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#6f6d66"/></marker>
+<clipPath id="disc"><circle cx="380" cy="305" r="215"/></clipPath>
 </defs>
 
-<!-- the field, split by which way a pressure pushes; tints match the §3.1 table -->
-<path d="M380,85 A215,215 0 0 1 380,515 Z" fill="#d9e9e4"/>
-<path d="M380,85 A215,215 0 0 0 380,515 Z" fill="#f6e2d7"/>
-<line class="dv" x1="380" y1="85" x2="380" y2="515"/>
+<!-- three zones: away | either way | toward. tints match the §3.1 table -->
+<g clip-path="url(#disc)">
+<rect x="165" y="90" width="135" height="430" fill="#f6e2d7"/>
+<rect x="300" y="90" width="160" height="430" fill="#efeeea"/>
+<rect x="460" y="90" width="135" height="430" fill="#d9e9e4"/>
+</g>
+<line class="dv" x1="300" y1="97" x2="300" y2="513"/>
+<line class="dv" x1="460" y1="97" x2="460" y2="513"/>
 
-<text class="ax" x="368" y="32" text-anchor="end" fill="#b5643a">&#8592; PUSHES AWAY FROM RESTORATION</text>
-<text class="ax" x="392" y="32" text-anchor="start" fill="#35887a">PUSHES TOWARD &#8594;</text>
+<text class="ax" x="232" y="32" text-anchor="middle" fill="#b5643a">&#8592; PUSHES AWAY</text>
+<text class="ax" x="380" y="32" text-anchor="middle" fill="#6f6d66">EITHER WAY</text>
+<text class="ax" x="528" y="32" text-anchor="middle" fill="#35887a">PUSHES TOWARD &#8594;</text>
 
-<!-- toward: the restorative half -->
-<line class="tw" x1="572" y1="300" x2="438" y2="300" marker-end="url(#mtw)"/>
-<text class="nm" x="602" y="294" text-anchor="start">Restorative</text><text class="nm" x="602" y="310" text-anchor="start">ambition</text>
-<line class="tw" x1="516" y1="164" x2="421" y2="259" marker-end="url(#mtw)"/>
-<text class="nm" x="541" y="143" text-anchor="start">Community acceptance and benefit</text>
-<line class="tw" x1="516" y1="436" x2="421" y2="341" marker-end="url(#mtw)"/>
-<text class="nm" x="541" y="455" text-anchor="start">Decommissioning &amp;</text><text class="nm" x="541" y="471" text-anchor="start">reversibility</text>
+<!-- toward -->
+<line class="tw" x1="575" y1="305" x2="442" y2="305" marker-end="url(#mtw)"/>
+<text class="nm" x="612" y="300" text-anchor="start">Restorative</text><text class="nm" x="612" y="315" text-anchor="start">goals</text>
+<line class="tw" x1="540" y1="193" x2="431" y2="269" marker-end="url(#mtw)"/>
+<text class="nm" x="567" y="168" text-anchor="start">Community acceptance</text><text class="nm" x="567" y="183" text-anchor="start">and benefit</text>
+<line class="tw" x1="540" y1="417" x2="431" y2="341" marker-end="url(#mtw)"/>
+<text class="nm" x="567" y="432" text-anchor="start">End-of-life</text><text class="nm" x="567" y="447" text-anchor="start">responsibility</text>
 
-<!-- conditional: drawn on the dividing line itself -->
-<line class="bo" x1="380" y1="108" x2="380" y2="242" marker-end="url(#mbo)"/>
-<text class="nm" x="380" y="72" text-anchor="middle">Agricultural production</text>
-<line class="bo" x1="380" y1="492" x2="380" y2="358" marker-end="url(#mbo)"/>
-<text class="nm" x="380" y="542" text-anchor="middle">Grid and market demands</text>
+<!-- either way: the middle band -->
+<line class="bo" x1="313" y1="122" x2="359" y2="247" marker-end="url(#mbo)"/>
+<text class="nm" x="295" y="62" text-anchor="middle">Agricultural</text><text class="nm" x="295" y="77" text-anchor="middle">production</text>
+<line class="bo" x1="447" y1="122" x2="401" y2="247" marker-end="url(#mbo)"/>
+<text class="nm" x="468" y="62" text-anchor="middle">Grid and market</text><text class="nm" x="468" y="77" text-anchor="middle">demands</text>
+<line class="bo" x1="380" y1="500" x2="380" y2="367" marker-end="url(#mbo)"/>
+<text class="nm" x="380" y="548" text-anchor="middle">Policy and permission</text>
 
 <!-- away -->
-<line class="aw" x1="244" y1="164" x2="339" y2="259" marker-end="url(#maw)"/>
-<text class="nm" x="219" y="143" text-anchor="end">Energy yield</text>
-<line class="aw" x1="188" y1="300" x2="322" y2="300" marker-end="url(#maw)"/>
-<text class="nm" x="148" y="304" text-anchor="end">Build cost</text>
-<line class="aw" x1="244" y1="436" x2="339" y2="341" marker-end="url(#maw)"/>
-<text class="nm" x="219" y="455" text-anchor="end">Operations and maintenance</text>
-<text class="fn" x="219" y="471" text-anchor="end" fill="#35887a">flips toward after establishment</text>
+<line class="aw" x1="220" y1="193" x2="329" y2="269" marker-end="url(#maw)"/>
+<text class="nm" x="193" y="176" text-anchor="end">Energy yield</text>
+<line class="aw" x1="185" y1="305" x2="318" y2="305" marker-end="url(#maw)"/>
+<text class="nm" x="148" y="309" text-anchor="end">Build cost</text>
+<line class="aw" x1="220" y1="417" x2="329" y2="341" marker-end="url(#maw)"/>
+<text class="nm" x="193" y="432" text-anchor="end">Operations and</text><text class="nm" x="193" y="447" text-anchor="end">maintenance</text>
+<text class="fn" x="193" y="463" text-anchor="end" fill="#35887a">flips toward after establishment</text>
 
 <!-- the site -->
-<circle cx="380" cy="300" r="58" fill="#ffffff" stroke="#cfc8b8" stroke-width="1.2"/>
-<text class="ct" x="380" y="295" text-anchor="middle">one site&#8217;s</text>
-<text class="ct" x="380" y="312" text-anchor="middle">resolution</text>
+<circle cx="380" cy="305" r="62" fill="#ffffff" stroke="#cfc8b8" stroke-width="1.2"/>
+<text class="ct" x="380" y="300" text-anchor="middle">one site&#8217;s</text>
+<text class="ct" x="380" y="317" text-anchor="middle">resolution</text>
 
-<text class="fn" x="380" y="574" text-anchor="middle">Every pressure bears on the site at once, and position says which way it pushes.</text>
-<text class="fn" x="380" y="590" text-anchor="middle">The two on the dividing line are the ones whose direction the site or the buyer decides.</text>
-<text class="fn" x="380" y="606" text-anchor="middle">All arrows are the same length: the figure claims a direction, not a magnitude.</text>
+<text class="fn" x="380" y="578" text-anchor="middle">Every pressure bears on the site at once, and position says which way it pushes.</text>
+<text class="fn" x="380" y="594" text-anchor="middle">The three in the middle band are set by the site, the buyer, or the jurisdiction rather than by the pressure itself.</text>
+<text class="fn" x="380" y="610" text-anchor="middle">All arrows are the same length: the figure claims a direction, not a magnitude.</text>
 </svg>

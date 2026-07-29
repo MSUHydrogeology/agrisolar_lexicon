@@ -142,6 +142,8 @@ under **S**.
 
 ## P
 
+**Policy and permission** — design pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays; the one pressure whose direction the jurisdiction sets — [§7](7-terminology.qmd#term-policy-permission) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
+
 **Pore Space** — the three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space — [§7](7-terminology.qmd#term-pore-space)
 
 ## R
