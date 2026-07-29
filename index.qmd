@@ -19,13 +19,13 @@ Solar and farming want the same flat, open, well-drained ground. An array can ca
 
 ## A shared language
 
-A solar grazier, township planner, hydrologist, and developer can describe the same eighty acres in incompatible terms. This lexicon is for the people deciding what an array does to an operation and a place: farmers and landowners, community decision-makers, and solar professionals. It favors recognizable terms, defined carefully.
+A solar grazier, township planner, hydrologist, and developer can describe the same eighty acres in incompatible terms. This lexicon is for the people deciding what an array does to an operation and a place.
 
 A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of the contiguous United States [@larson2021]. Much of it will be farmland.
 
 ## How the language works
 
-Three questions organize the document. **Scale** sets what is possible; **land sharing and land sparing** records what the project costs the land; **design pressures** name the forces that resolve the tradeoffs. Together they produce an archetype with particular restorative functions.
+Three questions organize the document.
 
 ![How the pieces fit. Scale, sharing–sparing, and the design pressures resolve into an archetype and the functions it carries, with regionality setting how hard each pressure pushes.](figures/fig_language_structure.svg)
 
@@ -34,8 +34,7 @@ Three questions organize the document. **Scale** sets what is possible; **land s
 Scale comes first because it settles what is physically, economically, and institutionally
 possible before design begins. The [scale transect](chapters/1-the-scale-transect.qmd) runs
 from the farmstead to the region in five zones. It is a transect rather than a set of size bins
-because several things move together along it: how a project connects to the grid, who decides,
-what permitting it faces, and who manages the ground beneath the panels.
+because several things move together along it.
 
 ::: {.zone-table}
 | Zone | Indicative footprint | What changes at this size |
@@ -51,18 +50,13 @@ Building-mounted arrays sit at the origin because they take no ground. Where cap
 
 ### Land sharing and land sparing
 
-The second question is what the array costs the land, and the accounting does not stop at the
-fence. **Land sharing** keeps production going on the same ground the array occupies. **Land
+The accounting does not stop at the fence. **Land sharing** keeps production going on the same ground the array occupies. **Land
 sparing** takes ground out of production so that other ground can be left alone. The pair comes
 from a long-running argument in conservation ecology [@green2005; @phalan2011], where the
 underlying question is genuinely unsettled: farm gently everywhere, or intensively in some places
 and not at all in others.
 
-The logic carries over to solar. Ground kept in production here is ground that need not be broken
-somewhere else; ground taken out of production here has to be made up elsewhere, or it goes
-unmade. The [sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) runs five positions on
-that logic, from production continuing inside the array to production ending on ground that was
-doing damage off-site.
+The [sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) runs five positions on that logic.
 
 ::: {.position-table}
 | Position | What it records |
@@ -74,24 +68,21 @@ doing damage off-site.
 | **S5 — Impaired-land retirement** | Production ends on ground that was carrying a burden off-site |
 :::
 
-The center is where most projects sit: ordinary ground becomes a power plant. A lease can still sustain a farm enterprise, but a position records what happened to the ground, not the project's merit.
+The center is where most projects sit: ordinary ground becomes a power plant. A position records what happened to the ground, not the project's merit.
 
 ### Design pressures
 
 Scale and position describe a site; nine [design pressures](chapters/3-design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
 
-![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](figures/fig_design_pressures.svg)
+![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration, three push away, and three depend on the site, the buyer, or the county.](figures/fig_design_pressures.svg)
 
 The resulting [restorative functions](chapters/4-restorative-functions.qmd) are a palette, not a scorecard. Recurring resolutions become [archetypes](chapters/5-archetypes.qmd), from solar prairie strips to barnyard shelter, and can be compared in the same language.
 
 ::: {#sec-aim-not-dimensions}
-The same pressures meet very different ground. Sun, water, crop, and grid conditions change their weight. [Regionality](chapters/6-regionality.qmd) explains why this document argues an aim rather than issuing dimensions. **The aim is argued; the dimensions are left to the site.**
+The same pressures meet very different ground. Sun, water, crop, and grid conditions change their weight. **The aim is argued; the dimensions are left to the site**, and [regionality](chapters/6-regionality.qmd) explains why.
 :::
 
 ## Where to start
-
-The chapters follow the order above, and the document is written to be read straight through.
-Nothing requires that of you.
 
 ::: {.routes}
 **If you have land in mind and want to know what is possible on it**, go to
@@ -107,10 +98,6 @@ conflicts worth arguing about openly.
 [alphabetical index](chapters/index-alphabetical.qmd) lists everything this document defines,
 and the search box at the top of every page finds the rest.
 
-**If you want to know what is still unsettled**, the
-[open issues](chapters/8-open-issues.qmd) record the questions this document has deliberately
-left open, and [sources](chapters/sources.qmd) separates what has been verified from what has
-not.
 :::
 
 ## Joining in

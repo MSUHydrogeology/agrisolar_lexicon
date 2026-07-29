@@ -2,7 +2,7 @@
 
 Certain designs recur when the same pressures meet the same scale and sharing position: a farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field. These **archetypes** are recurring, transformable patterns rather than an exhaustive typology. They classify how pressures are resolved; hardware taxonomies classify structure. The two can be read together.
 
-Six featured archetypes, ordered from farmstead to region, each have a documented case. Seven further forms are included more briefly. Their dominant and yielded pressures produce the [SCALE](#sec-archetype-domains) profiles that follow.
+Six featured archetypes, ordered from farmstead to region, each carry a documented case, and seven further forms are sketched more briefly.
 
 ## What appears at each scale {#sec-by-zone}
 
@@ -22,14 +22,14 @@ The crowding at A3 is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wed
 
 ## The six featured archetypes {#sec-featured}
 
-**On the worked cases.** Each featured archetype carries one real project. Several rest on developer pages, NGO case studies, and extension write-ups rather than peer-reviewed evidence; capacities and areas are as-reported and are traced in [Sources](sources.qmd). They illustrate the *form*. They are not verified performance data, and none of them has been independently audited against the [restorative functions](4-restorative-functions.qmd) it is cited for.
+**On the worked cases.** The at-a-glance figures below are indicative, drawn from the worked case and from forms in circulation, not requirements. Each featured archetype carries one real project. Several rest on developer pages, NGO case studies, and extension write-ups rather than peer-reviewed evidence; capacities and areas are as-reported and are traced in [Sources](sources.qmd). They illustrate the *form*. They are not verified performance data, and none of them has been independently audited against the [restorative functions](4-restorative-functions.qmd) it is cited for.
 
 
 ### Barnyard Shelter Solar {#arch-barnyard}
 
 
 ::: {.at-a-glance}
-**At a glance** — *indicative: drawn from the worked case and from forms in circulation. Not requirements.*
+**At a glance**
 
 - **Scale** — A1 · ~10–100 kW · under about an acre
 - **Position** — S1–S2 — the farm's own animals keep using the ground beneath
@@ -38,7 +38,7 @@ The crowding at A3 is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wed
 - **Grid** — behind-the-meter — offsets the parlor, cold store, well pump
 - **Watch for** — muck and wear concentrating where the animals crowd into the shade
 :::
-*Farmstead scale [A1](1-the-scale-transect.qmd#sec-zones) · shares the ground with the farm's own animals [S1–S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
+*Restoration by how it's run*
 
 Barnyard shelter solar places a modest array above the yard or paddock the farm's own animals already use. It provides shade and shelter while offsetting the parlor, cold store, or well pump. The same farmer holds the animals, array, and labor, but the array serves the farm rather than the grid; concentrated shade also concentrates manure and wear.
 
@@ -50,7 +50,7 @@ Barnyard shelter solar places a modest array above the yard or paddock the farm'
 
 
 ::: {.at-a-glance}
-**At a glance** — *indicative: drawn from the worked case and from forms in circulation. Not requirements.*
+**At a glance**
 
 - **Scale** — A2–A3 · ~100 kW–3 MW · roughly 1–20 acres
 - **Position** — S1 — the food crop continues inside the footprint
@@ -59,7 +59,7 @@ Barnyard shelter solar places a modest array above the yard or paddock the farm'
 - **Grid** — behind-the-meter to distribution
 - **Watch for** — shade past the crop's tolerance, which makes this the most engineering-intensive form here, and the one most sensitive to climate
 :::
-*Field scale [A2–A3](1-the-scale-transect.qmd#sec-zones) · shares the ground for food [S1](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's built*
+*Restoration by how it's built*
 
 Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels raised and spaced for their light and work needs. Its geometry is tuned to a crop and climate: excess shade cuts yield, while in hot, dry settings it can reduce heat and water stress [@barrongafford2019]. The form succeeds only where the crop still pays.
 
@@ -71,7 +71,7 @@ Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels ra
 
 
 ::: {.at-a-glance}
-**At a glance** — *indicative: drawn from the worked case and from forms in circulation. Not requirements.*
+**At a glance**
 
 - **Scale** — A2–A3 · ~100 kW–3 MW · roughly 1–20 acres
 - **Position** — S4 — or S2 where the ground still carries stock
@@ -80,9 +80,9 @@ Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels ra
 - **Grid** — behind-meter to distribution; the interconnect run can be long
 - **Watch for** — ground that is marginal for farming is often marginal for solar too, meaning ballast on rock, elevation above a floodplain, extra cable
 :::
-*Field to parcel scale [A2–A3](1-the-scale-transect.qmd#sec-zones) · spares by taking idled ground [S4](2-the-sharingsparing-axis.qmd#sec-positions), or [S2](2-the-sharingsparing-axis.qmd#sec-positions) where that ground still grazes · restoration by where you site*
+*Restoration by where you site*
 
-Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. The same conditions that made the parcel marginal can make solar costly, through rock, flood risk, or a long interconnect; the income must clear that penalty.
+Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. What made the parcel marginal for farming can make it costly for solar too, through rock, flood risk, or a long interconnect, and the income has to clear that.
 
 *Dominant pressures: build cost, since the conditions that made the parcel marginal also make the array dearer. What it is for is the [community & economic function](4-restorative-functions.qmd#sec-fn-community): income from ground that was not paying. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
@@ -92,7 +92,7 @@ Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet re
 
 
 ::: {.at-a-glance}
-**At a glance** — *indicative: drawn from the worked case and from forms in circulation. Not requirements.*
+**At a glance**
 
 - **Scale** — A3 · ~1–10 MW · roughly 5–80 acres
 - **Position** — S5 — the strip ground leaves production
@@ -101,9 +101,9 @@ Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet re
 - **Grid** — distribution; often community solar
 - **Watch for** — needs a place where clean water is actually paid for; the logic does not carry to utility scale
 :::
-*Parcel scale [A3](1-the-scale-transect.qmd#sec-zones) · retires impaired ground [S5](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by where you plant*
+*Restoration by where you plant*
 
-Solar prairie strips pair panels with deep-rooted prairie placed where a field sheds water: contours, low draws, wet corners, and wetland edges. The planting slows runoff and holds sediment and nutrients; the array gives it a durable revenue stream. STRIPS research found that converting about a tenth of a field to prairie in the right places can cut soil loss by more than 90% [@schulte2017]. This is a parcel-scale form where clean water is valued, not a utility-scale template.
+Solar prairie strips pair panels with deep-rooted prairie placed where a field sheds water: contours, low draws, wet corners, and wetland edges. The planting slows runoff and holds sediment and nutrients; the array gives it a durable revenue stream. STRIPS research found that converting about a tenth of a field to prairie in the right places can cut soil loss by more than 90% [@schulte2017]. 
 
 *Dominant pressures: restorative goals, community acceptance. Yielded: a little generation, to the prairie.*
 
@@ -113,7 +113,7 @@ Solar prairie strips pair panels with deep-rooted prairie placed where a field s
 
 
 ::: {.at-a-glance}
-**At a glance** — *indicative: drawn from the worked case and from forms in circulation. Not requirements.*
+**At a glance**
 
 - **Scale** — A4–A5 · 10 MW and up · from tens of acres to several thousand
 - **Position** — S2 — forage production continues, subordinate to the array
@@ -122,19 +122,19 @@ Solar prairie strips pair panels with deep-rooted prairie placed where a field s
 - **Grid** — sub-transmission to transmission
 - **Watch for** — scheduling sovereignty — the plant wants the grass low on its calendar, the shepherd moves stock on the flock's; expect cost parity with mowing, not a saving
 :::
-*Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · shares the ground for grazing [S2](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by how it's run*
+*Restoration by how it's run*
 
 Regenerative solar grazing uses a planned flock rotation to manage vegetation, cycle nutrients, and support ground cover beneath a utility-scale array. It is usually a contracted service rather than the landowner's own operation, with fences, gates, clearance, and water points setting the rotation. The plant's mowing calendar and the shepherd's flock calendar must be reconciled. Grazing can reach cost parity with mowing [@mccall2023]; well-managed native understory can also improve soil carbon [@krasner2025].
 
 *Dominant pressures: energy yield, operations and maintenance. Yielded: the farm's own agricultural production, since the grazing is a tenancy rather than the operation.*
 
-**Aurora Solar, Minnesota** — 150 megawatts of generation across sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory: vegetation management as a grazing tenancy, at utility scale, rather than the landowner's own farm.
+**Aurora Solar, Minnesota** — 150 megawatts of generation across sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory:
 
 ### Water-Sustainability Solar {#arch-water}
 
 
 ::: {.at-a-glance}
-**At a glance** — *indicative: drawn from the worked case and from forms in circulation. Not requirements.*
+**At a glance**
 
 - **Scale** — A4–A5 · 50 MW and up · hundreds to many thousands of acres
 - **Position** — S5 — irrigated production ends, by design
@@ -143,7 +143,7 @@ Regenerative solar grazing uses a planned flock rotation to manage vegetation, c
 - **Grid** — transmission
 - **Watch for** — only works where the overdraft is measured and governed tightly enough that the saved water stays saved
 :::
-*Landscape scale and up [A4–A5](1-the-scale-transect.qmd#sec-zones) · retires impaired irrigated ground [S5](2-the-sharingsparing-axis.qmd#sec-positions) · restoration by relieving the water budget*
+*Restoration by relieving the water budget*
 
 Water-sustainability solar retires irrigated demand above an overdrawn aquifer [@stid2025]. It is credible only where the overdraft is measured and governance keeps the saved water from being pumped elsewhere [@zwickle2021], preferably on drainage-impaired, salt-affected, or otherwise marginal irrigated ground. Food production is deliberately given up; this is a regional form because the impairment must be regional too.
 
@@ -164,7 +164,7 @@ Each featured archetype has a characteristic profile across Communities, Agricul
 - [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2): Energy and Landscapes; Agriculture as a service.
 - [**Water-Sustainability Solar**](#arch-water) (A4–A5 · S5): Landscapes and Energy, with Agriculture deliberately given up.
 
-These are reference shapes, not targets or pass marks. A project profile remains site- and design-specific.
+
 
 ## Further archetypes in current circulation {#sec-further-types}
 

@@ -56,7 +56,7 @@ The things a project can actually change fall into three groups.
 
 ### 3.4 Levers across the transect {#sec-lever-matrix}
 
-Levers change with scale. Read down a column for the choices available at that zone and across a row for how a lever changes. The table describes typical latitude; it does not prescribe dimensions or ownership.
+Freedom shifts from hardware at the small end, to siting at A2–A3, to management and deal structure at scale.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
