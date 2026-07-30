@@ -21,6 +21,7 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
+    - chapters/0-elements-of-design.qmd
     - chapters/1-the-scale-transect.qmd
     - chapters/2-the-sharingsparing-axis.qmd
     - chapters/3-design-pressures.qmd
