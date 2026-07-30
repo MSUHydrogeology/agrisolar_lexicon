@@ -24,20 +24,23 @@ The last two share a panel of their own in @fig-siting-latitude, and they are be
 
 So the alignment ownership supplies for free at the farmstead has to be manufactured, clause by clause, as ownership moves up the transect. At A1 there is hardly a contract to write, for want of a counterparty. Through A3 the instruments arrive, as a [PILOT](terminology.qmd#term-community-benefit), a subscription, a community-benefit agreement. By A5 the lease term, the maintenance obligation, the benefit agreement, and the decommissioning bond are the only reach left. **Contract-led restoration is what you need when ownership-led restoration is no longer available**, which is why it is nearly empty at the farmstead and the main instrument at utility scale, exactly where ownership has traveled furthest from the ground.
 
-## Scale decides which modes stay open {#sec-siting-latitude}
+## Scale controls restoration potential from each mode {#sec-siting-latitude}
 
 The sixth lever sits outside that list, and the reason is worth stating plainly. **Scale is not itself a restoration mode. It governs all the others.** Choosing to build five megawatts rather than eighty is not a way of doing restorative work; it is what decides which of the five stay open to the design. How much range a lever still keeps at a given size is exactly what decides whether it can carry the work, so the mode that dominates changes along the transect instead of being chosen freely at any point on it.
 
 That may not hold. Solar's spillover benefits scale with perimeter and proximity rather than with area, so several mid-sized arrays may do ecological work that one large array of the same capacity does not (§-@sec-community-scale). If that argument survives measurement, choosing to build small and many *is* restorative work, and scale earns a mode after all. Nobody has run the comparison (§-@sec-open-issues).
 
-The lever the transect treats most sharply is **[siting latitude](terminology.qmd#term-siting-latitude)**, the freedom to choose where the array goes. What governs it changes as projects get bigger, and so does who is doing the choosing.
+The lever the transect treats most sharply is **[siting latitude](terminology.qmd#term-siting-latitude)**, the freedom to choose where the array goes. What is still open to a design, and what has already been settled for it, both change as projects get bigger.
 
-| Zone | What decides where it goes | Who actually chooses |
+::: {.zone-table}
+| Zone | Restorative siting options | Key constraints |
 |---|---|---|
-| **A1** | The yard, the herd, and the existing service drop | The operator, with almost no ground to choose among |
-| **A2** | Spare corners, awkward field ends, ground already sitting idle | The operator |
-| **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
-| **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
+| **A1** | The yard and the paddock the stock already use | The property line, and the existing service drop |
+| **A2** | Spare corners, awkward field ends, ground already sitting idle | The operator's own holding, and nothing beyond it |
+| **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Parcel size, and what the distribution line will take |
+| **A4–A5** | Little beyond the edges: setbacks, buffer planting, and what grows under the array | Contiguous acreage near a substation, a place in the queue, prime-farmland rules, and likely opposition |
+: Siting latitude along the transect. What a design can still choose about where the array goes, and what has already decided it. {#tbl-siting-latitude}
+:::
 
 Through A2 and A3 that latitude is the strongest instrument a design has, so the work there is **[siting-led](terminology.qmd#term-siting-led)**: the planting goes where the runoff already goes, and the array goes on the part of the field that never performed. At A1 there is almost nothing to choose among, and by A4 and A5 the ground has been chosen by other forces entirely.
 

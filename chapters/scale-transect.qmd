@@ -50,7 +50,6 @@ The choice of animal is made before the scale question arises. Sheep fit standar
 | **A1–A2** | the farm's own flock | ~3 ewes/acre in New York and Michigan experience [@hartman2026]; 4–20 sheep/acre in rotational trials at Cornell | matching stocking to the forage and the weather in front of you, rather than to a published rate |
 | **A3** | a contracted grazier | ~$300–500/acre/yr for vegetation management | building a site that works for someone who does not live on it and visits on a schedule |
 | **A4–A5** | a logistics enterprise | mowing medians across 54 utility-scale sites: $113/acre/yr at sheep-grazed sites, $121 at native-vegetation, $203 at turfgrass; herbicide $293 on gravel [@mccall2023] | water, gates, hauling, and rotating a flock between parcels that do not touch each other |
-
 : Solar grazing across the transect. {#tbl-grazing}
 
 Two terms come apart here and are worth keeping apart. **[Stocking density](terminology.qmd#term-stocking-density)** is how many animals are on the ground at one moment, and **[carrying capacity](terminology.qmd#term-carrying-capacity)** is what the forage will feed across a season. Growth, utilization, and weather all move one without moving the other, which is why the A1–A2 figures above are a range rather than a rate.
@@ -76,7 +75,6 @@ Of the six [design levers](design-levers.qmd), scale is the only one that does n
 | **A2** | Spare corners, awkward field ends, ground already sitting idle | The operator |
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
 | **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
-
 : Who chooses the ground, by zone. {#tbl-who-chooses}
 
 Read the two columns against each other. At the farmstead the operator holds the whole decision and has almost nothing to decide, since one spot in the yard may be the only spot. At A3 a developer and a landowner walk the field together and can put the array on the wet depression or the corner that never yields. By A4 the middle column has filled with things nobody at the table controls, and the right column stops naming a person. The developer still signs the lease. The ground was chosen by whatever acreage could be assembled near a live queue position, and everything else in that row only trims the list.
