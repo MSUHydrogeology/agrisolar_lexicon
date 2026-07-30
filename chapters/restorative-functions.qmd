@@ -11,7 +11,7 @@ Nothing about the land separates them. Where a project sits (§-@sec-transect) a
 - **Agriculture and soils** (§-@sec-fn-agricultural) — what farming gets from it, and what the ground underneath is made of
 - **Community and economy** (§-@sec-fn-community) — what the people hosting it actually get
 
-![Five functions, which lever carries each one, and which route its benefit travels. The route matters more than the distance: every function here reaches beyond the fence along some route, so the useful question is which one, since that decides who can check the claim and who receives it. Carbon is the exception the table cannot draw, leaving by air to everywhere and no one in particular. Land sparing is missing for a different reason: its benefit is ground elsewhere that stayed as it was, so nothing travels at all (§-@sec-benefit-range).](../figures/fig_functions_overview.svg){#fig-functions-overview}
+![Four functions, which lever carries each one, and which route its benefit travels. The route matters more than the distance: every function here reaches beyond the fence along some route, so the useful question is which one, since that decides who can check the claim and who receives it. Carbon is the exception the table cannot draw, leaving by air to everywhere and no one in particular. Land sparing is missing for a different reason: its benefit is ground elsewhere that stayed as it was, so nothing travels at all (§-@sec-benefit-range)](../figures/fig_functions_overview.svg){#fig-functions-overview}
 
 **Microclimate is not on the list, and used to be.** The shade is real and among the best-evidenced things an array does: daytime soil and canopy temperatures fall, nighttime minima rise, and vapor-pressure deficit drops [@sturchio2023; @pinos2026; @barrongafford2019]. But it is a mechanism rather than an outcome, and its results are already counted elsewhere. Retained soil moisture is the water function. Thermal refuge for what lives under the panels is ecology. Relief for a shade-tolerant crop, shelter for stock, and shade for the people working there are agriculture. Naming it separately counted the same shade twice, which is why the vocabulary keeps [microclimate modification](terminology.qmd#term-microclimate) as a term for the mechanism and drops it as a function.
 
@@ -31,9 +31,6 @@ An array changes what happens to rain before it leaves, and what the water carri
 
 Water travels, so its benefits do. Moisture is held **in place**; slowed runoff and held-back sediment reach the field, the road, and the ditch immediately below before they reach anything further, which is the nearest and most checkable form this function takes; and retired consumptive use is felt across a basin. Direction decides all of it. Ground upslope of a problem can fix it and identical ground downslope cannot.
 
-::: {.evidence}
-**Evidence status.** The dryland moisture link is **verified** [@barrongafford2019; @sturchio2025; @pinos2026], though bounded at some sites [@kannenberg2023], and infiltration and recharge at depth remain **thin** [@yavari2022]. Interception is documented for prairie strips in cropland [@schulte2017], never yet from beneath an array; avoided loading is **arithmetic rather than measurement**, following from application rates on retired acreage rather than from a monitored stream.
-:::
 
 ## Ecology {#sec-fn-biodiversity}
 
@@ -47,9 +44,6 @@ The corridor experiments are what make this more than an analogy: connected patc
 
 Both halves travel along living things. About 3,500 km² of US farmland sits within 1.5 km of existing and planned utility-scale facilities, roughly a pollinator's foraging distance [@walston2018], and pollinators from solar sites have been recorded in neighboring soybean [@walston2024]. Further out along the same route it reads as a bird population rather than a parcel [@walston2025].
 
-::: {.evidence}
-**Evidence status.** **Verified** for grassland-bird gains [@walston2025], insect-community response [@walston2024], and bee diversity in pollinator-planted arrays [@bruningasocolar2025]; scorecards codify the choices, though what each credits differs [@epri2021]. The gain is **context-dependent**, largest where the surrounding landscape is already sparse in semi-natural habitat, so its size is set by what the site would otherwise have been rather than by the planting alone.
-:::
 
 ## Agriculture and soils {#sec-fn-agricultural}
 
@@ -65,9 +59,6 @@ Construction cuts the other way and can cut deep. Grading removes the shallow ho
 
 This is the one function delivered almost entirely **in place**, since soil stays where it is, which also makes it the one most fully captured by whoever holds the ground. Carbon is the exception and the limiting case: it leaves by air, benefiting everywhere and no one in particular, which is why it needs a market or a policy behind it before it is worth anything to the person holding the land.
 
-::: {.evidence}
-**Evidence status.** On the farming side, pollinator movement into adjacent crops is **verified** [@walston2024] and the farmland inside foraging distance has been mapped [@walston2018], while pest regulation is **inferred, not measured** at solar sites and a yield or input-cost change attributable to an array is **not established anywhere**. On the soil side, early gains are **verified** for [ecovoltaic](terminology.qmd#term-ecovoltaics) grassland restoration [@krasner2025], long-run accumulation is thinly measured [@carvalho2024], and the size of the construction debt is the least measured part of the ledger and among the likeliest to decide its sign, because the reported gains come from sites whose earthworks are not described.
-:::
 
 ## Community and economy {#sec-fn-community}
 
@@ -90,9 +81,6 @@ A project can score well on one of these and badly on the rest. Naming them is w
 
 This function travels almost entirely on paper, along tenure, contract, and jurisdiction, which is why the list above does more work than any radius would. Part of it is genuinely local, since construction spend lands in the nearest town that can supply it, but the money that matters most moves along channels drawn for reasons that have nothing to do with distance.
 
-::: {.evidence}
-**Evidence status.** The design principle is **verified** in the ecovoltaic frameworks themselves, where @tolgyesi2023 make a viable business model with embedded stakeholder engagement one of five co-equal pillars. The burden side is better measured than the benefit side [@bessette2024; @elmallah2023]. Which structures deliver durable, fairly-shared benefit is still thinly evidenced.
-:::
 
 ## Where benefits are delivered {#sec-benefit-range}
 
