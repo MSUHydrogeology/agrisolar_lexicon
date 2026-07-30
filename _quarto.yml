@@ -22,9 +22,10 @@ book:
   chapters:
     - index.qmd
     - chapters/design-levers.qmd
+    - chapters/design-pressures.qmd
     - chapters/scale-transect.qmd
     - chapters/siting-axis.qmd
-    - chapters/design-pressures.qmd
+    - chapters/restoration-modes.qmd
     - chapters/restorative-functions.qmd
     - chapters/archetypes.qmd
     - chapters/terminology.qmd

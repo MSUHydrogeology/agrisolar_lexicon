@@ -40,7 +40,7 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 ### Siting latitude {#term-siting-latitude}
 
-The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [Design Levers](design-levers.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
+The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
 
 ### Restoration mode {#term-restoration-mode}
 
@@ -52,7 +52,7 @@ Which [design lever](#term-design-levers) a design commits to carry the restorat
 - []{#term-ownership-led}**Ownership-led** — the work is done by who holds the asset, and no agreement is needed because the parties were never opposed. Strongest at A1–A2, where the operator owns both the array and what stands under it, and effectively unavailable once the owner is absentee.
 - []{#term-contract-led}**Contract-led** — the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site. The mode the [community and economic function](#term-fn-community) runs on, and the one that decides whether the tenant is still farming in year twenty (§-@sec-fn-community).
 
-See [Design Levers](design-levers.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
+See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
 
 ### Stocking density {#term-stocking-density}
 
