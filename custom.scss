@@ -326,8 +326,8 @@ main.content > h1.unnumbered:first-child { display: none; }
 .lever-table tbody tr:nth-child(5) td { background-color: #ece7f0; }   // paper levers, plum
 .lever-table tbody tr:nth-child(6) td { background-color: #e4dbeb; }
 .lever-table tbody tr:nth-child(1) td:first-child { border-left: 4px solid #6f6d66; }
-.lever-table tbody tr:nth-child(n+2):nth-child(-n+4) td:first-child { border-left: 4px solid #a8894f; }
-.lever-table tbody tr:nth-child(n+5) td:first-child { border-left: 4px solid #7d6b8f; }
+.lever-table tbody tr:nth-child(n+2):nth-child(-n+4) td:first-child { border-left: 4px solid #97783f; }
+.lever-table tbody tr:nth-child(n+5) td:first-child { border-left: 4px solid #6d5c80; }
 
 // Zone and position labels are names, not prose: let the first column size to
 // its content so "A1 — Farmstead" and "S1 — Full sharing" stay on one line and

@@ -11,7 +11,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .pl{font-size:11px;font-weight:600}
 .sc{font-size:9.5px;fill:#75736c}
 </style>
-<defs><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#c2beb4"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#a8a49a"/></marker></defs>
+<defs><marker id="mt" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#35887a"/></marker><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#6f6d66"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#b5643a"/></marker><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#c2beb4"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#a8a49a"/></marker></defs>
 <text class="eb" x="30" y="60">NINE PRESSURES</text>
 <path d="M150,196 L90.9,125.5 A92,92 0 0 1 209.1,125.5 Z" fill="#eae8e3"/>
 <path d="M150,196 L209.1,125.5 A92,92 0 0 1 181.5,282.5 Z" fill="#d9e9e4"/>
@@ -21,15 +21,15 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="150" y1="196" x2="209.1" y2="125.5" stroke="#ffffff" stroke-width="2"/>
 <line x1="150" y1="196" x2="181.5" y2="282.5" stroke="#ffffff" stroke-width="2"/>
 <line x1="150" y1="196" x2="118.5" y2="282.5" stroke="#ffffff" stroke-width="2"/>
-<line x1="112.4" y1="92.6" x2="140.6" y2="170.1" stroke="#6f6d66" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="187.6" y1="92.6" x2="159.4" y2="170.1" stroke="#6f6d66" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="245.3" y1="141.0" x2="173.9" y2="182.2" stroke="#35887a" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="258.3" y1="215.1" x2="177.2" y2="200.8" stroke="#35887a" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="220.7" y1="280.3" x2="167.7" y2="217.1" stroke="#35887a" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="150.0" y1="306.0" x2="150.0" y2="223.6" stroke="#6f6d66" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="79.3" y1="280.3" x2="132.3" y2="217.1" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="41.7" y1="215.1" x2="122.8" y2="200.8" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round"/>
-<line x1="54.7" y1="141.0" x2="126.1" y2="182.2" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="112.4" y1="92.6" x2="136.2" y2="158.0" stroke="#6f6d66" stroke-width="2.6" stroke-linecap="round" marker-end="url(#mg)"/>
+<line x1="187.6" y1="92.6" x2="163.8" y2="158.0" stroke="#6f6d66" stroke-width="2.6" stroke-linecap="round" marker-end="url(#mg)"/>
+<line x1="245.3" y1="141.0" x2="185.1" y2="175.8" stroke="#35887a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#mt)"/>
+<line x1="258.3" y1="215.1" x2="189.9" y2="203.0" stroke="#35887a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#mt)"/>
+<line x1="220.7" y1="280.3" x2="176.0" y2="227.0" stroke="#35887a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#mt)"/>
+<line x1="150.0" y1="306.0" x2="150.0" y2="236.5" stroke="#6f6d66" stroke-width="2.6" stroke-linecap="round" marker-end="url(#mg)"/>
+<line x1="79.3" y1="280.3" x2="124.0" y2="227.0" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#ma)"/>
+<line x1="41.7" y1="215.1" x2="110.1" y2="203.0" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#ma)"/>
+<line x1="54.7" y1="141.0" x2="114.9" y2="175.8" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#ma)"/>
 <circle cx="150" cy="196" r="24" fill="#ffffff" stroke="#c9c6bc" stroke-width="1"/>
 <text class="pl" x="150" y="82" text-anchor="middle" fill="#6f6d66">either way</text>
 <text class="pl" x="238" y="279" text-anchor="start" fill="#35887a">toward restoration</text>
@@ -41,24 +41,24 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="394" y="144" width="24" height="16" rx="4" fill="#6f6d66"/>
 <text class="nm" x="406" y="322" text-anchor="middle">Scale</text>
 <rect x="494" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
-<rect x="494" y="182" width="8" height="118" rx="4" fill="#c9a862" opacity="0.34"/>
-<rect x="486" y="174" width="24" height="16" rx="4" fill="#c9a862"/>
+<rect x="494" y="182" width="8" height="118" rx="4" fill="#b8934a" opacity="0.34"/>
+<rect x="486" y="174" width="24" height="16" rx="4" fill="#b8934a"/>
 <text class="nm" x="498" y="322" text-anchor="middle">Siting</text>
 <rect x="586" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
-<rect x="586" y="214" width="8" height="86" rx="4" fill="#a8894f" opacity="0.34"/>
-<rect x="578" y="206" width="24" height="16" rx="4" fill="#a8894f"/>
+<rect x="586" y="214" width="8" height="86" rx="4" fill="#97783f" opacity="0.34"/>
+<rect x="578" y="206" width="24" height="16" rx="4" fill="#97783f"/>
 <text class="nm" x="590" y="322" text-anchor="middle">Structure</text>
 <rect x="678" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
-<rect x="678" y="167" width="8" height="133" rx="4" fill="#86683a" opacity="0.34"/>
-<rect x="670" y="159" width="24" height="16" rx="4" fill="#86683a"/>
+<rect x="678" y="167" width="8" height="133" rx="4" fill="#6f5730" opacity="0.34"/>
+<rect x="670" y="159" width="24" height="16" rx="4" fill="#6f5730"/>
 <text class="nm" x="682" y="322" text-anchor="middle">Management</text>
 <rect x="770" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
-<rect x="770" y="235" width="8" height="65" rx="4" fill="#9b86ad" opacity="0.34"/>
-<rect x="762" y="227" width="24" height="16" rx="4" fill="#9b86ad"/>
+<rect x="770" y="235" width="8" height="65" rx="4" fill="#8a75a0" opacity="0.34"/>
+<rect x="762" y="227" width="24" height="16" rx="4" fill="#8a75a0"/>
 <text class="nm" x="774" y="322" text-anchor="middle">Ownership</text>
 <rect x="862" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
-<rect x="862" y="196" width="8" height="104" rx="4" fill="#7d6b8f" opacity="0.34"/>
-<rect x="854" y="188" width="24" height="16" rx="4" fill="#7d6b8f"/>
+<rect x="862" y="196" width="8" height="104" rx="4" fill="#6d5c80" opacity="0.34"/>
+<rect x="854" y="188" width="24" height="16" rx="4" fill="#6d5c80"/>
 <text class="nm" x="866" y="322" text-anchor="middle">Contracts</text>
 <line x1="298" y1="150" x2="342" y2="150" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="196" x2="342" y2="196" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
@@ -76,38 +76,39 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="cd" x="189.0" y="476" text-anchor="middle">A4</text>
 <rect x="214" y="456" width="42" height="30" rx="5" fill="#97C459" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="235.0" y="476" text-anchor="middle">A5</text>
-<text class="ot" x="30" y="522">siting axis position</text>
-<rect x="30" y="536" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="51.0" y="556" text-anchor="middle">S1</text>
-<rect x="76" y="536" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="97.0" y="556" text-anchor="middle">S2</text>
-<rect x="122" y="536" width="42" height="30" rx="5" fill="#efeeea" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="143.0" y="556" text-anchor="middle">S3</text>
-<rect x="168" y="536" width="42" height="30" rx="5" fill="#d9cbe6" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="189.0" y="556" text-anchor="middle">S4</text>
-<rect x="214" y="536" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="235.0" y="556" text-anchor="middle">S5</text>
-<text class="ot" x="300" y="442">active restoration modes</text>
-<rect x="300" y="456" width="182" height="20" rx="5" fill="#c9a862"/>
-<text class="cw" x="391" y="470" text-anchor="middle">siting-led</text>
-<rect x="300" y="482" width="182" height="20" rx="5" fill="#a8894f"/>
-<text class="cw" x="391" y="496" text-anchor="middle">structure-led</text>
-<rect x="300" y="508" width="182" height="20" rx="5" fill="#86683a"/>
-<text class="cw" x="391" y="522" text-anchor="middle">management-led</text>
-<rect x="300" y="534" width="182" height="20" rx="5" fill="#e6e4dc"/>
-<text class="cw" x="391" y="548" text-anchor="middle" fill='#9c988e'>ownership-led</text>
-<rect x="300" y="560" width="182" height="20" rx="5" fill="#7d6b8f"/>
-<text class="cw" x="391" y="574" text-anchor="middle">contract-led</text>
-<text class="ot" x="738" y="424" text-anchor="middle">restorative functions</text>
-<circle cx="738" cy="522" r="80" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
-<circle cx="738" cy="522" r="46" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
-<line x1="738" y1="522" x2="794.6" y2="465.4" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="738" y1="522" x2="794.6" y2="578.6" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="738" y1="522" x2="681.4" y2="578.6" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="738" y1="522" x2="681.4" y2="465.4" stroke="#e2e0d8" stroke-width="1"/>
-<polygon points="779.9,480.1 771.9,555.9 691.6,568.4 708.6,492.6" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
-<text class="sc" x="804" y="459" text-anchor="start">Communities</text>
-<text class="sc" x="804" y="591" text-anchor="start">Agriculture</text>
-<text class="sc" x="672" y="591" text-anchor="end">Water</text>
-<text class="sc" x="672" y="459" text-anchor="end">Ecology</text>
+<text class="ot" x="30" y="528">siting axis position</text>
+<rect x="30" y="542" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="51.0" y="562" text-anchor="middle">S1</text>
+<rect x="76" y="542" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="97.0" y="562" text-anchor="middle">S2</text>
+<rect x="122" y="542" width="42" height="30" rx="5" fill="#efeeea" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="143.0" y="562" text-anchor="middle">S3</text>
+<rect x="168" y="542" width="42" height="30" rx="5" fill="#d9cbe6" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="189.0" y="562" text-anchor="middle">S4</text>
+<rect x="214" y="542" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="235.0" y="562" text-anchor="middle">S5</text>
+<line x1="262" y1="512" x2="316" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
+<text class="ot" x="344" y="442">active restoration modes</text>
+<rect x="344" y="456" width="168" height="20" rx="5" fill="#b8934a"/>
+<text class="cw" x="428" y="470" text-anchor="middle">siting-led</text>
+<rect x="344" y="482" width="168" height="20" rx="5" fill="#97783f"/>
+<text class="cw" x="428" y="496" text-anchor="middle">structure-led</text>
+<rect x="344" y="508" width="168" height="20" rx="5" fill="#6f5730"/>
+<text class="cw" x="428" y="522" text-anchor="middle">management-led</text>
+<rect x="344" y="534" width="168" height="20" rx="5" fill="#e6e4dc"/>
+<text class="cw" x="428" y="548" text-anchor="middle" fill='#9c988e'>ownership-led</text>
+<rect x="344" y="560" width="168" height="20" rx="5" fill="#6d5c80"/>
+<text class="cw" x="428" y="574" text-anchor="middle">contract-led</text>
+<text class="ot" x="700" y="442" text-anchor="middle">restorative functions</text>
+<circle cx="700" cy="530" r="76" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
+<circle cx="700" cy="530" r="44" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="700" y1="530" x2="753.7" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="700" y1="530" x2="753.7" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="700" y1="530" x2="646.3" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="700" y1="530" x2="646.3" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
+<polygon points="739.8,490.2 732.2,562.2 655.9,574.1 672.1,502.1" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
+<text class="sc" x="766" y="467" text-anchor="start">Communities</text>
+<text class="sc" x="766" y="599" text-anchor="start">Agriculture</text>
+<text class="sc" x="634" y="599" text-anchor="end">Water</text>
+<text class="sc" x="634" y="467" text-anchor="end">Ecology</text>
 </svg>
