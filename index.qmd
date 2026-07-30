@@ -27,7 +27,7 @@ The build-out is not a forecast. Around 15,000 ground-mounted arrays already cov
 
 ## How the language works
 
-A project is a long list of decisions, and almost all of them fall into six groups: how much ground to take, which ground, what gets built on it, what grows there and how the place is run, who holds the asset, and what the parties signed. Those are the [design levers](chapters/design-levers.qmd), and they are the spine of everything else here. The [pressures](chapters/terminology.qmd#term-design-pressures) push on them, and what comes out the far end is a project's scale, its position on the [sharing–sparing axis](chapters/terminology.qmd#term-sharing-sparing), and the [functions](chapters/terminology.qmd#term-restorative-function) the ground ends up performing.
+Almost every decision in a solar project belongs to one of six groups, and this document calls them the [design levers](chapters/design-levers.qmd): scale, siting, structure, management, ownership, and contracts. They are the spine of everything else here. The [pressures](chapters/terminology.qmd#term-design-pressures) push on them, and what comes out the far end is a project's scale, its position on the [sharing–sparing axis](chapters/terminology.qmd#term-sharing-sparing), and the [functions](chapters/terminology.qmd#term-restorative-function) the ground ends up performing.
 
 ![How the pieces fit. The levers are the only things anyone can actually change; everything to their left is a force acting on them, and everything to their right is a consequence of how they were set.](figures/fig_language_structure.svg){#fig-language-structure}
 
