@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
+<title>Retired-Irrigation Solar</title>
+<desc>Section through a field taken out of irrigated production. The center pivot stands idle, the well is capped, and low-water cover carries the ground beneath a utility-scale array that needs no irrigation. Below, the water table that had been falling under pumping levels off; the dashed line is where it would have kept going. The leveling holds only where governance keeps the saved water from being pumped elsewhere. Its SCALE footprint sits at the right: Landscapes almost at the center, Agriculture out at the rim, deliberately given up.</desc>
+
+<defs>
+  <!-- shared glyphs: the module and person are identical in every archetype card.
+       Post height is drawn per instance, because clearance is a real design variable. -->
+  <g id="module">
+    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4"/>
+    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round"/>
+  </g>
+  <g id="person">
+    <circle cx="0" cy="-22.5" r="3.6" fill="none" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="0" y1="-19" x2="0" y2="-9" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="-4.5" y1="-15" x2="4.5" y2="-15" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="0" y1="-9" x2="-4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="0" y1="-9" x2="4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+  </g>
+  <g id="tuft">
+    <line x1="0" y1="0" x2="-3" y2="-6" stroke="#a8a487" stroke-width="1.2"/>
+    <line x1="0" y1="0" x2="0" y2="-7" stroke="#a8a487" stroke-width="1.2"/>
+    <line x1="0" y1="0" x2="3" y2="-6" stroke="#a8a487" stroke-width="1.2"/>
+  </g>
+  <clipPath id="soilclipR">
+    <path d="M26,190 L545,190 L545,254 L26,254 Z"/>
+  </clipPath>
+</defs>
+
+<rect y="14" width="820" height="254" rx="10" fill="#ffffff" stroke="#e6e1d6"/>
+
+<text x="26" y="32" fill="#777" font-size="11">A4–A5 · S5 · management-led</text>
+
+<!-- ================= soil and the aquifer beneath ================= -->
+<path d="M26,190 L545,190 L545,254 L26,254 Z" fill="#f2ece0"/>
+<g clip-path="url(#soilclipR)">
+  <path d="M26,190 L545,190 L545,202 L26,202 Z" fill="#e0d5bd"/>
+  <!-- saturated zone below the current water table -->
+  <path d="M26,214 C120,222 200,226 280,228 L545,228 L545,254 L26,254 Z" fill="#2b7fb0" fill-opacity="0.13"/>
+  <!-- the water table: falling under pumping, then level -->
+  <path d="M26,214 C120,222 200,226 280,228 L545,228" fill="none" stroke="#2b7fb0" stroke-width="1.8"/>
+  <!-- where it would have kept going -->
+  <path d="M280,228 C360,236 450,244 545,250" fill="none" stroke="#8a7f6a" stroke-width="1.4" stroke-dasharray="5 4" opacity="0.8"/>
+  <!-- the capped well, no longer drawing -->
+  <line x1="196" y1="190" x2="196" y2="232" stroke="#6b6b63" stroke-width="1.8"/>
+</g>
+<path d="M26,190 L545,190" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
+<rect x="190" y="182" width="12" height="8" fill="#ffffff" stroke="#6b6b63" stroke-width="1.4"/>
+
+<!-- ================= the pivot, standing idle ================= -->
+<g stroke="#a89c80" stroke-width="1.6" fill="none">
+  <path d="M74,190 L74,146"/>
+  <path d="M66,190 L74,168 L82,190"/>
+  <path d="M74,150 L164,156"/>
+  <path d="M78,152 l0,9"/><path d="M96,153 l0,9"/><path d="M114,154 l0,9"/>
+  <path d="M132,155 l0,9"/><path d="M150,156 l0,9"/>
+</g>
+<circle cx="66" cy="190" r="4" fill="none" stroke="#a89c80" stroke-width="1.5"/>
+<circle cx="82" cy="190" r="4" fill="none" stroke="#a89c80" stroke-width="1.5"/>
+
+<!-- ================= low-water cover ================= -->
+<g>
+  <use href="#tuft" x="222" y="190"/><use href="#tuft" x="252" y="190"/><use href="#tuft" x="286" y="190"/>
+  <use href="#tuft" x="318" y="190"/><use href="#tuft" x="350" y="190"/><use href="#tuft" x="384" y="190"/>
+  <use href="#tuft" x="416" y="190"/><use href="#tuft" x="448" y="190"/><use href="#tuft" x="482" y="190"/>
+  <use href="#tuft" x="514" y="190"/>
+</g>
+
+<!-- ================= the array, which needs no water ================= -->
+<g>
+  <line x1="240" y1="190" x2="240" y2="162" stroke="#6b6b63" stroke-width="2"/>
+  <line x1="304" y1="190" x2="304" y2="162" stroke="#6b6b63" stroke-width="2"/>
+  <line x1="368" y1="190" x2="368" y2="162" stroke="#6b6b63" stroke-width="2"/>
+  <line x1="432" y1="190" x2="432" y2="162" stroke="#6b6b63" stroke-width="2"/>
+  <line x1="496" y1="190" x2="496" y2="162" stroke="#6b6b63" stroke-width="2"/>
+</g>
+<use href="#module" x="240" y="162"/>
+<use href="#module" x="304" y="162"/>
+<use href="#module" x="368" y="162"/>
+<use href="#module" x="432" y="162"/>
+<use href="#module" x="496" y="162"/>
+
+<use href="#person" x="530" y="190"/>
+
+<text x="118" y="122" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="middle">irrigation retired, by design</text>
+<text x="330" y="211" fill="#2b7fb0" font-size="11" font-style="italic" text-anchor="middle">the fall arrested, where the saved water stays saved</text>
+<text x="462" y="242" fill="#8a7f6a" font-size="9.5" font-style="italic" text-anchor="middle">had pumping continued</text>
+
+<!-- ================= SCALE footprint ================= -->
+<line x1="572" y1="62" x2="572" y2="242" stroke="#ece7db" stroke-width="1"/>
+
+<polygon points="690,132 708,150 690,168 672,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="690,114 726,150 690,186 654,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="690,96 744,150 690,204 636,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<line x1="690" y1="150" x2="690" y2="96" stroke="#d8d2c4" stroke-width="1"/>
+<line x1="690" y1="150" x2="744" y2="150" stroke="#d8d2c4" stroke-width="1"/>
+<line x1="690" y1="150" x2="690" y2="204" stroke="#d8d2c4" stroke-width="1"/>
+<line x1="690" y1="150" x2="636" y2="150" stroke="#d8d2c4" stroke-width="1"/>
+
+<text x="690" y="85" fill="#6f4a9c" font-size="10.5" font-weight="600" text-anchor="middle">Communities</text>
+<text x="752" y="150" fill="#3f8f36" font-size="10.5" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
+<text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Energy</text>
+<text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+
+<polygon points="690,125.0 730.9,150 690,158.9 688.3,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="690" cy="125.0" r="2.2" fill="#2c5580"/>
+<circle cx="730.9" cy="150" r="2.2" fill="#2c5580"/>
+<circle cx="690" cy="158.9" r="2.2" fill="#2c5580"/>
+<circle cx="688.3" cy="150" r="2.2" fill="#2c5580"/>
+
+<text x="690" y="238" fill="#7a7973" font-size="10" font-style="italic" text-anchor="middle">regeneration at the center</text>
+</svg>

@@ -22,11 +22,14 @@ The crowding at A3 is the [feasible wedge](2-the-sharingsparing-axis.qmd#sec-wed
 
 ## The six featured archetypes {#sec-featured}
 
+**Reading the drawings.** Each archetype is drawn in section with the same module, the same person, and the same ground line, so that what differs between them is real: the terrain, the clearance, the ground cover, and how deep the roots go. The [SCALE footprint](4-restorative-functions.qmd#sec-scale) beside each drawing places the form across Communities, Agriculture, Landscapes, and Energy. A dominant pressure moves its domain toward the center; a yielded pressure pushes it toward the rim; domains the form does not engage stay mid-scale. These are judgments about forms, not measurements, and not audits of the named projects.
+
 **On the worked cases.** The at-a-glance figures below are indicative, drawn from the worked case and from forms in circulation, not requirements. Each featured archetype carries one real project. Several rest on developer pages, NGO case studies, and extension write-ups rather than peer-reviewed evidence; capacities and areas are as-reported and are traced in [Sources](sources.qmd). They illustrate the *form*. They are not verified performance data, and none of them has been independently audited against the [restorative functions](4-restorative-functions.qmd) it is cited for.
 
 
 ### Barnyard Shelter Solar {#arch-barnyard}
 
+![**Figure 5.1.** Barnyard shelter solar in section. The array is sized to the parlor rather than to the grid, which puts Agriculture nearest the center and Energy out at the rim. The drawing carries what the profile cannot: shade gathers the herd, and the ground beneath it compacts.](../figures/fig_arch_barnyard.svg)
 
 ::: {.at-a-glance}
 **At a glance**
@@ -48,6 +51,7 @@ Barnyard shelter solar places a modest array above the yard or paddock the farm'
 
 ### Vegetable Agrivoltaics {#arch-vegetable}
 
+![**Figure 5.2.** Vegetable agrivoltaics in section. Clearance for hand work and rows spaced for the crop's light are both bought with generation, so Agriculture sits near the center and Energy reaches the rim. Shaded ground holds moisture the open rows lose.](../figures/fig_arch_vegetable.svg)
 
 ::: {.at-a-glance}
 **At a glance**
@@ -69,6 +73,7 @@ Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels ra
 
 ### Marginal Land Solar {#arch-marginal}
 
+![**Figure 5.3.** Marginal land solar in section. The siting decision is the archetype: the array takes the wet, stony corner and the field keeps farming. Communities sits nearest the center, because what the form delivers is income from ground that was not paying.](../figures/fig_arch_marginal.svg)
 
 ::: {.at-a-glance}
 **At a glance**
@@ -90,6 +95,7 @@ Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet re
 
 ### Solar Prairie Strips {#arch-prairie-strips}
 
+![**Figure 5.4.** Solar prairie strips in section. Landscapes comes almost to the center and Agriculture goes to the rim, which is the trade this form makes on purpose. The mechanism is visible: runoff intercepted on the contour, sediment held at the upslope edge, roots well below crop depth.](../figures/fig_arch_prairie_strips.svg)
 
 ::: {.at-a-glance}
 **At a glance**
@@ -111,6 +117,7 @@ Solar prairie strips pair panels with deep-rooted prairie placed where a field s
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
+![**Figure 5.5.** Regenerative solar grazing in section. Energy sits nearest the center, and agriculture here is a tenancy rather than the farm's own operation, which is why Communities reaches the rim. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg)
 
 ::: {.at-a-glance}
 **At a glance**
@@ -132,6 +139,7 @@ Regenerative solar grazing uses a planned flock rotation to manage vegetation, c
 
 ### Retired-Irrigation Solar {#arch-water}
 
+![**Figure 5.6.** Retired-irrigation solar in section. Agriculture goes to the rim by design and Landscapes comes almost to the center. The dashed line is the counterfactual, and the claim holds only where governance keeps the saved water from being pumped somewhere else.](../figures/fig_arch_retired_irrigation.svg)
 
 ::: {.at-a-glance}
 **At a glance**
@@ -150,21 +158,6 @@ Retired-irrigation solar ends irrigated production above an overdrawn aquifer [@
 *Dominant pressures: restorative goals (a water-quantity target), build cost. Yielded: agricultural production, by design.*
 
 **Westlands Solar Park, San Joaquin Valley, California**, part of a plan to convert up to ~136,000 acres of drainage-impaired, previously-irrigated land to solar and storage under California's Sustainable Groundwater Management Act; because the panels use no water, retiring the fields eases the overdraft that irrigated farming had driven [@stid2022]. *Figures are developer- and program-reported; see [Sources](sources.qmd).*
-
-## Archetypes across the SCALE domains {#sec-archetype-domains}
-
-Each featured archetype has a characteristic profile across Communities, Agriculture, Landscapes, and Energy. A dominant pressure moves its domain toward regeneration; a yielded pressure moves it toward depletion; unengaged domains remain mid-scale. The profiles are judgments about forms, not measurements or audits of the named projects.
-
-![**Figure 5.1.** Each featured archetype as a SCALE footprint across the four domains: a domain it regenerates sits toward the center, one it depletes or trades away reaches toward the rim, read from its dominant and yielded pressures. Descriptive profiles, site-conditional, and not a ranking or a score against a limit of sustainability.](../figures/fig_archetype_footprints.svg)
-
-- [**Barnyard Shelter Solar**](#arch-barnyard) (A1 · S1–S2): Agriculture and Communities.
-- [**Vegetable Agrivoltaics**](#arch-vegetable) (A2–A3 · S1): Agriculture and Communities, trading Energy.
-- [**Marginal Land Solar**](#arch-marginal) (A2–A3 · S4, or S2): Communities and cast-off agricultural ground.
-- [**Solar Prairie Strips**](#arch-prairie-strips) (A3 · S5): Landscapes, with some Energy yielded.
-- [**Regenerative Solar Grazing**](#arch-grazing) (A4–A5 · S2): Energy and Landscapes; Agriculture as a service.
-- [**Retired-Irrigation Solar**](#arch-water) (A4–A5 · S5): Landscapes and Energy, with Agriculture deliberately given up.
-
-
 
 ## Further archetypes in current circulation {#sec-further-types}
 

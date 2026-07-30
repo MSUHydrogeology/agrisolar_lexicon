@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
+<title>Vegetable Agrivoltaics</title>
+<desc>Section through a market field. Panels stand high enough for hand and small-equipment work and far enough apart to leave the crop its light, and the vegetable rows run unbroken beneath and between them. Shaded ground holds moisture the open rows lose. Its SCALE footprint sits at the right: Agriculture nearest the center, Energy out toward the rim.</desc>
+
+<defs>
+  <!-- shared glyphs: the module and person are identical in every archetype card.
+       Post height is drawn per instance, because clearance is a real design variable. -->
+  <g id="module">
+    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4"/>
+    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round"/>
+  </g>
+  <g id="person">
+    <circle cx="0" cy="-22.5" r="3.6" fill="none" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="0" y1="-19" x2="0" y2="-9" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="-4.5" y1="-15" x2="4.5" y2="-15" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="0" y1="-9" x2="-4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="0" y1="-9" x2="4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+  </g>
+  <g id="veg">
+    <line x1="0" y1="0" x2="0" y2="-7" stroke="#4f8a2e" stroke-width="1.5"/>
+    <path d="M0,-4 q-7,-2 -8,-8" fill="none" stroke="#4f8a2e" stroke-width="1.4"/>
+    <path d="M0,-4 q7,-2 8,-8" fill="none" stroke="#4f8a2e" stroke-width="1.4"/>
+    <path d="M0,-7 q-4,-5 -1,-9" fill="none" stroke="#4f8a2e" stroke-width="1.3"/>
+    <path d="M0,-7 q4,-5 1,-9" fill="none" stroke="#4f8a2e" stroke-width="1.3"/>
+  </g>
+  <clipPath id="soilclipV">
+    <path d="M26,200 L545,200 L545,250 L26,250 Z"/>
+  </clipPath>
+</defs>
+
+<rect y="14" width="820" height="254" rx="10" fill="#ffffff" stroke="#e6e1d6"/>
+
+<text x="26" y="32" fill="#777" font-size="11">A2–A3 · S1 · structure-led</text>
+
+<!-- ================= soil ================= -->
+<path d="M26,200 L545,200 L545,250 L26,250 Z" fill="#f2ece0"/>
+<g clip-path="url(#soilclipV)">
+  <path d="M26,200 L545,200 L545,215 L26,215 Z" fill="#e0d5bd"/>
+  <!-- moisture held under the shaded strips -->
+  <path d="M228,200 L272,200 L272,220 L228,220 Z" fill="#cfc9b0"/>
+  <path d="M338,200 L382,200 L382,220 L338,220 Z" fill="#cfc9b0"/>
+  <path d="M448,200 L492,200 L492,220 L448,220 Z" fill="#cfc9b0"/>
+  <g fill="#2b7fb0" opacity="0.35">
+    <circle cx="240" cy="209" r="1.4"/><circle cx="256" cy="215" r="1.4"/><circle cx="264" cy="206" r="1.4"/>
+    <circle cx="350" cy="209" r="1.4"/><circle cx="366" cy="215" r="1.4"/><circle cx="374" cy="206" r="1.4"/>
+    <circle cx="460" cy="209" r="1.4"/><circle cx="476" cy="215" r="1.4"/><circle cx="484" cy="206" r="1.4"/>
+  </g>
+  <g stroke="#b6a274" stroke-width="1" opacity="0.85" fill="none">
+    <path d="M60,200 v11"/><path d="M126,200 v11"/><path d="M214,200 v11"/><path d="M280,200 v11"/>
+    <path d="M346,200 v11"/><path d="M412,200 v11"/><path d="M478,200 v11"/><path d="M522,200 v11"/>
+  </g>
+</g>
+<path d="M26,200 L545,200" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
+
+<!-- ================= the crop, unbroken under and between ================= -->
+<g>
+  <use href="#veg" x="60" y="200"/><use href="#veg" x="82" y="200"/><use href="#veg" x="104" y="200"/>
+  <use href="#veg" x="126" y="200"/><use href="#veg" x="148" y="200"/>
+  <use href="#veg" x="214" y="200"/><use href="#veg" x="236" y="200"/><use href="#veg" x="258" y="200"/>
+  <use href="#veg" x="280" y="200"/><use href="#veg" x="302" y="200"/><use href="#veg" x="324" y="200"/>
+  <use href="#veg" x="346" y="200"/><use href="#veg" x="368" y="200"/><use href="#veg" x="390" y="200"/>
+  <use href="#veg" x="412" y="200"/><use href="#veg" x="434" y="200"/><use href="#veg" x="456" y="200"/>
+  <use href="#veg" x="478" y="200"/><use href="#veg" x="500" y="200"/><use href="#veg" x="522" y="200"/>
+</g>
+
+<!-- ================= widely spaced, raised for work beneath ================= -->
+<line x1="250" y1="200" x2="250" y2="156" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" x="250" y="156"/>
+<line x1="360" y1="200" x2="360" y2="156" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" x="360" y="156"/>
+<line x1="470" y1="200" x2="470" y2="156" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" x="470" y="156"/>
+
+<use href="#person" x="181" y="200"/>
+
+<!-- the gap that buys the crop its light -->
+<g stroke="#a89c80" stroke-width="1" fill="none">
+  <path d="M272,132 L338,132"/>
+  <path d="M272,128 v8"/><path d="M338,128 v8"/>
+</g>
+
+<text x="150" y="120" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="middle">room to work beneath</text>
+<text x="404" y="120" fill="#4f8a2e" font-size="11" font-style="italic" text-anchor="middle">rows spaced for the crop's light, not for packing</text>
+
+<!-- ================= SCALE footprint ================= -->
+<line x1="572" y1="62" x2="572" y2="242" stroke="#ece7db" stroke-width="1"/>
+
+<polygon points="690,132 708,150 690,168 672,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="690,114 726,150 690,186 654,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<polygon points="690,96 744,150 690,204 636,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
+<line x1="690" y1="150" x2="690" y2="96" stroke="#d8d2c4" stroke-width="1"/>
+<line x1="690" y1="150" x2="744" y2="150" stroke="#d8d2c4" stroke-width="1"/>
+<line x1="690" y1="150" x2="690" y2="204" stroke="#d8d2c4" stroke-width="1"/>
+<line x1="690" y1="150" x2="636" y2="150" stroke="#d8d2c4" stroke-width="1"/>
+
+<text x="690" y="85" fill="#6f4a9c" font-size="10.5" font-weight="600" text-anchor="middle">Communities</text>
+<text x="752" y="150" fill="#3f8f36" font-size="10.5" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
+<text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Energy</text>
+<text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+
+<polygon points="690,134.3 694.8,150 690,181.9 663.6,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="690" cy="134.3" r="2.2" fill="#2c5580"/>
+<circle cx="694.8" cy="150" r="2.2" fill="#2c5580"/>
+<circle cx="690" cy="181.9" r="2.2" fill="#2c5580"/>
+<circle cx="663.6" cy="150" r="2.2" fill="#2c5580"/>
+
+<text x="690" y="238" fill="#7a7973" font-size="10" font-style="italic" text-anchor="middle">regeneration at the center</text>
+</svg>
