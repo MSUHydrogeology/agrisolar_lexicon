@@ -1,54 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="368" viewBox="0 0 880 368" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430" role="img">
 <title>What scale leaves of each design lever</title>
-<desc>Three curves across the five zones. Structure starts highest at A1, where an array can be built to fit a particular yard, and falls to commodity racking at A5. Siting latitude is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Siting and management cross between A3 and A4, which is where the dominant restoration mode changes. Below the plot, a flat band shows ownership and contracts holding full range at every zone, because they act on paper rather than on ground and scale does not ration them.</desc>
+<desc>Two panels over the same five zones. The upper panel holds the three levers that act on ground. Structure starts highest at A1, where an array can be built to fit one particular yard, and falls to commodity racking at A5. Siting is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Siting and management cross between A3 and A4. The lower panel holds the two levers that act on paper. Ownership starts highest at A1, where the operator owns both the array and the animals under it and no agreement is needed, and falls to almost nothing at A5, where the owner is absentee. Contracts run the opposite way, close to nothing at A1 because there is no counterparty to write to, and the main instrument by A5. The two cross near A3. Scale is the axis and has no curve of its own.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.ax{font-size:11.5px;fill:#8a8880}
+.ax{font-size:11px;fill:#8a8880}
 .zl{font-size:12.5px;font-weight:600;fill:#173404}
 .cl{font-size:12.5px;font-weight:600}
-.cs{font-size:11px;fill:#75736c}
 .nt{font-size:11px;fill:#8a8880}
-.pl{font-size:12.5px;font-weight:600;fill:#5f5e5a}
+.eb{font-size:10.5px;font-weight:700;fill:#8a8880;letter-spacing:.06em}
 </style>
-<text class="ax" x="98" y="57" text-anchor="end">most</text>
-<text class="ax" x="98" y="218" text-anchor="end">least</text>
-<line x1="112" y1="214" x2="690" y2="214" stroke="#d3d1c7" stroke-width="1"/>
-<line x1="112" y1="46" x2="112" y2="214" stroke="#eceae3" stroke-width="1"/>
-<text class="zl" x="112" y="236" text-anchor="middle">A1</text>
-<line x1="256" y1="46" x2="256" y2="214" stroke="#eceae3" stroke-width="1"/>
-<text class="zl" x="256" y="236" text-anchor="middle">A2</text>
-<line x1="401" y1="46" x2="401" y2="214" stroke="#eceae3" stroke-width="1"/>
-<text class="zl" x="401" y="236" text-anchor="middle">A3</text>
-<line x1="546" y1="46" x2="546" y2="214" stroke="#eceae3" stroke-width="1"/>
-<text class="zl" x="546" y="236" text-anchor="middle">A4</text>
-<line x1="690" y1="46" x2="690" y2="214" stroke="#eceae3" stroke-width="1"/>
-<text class="zl" x="690" y="236" text-anchor="middle">A5</text>
-<line x1="473" y1="46" x2="473" y2="214" stroke="#b4b2a9" stroke-width="1" stroke-dasharray="3 3"/>
-<text class="nt" x="473" y="38" text-anchor="middle">the dominant mode changes here</text>
-<path d="M112,185 C173,185 196,97 256,97 C317,97 340,52 401,52 C462,52 485,146 546,146 C606,146 629,195 690,195" fill="none" stroke="#639922" stroke-width="2.6" stroke-linecap="round"/>
-<circle cx="112" cy="185" r="3" fill="#639922"/>
-<circle cx="256" cy="97" r="3" fill="#639922"/>
-<circle cx="401" cy="52" r="3" fill="#639922"/>
-<circle cx="546" cy="146" r="3" fill="#639922"/>
-<circle cx="690" cy="195" r="3" fill="#639922"/>
-<path d="M112,52 C173,52 196,81 256,81 C317,81 340,117 401,117 C462,117 485,162 546,162 C606,162 629,188 690,188" fill="none" stroke="#5f7fa8" stroke-width="2.6" stroke-linecap="round"/>
-<circle cx="112" cy="52" r="3" fill="#5f7fa8"/>
-<circle cx="256" cy="81" r="3" fill="#5f7fa8"/>
-<circle cx="401" cy="117" r="3" fill="#5f7fa8"/>
-<circle cx="546" cy="162" r="3" fill="#5f7fa8"/>
-<circle cx="690" cy="188" r="3" fill="#5f7fa8"/>
-<path d="M112,195 C173,195 196,162 256,162 C317,162 340,104 401,104 C462,104 485,60 546,60 C606,60 629,52 690,52" fill="none" stroke="#b5843a" stroke-width="2.6" stroke-linecap="round"/>
-<circle cx="112" cy="195" r="3" fill="#b5843a"/>
-<circle cx="256" cy="162" r="3" fill="#b5843a"/>
-<circle cx="401" cy="104" r="3" fill="#b5843a"/>
-<circle cx="546" cy="60" r="3" fill="#b5843a"/>
-<circle cx="690" cy="52" r="3" fill="#b5843a"/>
-<text class="cl" x="702" y="56" fill="#b5843a">management</text>
-<text class="cl" x="702" y="192" fill="#5f7fa8">structure</text>
-<text class="cl" x="702" y="216" fill="#639922">siting</text>
-<rect x="112" y="266" width="578" height="26" rx="4" fill="#f2f1ec" stroke="#c9c6bc" stroke-width="1" stroke-dasharray="4 3"/>
-<text class="pl" x="126" y="284">ownership · contracts</text>
-<text class="nt" x="676" y="284" text-anchor="end">full range at every zone</text>
-<text class="nt" x="112" y="314">The three curves act on ground, and scale rations them. The two on paper are a flat band because scale changes</text>
-<text class="nt" x="112" y="330">their form and not their strength. Ownership is the exception that moves rather than narrows, from operator to utility.</text>
+<text class="eb" x="112" y="40">ACTS ON GROUND — SCALE RATIONS THESE</text>
+<line x1="112" y1="180" x2="668" y2="180" stroke="#d3d1c7" stroke-width="1"/>
+<text class="ax" x="100" y="61" text-anchor="end">most</text>
+<text class="ax" x="100" y="184" text-anchor="end">least</text>
+<line x1="112" y1="50" x2="112" y2="180" stroke="#eceae3" stroke-width="1"/>
+<line x1="251" y1="50" x2="251" y2="180" stroke="#eceae3" stroke-width="1"/>
+<line x1="390" y1="50" x2="390" y2="180" stroke="#eceae3" stroke-width="1"/>
+<line x1="529" y1="50" x2="529" y2="180" stroke="#eceae3" stroke-width="1"/>
+<line x1="668" y1="50" x2="668" y2="180" stroke="#eceae3" stroke-width="1"/>
+<line x1="460" y1="50" x2="460" y2="180" stroke="#b4b2a9" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M112,158 C170,158 193,91 251,91 C309,91 332,56 390,56 C448,56 471,128 529,128 C587,128 610,165 668,165" fill="none" stroke="#639922" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="112" cy="158" r="2.8" fill="#639922"/>
+<circle cx="251" cy="91" r="2.8" fill="#639922"/>
+<circle cx="390" cy="56" r="2.8" fill="#639922"/>
+<circle cx="529" cy="128" r="2.8" fill="#639922"/>
+<circle cx="668" cy="165" r="2.8" fill="#639922"/>
+<path d="M112,56 C170,56 193,78 251,78 C309,78 332,106 390,106 C448,106 471,140 529,140 C587,140 610,160 668,160" fill="none" stroke="#5f7fa8" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="112" cy="56" r="2.8" fill="#5f7fa8"/>
+<circle cx="251" cy="78" r="2.8" fill="#5f7fa8"/>
+<circle cx="390" cy="106" r="2.8" fill="#5f7fa8"/>
+<circle cx="529" cy="140" r="2.8" fill="#5f7fa8"/>
+<circle cx="668" cy="160" r="2.8" fill="#5f7fa8"/>
+<path d="M112,165 C170,165 193,140 251,140 C309,140 332,96 390,96 C448,96 471,62 529,62 C587,62 610,56 668,56" fill="none" stroke="#b5843a" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="112" cy="165" r="2.8" fill="#b5843a"/>
+<circle cx="251" cy="140" r="2.8" fill="#b5843a"/>
+<circle cx="390" cy="96" r="2.8" fill="#b5843a"/>
+<circle cx="529" cy="62" r="2.8" fill="#b5843a"/>
+<circle cx="668" cy="56" r="2.8" fill="#b5843a"/>
+<text class="cl" x="680" y="60" fill="#b5843a">management</text>
+<text class="cl" x="680" y="164" fill="#5f7fa8">structure</text>
+<text class="cl" x="680" y="186" fill="#639922">siting</text>
+<text class="eb" x="112" y="222">ACTS ON PAPER — SCALE TRADES ONE FOR THE OTHER</text>
+<line x1="112" y1="338" x2="668" y2="338" stroke="#d3d1c7" stroke-width="1"/>
+<text class="ax" x="100" y="243" text-anchor="end">most</text>
+<text class="ax" x="100" y="342" text-anchor="end">least</text>
+<line x1="112" y1="232" x2="112" y2="338" stroke="#eceae3" stroke-width="1"/>
+<line x1="251" y1="232" x2="251" y2="338" stroke="#eceae3" stroke-width="1"/>
+<line x1="390" y1="232" x2="390" y2="338" stroke="#eceae3" stroke-width="1"/>
+<line x1="529" y1="232" x2="529" y2="338" stroke="#eceae3" stroke-width="1"/>
+<line x1="668" y1="232" x2="668" y2="338" stroke="#eceae3" stroke-width="1"/>
+<line x1="398" y1="232" x2="398" y2="338" stroke="#b4b2a9" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M112,238 C170,238 193,250 251,250 C309,250 332,286 390,286 C448,286 471,320 529,320 C587,320 610,332 668,332" fill="none" stroke="#8a6ba8" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="6 4"/>
+<circle cx="112" cy="238" r="2.8" fill="#8a6ba8"/>
+<circle cx="251" cy="250" r="2.8" fill="#8a6ba8"/>
+<circle cx="390" cy="286" r="2.8" fill="#8a6ba8"/>
+<circle cx="529" cy="320" r="2.8" fill="#8a6ba8"/>
+<circle cx="668" cy="332" r="2.8" fill="#8a6ba8"/>
+<path d="M112,332 C170,332 193,316 251,316 C309,316 332,280 390,280 C448,280 471,246 529,246 C587,246 610,238 668,238" fill="none" stroke="#2f7f70" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="6 4"/>
+<circle cx="112" cy="332" r="2.8" fill="#2f7f70"/>
+<circle cx="251" cy="316" r="2.8" fill="#2f7f70"/>
+<circle cx="390" cy="280" r="2.8" fill="#2f7f70"/>
+<circle cx="529" cy="246" r="2.8" fill="#2f7f70"/>
+<circle cx="668" cy="238" r="2.8" fill="#2f7f70"/>
+<text class="cl" x="680" y="242" fill="#2f7f70">contracts</text>
+<text class="cl" x="680" y="336" fill="#8a6ba8">ownership</text>
+<text class="nt" x="460" y="22" text-anchor="middle">siting hands off to management</text>
+<text class="nt" x="398" y="204" text-anchor="middle">ownership hands off to contracts</text>
+<text class="zl" x="112" y="362" text-anchor="middle">A1</text>
+<text class="zl" x="251" y="362" text-anchor="middle">A2</text>
+<text class="zl" x="390" y="362" text-anchor="middle">A3</text>
+<text class="zl" x="529" y="362" text-anchor="middle">A4</text>
+<text class="zl" x="668" y="362" text-anchor="middle">A5</text>
+<text class="nt" x="112" y="394">Two hand-offs, not one. The alignment an owner-operator supplies for nothing, because they own both the array and the animals under it,</text>
+<text class="nt" x="112" y="410">has to be written down clause by clause once the owner is a developer in another state. Scale is the axis, so it has no curve of its own.</text>
 </svg>

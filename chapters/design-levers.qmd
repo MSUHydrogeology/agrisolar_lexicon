@@ -11,9 +11,9 @@ Everything else in this document sits downstream of them. The [design pressures]
 | **Structure** | what gets built, and how much earth is moved | microclimate, clearance for farming, light to the ground layer |
 | **Management** | what grows, and how the place is run for thirty years | soil and carbon, habitat, most of the water balance |
 | **Ownership** | who holds the asset and captures what it earns | a share of generation revenue for the people on the ground |
-| **Contracts** | what the parties signed | the community function, and durability for all of the above |
+| **Contracts** | what the parties signed | the community function, durability for all of the above, and the alignment ownership stops supplying at scale |
 
-: The six design levers. The first four act on ground and the last two act on paper. The full menu of decisions inside each one follows, and §-@sec-lever-matrix reads the whole set against the transect. {#tbl-levers}
+: The six design levers. The first four act on ground and the last two act on paper, where ownership and contracts trade against each other along the transect. The full menu of decisions inside each one follows, and §-@sec-lever-matrix reads the whole set against the transect. {#tbl-levers}
 
 ## The full menu {#sec-lv-menu}
 
@@ -57,7 +57,7 @@ What moves along with ownership is the generation revenue, which is the largest 
 
 **Contracts** are what the parties actually signed: lease terms and duration, offtake structure, interconnection posture, the tax or PILOT arrangement, community-benefit instruments, easements, and the decommissioning bond. This lever carries the [community and economic function](restorative-functions.qmd#sec-fn-community) almost by itself, and it carries something else that is easy to miss. It is what makes the others last. A seed mix is a management decision, but whether it survives to year twenty is a lease question, and nearly 40% of Central Valley agricultural land is rented, so a conversion that sustains an owner can end the operation of the person actually farming the ground [@stid2025].
 
-Siting narrows to nothing by A5, structure narrows to commodity, management is weak at A1, and ownership moves away from the operator the whole way up. **Contracts are the one lever that holds its full range at every scale**, because a lease is a lease at eighty acres and at eight thousand, and every term in it is written by somebody. The clearest published case for the paper side runs through exactly that: federal biofuel policy has made conservation payments the less profitable option across much of the corn-ethanol acreage, and solar lease income can make a conservation practice affordable that was not affordable before [@sturchio2025croplands]. No ground was chosen and no hardware was changed. The restoration happened in a contract, which is the lever most often left on the table.
+Siting narrows to nothing by A5, structure narrows to commodity, and management is weak at A1. **Contracts run against ownership**, because the two are the same problem at opposite ends of the transect. At the farmstead there is barely a contract to write, since the operator owns the array and the ground and nothing needs agreeing with anybody. By A5 the contract is the only lever with real reach left, because siting has gone to the land market, structure is bought by the megawatt, and the owner is somewhere else. The clearest published case for the paper side runs through exactly that: federal biofuel policy has made conservation payments the less profitable option across much of the corn-ethanol acreage, and solar lease income can make a conservation practice affordable that was not affordable before [@sturchio2025croplands]. No ground was chosen and no hardware was changed. The restoration happened in a contract, which is the lever most often left on the table.
 
 ## What the levers produce {#sec-lv-outputs}
 
@@ -71,14 +71,20 @@ Three things come out of a lever setting, and the rest of this document is organ
 
 ## Which lever did the work {#sec-lv-mode}
 
-Naming the levers makes a question askable that is otherwise vague: when a project turns out to be restorative, which lever did it? The answer is the project's **restoration mode**, and the levers name it almost directly.
+Naming the levers makes a question askable that is otherwise vague: when a project turns out to be restorative, which lever did it? The answer is the project's **restoration mode**. Five of the six levers name one directly.
 
 - **Siting-led** — the restorative work is done by the choice of ground. [Solar prairie strips](archetypes.qmd#arch-prairie-strips) are the case, because the planting goes where the runoff already goes.
 - **Structure-led** — the array's geometry does it: clearance, row spacing, how much light the modules let through. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case.
 - **Management-led** — placement is a given, and the ground cover, the grazing regime, and the operational calendar carry everything. Regenerative solar grazing is the case.
 - **Contract-led** — the work happens in the lease, the ordinance, or the benefit agreement rather than anywhere on the site. The [community and economic function](restorative-functions.qmd#sec-fn-community) runs on this one.
 
-**Two levers name no mode of their own, and the reasons are different.** Ownership does its restorative work through the fourth mode, because an ownership structure is constituted on paper: a co-operative or a community-solar subscription is a set of documents, so a project restructured to keep generation revenue local is contract-led even though ownership is what changed. Scale is the genuine exception. It names no mode because a mode answers how the restorative work was done on a given project, and choosing to build five megawatts rather than eighty is not a way of doing restorative work. It is what decides which ways remain available, which is the argument the [scale transect](scale-transect.qmd) makes at length, and it is why that chapter can say which mode dominates at each zone (§-@sec-restoration-modes).
+- **Ownership-led** — the restorative work is done by who holds the asset, and no agreement is required because the interests were never opposed. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case: it is restorative because the person who owns the array owns the animals standing under it.
+
+**Ownership-led and contract-led are the same problem at two scales.** An owner-operator needs nothing written down, because the party deciding and the party living with the decision are one person. A utility in another state needs everything written down, because they are not. So the alignment that ownership supplies for free at the farmstead has to be manufactured, clause by clause, as ownership moves up the transect: the lease term, the maintenance obligation, the benefit agreement, the decommissioning bond. **Contract-led restoration is what you need when ownership-led restoration is no longer available**, which is why contract-led restoration is nearly empty at the farmstead and the main instrument at utility scale, exactly where ownership has travelled furthest from the ground.
+
+That reframes the ownership lever. It is not neutral along the transect, and describing it as merely *moving* understates what the movement costs. Ownership does restorative work directly at A1 and A2, does less of it through A3 as parties multiply, and by A4 and A5 is more often the thing restoration has to be defended against than the thing delivering it (§-@sec-fn-community).
+
+**Scale is the only lever that names no mode at all.** A mode answers how the restorative work was done on a given project, and choosing to build five megawatts rather than eighty is not a way of doing restorative work. It is what decides which ways remain available, which is the argument the [scale transect](scale-transect.qmd) makes at length and why that chapter can say which mode dominates at each zone (§-@sec-restoration-modes).
 
 That may not hold. Solar's spillover benefits scale with perimeter and proximity rather than with area, which makes several mid-sized arrays a different ecological proposition from one large one at the same capacity (§-@sec-community-scale). If that argument survives measurement, choosing to build small and many *is* restorative work, and scale earns a mode after all. Nobody has run the comparison (§-@sec-open-issues).
 

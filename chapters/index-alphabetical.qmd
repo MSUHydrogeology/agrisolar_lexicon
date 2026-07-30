@@ -146,6 +146,8 @@ under **S**.
 
 **Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [5. Archetypes](archetypes.qmd)
 
+**Ownership-led** — restoration mode: the work is done by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [Scale controls the dominant restoration mode](scale-transect.qmd#sec-restoration-modes)
+
 ## P {.unnumbered}
 
 **Policy and permission** — design pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays; the one pressure whose direction the jurisdiction sets — [Terminology](terminology.qmd#term-policy-permission) · [The pressures](design-pressures.qmd#sec-pressures)
@@ -162,7 +164,7 @@ under **S**.
 
 **Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [6. Regionality](regionality.qmd)
 
-**Restoration mode** — whether restorative work is delivered by choice of ground, array geometry, operation, or contract — Siting-led, Structure-led, Management-led, or Contract-led — [Terminology](terminology.qmd#term-restoration-mode) · [Scale controls the dominant restoration mode](scale-transect.qmd#sec-restoration-modes)
+**Restoration mode** — which design lever carried the restorative work — Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restoration-mode) · [Scale controls the dominant restoration mode](scale-transect.qmd#sec-restoration-modes)
 
 **Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation — [Terminology](terminology.qmd#term-restorative)
 
