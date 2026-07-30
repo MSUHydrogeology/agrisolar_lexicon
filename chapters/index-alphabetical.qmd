@@ -132,7 +132,7 @@ under **S**.
 
 ## M {.unnumbered}
 
-**Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [Terminology](terminology.qmd#term-management-led) · [Scale controls the dominant restoration mode](restoration-modes.qmd#sec-restoration-modes)
+**Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [Terminology](terminology.qmd#term-management-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
 **Marginal / Previously Disturbed Land** — the low-value ground that idled-land sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Terminology](terminology.qmd#term-marginal-land)
 
@@ -146,7 +146,7 @@ under **S**.
 
 **Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [5. Archetypes](archetypes.qmd)
 
-**Ownership-led** — restoration mode: the work is done by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [Scale controls the dominant restoration mode](restoration-modes.qmd#sec-restoration-modes)
+**Ownership-led** — restoration mode: the work is done by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
 ## P {.unnumbered}
 
@@ -164,7 +164,7 @@ under **S**.
 
 **Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [The same pressures, weighted by place](design-pressures.qmd#sec-regionality)
 
-**Restoration mode** — which design lever carried the restorative work — Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restoration-mode) · [Scale controls the dominant restoration mode](restoration-modes.qmd#sec-restoration-modes)
+**Restoration mode** — which design lever carried the restorative work — Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restoration-mode) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
 **Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation — [Terminology](terminology.qmd#term-restorative)
 
@@ -196,7 +196,7 @@ under **S**.
 
 **Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale constrains design leverage](restoration-modes.qmd#sec-siting-latitude)
 
-**Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [Terminology](terminology.qmd#term-siting-led) · [Scale controls the dominant restoration mode](restoration-modes.qmd#sec-restoration-modes)
+**Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [Terminology](terminology.qmd#term-siting-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
 **Solar grazing** — *see* Rangevoltaics — [Terminology](terminology.qmd#term-rangevoltaics)
 
@@ -204,7 +204,7 @@ under **S**.
 
 **Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [Terminology](terminology.qmd#term-stocking-density) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
-**Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [Terminology](terminology.qmd#term-structure-led) · [Scale controls the dominant restoration mode](restoration-modes.qmd#sec-restoration-modes)
+**Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [Terminology](terminology.qmd#term-structure-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
 ## T {.unnumbered}
 
