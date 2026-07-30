@@ -46,7 +46,7 @@ under **S**.
 
 **Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](siting-axis.qmd#sec-positions)
 
-**Benefit delivery** — how a function's benefit reaches whoever receives it: by proximity, by channel, or by preservation; a restorative claim is not checkable until its delivery is named — [Terminology](terminology.qmd#term-benefit-delivery) · [Where each function applies](restorative-functions.qmd#sec-benefit-range)
+**Benefit delivery** — how a function's benefit reaches whoever receives it: by proximity, by channel, or by preservation; a restorative claim is not checkable until its delivery is named — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
 **Build cost** — design pressure: minimize installed cost per watt — [Terminology](terminology.qmd#term-build-cost) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -76,7 +76,7 @@ under **S**.
 
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [Terminology](terminology.qmd#term-decommissioning)
 
-**Delivery by preservation** — the mode in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where each function applies](restorative-functions.qmd#sec-benefit-range)
+**Delivery by preservation** — the mode in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
 **Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](design-pressures.qmd#sec-rg-consequences)
 
