@@ -38,8 +38,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect class="on" stroke-dasharray="3 2" x="664" y="137" width="78" height="22" rx="3"/>
 
 <text class="nm" x="16" y="214">Agriculture and soils</text>
-<text class="md" x="236" y="208">structure-led at build,</text>
-<text class="md" x="236" y="221">then siting- and management-led</text>
+<text class="md" x="236" y="201">structure-led at build,</text>
+<text class="md" x="236" y="214">then siting- and</text>
+<text class="md" x="236" y="227">management-led</text>
 <rect fill="#5f5e5a" x="400" y="199" width="78" height="22" rx="3"/>
 <text class="sub" x="439" y="234" text-anchor="middle">carbon leaves by air</text>
 <rect class="on" stroke-dasharray="3 2" x="488" y="199" width="78" height="22" rx="3"/>
