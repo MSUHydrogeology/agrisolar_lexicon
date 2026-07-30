@@ -1,6 +1,6 @@
 # Design Levers {#sec-levers-ch}
 
-A solar project is a very long list of decisions, and almost all of them fall into six groups. How much ground to take. Which ground. What gets built on it. What grows there and how the place is run. Who holds the asset. What the parties signed. These are the **design levers**, and they are the only things anyone can actually change.
+A solar project is a very long list of decisions, and almost all of them fall into six groups. How much ground to take. Which ground. What gets built on it. What grows there and how the place is run. Who holds the asset. What the parties signed. These are the **[design levers](terminology.qmd#term-design-levers)**, and they are the only things anyone can actually change.
 
 Everything else in this document sits downstream of them. The [design pressures](design-pressures.qmd) are the forces arguing over how to set the levers. The [restorative functions](restorative-functions.qmd) are what the settings produce. And two of the levers have enough internal structure to need a chapter of their own, which is what the [scale transect](scale-transect.qmd) and the [sharing–sparing axis](sharing-sparing-axis.qmd) are.
 
@@ -17,13 +17,13 @@ Everything else in this document sits downstream of them. The [design pressures]
 
 ## Scale sets the others {#sec-lv-scale}
 
-Every other lever is rationed by this one, which is why it comes first and why it earns a chapter of its own (§-@sec-transect). It is a decision for some parties and a constraint for others: a farmer with one parcel and a distribution line at the road has very little say in it, and a developer assembling acreage near a substation has a great deal. Both are choosing, and only one of them knows it.
+Every other lever is rationed by this one, which is why it comes first and why it earns a chapter of its own (§-@sec-transect). It is a decision for some parties and a constraint for others: a farmer with one parcel and a distribution line at the road has very little say in it, and a developer assembling acreage near a [substation](terminology.qmd#term-substation) has a great deal. Both are choosing, and only one of them knows it.
 
 ## The three that act on ground {#sec-lv-ground}
 
 **Siting** is the choice of ground, and it is the most powerful lever where a designer has it. It is also the first to disappear as scale grows. Placement decides whether a water-quality claim is even available, because the two routes want opposite ground: [avoided loading](terminology.qmd#term-fn-hydrologic) needs the impaired field itself, and interception needs ground between that field and the water [@schulte2017]. It decides whether a pollinator planting reaches anyone, since a forager works a radius of roughly 1.5 km and about 3,500 km² of US farmland sits inside that distance of existing and planned facilities [@walston2018]. And it is cheaper than the argument against it usually assumes: siting New York's entire 2050 build around biodiversity came to 0.17% above the least-cost case [@gallaher2026].
 
-**Structure** is the hardware and its geometry. It is the lever that carries the [microclimate function](terminology.qmd#term-fn-microclimate) outright, because shade, the drop in vapor-pressure deficit, and the shelter of nighttime minima are products of geometry rather than of anything growing. It also decides how much earth gets moved, which is the least visible structural decision and one of the most consequential: a racking choice made on cost sets the soil-carbon ledger for thirty years before any seed mix is chosen (§-@sec-fn-soil).
+**Structure** is the hardware and its geometry. It is the lever that carries the [microclimate function](terminology.qmd#term-fn-microclimate) outright, because shade, the drop in vapor-pressure deficit, and the shelter of nighttime minima are products of geometry rather than of anything growing. It also decides how much earth gets moved, which is the least visible structural decision and one of the most consequential: a [racking](terminology.qmd#term-racking) choice made on cost sets the soil-carbon ledger for thirty years before any seed mix is chosen (§-@sec-fn-soil).
 
 **Management** is what grows underneath and how the place is run across its life. It carries soil and carbon, most of habitat, and most of the water balance, and it is the only lever that can still be changed after construction. That cuts both ways: a planting that was right in year one can be undone in year four by a contractor doing exactly what the maintenance schedule says [@blaydes2022].
 
@@ -47,28 +47,29 @@ Three things come out of a lever setting, and the rest of this document is organ
 
 **A position on the transect.** Scale is read directly, which is why A0 through A5 are settings on one lever rather than an independent coordinate (§-@sec-transect).
 
-**A position on the sharing–sparing axis.** This one is jointly produced, and the [two-question reading rule](sharing-sparing-axis.qmd#sec-positions) in §-@sec-positions shows exactly how. Whether production continues inside the [footprint](terminology.qmd#term-footprint-influence) is settled by structure and management, since clearance and row spacing decide whether a tractor fits and the ground layer decides whether anything salable grows, and that question separates S1 and S2 from everything below it. What the ground was beforehand is settled by siting, and that question separates ordinary converted ground (S3) from idle ground (S4) and impaired ground (S5). So the sharing wing of the axis is built and managed, the sparing wing is sited, and reading a position tells you which levers were doing the work.
+**A position on the [sharing–sparing axis](terminology.qmd#term-sharing-sparing).** This one is jointly produced, and the [two-question reading rule](sharing-sparing-axis.qmd#sec-positions) in §-@sec-positions shows exactly how. Whether production continues inside the [footprint](terminology.qmd#term-footprint-influence) is settled by structure and management, since [clearance](terminology.qmd#term-clearance) and [row spacing](terminology.qmd#term-row-spacing) decide whether a tractor fits and the ground layer decides whether anything salable grows, and that question separates S1 and S2 from everything below it. What the ground was beforehand is settled by siting, and that question separates ordinary converted ground (S3) from idle ground (S4) and impaired ground (S5). So the sharing wing of the axis is built and managed, the sparing wing is sited, and reading a position tells you which levers were doing the work.
 
 **The restorative functions.** Each of the six in §-@sec-functions is produced by a particular lever or pair, which is what the middle column of @fig-functions-overview records: microclimate is structural, soil and carbon is structural at construction and managed afterward, habitat is managed, water is sited and then managed, and the community function is contractual. Ownership is the exception, because it produces no function of its own and instead decides who captures the ones that are produced.
 
-## Restoration modes: which lever did the work {#sec-lv-mode}
+## Restoration modes: choosing which lever does the work {#sec-lv-mode}
 
-Naming the levers makes a question askable that is otherwise vague: when a project turns out to be restorative, which lever did it? The answer is the project's [**restoration mode**](terminology.qmd#term-restoration-mode). Five of the six levers name one directly.
+A project does not turn out restorative. Somebody decides which lever will carry that work, and commits the design to it. That choice is the project's [**restoration mode**](terminology.qmd#term-restoration-mode), and five of the six levers can be made to carry it.
 
-- **Siting-led** — the restorative work is done by the choice of ground. [Solar prairie strips](archetypes.qmd#arch-prairie-strips) are the case, because the planting goes where the runoff already goes.
-- **Structure-led** — the array's geometry does it: clearance, row spacing, how much light the modules let through. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case.
-- **Management-led** — placement is a given, and the ground cover, the grazing regime, and the operational calendar carry everything. Regenerative solar grazing is the case.
-- **Ownership-led** — who holds the asset does it, and no agreement is required because the interests were never opposed. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case again, and for a second reason: the person who owns the array owns the animals standing under it.
-- **Contract-led** — the work happens in the lease, the ordinance, or the benefit agreement rather than anywhere on the site. The [community and economic function](restorative-functions.qmd#sec-fn-community) runs on this one.
+- **[Siting-led](terminology.qmd#term-siting-led)** — put the array where the ground itself does the work. [Solar prairie strips](archetypes.qmd#arch-prairie-strips) are the case: the planting goes where the runoff already goes.
+- **[Structure-led](terminology.qmd#term-structure-led)** — build the geometry to do it: clearance, row spacing, how much light the modules let through. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case.
+- **[Management-led](terminology.qmd#term-management-led)** — take placement as given and put the ground cover, the grazing regime, and the operational calendar to work. Regenerative solar grazing is the case.
+- **[Ownership-led](terminology.qmd#term-ownership-led)** — structure the holding so that no agreement is required, because the interests were never opposed. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case again, and for a second reason: the person who owns the array owns the animals standing under it.
+- **[Contract-led](terminology.qmd#term-contract-led)** — write it into the lease, the ordinance, or the benefit agreement rather than into anything on the site. The [community and economic function](restorative-functions.qmd#sec-fn-community) runs on this one.
 
 **Ownership-led and contract-led are the same problem at two scales.** An owner-operator needs nothing written down, because the party deciding and the party living with the decision are one person. A utility in another state needs everything written down, because they are not. So the alignment that ownership supplies for free at the farmstead has to be manufactured, clause by clause, as ownership moves up the transect: the lease term, the maintenance obligation, the benefit agreement, the decommissioning bond. **Contract-led restoration is what you need when ownership-led restoration is no longer available**, which is why contract-led restoration is nearly empty at the farmstead and the main instrument at utility scale, exactly where ownership has travelled furthest from the ground.
 
-
-**Scale is the only lever that names no mode at all.** A mode answers how the restorative work was done on a given project, and choosing to build five megawatts rather than eighty is not a way of doing restorative work. It is what decides which ways remain available, which is the argument the [scale transect](scale-transect.qmd) makes at length and why that chapter can say which mode dominates at each zone (§-@sec-restoration-modes).
+**Scale is not itself a restoration mode. It governs all the others.** Choosing to build five megawatts rather than eighty is not a way of doing restorative work; it is what decides which of the five stay open to the design. That is the argument the [scale transect](scale-transect.qmd) makes at length, and why that chapter can say which mode dominates at each zone (§-@sec-restoration-modes).
 
 That may not hold. Solar's spillover benefits scale with perimeter and proximity rather than with area, which makes several mid-sized arrays a different ecological proposition from one large one at the same capacity (§-@sec-community-scale). If that argument survives measurement, choosing to build small and many *is* restorative work, and scale earns a mode after all. Nobody has run the comparison (§-@sec-open-issues).
 
-The mode is worth stating because it tells a reader what to copy. A design that worked because of where it sat will not transfer to a site without that ground, however carefully the rest is reproduced, and this is the mechanism behind [design import](terminology.qmd#term-design-import) (§-@sec-rg-consequences). It also tells a reader what to check. A siting-led claim is verified against a map, a structure-led claim against a drawing, a management-led claim against a maintenance schedule somebody has to keep for thirty years, and a contract-led claim against a document that can be read.
+Choosing the mode early is what keeps a design from spending itself on a lever that scale has already closed. At A4 there is little to be gained by arguing over ground the [interconnection](terminology.qmd#term-interconnection) queue has effectively chosen, and a great deal to be gained by writing the seed mix and the maintenance obligation into the lease. Naming the mode is how that gets decided on purpose rather than by default, and defaulting is how a project ends up with restorative intentions and gravel.
+
+It also settles two things afterwards. What to copy: a design that worked because of where it sat will not transfer to a site without that ground, however carefully the rest is reproduced, which is the mechanism behind [design import](terminology.qmd#term-design-import) (§-@sec-rg-consequences). And what to check: a siting-led claim is verified against a map, a structure-led claim against a drawing, a management-led claim against a maintenance schedule somebody has to keep for thirty years, and a contract-led claim against a document that can be read.
 
 ## Where the levers couple {#sec-lv-coupling}
 
@@ -82,7 +83,7 @@ Read that way, management is the fast layer and therefore the fragile one. It su
 
 The specific decisions inside each lever, for a reader weighing an actual proposal.
 
-*Scale:* how much ground the project takes · the capacity it is filed at, and the [zone](scale-transect.qmd#sec-zones) that follows from it · interconnection posture, from behind-the-meter to transmission · whether to build once or to phase several arrays. Setting this lever rations every one below it, which is why it gets a chapter of its own (§-@sec-transect).
+*Scale:* how much ground the project takes · the capacity it is filed at, and the [zone](scale-transect.qmd#sec-zones) that follows from it · interconnection posture, from [behind-the-meter](terminology.qmd#term-behind-the-meter) to transmission · whether to build once or to phase several arrays. Setting this lever rations every one below it, which is why it gets a chapter of its own (§-@sec-transect).
 
 *Siting:* which ground the array takes · where on the parcel it sits · whether it stands upslope or downslope of the problem it might fix · how near it is to the fields it might serve · whether a landscape carries a few large arrays or many small ones.
 
@@ -92,7 +93,7 @@ The specific decisions inside each lever, for a reader weighing an actual propos
 
 *Ownership:* who holds the asset, and therefore who decides all of the above and captures what the array earns: owner-operator, landowner, developer, utility, cooperative, or shared · co-ownership or an equity stake in place of a rent.
 
-*Contracts:* lease terms and duration · offtake structure · interconnection posture · [community-benefit](terminology.qmd#term-community-benefit) instruments (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, decommissioning bond) · easements.
+*Contracts:* lease terms and duration · [offtake](terminology.qmd#term-offtake) structure · interconnection posture · [community-benefit](terminology.qmd#term-community-benefit) instruments (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, decommissioning bond) · easements.
 
 ## Does the set hold? {#sec-lv-completeness}
 
