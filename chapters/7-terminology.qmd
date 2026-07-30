@@ -2,7 +2,7 @@
 
 Definitions are grouped by subject and link to their fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
-![**Figure 7.1.** The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the five [restorative functions](4-restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg)
+![**Figure 7.1.** The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the [restorative functions](4-restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg)
 
 ### 7.1 Scale {#sec-terms-scale}
 
@@ -30,7 +30,7 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 #### A4 — Landscape {#term-a4}
 
-5–50 MW, roughly 30–300 acres; developer-led institutional capital, contract-enterprise ground management. See [§1.2](1-the-scale-transect.qmd#sec-zones).
+5–50 MW, roughly 30–300 acres; developer-led institutional capital, contract-enterprise ground management. The widest band on the transect, and it probably contains a jurisdictional break near 20–25 MW, the capacity at which several states move siting from local boards to a state office. Not split yet (§8, issue 1). See [§1.2](1-the-scale-transect.qmd#sec-zones).
 
 #### A5 — Regional {#term-a5}
 
@@ -152,7 +152,7 @@ Developed in [§4, Restorative Functions](4-restorative-functions.qmd).
 
 #### Restorative function {#term-restorative-function}
 
-A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once, the columns laid over the archetypes as rows (§4). Four are biophysical, one socioeconomic. See [§4](4-restorative-functions.qmd).
+A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once, the columns laid over the archetypes as rows (§4). Four are biophysical, one agricultural, and one socioeconomic. See [§4](4-restorative-functions.qmd).
 
 #### Hydrologic function {#term-fn-hydrologic}
 
@@ -170,19 +170,23 @@ Habitat built from the ground layer up: floral resources, nesting substrate, and
 
 The array's reshaping of the near-surface and below-panel energy balance: shade lowers soil and canopy temperature, daytime vapor-pressure deficit and evaporative demand, raising soil moisture, while longwave sheltering lifts nighttime minima, most of all in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Its sign flips with climate and crop, and it is itself scale- and geometry-dependent (§1.1). See [§4.4](4-restorative-functions.qmd#sec-fn-microclimate).
 
+#### Agricultural function {#term-fn-agricultural}
+
+What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [sharing–sparing axis](#term-sharing-sparing) restated, which records whether production continues in the footprint rather than what the project gives farming. Its dominant [benefit delivery](#term-benefit-delivery) is *adjacent*, which makes it the function most dependent on what surrounds the site. See [§4.5](4-restorative-functions.qmd#sec-fn-agricultural).
+
 #### Community & economic function {#term-fn-community}
 
-The one socioeconomic function: the economic prosperity, livability, and health and equity a project builds for its host, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§4.5](4-restorative-functions.qmd#sec-fn-community).
+The one socioeconomic function: the economic prosperity, livability, and health and equity a project builds for its host, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§4.6](4-restorative-functions.qmd#sec-fn-community).
 
 #### Benefit delivery {#term-benefit-delivery}
 
-How a function's benefit reaches whoever receives it, in three modes. **Proximity**, where it is delivered across ground, in four bands: **on-site** (*in situ*), **adjacent** (*local proximal*), **downstream** (*directional flow related*), and **regional and global** (*global non-proximal*), with visits to the site running inward rather than outward (*user movement related*). **Channel**, where it moves along tenure, contract, and jurisdiction rather than any distance, which is how the [community and economic function](#term-fn-community) travels. **Preservation**, where nothing moves and the benefit is ground nearby that stayed as it was. It has a geography, since development pressure is local, but it is counterfactual rather than observed. A restorative claim is not checkable until its delivery is named, since that decides who can verify it, who can capture it, and which objection it answers. Distinct from the [restoration mode](#term-restoration-mode), which asks how the work gets done, and from the [influence zone](#term-footprint-influence), which is how far the array physically reaches. Terms in italics are @costanza2008's; the channel and preservation modes are the lexicon's own. See [§4.6](4-restorative-functions.qmd#sec-benefit-range).
+How a function's benefit reaches whoever receives it, in three modes. **Proximity**, where it is delivered across ground, in four bands: **on-site** (*in situ*), **adjacent** (*local proximal*), **downstream** (*directional flow related*), and **regional and global** (*global non-proximal*), with visits to the site running inward rather than outward (*user movement related*). **Channel**, where it moves along tenure, contract, and jurisdiction rather than any distance, which is how the [community and economic function](#term-fn-community) travels. **Preservation**, where nothing moves and the benefit is ground nearby that stayed as it was. It has a geography, since development pressure is local, but it is counterfactual rather than observed. A restorative claim is not checkable until its delivery is named, since that decides who can verify it, who can capture it, and which objection it answers. Distinct from the [restoration mode](#term-restoration-mode), which asks how the work gets done, and from the [influence zone](#term-footprint-influence), which is how far the array physically reaches. Terms in italics are @costanza2008's; the channel and preservation modes are the lexicon's own. See [§4.7](4-restorative-functions.qmd#sec-benefit-range).
 
 **Prior names.** The distinction is borrowed, not coined. @hernandez2019 call an outcome that overlaps the generation site *sympatric* and one spatially separated from it *disjunct*, and assign each a *serviceshed*, the largest ecological scale at which it contributes goods and services. This lexicon splits the disjunct side into bands and adds delivery by preservation, which a service-based scheme cannot express.
 
 #### Delivery by preservation {#term-displaced-benefit}
 
-The mode in which a benefit consists of ground nearby remaining as it was. It is what [land sparing](#term-s4) delivers. It is proximate, because a developer assembling acreage near a substation chooses among parcels within a fairly narrow radius, so the ground spared is realistically ground in the same county. What it is not is observed: the claim rests on a counterfactual, and it is tested against the local land market and the sites genuinely in play rather than against an unbounded alternative. See [§4.6](4-restorative-functions.qmd#sec-benefit-range).
+The mode in which a benefit consists of ground nearby remaining as it was. It is what [land sparing](#term-s4) delivers. It is proximate, because a developer assembling acreage near a substation chooses among parcels within a fairly narrow radius, so the ground spared is realistically ground in the same county. What it is not is observed: the claim rests on a counterfactual, and it is tested against the local land market and the sites genuinely in play rather than against an unbounded alternative. See [§4.7](4-restorative-functions.qmd#sec-benefit-range).
 
 #### Co-benefit {#term-cobenefit}
 
