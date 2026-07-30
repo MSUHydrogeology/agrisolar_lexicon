@@ -1,11 +1,9 @@
----
-title: "Restorative Agrisolar"
----
+# Restorative Agrisolar {.unnumbered}
 
 ::: {.draft-note}
 **Working draft, circulated for comment.** Some citations are
 [not yet verified](chapters/sources.qmd) and are marked where they appear, and the
-[open issues](chapters/8-open-issues.qmd) record what this document has deliberately
+[open issues](chapters/open-issues.qmd) record what this document has deliberately
 not settled.
 :::
 
@@ -31,12 +29,12 @@ The build-out is not a forecast. Around 15,000 ground-mounted arrays already cov
 
 Three questions organize the document.
 
-![How the pieces fit. Scale, sharing–sparing, and the design pressures resolve into an archetype and the functions it carries, with regionality setting how hard each pressure pushes.](figures/fig_language_structure.svg)
+![How the pieces fit. Scale, sharing–sparing, and the design pressures resolve into an archetype and the functions it carries, with regionality setting how hard each pressure pushes.](figures/fig_language_structure.svg){#fig-language-structure}
 
 ### Scale
 
 Scale comes first because it settles what is physically, economically, and institutionally
-possible before design begins. The [scale transect](chapters/1-the-scale-transect.qmd) runs
+possible before design begins. The [scale transect](chapters/scale-transect.qmd) runs
 from the farmstead to the region in five zones. It is a transect rather than a set of size bins
 because several things move together along it.
 
@@ -60,7 +58,7 @@ from a long-running argument in conservation ecology [@green2005; @phalan2011], 
 underlying question is genuinely unsettled: farm gently everywhere, or intensively in some places
 and not at all in others.
 
-The [sharing–sparing axis](chapters/2-the-sharingsparing-axis.qmd) runs five positions on that logic.
+The [sharing–sparing axis](chapters/sharing-sparing-axis.qmd) runs five positions on that logic.
 
 ::: {.position-table}
 | Position | What it records |
@@ -76,29 +74,29 @@ The center is where most projects sit: ordinary ground becomes a power plant. A 
 
 ### Design pressures
 
-Scale and position describe a site; nine [design pressures](chapters/3-design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
+Scale and position describe a site; nine [design pressures](chapters/design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
 
-![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration, three push away, and three depend on the site, the buyer, or the county.](figures/fig_design_pressures.svg)
+![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration, three push away, and three depend on the site, the buyer, or the county.](figures/fig_design_pressures.svg){#fig-design-pressures}
 
-The resulting [restorative functions](chapters/4-restorative-functions.qmd) are a palette, not a scorecard. Recurring resolutions become [archetypes](chapters/5-archetypes.qmd), from solar prairie strips to barnyard shelter, and can be compared in the same language.
+The resulting [restorative functions](chapters/restorative-functions.qmd) are a palette, not a scorecard. Recurring resolutions become [archetypes](chapters/archetypes.qmd), from solar prairie strips to barnyard shelter, and can be compared in the same language.
 
 ::: {#sec-aim-not-dimensions}
-The same pressures meet very different ground. Sun, water, crop, and grid conditions change their weight. **The aim is argued; the dimensions are left to the site**, and [regionality](chapters/6-regionality.qmd) explains why.
+The same pressures meet very different ground. Sun, water, crop, and grid conditions change their weight. **The aim is argued; the dimensions are left to the site**, and [regionality](chapters/regionality.qmd) explains why.
 :::
 
 ## Where to start
 
 ::: {.routes}
 **If you have land in mind and want to know what is possible on it**, go to
-[what appears at each scale](chapters/5-archetypes.qmd#sec-by-zone), which sets out the forms that
+[what appears at each scale](chapters/archetypes.qmd#sec-by-zone), which sets out the forms that
 recur at each size of project, from a barn roof to a regional complex, with what each one asks of the
 ground.
 
 **If you are weighing a specific proposal**, the
-[design pressures](chapters/3-design-pressures.qmd) name the forces pushing on it and the
+[design pressures](chapters/design-pressures.qmd) name the forces pushing on it and the
 conflicts worth arguing about openly.
 
-**If you want to know what is not yet known**, [open issues and research needs](chapters/8-open-issues.qmd) collect the measurements nobody has made, the figures that circulate without a source, and the counterexamples that would test
+**If you want to know what is not yet known**, [open issues and research needs](chapters/open-issues.qmd) collect the measurements nobody has made, the figures that circulate without a source, and the counterexamples that would test
 the claims here.
 
 **If you are trying to pin down a term** someone has used, the

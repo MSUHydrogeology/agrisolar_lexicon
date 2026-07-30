@@ -21,15 +21,15 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - chapters/0-design-levers.qmd
-    - chapters/1-the-scale-transect.qmd
-    - chapters/2-the-sharingsparing-axis.qmd
-    - chapters/3-design-pressures.qmd
-    - chapters/4-restorative-functions.qmd
-    - chapters/5-archetypes.qmd
-    - chapters/6-regionality.qmd
-    - chapters/7-terminology.qmd
-    - chapters/8-open-issues.qmd
+    - chapters/restorative-agrisolar-design.qmd
+    - chapters/scale-transect.qmd
+    - chapters/sharing-sparing-axis.qmd
+    - chapters/design-pressures.qmd
+    - chapters/restorative-functions.qmd
+    - chapters/archetypes.qmd
+    - chapters/regionality.qmd
+    - chapters/terminology.qmd
+    - chapters/open-issues.qmd
     - chapters/sources.qmd
   appendices:
     - chapters/index-alphabetical.qmd
@@ -37,18 +37,26 @@ book:
 
 bibliography: references.bib
 
-# The lexicon carries its own section numbering (1, §1.4, S1–S5); keep Quarto's
-# auto-numbering off so it does not double up.
+# Chapters, sections, and figures are numbered by Quarto from their order in
+# `chapters:` above. Nothing is hand-numbered. Prose cites a section as
+# §-@sec-anchor, which renders the bare number after the §, and a figure as
+# @fig-slug. index.qmd is an unnumbered preface, which is what keeps chapter 1
+# from being counted as chapter 2. number-depth: 2 leaves glossary terms,
+# archetypes, and the A-Z index headings unnumbered.
+crossref:
+  chapters: true
 format:
   html:
     theme: [cosmo, custom.scss]
     toc: true
     toc-depth: 3
-    number-sections: false
+    number-sections: true
+    number-depth: 2
     link-external-newwindow: true
   pdf:
     documentclass: scrreprt
     pdf-engine: xelatex
-    number-sections: false
+    number-sections: true
+    number-depth: 2
     toc: true
     toc-depth: 3

@@ -1,17 +1,17 @@
-# 3. Design Pressures {#sec-pressures-ch}
+# Design Pressures {#sec-pressures-ch}
 
 The developer, neighbor, farmer, buyer, and county do not want the same thing from a solar project. These are the **pressures**: forces with direction, conflict, and advocates. The axes say where a project sits; pressures explain how it got there. Naming them makes the actual disagreement arguable.
 
-### 3.1 The pressures {#sec-pressures}
+## The pressures {#sec-pressures}
 
-Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the reversibility argument in §3.2 the hard one.
+Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the reversibility argument in §-@sec-conflicts the hard one.
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
 |---|---|---|
 | **Restorative goals** | Wider rows, mixed ground cover, a plan covering all thirty years, and choices made for the sake of what grows underneath [@hernandez2019] | **Toward.** The one this document argues for. It still loses to the other eight most of the time |
-| **Community acceptance and benefit** | Early engagement that can change the design, plus [what the project pays back](7-terminology.qmd#term-community-benefit): tax revenue, agreements, subscriptions, local hiring, part-ownership | **Toward,** mostly. A township that gets a real say usually asks for more than a check. It can also ask for mown grass and a taller fence. And paying people without asking them first buys resentment, not consent [@crawford2022; @ryder2023] |
-| **End-of-life responsibility** | Removable foundations, less digging, funded [decommissioning](7-terminology.qmd#term-decommissioning), ground that can go back to what it was | **Toward.** Every trench and every graded acre is soil somebody has to rebuild later. The cheapest decommissioning is the one designed on day one, and the bond is what keeps the cost off the county |
+| **Community acceptance and benefit** | Early engagement that can change the design, plus [what the project pays back](terminology.qmd#term-community-benefit): tax revenue, agreements, subscriptions, local hiring, part-ownership | **Toward,** mostly. A township that gets a real say usually asks for more than a check. It can also ask for mown grass and a taller fence. And paying people without asking them first buys resentment, not consent [@crawford2022; @ryder2023] |
+| **End-of-life responsibility** | Removable foundations, less digging, funded [decommissioning](terminology.qmd#term-decommissioning), ground that can go back to what it was | **Toward.** Every trench and every graded acre is soil somebody has to rebuild later. The cheapest decommissioning is the one designed on day one, and the bond is what keeps the cost off the county |
 | **Agricultural production** | Clearance for a tractor, room to turn at the end of a row, something worth growing underneath, and a contract the farmer can work within for the project's whole life | **Both.** It is why there are sheep under the panels. It is also why there is no prairie under them: ground that has to grow something salable cannot also be left alone |
 | **Grid and market demands** | Whatever the buyer and the grid require: the power contract, the renewable-energy credits, the tax benefits, an interconnection the queue will actually deliver | **Both.** When a buyer's scorecard rewards pollinator habitat, habitat gets planted on a thousand sites at once. When that scorecard was written for a different climate, the wrong seed mix is in the contract for twenty years |
 | **Policy and permission** | Whatever the rules require before the project can happen at all: the permitting path, prime-farmland and setback rules, state programs, and the subsidies that decide what pays | **Both.** In California, groundwater law pays a grower to retire irrigated ground. In Iowa, the ethanol mandate pays a grower to keep planting it. Same pressure, opposite instruction, and the state line decides |
@@ -22,13 +22,13 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 
 Read the third column as the direction a pressure pushes, not as a verdict on anyone advocating it. Every one of the nine has someone arguing for it in good faith, and a site with no build cost does not get built.
 
-![**Figure 3.1.** Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg)
+![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-design-pressures}
 
-### 3.2 The conflicts worth naming {#sec-conflicts}
+## The conflicts worth naming {#sec-conflicts}
 
 Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapped for turf.
 
-**Agricultural production vs. restorative goals.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](7-terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
+**Agricultural production vs. restorative goals.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
 
 **Operations and maintenance vs. everything.** Gravel and herbicide are easy; diverse perennial cover is not. The maintenance bill decides many restorative designs.
 
@@ -42,13 +42,13 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 **Community acceptance and benefit vs. build cost.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
 
-### 3.3 The levers across the transect {#sec-lever-matrix}
+## The levers across the transect {#sec-lever-matrix}
 
-Every one of the [design levers](0-design-levers.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect. Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
+Every one of the [design levers](restorative-agrisolar-design.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect. Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
-| ***Dominant [restoration mode](0-design-levers.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
+| ***Dominant [restoration mode](restorative-agrisolar-design.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
 | **Siting** | | | | | |
 | Placement — siting latitude | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
 | **Structure** | | | | | |
