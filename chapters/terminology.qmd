@@ -1,8 +1,80 @@
 # Terminology {#sec-terminology}
 
-Definitions are grouped by subject and link to their fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
+Definitions are grouped by subject, in the order the chapters introduce them, and each links to its fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
 ![The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the [restorative functions](restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
+
+## Design levers and pressures {#sec-terms-pressures}
+
+Developed in [§-@sec-levers-ch, Design Levers](design-levers.qmd) and [§-@sec-pressures-ch, Design Pressures](design-pressures.qmd).
+
+### Design pressures {#term-design-pressures}
+
+The competing forces every site must resolve. Unlike axes they have direction, they conflict, and real parties advocate for them. Nine are named. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Energy yield {#term-energy-yield}
+
+Pressure: maximize energy per unit land. Pushes toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Build cost {#term-build-cost}
+
+Pressure: minimize installed cost per watt. Pushes toward standard racking, low clearance, minimal ground preparation, conventional geometry. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Operations and maintenance {#term-operations-maintenance}
+
+Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose build cost, since native seeding raises capex and lowers long-run opex. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Agricultural production {#term-agricultural-production}
+
+Pressure: keep working land working. Pushes toward high clearance, equipment access, production [ground layers](#term-ground-layer), farmer contracts. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Restorative goals {#term-restorative-goals}
+
+Pressure: make ecological, hydrological, and economic resilience a design objective co-equal with generation. The pressure this document exists to advance, and still a force among forces. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Community acceptance and benefit {#term-community-acceptance}
+
+Pressure: secure and sustain community acceptance *and* community benefit, two forces that can come apart, held under one name because they have to be advanced together. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Grid and market demands {#term-grid-market}
+
+Pressure: satisfy whoever is buying the power, the attributes, or the tax position. The channel through which outside parties push their requirements onto a design. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Policy and permission {#term-policy-permission}
+
+Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](design-pressures.qmd#sec-regionality) as much as to §3. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### End-of-life responsibility {#term-end-of-life}
+
+Pressure: minimize the residual footprint left after a 25–40 year asset life and preserve the option to return the ground to its prior use. For the end-of-life vocabulary itself, see [Decommissioning / Repowering / Reversibility](#term-decommissioning). See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+
+### Design levers {#term-design-levers}
+
+The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
+
+## Regionality {#sec-terms-regionality}
+
+Developed in [§-@sec-regionality, Regionality](design-pressures.qmd#sec-regionality).
+
+### Regionality {#term-regionality}
+
+The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pushes are not. See [Regionality](design-pressures.qmd#sec-regionality).
+
+### Regional factors {#term-regional-factors}
+
+The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-factors).
+
+### Regional calibration {#term-regional-calibration}
+
+A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](design-pressures.qmd#sec-rg-us).
+
+### Design import {#term-design-import}
+
+The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§-@sec-rg-consequences](design-pressures.qmd#sec-rg-consequences).
+
+### Diffuse fraction {#term-diffuse-fraction}
+
+The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-resource).
 
 ## Scale {#sec-terms-scale}
 
@@ -108,54 +180,6 @@ Which [design lever](#term-design-levers) a design commits to carry the restorat
 
 See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
 
-## Design levers and pressures {#sec-terms-pressures}
-
-Developed in [§-@sec-levers-ch, Design Levers](design-levers.qmd) and [§-@sec-pressures-ch, Design Pressures](design-pressures.qmd).
-
-### Design pressures {#term-design-pressures}
-
-The competing forces every site must resolve. Unlike axes they have direction, they conflict, and real parties advocate for them. Nine are named. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Energy yield {#term-energy-yield}
-
-Pressure: maximize energy per unit land. Pushes toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Build cost {#term-build-cost}
-
-Pressure: minimize installed cost per watt. Pushes toward standard racking, low clearance, minimal ground preparation, conventional geometry. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Operations and maintenance {#term-operations-maintenance}
-
-Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose build cost, since native seeding raises capex and lowers long-run opex. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Agricultural production {#term-agricultural-production}
-
-Pressure: keep working land working. Pushes toward high clearance, equipment access, production [ground layers](#term-ground-layer), farmer contracts. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Restorative goals {#term-restorative-goals}
-
-Pressure: make ecological, hydrological, and economic resilience a design objective co-equal with generation. The pressure this document exists to advance, and still a force among forces. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Community acceptance and benefit {#term-community-acceptance}
-
-Pressure: secure and sustain community acceptance *and* community benefit, two forces that can come apart, held under one name because they have to be advanced together. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Grid and market demands {#term-grid-market}
-
-Pressure: satisfy whoever is buying the power, the attributes, or the tax position. The channel through which outside parties push their requirements onto a design. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Policy and permission {#term-policy-permission}
-
-Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](design-pressures.qmd#sec-regionality) as much as to §3. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### End-of-life responsibility {#term-end-of-life}
-
-Pressure: minimize the residual footprint left after a 25–40 year asset life and preserve the option to return the ground to its prior use. For the end-of-life vocabulary itself, see [Decommissioning / Repowering / Reversibility](#term-decommissioning). See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
-
-### Design levers {#term-design-levers}
-
-The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
-
 ## Restorative functions {#sec-terms-functions}
 
 Developed in [§-@sec-functions, Restorative Functions](restorative-functions.qmd).
@@ -215,30 +239,6 @@ A recurring way the [design pressures](#term-design-pressures) have been resolve
 ### Overhead and interspace systems {#term-overhead-interspace}
 
 The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy): *overhead* systems mount modules above the working surface, *interspace* systems mount them low with the crop or cover between the rows. It classifies the structure, where an archetype classifies the resolution of pressures. See [Archetypes](archetypes.qmd).
-
-## Regionality {#sec-terms-regionality}
-
-Developed in [§-@sec-regionality, Regionality](design-pressures.qmd#sec-regionality).
-
-### Regionality {#term-regionality}
-
-The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pushes are not. See [Regionality](design-pressures.qmd#sec-regionality).
-
-### Regional factors {#term-regional-factors}
-
-The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-factors).
-
-### Regional calibration {#term-regional-calibration}
-
-A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](design-pressures.qmd#sec-rg-us).
-
-### Design import {#term-design-import}
-
-The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§-@sec-rg-consequences](design-pressures.qmd#sec-rg-consequences).
-
-### Diffuse fraction {#term-diffuse-fraction}
-
-The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-resource).
 
 ## Field terms and metrics {#sec-terms-field}
 
