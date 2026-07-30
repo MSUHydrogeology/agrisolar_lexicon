@@ -80,7 +80,7 @@ under **S**.
 
 **Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](regionality.qmd#sec-rg-consequences)
 
-**Design levers** — the six kinds of decision a project can make, and the only things anyone can change: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](restorative-agrisolar-design.qmd)
+**Design levers** — the six kinds of decision a project can make, and the only things anyone can change: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
 
 **Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [3. Design Pressures](design-pressures.qmd)
 

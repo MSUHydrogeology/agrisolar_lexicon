@@ -73,7 +73,7 @@ One item in that list decides which restorative moves are available at all: **si
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
 | **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
 
-As projects grow, restoration changes instrument. All five [design levers](restorative-agrisolar-design.qmd) remain available at every size, but not at the same strength, and the transect does something different to each of them.
+As projects grow, restoration changes instrument. All five [design levers](design-levers.qmd) remain available at every size, but not at the same strength, and the transect does something different to each of them.
 
 | Element | What the transect does to it |
 |:--|:--|
@@ -83,7 +83,7 @@ As projects grow, restoration changes instrument. All five [design levers](resto
 | **Ownership** | Moves the whole way, from the operator to the landowner to developer capital to a utility, and the generation revenue moves with it |
 | **Contracts** | Changes form rather than strength: the household at A1, a good-neighbor understanding at A2, a PILOT and a subscription from A3 up |
 
-Siting and management are the pair that cross, around A3–A4, and that crossing is what @fig-siting-latitude draws. Which element did the restorative work is the project's [restoration mode](restorative-agrisolar-design.qmd#sec-lv-mode), the third tag the archetypes carry: **siting-led** where the work is done by choosing the ground, **structure-led** where the hardware does it, **management-led** where placement is fixed and the ground cover and grazing carry everything, and **contract-led** where it happens on paper and scale has no say at all.
+Siting and management are the pair that cross, around A3–A4, and that crossing is what @fig-siting-latitude draws. Which element did the restorative work is the project's [restoration mode](design-levers.qmd#sec-lv-mode), the third tag the archetypes carry: **siting-led** where the work is done by choosing the ground, **structure-led** where the hardware does it, **management-led** where placement is fixed and the ground cover and grazing carry everything, and **contract-led** where it happens on paper and scale has no say at all.
 
 
 ![How the freedom to choose ground trades off against the ability to manage it. Siting latitude is how much say you have over where the array goes. It peaks in the middle of the transect: at A1 the property line leaves almost nothing to choose among, and at A5 the choice belongs to the land market and the interconnection queue. Management leverage runs the other way, because contract grazing, professional seeding, and dedicated maintenance barely exist below a certain size and are routine above it. The two cross between A3 and A4, and that crossing is where the instrument changes: below it you restore land by choosing which ground to take, above it by deciding how the ground is run. Restoration does not fall away with scale, it changes tool.](../figures/fig_siting_latitude.svg){#fig-siting-latitude}

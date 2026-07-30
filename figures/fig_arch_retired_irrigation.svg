@@ -1,28 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Retired-Irrigation Solar</title>
-<desc>Section through a field taken out of irrigated production. The center pivot stands idle, the well is capped, and low-water cover carries the ground beneath a utility-scale array that needs no irrigation. Below, the water table that had been falling under pumping levels off; the dashed line is where it would have kept going. The leveling holds only where governance keeps the saved water from being pumped elsewhere. Its SCALE footprint sits at the right: Landscapes almost at the center, Agriculture out at the rim, deliberately given up.</desc>
+<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the metre, so the array runs off both edges of the frame. The centre pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its SCALE footprint sits at the right: Landscapes almost at the centre, Agriculture out at the rim, deliberately given up.</desc>
 
 <defs>
-  <!-- shared glyphs: the module and person are identical in every archetype card.
-       Post height is drawn per instance, because clearance is a real design variable. -->
+  <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
+       scale via transform="... scale(k)". Post height is per instance, because
+       clearance is a real design variable. Read heights against the bar scale. -->
   <g id="module">
-    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4"/>
-    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round"/>
-  </g>
-  <g id="person">
-    <circle cx="0" cy="-22.5" r="3.6" fill="none" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-19" x2="0" y2="-9" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="-4.5" y1="-15" x2="4.5" y2="-15" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-9" x2="-4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-9" x2="4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
   </g>
   <g id="tuft">
-    <line x1="0" y1="0" x2="-3" y2="-6" stroke="#a8a487" stroke-width="1.2"/>
-    <line x1="0" y1="0" x2="0" y2="-7" stroke="#a8a487" stroke-width="1.2"/>
-    <line x1="0" y1="0" x2="3" y2="-6" stroke="#a8a487" stroke-width="1.2"/>
+    <line x1="0" y1="0" x2="-2.5" y2="-5" stroke="#a8a487" stroke-width="1.2"/>
+    <line x1="0" y1="0" x2="0" y2="-6" stroke="#a8a487" stroke-width="1.2"/>
+    <line x1="0" y1="0" x2="2.5" y2="-5" stroke="#a8a487" stroke-width="1.2"/>
   </g>
   <clipPath id="soilclipR">
-    <path d="M26,190 L545,190 L545,254 L26,254 Z"/>
+    <path d="M26,158 L545,158 L545,250 L26,250 Z"/>
   </clipPath>
 </defs>
 
@@ -30,60 +24,97 @@
 
 <text x="26" y="32" fill="#777" font-size="11">A4–A5 · S5 · management-led</text>
 
-<!-- ================= soil and the aquifer beneath ================= -->
-<path d="M26,190 L545,190 L545,254 L26,254 Z" fill="#f2ece0"/>
-<g clip-path="url(#soilclipR)">
-  <path d="M26,190 L545,190 L545,202 L26,202 Z" fill="#e0d5bd"/>
-  <!-- saturated zone below the current water table -->
-  <path d="M26,214 C120,222 200,226 280,228 L545,228 L545,254 L26,254 Z" fill="#2b7fb0" fill-opacity="0.13"/>
-  <!-- the water table: falling under pumping, then level -->
-  <path d="M26,214 C120,222 200,226 280,228 L545,228" fill="none" stroke="#2b7fb0" stroke-width="1.8"/>
-  <!-- where it would have kept going -->
-  <path d="M280,228 C360,236 450,244 545,250" fill="none" stroke="#8a7f6a" stroke-width="1.4" stroke-dasharray="5 4" opacity="0.8"/>
-  <!-- the capped well, no longer drawing -->
-  <line x1="196" y1="190" x2="196" y2="232" stroke="#6b6b63" stroke-width="1.8"/>
+<!-- sun: fixed position and 45 degree rays in every archetype card -->
+<g stroke="#c08a12" stroke-linecap="round">
+  <circle cx="62" cy="60" r="8.5" fill="#c08a12" fill-opacity="0.16" stroke-width="1.4"/>
+  <g stroke-width="1.6" opacity="0.85">
+    <line x1="63" y1="75" x2="72" y2="84"/>
+    <line x1="70" y1="68" x2="79" y2="77"/>
+    <line x1="77" y1="61" x2="86" y2="70"/>
+  </g>
 </g>
-<path d="M26,190 L545,190" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
-<rect x="190" y="182" width="12" height="8" fill="#ffffff" stroke="#6b6b63" stroke-width="1.4"/>
 
-<!-- ================= the pivot, standing idle ================= -->
-<g stroke="#a89c80" stroke-width="1.6" fill="none">
-  <path d="M74,190 L74,146"/>
-  <path d="M66,190 L74,168 L82,190"/>
-  <path d="M74,150 L164,156"/>
-  <path d="M78,152 l0,9"/><path d="M96,153 l0,9"/><path d="M114,154 l0,9"/>
-  <path d="M132,155 l0,9"/><path d="M150,156 l0,9"/>
+<!-- ================= soil and the aquifer beneath ================= -->
+<path d="M26,158 L545,158 L545,250 L26,250 Z" fill="#f2ece0"/>
+<g clip-path="url(#soilclipR)">
+  <path d="M26,158 L545,158 L545,168 L26,168 Z" fill="#e0d5bd"/>
+  <!-- saturated zone: filled to the SOLID line only, so the counterfactual
+       cannot be misread as the present state -->
+  <path d="M26,200 C120,199.4 300,197.6 545,197 L545,250 L26,250 Z" fill="#2b7fb0" fill-opacity="0.16"/>
+  <!-- the water table today: no local feature, the well is capped and recovered -->
+  <path d="M26,200 C120,199.4 300,197.6 545,197" fill="none" stroke="#2b7fb0" stroke-width="1.8"/>
+  <!-- where it would sit had pumping continued: a depression centred on the well.
+       The GAP is the avoided drawdown, so it peaks at the casing and tapers out. -->
+  <path d="M26,204 C110,205.5 165,211 196,211 C227,211 300,205.5 545,201" fill="none" stroke="#8a7f6a" stroke-width="1.4" stroke-dasharray="5 4" opacity="0.85"/>
+  <!-- the capped well, running on below the frame -->
+  <line x1="196" y1="158" x2="196" y2="240" stroke="#6b6b63" stroke-width="1.8"/>
 </g>
-<circle cx="66" cy="190" r="4" fill="none" stroke="#a89c80" stroke-width="1.5"/>
-<circle cx="82" cy="190" r="4" fill="none" stroke="#a89c80" stroke-width="1.5"/>
+<path d="M26,158 L545,158" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
+<rect x="191" y="152" width="10" height="6" fill="#ffffff" stroke="#6b6b63" stroke-width="1.3"/>
+
+<!-- ================= shade, spaced by the row pitch ================= -->
+<g fill="#3d4a55" opacity="0.19">
+  <path d="M46.4,158 h21.2 v5 h-21.2 z"/><path d="M86.4,158 h21.2 v5 h-21.2 z"/>
+  <path d="M126.4,158 h21.2 v5 h-21.2 z"/><path d="M166.4,158 h21.2 v5 h-21.2 z"/>
+  <path d="M206.4,158 h21.2 v5 h-21.2 z"/><path d="M246.4,158 h21.2 v5 h-21.2 z"/>
+  <path d="M286.4,158 h21.2 v5 h-21.2 z"/><path d="M326.4,158 h21.2 v5 h-21.2 z"/>
+  <path d="M366.4,158 h21.2 v5 h-21.2 z"/><path d="M406.4,158 h21.2 v5 h-21.2 z"/>
+  <path d="M446.4,158 h21.2 v5 h-21.2 z"/><path d="M486.4,158 h21.2 v5 h-21.2 z"/>
+  <path d="M526.4,158 h18.6 v5 h-18.6 z"/>
+</g>
 
 <!-- ================= low-water cover ================= -->
 <g>
-  <use href="#tuft" x="222" y="190"/><use href="#tuft" x="252" y="190"/><use href="#tuft" x="286" y="190"/>
-  <use href="#tuft" x="318" y="190"/><use href="#tuft" x="350" y="190"/><use href="#tuft" x="384" y="190"/>
-  <use href="#tuft" x="416" y="190"/><use href="#tuft" x="448" y="190"/><use href="#tuft" x="482" y="190"/>
-  <use href="#tuft" x="514" y="190"/>
+  <use href="#tuft" x="72" y="158"/><use href="#tuft" x="112" y="158"/><use href="#tuft" x="152" y="158"/>
+  <use href="#tuft" x="232" y="158"/><use href="#tuft" x="272" y="158"/><use href="#tuft" x="312" y="158"/>
+  <use href="#tuft" x="352" y="158"/><use href="#tuft" x="392" y="158"/><use href="#tuft" x="432" y="158"/>
+  <use href="#tuft" x="472" y="158"/><use href="#tuft" x="512" y="158"/>
 </g>
 
-<!-- ================= the array, which needs no water ================= -->
-<g>
-  <line x1="240" y1="190" x2="240" y2="162" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="304" y1="190" x2="304" y2="162" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="368" y1="190" x2="368" y2="162" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="432" y1="190" x2="432" y2="162" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="496" y1="190" x2="496" y2="162" stroke="#6b6b63" stroke-width="2"/>
+<!-- ================= the array: thirteen rows, cut by both frame edges ================= -->
+<g stroke="#6b6b63" stroke-width="1.6">
+  <line x1="46" y1="158" x2="46" y2="147"/><line x1="86" y1="158" x2="86" y2="147"/>
+  <line x1="126" y1="158" x2="126" y2="147"/><line x1="166" y1="158" x2="166" y2="147"/>
+  <line x1="206" y1="158" x2="206" y2="147"/><line x1="246" y1="158" x2="246" y2="147"/>
+  <line x1="286" y1="158" x2="286" y2="147"/><line x1="326" y1="158" x2="326" y2="147"/>
+  <line x1="366" y1="158" x2="366" y2="147"/><line x1="406" y1="158" x2="406" y2="147"/>
+  <line x1="446" y1="158" x2="446" y2="147"/><line x1="486" y1="158" x2="486" y2="147"/>
+  <line x1="526" y1="158" x2="526" y2="147"/>
 </g>
-<use href="#module" x="240" y="162"/>
-<use href="#module" x="304" y="162"/>
-<use href="#module" x="368" y="162"/>
-<use href="#module" x="432" y="162"/>
-<use href="#module" x="496" y="162"/>
+<use href="#module" transform="translate(46,147) scale(0.341)"/>
+<use href="#module" transform="translate(86,147) scale(0.341)"/>
+<use href="#module" transform="translate(126,147) scale(0.341)"/>
+<use href="#module" transform="translate(166,147) scale(0.341)"/>
+<use href="#module" transform="translate(206,147) scale(0.341)"/>
+<use href="#module" transform="translate(246,147) scale(0.341)"/>
+<use href="#module" transform="translate(286,147) scale(0.341)"/>
+<use href="#module" transform="translate(326,147) scale(0.341)"/>
+<use href="#module" transform="translate(366,147) scale(0.341)"/>
+<use href="#module" transform="translate(406,147) scale(0.341)"/>
+<use href="#module" transform="translate(446,147) scale(0.341)"/>
+<use href="#module" transform="translate(486,147) scale(0.341)"/>
+<use href="#module" transform="translate(526,147) scale(0.341)"/>
 
-<use href="#person" x="530" y="190"/>
+<!-- ================= the pivot, standing derelict over its own well ================= -->
+<g stroke="#a89c80" stroke-width="1.5" fill="none">
+  <path d="M196,158 L196,116"/>
+  <path d="M188,158 L196,134 L204,158"/>
+  <path d="M196,120 L26,127"/>
+  <path d="M172,121 l0,7"/><path d="M148,122 l0,7"/><path d="M124,123 l0,7"/>
+  <path d="M100,124 l0,7"/><path d="M76,125 l0,7"/><path d="M52,126 l0,7"/>
+</g>
+<circle cx="188" cy="158" r="3.4" fill="none" stroke="#a89c80" stroke-width="1.4"/>
+<circle cx="204" cy="158" r="3.4" fill="none" stroke="#a89c80" stroke-width="1.4"/>
 
-<text x="118" y="122" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="middle">irrigation retired, by design</text>
-<text x="330" y="211" fill="#2b7fb0" font-size="11" font-style="italic" text-anchor="middle">the fall arrested, where the saved water stays saved</text>
-<text x="462" y="242" fill="#8a7f6a" font-size="9.5" font-style="italic" text-anchor="middle">had pumping continued</text>
+<text x="286" y="100" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="start">irrigation retired, by design</text>
+<text x="368" y="188" fill="#2b7fb0" font-size="11" font-style="italic" text-anchor="middle">higher than it would have been</text>
+<text x="462" y="224" fill="#8a7f6a" font-size="9.5" font-style="italic" text-anchor="middle">had pumping continued</text>
+
+<!-- bar scale -->
+<g stroke="#8a7f6a" stroke-width="1.2" fill="none">
+  <path d="M26,258 h100"/><path d="M26,254 v8"/><path d="M126,254 v8"/>
+</g>
+<text x="133" y="261.5" fill="#8a7f6a" font-size="9.5">20 m</text>
 
 <!-- ================= SCALE footprint ================= -->
 <line x1="572" y1="62" x2="572" y2="242" stroke="#ece7db" stroke-width="1"/>

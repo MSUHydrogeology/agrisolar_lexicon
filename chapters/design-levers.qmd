@@ -1,4 +1,4 @@
-# Restorative Agrisolar Design {#sec-levers-ch}
+# Design Levers {#sec-levers-ch}
 
 A solar project is a very long list of decisions, and almost all of them fall into six groups. How much ground to take. Which ground. What gets built on it. What grows there and how the place is run. Who holds the asset. What the parties signed. These are the **design levers**, and they are the only things anyone can actually change.
 

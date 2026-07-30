@@ -44,11 +44,11 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 ## The levers across the transect {#sec-lever-matrix}
 
-Every one of the [design levers](restorative-agrisolar-design.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect. Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
+Every one of the [design levers](design-levers.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect. Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
-| ***Dominant [restoration mode](restorative-agrisolar-design.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
+| ***Dominant [restoration mode](design-levers.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
 | **Siting** | | | | | |
 | Placement — siting latitude | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
 | **Structure** | | | | | |

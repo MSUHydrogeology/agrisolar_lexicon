@@ -1,33 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Solar Prairie Strips</title>
-<desc>Section through a sloping crop field. The array stands mid-slope on a contour band of deep-rooted native prairie, raised clear of the standing vegetation. The band intercepts runoff coming down the hill, traps sediment at its upslope edge, and carries roots far below the crop rooting depth so water moves downward instead of across. Flow leaving the strip is reduced. Its SCALE footprint sits at the right: Landscapes almost at the center, Agriculture out toward the rim.</desc>
+<desc>Section through a sloping crop field, drawn at eight SVG units to the metre. Five rows stand mid-slope on a contour band of deep-rooted native prairie, raised clear of the standing vegetation. The band intercepts runoff coming down the hill, traps sediment at its upslope edge, and carries roots far below the crop rooting depth so water moves downward instead of across. Flow leaving the strip is reduced. Sunlight falls from the upper left, and the rows throw bands of shade that run downslope. Its SCALE footprint sits at the right: Landscapes almost at the centre, Agriculture out toward the rim.</desc>
 
 <defs>
-  <!-- shared glyphs: the module, person, and crop are identical in every archetype card.
-       Post height is drawn per instance, because clearance is a real design variable. -->
+  <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
+       scale via transform="... scale(k)". Post height is per instance, because
+       clearance is a real design variable. Read heights against the bar scale. -->
   <g id="module">
-    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4"/>
-    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round"/>
-  </g>
-  <g id="person">
-    <circle cx="0" cy="-22.5" r="3.6" fill="none" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-19" x2="0" y2="-9" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="-4.5" y1="-15" x2="4.5" y2="-15" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-9" x2="-4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-9" x2="4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
   </g>
   <g id="crop">
-    <line x1="0" y1="0" x2="0" y2="-9" stroke="#6a9440" stroke-width="1.5"/>
-    <line x1="0" y1="-5" x2="-3.5" y2="-9" stroke="#6a9440" stroke-width="1.2"/>
-    <line x1="0" y1="-5" x2="3.5" y2="-9" stroke="#6a9440" stroke-width="1.2"/>
+    <line x1="0" y1="0" x2="0" y2="-6" stroke="#6a9440" stroke-width="1.4"/>
+    <line x1="0" y1="-3.3" x2="-2.3" y2="-6" stroke="#6a9440" stroke-width="1.2"/>
+    <line x1="0" y1="-3.3" x2="2.3" y2="-6" stroke="#6a9440" stroke-width="1.2"/>
   </g>
   <g id="prairie">
-    <line x1="0" y1="0" x2="0" y2="-15" stroke="#4f7a34" stroke-width="1.6"/>
-    <line x1="0" y1="-5" x2="-5" y2="-12" stroke="#4f7a34" stroke-width="1.3"/>
-    <line x1="0" y1="-5" x2="5" y2="-12" stroke="#4f7a34" stroke-width="1.3"/>
-    <line x1="0" y1="-10" x2="-3.5" y2="-17" stroke="#4f7a34" stroke-width="1.2"/>
-    <line x1="0" y1="-10" x2="3.5" y2="-17" stroke="#4f7a34" stroke-width="1.2"/>
-    <circle cx="0" cy="-16.5" r="1.6" fill="#4f7a34"/>
+    <line x1="0" y1="0" x2="0" y2="-14.4" stroke="#4f7a34" stroke-width="1.5"/>
+    <line x1="0" y1="-4.8" x2="-4.3" y2="-11.5" stroke="#4f7a34" stroke-width="1.2"/>
+    <line x1="0" y1="-4.8" x2="4.3" y2="-11.5" stroke="#4f7a34" stroke-width="1.2"/>
+    <line x1="0" y1="-9.6" x2="-3" y2="-16.3" stroke="#4f7a34" stroke-width="1.1"/>
+    <line x1="0" y1="-9.6" x2="3" y2="-16.3" stroke="#4f7a34" stroke-width="1.1"/>
+    <circle cx="0" cy="-15.8" r="1.5" fill="#4f7a34"/>
   </g>
   <marker id="flow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
     <path d="M0,1.5 L9,5 L0,8.5 z" fill="#2b7fb0"/>
@@ -41,76 +35,102 @@
 
 <text x="26" y="32" fill="#777" font-size="11">A3 · S5 · siting-led</text>
 
+<!-- sun: fixed position and 45 degree rays in every archetype card -->
+<g stroke="#c08a12" stroke-linecap="round">
+  <circle cx="62" cy="60" r="8.5" fill="#c08a12" fill-opacity="0.16" stroke-width="1.4"/>
+  <g stroke-width="1.6" opacity="0.85">
+    <line x1="63" y1="75" x2="72" y2="84"/>
+    <line x1="70" y1="68" x2="79" y2="77"/>
+    <line x1="77" y1="61" x2="86" y2="70"/>
+  </g>
+</g>
+
 <!-- ================= soil ================= -->
 <path d="M26,140 L150,162 L300,192 L430,212 L545,224 L545,252 L26,252 Z" fill="#f2ece0"/>
 <g clip-path="url(#soilclip2)">
-  <path d="M26,140 L150,162 L300,192 L430,212 L545,224 L545,238 L430,226 L300,206 L150,176 L26,154 Z" fill="#e0d5bd"/>
+  <path d="M26,140 L150,162 L300,192 L430,212 L545,224 L545,236 L430,224 L300,204 L150,174 L26,152 Z" fill="#e0d5bd"/>
   <!-- deep prairie roots, well past the crop rooting depth -->
   <g fill="none" stroke="#8a6f43" stroke-width="1.2" opacity="0.9">
-    <path d="M272,186 C269,202 275,216 270,240"/>
-    <path d="M294,191 C298,206 291,220 296,244"/>
-    <path d="M316,194 C312,210 319,224 314,246"/>
-    <path d="M338,198 C342,212 335,228 340,248"/>
-    <path d="M360,201 C356,216 363,230 358,249"/>
-    <path d="M382,205 C386,220 379,234 384,250"/>
-    <path d="M404,208 C400,222 407,236 402,250"/>
-    <path d="M424,211 C428,225 421,238 426,250"/>
+    <path d="M208,173.6 C205,188 211,200 206,220"/>
+    <path d="M236,179.2 C240,193 233,206 238,226"/>
+    <path d="M264,184.8 C260,199 267,211 262,231"/>
+    <path d="M292,190.4 C296,204 289,216 294,236"/>
+    <path d="M320,195.1 C316,209 323,221 318,240"/>
+    <path d="M348,199.4 C352,213 345,225 350,244"/>
+    <path d="M376,203.7 C372,217 379,229 374,246"/>
+    <path d="M404,208.0 C408,221 401,232 406,248"/>
+    <path d="M432,212.2 C428,224 435,235 430,250"/>
   </g>
-  <g fill="none" stroke="#8a6f43" stroke-width="0.8" opacity="0.6">
-    <path d="M272,208 l-10,7"/><path d="M296,214 l10,6"/><path d="M315,220 l-10,6"/>
-    <path d="M360,222 l10,7"/><path d="M383,228 l-10,5"/><path d="M404,230 l9,6"/>
-  </g>
-  <!-- water going down under the strip instead of across the surface -->
+  <!-- water going down under the band instead of across the surface -->
   <g stroke="#2b7fb0" stroke-width="1.3" opacity="0.75" marker-end="url(#flow)">
-    <path d="M300,202 v16"/><path d="M350,210 v16"/><path d="M400,218 v16"/>
+    <path d="M250,192 v16"/><path d="M310,202 v16"/><path d="M370,211 v16"/><path d="M430,220 v16"/>
   </g>
 </g>
 <path d="M26,140 L150,162 L300,192 L430,212 L545,224" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
 
-<!-- ================= crop above and below the strip ================= -->
+<!-- shade bands, running downslope from each row -->
+<g fill="#3d4a55" opacity="0.17">
+  <path d="M228.4,177.7 L268.1,185.6 L268.1,191.6 L228.4,183.7 Z"/>
+  <path d="M284.4,188.9 L324.1,195.7 L324.1,201.7 L284.4,194.9 Z"/>
+  <path d="M340.4,198.2 L380.1,204.3 L380.1,210.3 L340.4,204.2 Z"/>
+  <path d="M396.4,206.8 L436.1,212.6 L436.1,218.6 L396.4,212.8 Z"/>
+  <path d="M452.4,214.3 L492.1,218.5 L492.1,224.5 L452.4,220.3 Z"/>
+</g>
+
+<!-- ================= crop above and below the band ================= -->
 <g>
-  <use href="#crop" x="44" y="143.2"/><use href="#crop" x="66" y="147.1"/><use href="#crop" x="88" y="151.0"/>
-  <use href="#crop" x="110" y="154.9"/><use href="#crop" x="132" y="158.8"/><use href="#crop" x="154" y="162.8"/>
-  <use href="#crop" x="176" y="167.2"/><use href="#crop" x="198" y="171.6"/><use href="#crop" x="220" y="176.0"/>
-  <use href="#crop" x="474" y="216.6"/><use href="#crop" x="496" y="218.9"/><use href="#crop" x="518" y="221.2"/>
+  <use href="#crop" x="40" y="142.5"/><use href="#crop" x="58" y="145.7"/><use href="#crop" x="76" y="148.9"/>
+  <use href="#crop" x="94" y="152.1"/><use href="#crop" x="112" y="155.3"/><use href="#crop" x="130" y="158.4"/>
+  <use href="#crop" x="148" y="161.6"/><use href="#crop" x="166" y="165.2"/><use href="#crop" x="184" y="168.8"/>
+  <use href="#crop" x="460" y="215.1"/><use href="#crop" x="478" y="217.0"/><use href="#crop" x="496" y="218.9"/>
+  <use href="#crop" x="514" y="220.8"/><use href="#crop" x="532" y="222.6"/>
 </g>
 <g stroke="#b6a274" stroke-width="1" opacity="0.85">
-  <path d="M44,143.2 v9"/><path d="M88,151.0 v9"/><path d="M132,158.8 v9"/><path d="M176,167.2 v9"/><path d="M220,176.0 v9"/>
-  <path d="M496,218.9 v9"/>
+  <path d="M40,142.5 v7"/><path d="M76,148.9 v7"/><path d="M112,155.3 v7"/><path d="M148,161.6 v7"/>
+  <path d="M184,168.8 v7"/><path d="M478,217.0 v7"/><path d="M514,220.8 v7"/>
 </g>
 
 <!-- ================= runoff coming down the hill ================= -->
 <g stroke="#2b7fb0" stroke-width="1.6" fill="none" marker-end="url(#flow)" opacity="0.85">
-  <path d="M150,144 L205,155"/>
-  <path d="M192,154 L247,165"/>
+  <path d="M96,142 L146,152"/>
+  <path d="M138,152 L188,162"/>
 </g>
-<text x="144" y="140" fill="#2b7fb0" font-size="11" font-style="italic" text-anchor="end">runoff</text>
+<text x="90" y="138" fill="#2b7fb0" font-size="11" font-style="italic" text-anchor="end">runoff</text>
 
-<!-- what leaves the strip, reduced -->
+<!-- what leaves the band, reduced -->
 <g stroke="#2b7fb0" stroke-width="0.9" fill="none" marker-end="url(#flow)" opacity="0.65">
-  <path d="M470,201 L512,205"/>
+  <path d="M470,206 L512,210"/>
 </g>
 
 <!-- sediment caught at the upslope edge -->
-<polygon points="248,181.4 272,186.4 266,174" fill="#d6c9ab" stroke="#a89a79" stroke-width="1.1"/>
+<polygon points="182,168.4 202,172.4 197,161" fill="#d6c9ab" stroke="#a89a79" stroke-width="1.1"/>
 
 <!-- ================= the contour band ================= -->
 <g>
-  <use href="#prairie" x="272" y="186.4"/><use href="#prairie" x="294" y="190.8"/><use href="#prairie" x="316" y="194.5"/>
-  <use href="#prairie" x="338" y="197.8"/><use href="#prairie" x="360" y="201.2"/><use href="#prairie" x="382" y="204.6"/>
-  <use href="#prairie" x="404" y="208.0"/><use href="#prairie" x="424" y="211.1"/>
+  <use href="#prairie" x="208" y="173.6"/><use href="#prairie" x="236" y="179.2"/><use href="#prairie" x="264" y="184.8"/>
+  <use href="#prairie" x="292" y="190.4"/><use href="#prairie" x="320" y="195.1"/><use href="#prairie" x="348" y="199.4"/>
+  <use href="#prairie" x="376" y="203.7"/><use href="#prairie" x="404" y="208.0"/><use href="#prairie" x="432" y="212.2"/>
 </g>
 
-<!-- raised clear of the standing prairie -->
-<line x1="300" y1="192" x2="300" y2="154" stroke="#6b6b63" stroke-width="2"/>
-<use href="#module" x="300" y="154"/>
-<line x1="355" y1="200.5" x2="355" y2="162.5" stroke="#6b6b63" stroke-width="2"/>
-<use href="#module" x="355" y="162.5"/>
-<line x1="410" y1="208.9" x2="410" y2="170.9" stroke="#6b6b63" stroke-width="2"/>
-<use href="#module" x="410" y="170.9"/>
-<use href="#person" x="452" y="214.3"/>
+<!-- five rows, raised clear of the standing prairie -->
+<line x1="220" y1="176" x2="220" y2="152" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" transform="translate(220,152) scale(0.545)"/>
+<line x1="276" y1="187.2" x2="276" y2="163.2" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" transform="translate(276,163.2) scale(0.545)"/>
+<line x1="332" y1="196.9" x2="332" y2="172.9" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" transform="translate(332,172.9) scale(0.545)"/>
+<line x1="388" y1="205.5" x2="388" y2="181.5" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" transform="translate(388,181.5) scale(0.545)"/>
+<line x1="444" y1="213.5" x2="444" y2="189.5" stroke="#6b6b63" stroke-width="2"/>
+<use href="#module" transform="translate(444,189.5) scale(0.545)"/>
 
-<text x="348" y="128" fill="#4f7a34" font-size="11" font-style="italic" text-anchor="middle">deep-rooted prairie, on the contour</text>
+<text x="330" y="120" fill="#4f7a34" font-size="11" font-style="italic" text-anchor="middle">deep-rooted prairie, on the contour</text>
+
+<!-- bar scale -->
+<g stroke="#8a7f6a" stroke-width="1.2" fill="none">
+  <path d="M26,258 h96"/><path d="M26,254 v8"/><path d="M122,254 v8"/>
+</g>
+<text x="129" y="261.5" fill="#8a7f6a" font-size="9.5">12 m</text>
 
 <!-- ================= SCALE footprint ================= -->
 <line x1="572" y1="62" x2="572" y2="242" stroke="#ece7db" stroke-width="1"/>

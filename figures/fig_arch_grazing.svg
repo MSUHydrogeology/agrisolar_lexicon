@@ -1,35 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Regenerative Solar Grazing</title>
-<desc>Section through a utility-scale array running past both edges of the frame. The panels sit low, which is what limits the stock to sheep, and a contracted flock grazes the forage beneath under a planned rotation set by fences and water points. Held cover builds root mass and organic matter in the topsoil. Its SCALE footprint sits at the right: Energy nearest the center, Communities out toward the rim.</desc>
+<desc>Section through a utility-scale array, drawn at five SVG units to the metre so that twelve rows fit and the array runs off both edges of the frame. The panels sit low, which is what limits the stock to sheep, and a contracted flock grazes the forage beneath under a planned rotation set by fences and water points. Sunlight falls from the upper left and the rows throw spaced bands of shade. Held cover builds a thick, dark topsoil and deeper roots than a row crop. Its SCALE footprint sits at the right: Energy nearest the centre, Communities out toward the rim.</desc>
 
 <defs>
-  <!-- shared glyphs: the module and person are identical in every archetype card.
-       Post height is drawn per instance, because clearance is a real design variable. -->
+  <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
+       scale via transform="... scale(k)". Post height is per instance, because
+       clearance is a real design variable. Read heights against the bar scale. -->
   <g id="module">
-    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4"/>
-    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round"/>
-  </g>
-  <g id="person">
-    <circle cx="0" cy="-22.5" r="3.6" fill="none" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-19" x2="0" y2="-9" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="-4.5" y1="-15" x2="4.5" y2="-15" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-9" x2="-4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
-    <line x1="0" y1="-9" x2="4" y2="0" stroke="#3d3a34" stroke-width="1.6"/>
+    <line x1="-9" y1="16" x2="9" y2="8" stroke="#6b6b63" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+    <polygon points="-22,9 22,-9 22,-5 -22,13" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
   </g>
   <g id="sheep">
-    <ellipse cx="0" cy="-9" rx="10" ry="5" fill="#ffffff" stroke="#3d3a34" stroke-width="1.4"/>
-    <circle cx="9" cy="-12" r="3.4" fill="#ffffff" stroke="#3d3a34" stroke-width="1.3"/>
-    <line x1="-5" y1="-4" x2="-5" y2="0" stroke="#3d3a34" stroke-width="1.3"/>
-    <line x1="0" y1="-4" x2="0" y2="0" stroke="#3d3a34" stroke-width="1.3"/>
-    <line x1="5" y1="-4" x2="5" y2="0" stroke="#3d3a34" stroke-width="1.3"/>
+    <ellipse cx="0" cy="-9" rx="10" ry="5" fill="#ffffff" stroke="#3d3a34" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+    <circle cx="9" cy="-12" r="3.4" fill="#ffffff" stroke="#3d3a34" stroke-width="1.3" vector-effect="non-scaling-stroke"/>
+    <line x1="-5" y1="-4" x2="-5" y2="0" stroke="#3d3a34" stroke-width="1.3" vector-effect="non-scaling-stroke"/>
+    <line x1="5" y1="-4" x2="5" y2="0" stroke="#3d3a34" stroke-width="1.3" vector-effect="non-scaling-stroke"/>
   </g>
   <g id="tuft">
-    <line x1="0" y1="0" x2="-3" y2="-7" stroke="#8a9464" stroke-width="1.3"/>
-    <line x1="0" y1="0" x2="0" y2="-8" stroke="#8a9464" stroke-width="1.3"/>
-    <line x1="0" y1="0" x2="3" y2="-7" stroke="#8a9464" stroke-width="1.3"/>
+    <line x1="0" y1="0" x2="-1.6" y2="-3.4" stroke="#8a9464" stroke-width="1.1"/>
+    <line x1="0" y1="0" x2="0" y2="-4" stroke="#8a9464" stroke-width="1.1"/>
+    <line x1="0" y1="0" x2="1.6" y2="-3.4" stroke="#8a9464" stroke-width="1.1"/>
   </g>
   <clipPath id="soilclipG">
-    <path d="M26,205 L545,205 L545,252 L26,252 Z"/>
+    <path d="M26,200 L545,200 L545,252 L26,252 Z"/>
   </clipPath>
 </defs>
 
@@ -37,78 +30,115 @@
 
 <text x="26" y="32" fill="#777" font-size="11">A4–A5 · S2 · management-led</text>
 
+<!-- sun: fixed position and 45 degree rays in every archetype card -->
+<g stroke="#c08a12" stroke-linecap="round">
+  <circle cx="62" cy="60" r="8.5" fill="#c08a12" fill-opacity="0.16" stroke-width="1.4"/>
+  <g stroke-width="1.6" opacity="0.85">
+    <line x1="63" y1="75" x2="72" y2="84"/>
+    <line x1="70" y1="68" x2="79" y2="77"/>
+    <line x1="77" y1="61" x2="86" y2="70"/>
+  </g>
+</g>
+
 <!-- ================= soil ================= -->
-<path d="M26,205 L545,205 L545,252 L26,252 Z" fill="#f2ece0"/>
+<path d="M26,200 L545,200 L545,252 L26,252 Z" fill="#f2ece0"/>
 <g clip-path="url(#soilclipG)">
   <!-- a thicker, darker topsoil: what held cover builds -->
-  <path d="M26,205 L545,205 L545,227 L26,227 Z" fill="#d9cbac"/>
+  <path d="M26,200 L545,200 L545,220 L26,220 Z" fill="#d9cbac"/>
   <g fill="#8a6f43" opacity="0.5">
-    <circle cx="70" cy="214" r="1.2"/><circle cx="118" cy="220" r="1.2"/><circle cx="166" cy="212" r="1.2"/>
-    <circle cx="214" cy="221" r="1.2"/><circle cx="262" cy="214" r="1.2"/><circle cx="310" cy="220" r="1.2"/>
-    <circle cx="358" cy="213" r="1.2"/><circle cx="406" cy="221" r="1.2"/><circle cx="454" cy="214" r="1.2"/>
-    <circle cx="502" cy="219" r="1.2"/>
+    <circle cx="60" cy="208" r="1.2"/><circle cx="108" cy="215" r="1.2"/><circle cx="156" cy="206" r="1.2"/>
+    <circle cx="204" cy="216" r="1.2"/><circle cx="252" cy="208" r="1.2"/><circle cx="300" cy="215" r="1.2"/>
+    <circle cx="348" cy="207" r="1.2"/><circle cx="396" cy="216" r="1.2"/><circle cx="444" cy="208" r="1.2"/>
+    <circle cx="492" cy="214" r="1.2"/><circle cx="528" cy="210" r="1.2"/>
   </g>
   <!-- pasture roots: deeper than a row crop, nothing like prairie -->
   <g fill="none" stroke="#8a6f43" stroke-width="1.1" opacity="0.85">
-    <path d="M62,205 C60,214 64,220 61,230"/>
-    <path d="M124,205 C127,214 122,221 126,231"/>
-    <path d="M186,205 C183,214 188,220 184,229"/>
-    <path d="M248,205 C251,214 246,221 250,230"/>
-    <path d="M310,205 C307,214 312,220 308,231"/>
-    <path d="M372,205 C375,214 370,221 374,229"/>
-    <path d="M434,205 C431,214 436,220 432,230"/>
-    <path d="M496,205 C499,214 494,221 498,230"/>
+    <path d="M56,200 C54,209 58,215 55,228"/>
+    <path d="M116,200 C119,209 114,216 118,229"/>
+    <path d="M176,200 C173,209 178,215 174,227"/>
+    <path d="M236,200 C239,209 234,216 238,228"/>
+    <path d="M296,200 C293,209 298,215 294,229"/>
+    <path d="M356,200 C359,209 354,216 358,227"/>
+    <path d="M416,200 C413,209 418,215 414,228"/>
+    <path d="M476,200 C479,209 474,216 478,228"/>
+    <path d="M526,200 C523,209 528,215 524,227"/>
   </g>
 </g>
-<path d="M26,205 L545,205" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
+<path d="M26,200 L545,200" fill="none" stroke="#8a7f6a" stroke-width="1.8"/>
+
+<!-- ================= shade, spaced by the row pitch ================= -->
+<g fill="#3d4a55" opacity="0.19">
+  <path d="M36,200 h21.1 v5 h-21.1 z"/><path d="M81,200 h21.1 v5 h-21.1 z"/>
+  <path d="M126,200 h21.1 v5 h-21.1 z"/><path d="M171,200 h21.1 v5 h-21.1 z"/>
+  <path d="M216,200 h21.1 v5 h-21.1 z"/><path d="M261,200 h21.1 v5 h-21.1 z"/>
+  <path d="M306,200 h21.1 v5 h-21.1 z"/><path d="M351,200 h21.1 v5 h-21.1 z"/>
+  <path d="M396,200 h21.1 v5 h-21.1 z"/><path d="M441,200 h21.1 v5 h-21.1 z"/>
+  <path d="M486,200 h21.1 v5 h-21.1 z"/><path d="M531,200 h14 v5 h-14 z"/>
+</g>
 
 <!-- ================= forage held under rotation ================= -->
 <g>
-  <use href="#tuft" x="46" y="205"/><use href="#tuft" x="70" y="205"/><use href="#tuft" x="94" y="205"/>
-  <use href="#tuft" x="118" y="205"/><use href="#tuft" x="142" y="205"/><use href="#tuft" x="166" y="205"/>
-  <use href="#tuft" x="190" y="205"/><use href="#tuft" x="214" y="205"/><use href="#tuft" x="238" y="205"/>
-  <use href="#tuft" x="262" y="205"/><use href="#tuft" x="286" y="205"/><use href="#tuft" x="310" y="205"/>
-  <use href="#tuft" x="334" y="205"/><use href="#tuft" x="358" y="205"/><use href="#tuft" x="382" y="205"/>
-  <use href="#tuft" x="406" y="205"/><use href="#tuft" x="430" y="205"/><use href="#tuft" x="454" y="205"/>
-  <use href="#tuft" x="478" y="205"/><use href="#tuft" x="502" y="205"/><use href="#tuft" x="526" y="205"/>
+  <use href="#tuft" x="40" y="200"/><use href="#tuft" x="64" y="200"/><use href="#tuft" x="88" y="200"/>
+  <use href="#tuft" x="112" y="200"/><use href="#tuft" x="136" y="200"/><use href="#tuft" x="160" y="200"/>
+  <use href="#tuft" x="184" y="200"/><use href="#tuft" x="208" y="200"/><use href="#tuft" x="232" y="200"/>
+  <use href="#tuft" x="256" y="200"/><use href="#tuft" x="280" y="200"/><use href="#tuft" x="304" y="200"/>
+  <use href="#tuft" x="328" y="200"/><use href="#tuft" x="352" y="200"/><use href="#tuft" x="376" y="200"/>
+  <use href="#tuft" x="400" y="200"/><use href="#tuft" x="424" y="200"/><use href="#tuft" x="448" y="200"/>
+  <use href="#tuft" x="472" y="200"/><use href="#tuft" x="496" y="200"/><use href="#tuft" x="520" y="200"/>
 </g>
 
-<!-- ================= the array, running past both edges ================= -->
+<!-- ================= the array: twelve rows, cut by both frame edges ================= -->
+<g stroke="#6b6b63" stroke-width="1.6">
+  <line x1="36" y1="200" x2="36" y2="189.5"/><line x1="81" y1="200" x2="81" y2="189.5"/>
+  <line x1="126" y1="200" x2="126" y2="189.5"/><line x1="171" y1="200" x2="171" y2="189.5"/>
+  <line x1="216" y1="200" x2="216" y2="189.5"/><line x1="261" y1="200" x2="261" y2="189.5"/>
+  <line x1="306" y1="200" x2="306" y2="189.5"/><line x1="351" y1="200" x2="351" y2="189.5"/>
+  <line x1="396" y1="200" x2="396" y2="189.5"/><line x1="441" y1="200" x2="441" y2="189.5"/>
+  <line x1="486" y1="200" x2="486" y2="189.5"/><line x1="531" y1="200" x2="531" y2="189.5"/>
+</g>
+<use href="#module" transform="translate(36,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(81,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(126,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(171,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(216,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(261,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(306,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(351,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(396,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(441,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(486,189.5) scale(0.341)"/>
+<use href="#module" transform="translate(531,189.5) scale(0.341)"/>
+
+<!-- the flock, at true scale for the frame: many small animals, not a few large ones -->
 <g>
-  <line x1="56" y1="205" x2="56" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="118" y1="205" x2="118" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="180" y1="205" x2="180" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="242" y1="205" x2="242" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="304" y1="205" x2="304" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="366" y1="205" x2="366" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="428" y1="205" x2="428" y2="173" stroke="#6b6b63" stroke-width="2"/>
-  <line x1="490" y1="205" x2="490" y2="173" stroke="#6b6b63" stroke-width="2"/>
+  <use href="#sheep" transform="translate(62,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(104,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(148,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(196,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(240,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(288,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(330,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(376,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(420,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(466,200) scale(0.42)"/>
+  <use href="#sheep" transform="translate(510,200) scale(0.42)"/>
 </g>
-<use href="#module" x="56" y="173"/>
-<use href="#module" x="118" y="173"/>
-<use href="#module" x="180" y="173"/>
-<use href="#module" x="242" y="173"/>
-<use href="#module" x="304" y="173"/>
-<use href="#module" x="366" y="173"/>
-<use href="#module" x="428" y="173"/>
-<use href="#module" x="490" y="173"/>
-
-<use href="#sheep" x="87" y="205"/>
-<use href="#sheep" x="211" y="205"/>
-<use href="#sheep" x="335" y="205"/>
-<use href="#sheep" x="459" y="205"/>
 
 <!-- rotation infrastructure: the fence line and the water point -->
-<g stroke="#a89c80" stroke-width="1.3" fill="none">
-  <path d="M273,205 v-26"/>
-  <path d="M265,186 h16"/><path d="M265,194 h16"/><path d="M265,202 h16"/>
+<g stroke="#a89c80" stroke-width="1.2" fill="none">
+  <path d="M264,200 v-16"/>
+  <path d="M259,188 h10"/><path d="M259,193 h10"/><path d="M259,198 h10"/>
 </g>
-<rect x="390" y="196" width="26" height="9" rx="2" fill="#2b7fb0" fill-opacity="0.3" stroke="#6b6b63" stroke-width="1.2"/>
+<rect x="392" y="195" width="14" height="5" rx="1.5" fill="#2b7fb0" fill-opacity="0.3" stroke="#6b6b63" stroke-width="1.1"/>
 
-<use href="#person" x="530" y="205"/>
+<text x="160" y="150" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="middle">clearance this low sets the stock: sheep, not cattle</text>
+<text x="420" y="150" fill="#6a7a52" font-size="11" font-style="italic" text-anchor="middle">carbon builds under held cover</text>
 
-<text x="150" y="130" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="middle">clearance this low sets the stock: sheep, not cattle</text>
-<text x="420" y="130" fill="#6a7a52" font-size="11" font-style="italic" text-anchor="middle">carbon builds under held cover</text>
+<!-- bar scale -->
+<g stroke="#8a7f6a" stroke-width="1.2" fill="none">
+  <path d="M26,258 h100"/><path d="M26,254 v8"/><path d="M126,254 v8"/>
+</g>
+<text x="133" y="261.5" fill="#8a7f6a" font-size="9.5">20 m</text>
 
 <!-- ================= SCALE footprint ================= -->
 <line x1="572" y1="62" x2="572" y2="242" stroke="#ece7db" stroke-width="1"/>

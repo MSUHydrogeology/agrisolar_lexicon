@@ -21,7 +21,7 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - chapters/restorative-agrisolar-design.qmd
+    - chapters/design-levers.qmd
     - chapters/scale-transect.qmd
     - chapters/sharing-sparing-axis.qmd
     - chapters/design-pressures.qmd

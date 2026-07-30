@@ -1,134 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="474" viewBox="0 0 880 474" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="446" viewBox="0 0 880 446" role="img">
 <title>How the design language fits together</title>
-<desc>Three inputs — the scale transect, the sharing–sparing axis, and the design pressures — resolve into an archetype, which carries restorative functions. Regionality sets the weight each pressure carries, so the same three inputs resolve differently in different places.</desc>
+<desc>Nine design pressures push on six design levers: scale, siting, structure, management, ownership, and contracts. Setting the levers produces three things the rest of the document is organized around: a position on the scale transect, which comes from the scale lever; a position on the sharing-sparing axis, which comes jointly from siting, structure, and management; and the restorative functions, which come from the remaining levers. A recurring set of lever settings is an archetype. Regionality changes how hard each pressure pushes, so the same levers are set differently in different places.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.ct{font-size:14.5px;font-weight:600;fill:#2c2c2a}
-.cs{font-size:12px;fill:#5f5e5a}
-.cc{font-size:11px;fill:#75736c}
-.chip{font-size:10.5px;font-weight:500;fill:#173404}
-.chipd{font-size:10.5px;font-weight:500;fill:#23304a}
-.chipp{font-size:10.5px;font-weight:500;fill:#33234a}
-.rt{font-size:15px;font-weight:600;fill:#2c2c2a}
-.rs{font-size:12px;fill:#5f5e5a}
-.fn{font-size:11px;fill:#3d3d3a}
-.gtw{font-size:9.5px;fill:#35887a}
-.gbo{font-size:9.5px;fill:#6f6d66}
-.gaw{font-size:9.5px;fill:#b5643a}
-.eyebrow{font-size:10.5px;font-weight:600;fill:#8a8880;letter-spacing:0.06em}
+.eb{font-size:10.5px;font-weight:700;fill:#8a8880;letter-spacing:.06em}
+.ct{font-size:15.5px;font-weight:600;fill:#2c2c2a}
+.cs{font-size:11.5px;fill:#75736c}
+.lv{font-size:12.5px;font-weight:600;fill:#2c2c2a}
+.lvs{font-size:10.5px;fill:#75736c}
+.ot{font-size:12.5px;font-weight:600;fill:#2c2c2a}
+.os{font-size:10.5px;fill:#75736c}
+.ft{font-size:11.5px;fill:#5f5e5a}
 .card{fill:none;stroke:#d3d1c7;stroke-width:1}
-.join{stroke:#b4b2a9;stroke-width:1.4;fill:none}
+.hero{fill:#f6f5f1;stroke:#b4b2a9;stroke-width:1.4}
 </style>
-
-<defs>
-<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">
-  <path d="M0,1 L9,5 L0,9 z" fill="#b4b2a9"/>
-</marker>
-<marker id="apt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#35887a"/>
-</marker>
-<marker id="apa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#b5643a"/>
-</marker>
-<marker id="apb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-  <path d="M0,1.5 L9,5 L0,8.5 z" fill="#6f6d66"/>
-</marker>
-</defs>
-
-<!-- ============ input card 1 : scale ============ -->
-<rect class="card" x="10" y="34" width="266" height="172" rx="7"/>
-<text class="eyebrow" x="28" y="58">WHERE IT SITS</text>
-<text class="ct" x="28" y="80">Scale</text>
-<text class="cs" x="28" y="99">the farmstead-to-region gradient</text>
-
-<rect x="28" y="116" width="44" height="30" rx="4" fill="#EAF3DE" stroke="#639922" stroke-width="0.5"/>
-<rect x="74" y="116" width="44" height="30" rx="4" fill="#DCEBC8" stroke="#639922" stroke-width="0.5"/>
-<rect x="120" y="116" width="44" height="30" rx="4" fill="#C0DD97" stroke="#639922" stroke-width="0.5"/>
-<rect x="166" y="116" width="44" height="30" rx="4" fill="#AED483" stroke="#639922" stroke-width="0.5"/>
-<rect x="212" y="116" width="44" height="30" rx="4" fill="#97C459" stroke="#639922" stroke-width="0.5"/>
-<text class="chip" x="50" y="135" text-anchor="middle">A1</text>
-<text class="chip" x="96" y="135" text-anchor="middle">A2</text>
-<text class="chip" x="142" y="135" text-anchor="middle">A3</text>
-<text class="chip" x="188" y="135" text-anchor="middle">A4</text>
-<text class="chip" x="234" y="135" text-anchor="middle">A5</text>
-<text class="cc" x="28" y="164">barn roof → regional complex</text>
-<text class="cc" x="28" y="184">Settles what is possible before</text>
-<text class="cc" x="28" y="198">design begins.</text>
-
-<!-- ============ input card 2 : sharing and sparing ============ -->
-<rect class="card" x="297" y="34" width="266" height="172" rx="7"/>
-<text class="eyebrow" x="315" y="58">WHAT IT COSTS THE LAND</text>
-<text class="ct" x="315" y="80">Sharing and sparing</text>
-<text class="cs" x="315" y="99">production here, and elsewhere</text>
-
-<rect x="315" y="116" width="44" height="30" rx="4" fill="#7FB3D9" stroke="#4E8CBA" stroke-width="0.5"/>
-<rect x="361" y="116" width="44" height="30" rx="4" fill="#BFDAEC" stroke="#4E8CBA" stroke-width="0.5"/>
-<rect x="407" y="116" width="44" height="30" rx="4" fill="#EFEEEA" stroke="#c9c7c0" stroke-width="0.5"/>
-<rect x="453" y="116" width="44" height="30" rx="4" fill="#D9CBE6" stroke="#8A6BB5" stroke-width="0.5"/>
-<rect x="499" y="116" width="44" height="30" rx="4" fill="#B69ED4" stroke="#8A6BB5" stroke-width="0.5"/>
-<text class="chipd" x="337" y="135" text-anchor="middle">S1</text>
-<text class="chipd" x="383" y="135" text-anchor="middle">S2</text>
-<text class="chipd" x="429" y="135" text-anchor="middle">S3</text>
-<text class="chipp" x="475" y="135" text-anchor="middle">S4</text>
-<text class="chipp" x="521" y="135" text-anchor="middle">S5</text>
-<text class="cc" x="315" y="164">sharing ← coexistence → sparing</text>
-<text class="cc" x="315" y="184">Ground kept in production here is</text>
-<text class="cc" x="315" y="198">ground not broken somewhere else.</text>
-
-<!-- ============ input card 3 : design pressures ============ -->
-<rect class="card" x="584" y="34" width="266" height="172" rx="7"/>
-<text class="eyebrow" x="602" y="58">WHAT PUSHES ON IT</text>
-<text class="ct" x="602" y="80">Design pressures</text>
-<text class="cs" x="602" y="99">nine forces, genuinely opposed</text>
-
-<path d="M790,146 L769.4,121.5 A32,32 0 0 1 810.6,121.5 Z" fill="#eae8e3"/>
-<path d="M790,146 L810.6,121.5 A32,32 0 0 1 800.9,176.0 Z" fill="#d9e9e4"/>
-<path d="M790,146 L800.9,176.0 A32,32 0 0 1 779.1,176.0 Z" fill="#eae8e3"/>
-<path d="M790,146 L779.1,176.0 A32,32 0 0 1 769.4,121.5 Z" fill="#f6e2d7"/>
-<line x1="779.7" y1="117.8" x2="785.6" y2="133.8" stroke="#6f6d66" stroke-width="1.4" marker-end="url(#apb)"/>
-<line x1="800.3" y1="117.8" x2="794.4" y2="133.8" stroke="#6f6d66" stroke-width="1.4" marker-end="url(#apb)"/>
-<line x1="816.0" y1="131.0" x2="801.3" y2="139.5" stroke="#35887a" stroke-width="1.4" marker-end="url(#apt)"/>
-<line x1="819.5" y1="151.2" x2="802.8" y2="147.8" stroke="#35887a" stroke-width="1.4" marker-end="url(#apt)"/>
-<line x1="809.3" y1="169.0" x2="798.4" y2="155.2" stroke="#35887a" stroke-width="1.4" marker-end="url(#apt)"/>
-<line x1="790" y1="176" x2="790" y2="159" stroke="#6f6d66" stroke-width="1.4" marker-end="url(#apb)"/>
-<line x1="770.7" y1="169.0" x2="781.6" y2="155.2" stroke="#b5643a" stroke-width="1.4" marker-end="url(#apa)"/>
-<line x1="760.5" y1="151.2" x2="777.2" y2="147.8" stroke="#b5643a" stroke-width="1.4" marker-end="url(#apa)"/>
-<line x1="764.0" y1="131.0" x2="778.7" y2="139.5" stroke="#b5643a" stroke-width="1.4" marker-end="url(#apa)"/>
-<circle cx="790" cy="146" r="7" fill="#ffffff" stroke="#cfc8b8" stroke-width="0.8"/>
-<text class="gtw" x="602" y="124">goals · community · end-of-life</text>
-<text class="gbo" x="602" y="139">farming · grid · policy</text>
-<text class="gaw" x="602" y="154">energy · build · upkeep</text>
-<text class="cc" x="602" y="180">Three push toward restoration,</text>
-<text class="cc" x="602" y="194">three away, three both ways.</text>
-
-<!-- ============ converge ============ -->
-<path class="join" d="M143 206 L143 228 Q143 238 153 238 L427 238"/>
-<path class="join" d="M430 206 L430 238"/>
-<path class="join" d="M717 206 L717 228 Q717 238 707 238 L433 238"/>
-<line class="join" x1="430" y1="238" x2="430" y2="268" marker-end="url(#ar)"/>
-<text class="eyebrow" x="446" y="256">RESOLVE INTO</text>
-
-<!-- ============ result ============ -->
-<rect class="card" x="110" y="276" width="660" height="106" rx="7"/>
-<text class="rt" x="440" y="304" text-anchor="middle">An archetype</text>
-<text class="rs" x="440" y="325" text-anchor="middle">a recurring way the three resolve on real ground — and what it is made to give back</text>
-
-<rect x="173" y="340" width="62" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="243" y="340" width="94" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="345" y="340" width="82" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="435" y="340" width="92" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="535" y="340" width="82" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="625" y="340" width="82" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<text class="fn" x="204" y="357" text-anchor="middle">water</text>
-<text class="fn" x="290" y="357" text-anchor="middle">soil &amp; carbon</text>
-<text class="fn" x="386" y="357" text-anchor="middle">biodiversity</text>
-<text class="fn" x="481" y="357" text-anchor="middle">microclimate</text>
-<text class="fn" x="576" y="357" text-anchor="middle">agriculture</text>
-<text class="fn" x="666" y="357" text-anchor="middle">community</text>
-
-<!-- ============ regionality band ============ -->
-<rect class="card" x="10" y="402" width="840" height="60" rx="7" stroke-dasharray="4 3"/>
-<text class="ct" x="34" y="427">Regionality</text>
-<text class="cs" x="128" y="427">The pressures are the same everywhere; their weights are not.</text>
-<text class="cs" x="34" y="449">Sun, water, crop, and utility decide how hard each one pushes — so the same three inputs resolve differently in different places.</text>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#b4b2a9"/></marker></defs>
+<text class="eb" x="16" y="30">WHAT PUSHES</text>
+<rect class="card" x="16" y="42" width="212" height="258" rx="6"/>
+<text class="ct" x="32" y="70">Design pressures</text>
+<text class="cs" x="32" y="90">nine forces, genuinely opposed</text>
+<circle cx="38" cy="108" r="3" fill="#35887a"/>
+<text class="lvs" x="48" y="112">restorative goals</text>
+<circle cx="38" cy="123" r="3" fill="#35887a"/>
+<text class="lvs" x="48" y="127">community benefit</text>
+<circle cx="38" cy="138" r="3" fill="#35887a"/>
+<text class="lvs" x="48" y="142">end-of-life</text>
+<circle cx="38" cy="153" r="3" fill="#6f6d66"/>
+<text class="lvs" x="48" y="157">farming</text>
+<circle cx="38" cy="168" r="3" fill="#6f6d66"/>
+<text class="lvs" x="48" y="172">grid and market</text>
+<circle cx="38" cy="183" r="3" fill="#6f6d66"/>
+<text class="lvs" x="48" y="187">policy</text>
+<circle cx="38" cy="198" r="3" fill="#b5643a"/>
+<text class="lvs" x="48" y="202">energy yield</text>
+<circle cx="38" cy="213" r="3" fill="#b5643a"/>
+<text class="lvs" x="48" y="217">build cost</text>
+<circle cx="38" cy="228" r="3" fill="#b5643a"/>
+<text class="lvs" x="48" y="232">upkeep</text>
+<text class="cs" x="32" y="272">three toward, three away,</text>
+<text class="cs" x="32" y="288">three either way</text>
+<line x1="228" y1="147" x2="266" y2="147" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#ar)"/>
+<text class="eb" x="274" y="30">WHAT YOU DECIDE</text>
+<rect class="hero" x="274" y="42" width="248" height="258" rx="6"/>
+<text class="ct" x="292" y="70">Design levers</text>
+<text class="cs" x="292" y="90">the only things anyone can change</text>
+<text class="lv" x="292" y="114">Scale</text>
+<text class="lvs" x="396" y="114">how much ground</text>
+<text class="lv" x="292" y="137">Siting</text>
+<text class="lvs" x="396" y="137">which ground</text>
+<text class="lv" x="292" y="160">Structure</text>
+<text class="lvs" x="396" y="160">what gets built</text>
+<text class="lv" x="292" y="183">Management</text>
+<text class="lvs" x="396" y="183">what grows and how</text>
+<text class="lv" x="292" y="206">Ownership</text>
+<text class="lvs" x="396" y="206">who holds it</text>
+<text class="lv" x="292" y="229">Contracts</text>
+<text class="lvs" x="396" y="229">what was signed</text>
+<text class="cs" x="292" y="280">four act on ground, two on paper</text>
+<line x1="522" y1="147" x2="560" y2="147" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#ar)"/>
+<text class="eb" x="568" y="30">WHAT COMES OUT</text>
+<rect class="card" x="568" y="42" width="296" height="258" rx="6"/>
+<text class="ot" x="586" y="76">A place on the scale transect</text>
+<text class="os" x="586" y="94">read straight off the scale lever</text>
+<text class="ot" x="586" y="128">A place on the sharing–sparing axis</text>
+<text class="os" x="586" y="146">siting, structure, and management together</text>
+<text class="ot" x="586" y="180">Restorative functions</text>
+<text class="os" x="586" y="198">water, soil, habitat, microclimate,</text>
+<text class="os" x="586" y="216">agriculture, community</text>
+<line x1="586" y1="244" x2="846" y2="244" stroke="#e2e0d8" stroke-width="1"/>
+<text class="os" x="586" y="264">a recurring set of settings is an <tspan font-weight="600" fill="#2c2c2a">archetype</tspan></text>
+<line x1="16" y1="336" x2="864" y2="336" stroke="#d3d1c7" stroke-width="1"/>
+<text class="eb" x="16" y="366">REGIONALITY</text>
+<text class="ft" x="16" y="392">Sun, water, crop, and grid conditions change how hard each pressure pushes, so the same levers get set</text>
+<text class="ft" x="16" y="410">differently in California and in Iowa. The aim is argued; the dimensions are left to the site.</text>
 </svg>

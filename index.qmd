@@ -1,4 +1,4 @@
-# Restorative Agrisolar {.unnumbered}
+# Restorative Agrisolar Design {.unnumbered}
 
 ::: {.draft-note}
 **Working draft, circulated for comment.** Some citations are
@@ -27,62 +27,31 @@ The build-out is not a forecast. Around 15,000 ground-mounted arrays already cov
 
 ## How the language works
 
-Three questions organize the document.
+A project is a long list of decisions, and almost all of them fall into six groups: how much ground to take, which ground, what gets built on it, what grows there and how the place is run, who holds the asset, and what the parties signed. Those are the [design levers](chapters/design-levers.qmd), and they are the spine of everything else here. The pressures push on them, and what comes out the far end is a project's scale, its position on the sharing–sparing axis, and the functions the ground ends up performing.
 
-![How the pieces fit. Scale, sharing–sparing, and the design pressures resolve into an archetype and the functions it carries, with regionality setting how hard each pressure pushes.](figures/fig_language_structure.svg){#fig-language-structure}
+![How the pieces fit. The levers are the only things anyone can actually change; everything to their left is a force acting on them, and everything to their right is a consequence of how they were set.](figures/fig_language_structure.svg){#fig-language-structure}
 
-### Scale
+Two levers carry enough internal structure to need a chapter each. **Scale** becomes the [scale transect](chapters/scale-transect.qmd), five calibration points from the farmstead to the region, because interconnection, decision-making, and ground management all move together along it. **Siting, structure, and management** jointly produce a position on the [sharing–sparing axis](chapters/sharing-sparing-axis.qmd), which records what happened to agricultural production: whether farming continues inside the footprint is settled by what was built and what is grown, and what the ground was beforehand is settled by where the array went.
 
-Scale comes first because it settles what is physically, economically, and institutionally
-possible before design begins. The [scale transect](chapters/scale-transect.qmd) runs
-from the farmstead to the region in five zones. It is a transect rather than a set of size bins
-because several things move together along it.
-
-::: {.zone-table}
-| Zone | Indicative footprint | What changes at this size |
-|---|---|---|
-| **A1 — Farmstead** | under ~1 acre | One owner-operator, existing farm labor, behind the meter |
-| **A2 — Field** | ~0.5–8 acres | Still the landowner's decision, perhaps one lease counterparty |
-| **A3 — Parcel** | ~6–30 acres | Multi-party; ground-layer management becomes a contract |
-| **A4 — Landscape** | ~30–300 acres | Developer-led; grazing and habitat become enterprises |
-| **A5 — Regional** | ~300 to 10,000+ acres | Transmission, institutional capital, many jurisdictions |
+:::  {#sec-aim-not-dimensions}
+**The aim is argued; the dimensions are left to the site.** This document takes a position on what agrisolar is *for*, and refuses to fix a clearance height or a row spacing, because the same lever settings that restore ground in one region deplete it in another. [Regionality](chapters/regionality.qmd) is where that gets explicit.
 :::
 
-Building-mounted arrays sit at the origin because they take no ground. Where capacity and acreage disagree, land area is the better guide to the design problem.
+## What is in here
 
-### Land sharing and land sparing
+| Chapter | What it holds |
+|:--|:--|
+| [Design Levers](chapters/design-levers.qmd) | the six decisions a project can actually make, and what each one can deliver |
+| [The Scale Transect](chapters/scale-transect.qmd) | A1 to A5, from farmstead to region, and how much of each lever survives at each size |
+| [The Sharing–Sparing Axis](chapters/sharing-sparing-axis.qmd) | S1 to S5, what happened to agricultural production on the ground the array took |
+| [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how the levers get set, and the conflicts worth naming |
+| [Restorative Functions](chapters/restorative-functions.qmd) | the six things a design can be aimed at, how each is delivered, and how far the result carries |
+| [Archetypes](chapters/archetypes.qmd) | recurring lever settings that already exist on real ground, from barnyard shelter to solar prairie strips |
+| [Regionality](chapters/regionality.qmd) | why the same lever settings are right in California and wrong in Iowa |
+| [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
+| [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
 
-The accounting does not stop at the fence. **Land sharing** keeps production going on the same ground the array occupies. **Land
-sparing** takes ground out of production so that other ground can be left alone. The pair comes
-from a long-running argument in conservation ecology [@green2005; @phalan2011], where the
-underlying question is genuinely unsettled: farm gently everywhere, or intensively in some places
-and not at all in others.
-
-The [sharing–sparing axis](chapters/sharing-sparing-axis.qmd) runs five positions on that logic.
-
-::: {.position-table}
-| Position | What it records |
-|---|---|
-| **S1 — Full sharing** | Production continues in the same ground, inside the footprint |
-| **S2 — Functional sharing** | The ground layer is productive but subordinate: grazing, forage |
-| **S3 — Coexistence** | *Neither.* Production stops on that ground, and the revenue sustains the farm enterprise that holds it |
-| **S4 — Idled-land sparing** | The array takes ground already idle or marginal, sparing land that is not |
-| **S5 — Impaired-land retirement** | Production ends on ground that was carrying a burden off-site |
-:::
-
-The center is where most projects sit: ordinary ground becomes a power plant. A position records what happened to the ground, not the project's merit.
-
-### Design pressures
-
-Scale and position describe a site; nine [design pressures](chapters/design-pressures.qmd) explain why it takes that form. They conflict, have direction, and have advocates. The document argues that restorative goals belongs among them.
-
-![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration, three push away, and three depend on the site, the buyer, or the county.](figures/fig_design_pressures.svg){#fig-design-pressures}
-
-The resulting [restorative functions](chapters/restorative-functions.qmd) are a palette, not a scorecard. Recurring resolutions become [archetypes](chapters/archetypes.qmd), from solar prairie strips to barnyard shelter, and can be compared in the same language.
-
-::: {#sec-aim-not-dimensions}
-The same pressures meet very different ground. Sun, water, crop, and grid conditions change their weight. **The aim is argued; the dimensions are left to the site**, and [regionality](chapters/regionality.qmd) explains why.
-:::
+: The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
 
 ## Where to start
 
@@ -92,8 +61,9 @@ The same pressures meet very different ground. Sun, water, crop, and grid condit
 recur at each size of project, from a barn roof to a regional complex, with what each one asks of the
 ground.
 
-**If you are weighing a specific proposal**, the
-[design pressures](chapters/design-pressures.qmd) name the forces pushing on it and the
+**If you are weighing a specific proposal**, start with the
+[design levers](chapters/design-levers.qmd) to see which decisions are still open, then the
+[design pressures](chapters/design-pressures.qmd) for the forces pushing on each one and the
 conflicts worth arguing about openly.
 
 **If you want to know what is not yet known**, [open issues and research needs](chapters/open-issues.qmd) collect the measurements nobody has made, the figures that circulate without a source, and the counterexamples that would test

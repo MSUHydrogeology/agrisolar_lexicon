@@ -307,3 +307,11 @@ figure img,
 // declarations from one such block but not its opening line, so its pale dark
 // variants were overriding the intended colors unconditionally, in light mode
 // included. Every figure now defines one set of colors, for the light page.
+
+// The landing page carries an explicit `# … {.unnumbered}` H1 in index.qmd.
+// That heading is load-bearing: without it Quarto counts index.qmd as chapter 1
+// and every chapter, section, and figure number renders one too high. It is not
+// there to be read, because the title block directly above already names the
+// document, so it is hidden rather than deleted. Removing the heading from
+// index.qmd brings the off-by-one straight back.
+main.content > h1.unnumbered:first-child { display: none; }
