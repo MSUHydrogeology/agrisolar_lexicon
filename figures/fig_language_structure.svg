@@ -9,7 +9,6 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .out{font-size:12.5px;fill:#3d3d3a}
 .ft{font-size:11px;fill:#8a8880}
 </style>
-<<<<<<< HEAD
 <defs><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#c2beb4"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#8a8880"/></marker></defs>
 <text class="eb" x="16" y="76">NINE PRESSURES</text>
 <line x1="16" y1="112" x2="190" y2="112" stroke="#c2beb4" stroke-width="2" marker-end="url(#p)"/>
@@ -66,65 +65,4 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="gl" x="670" y="244">is an <tspan font-weight="600" fill="#2c2c2a">archetype</tspan></text>
 <line x1="16" y1="356" x2="864" y2="356" stroke="#e2e0d8"/>
 <text class="ft" x="16" y="382">Regionality changes how hard each pressure pushes, so the same levers get set differently in California and in Iowa.</text>
-=======
-<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#b4b2a9"/></marker></defs>
-<text class="eb" x="16" y="30">WHAT PUSHES</text>
-<rect class="card" x="16" y="42" width="212" height="258" rx="6"/>
-<text class="ct" x="32" y="70">Design pressures</text>
-<text class="cs" x="32" y="90">nine forces, genuinely opposed</text>
-<circle cx="38" cy="108" r="3" fill="#35887a"/>
-<text class="lvs" x="48" y="112">restorative goals</text>
-<circle cx="38" cy="123" r="3" fill="#35887a"/>
-<text class="lvs" x="48" y="127">community benefit</text>
-<circle cx="38" cy="138" r="3" fill="#35887a"/>
-<text class="lvs" x="48" y="142">end-of-life</text>
-<circle cx="38" cy="153" r="3" fill="#6f6d66"/>
-<text class="lvs" x="48" y="157">farming</text>
-<circle cx="38" cy="168" r="3" fill="#6f6d66"/>
-<text class="lvs" x="48" y="172">grid and market</text>
-<circle cx="38" cy="183" r="3" fill="#6f6d66"/>
-<text class="lvs" x="48" y="187">policy</text>
-<circle cx="38" cy="198" r="3" fill="#b5643a"/>
-<text class="lvs" x="48" y="202">energy yield</text>
-<circle cx="38" cy="213" r="3" fill="#b5643a"/>
-<text class="lvs" x="48" y="217">build cost</text>
-<circle cx="38" cy="228" r="3" fill="#b5643a"/>
-<text class="lvs" x="48" y="232">upkeep</text>
-<text class="cs" x="32" y="272">three toward, three away,</text>
-<text class="cs" x="32" y="288">three either way</text>
-<line x1="228" y1="147" x2="266" y2="147" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#ar)"/>
-<text class="eb" x="274" y="30">WHAT YOU DECIDE</text>
-<rect class="hero" x="274" y="42" width="248" height="258" rx="6"/>
-<text class="ct" x="292" y="70">Design levers</text>
-<text class="cs" x="292" y="90">the only things anyone can change</text>
-<text class="lv" x="292" y="114">Scale</text>
-<text class="lvs" x="396" y="114">how much ground</text>
-<text class="lv" x="292" y="137">Siting</text>
-<text class="lvs" x="396" y="137">which ground</text>
-<text class="lv" x="292" y="160">Structure</text>
-<text class="lvs" x="396" y="160">what gets built</text>
-<text class="lv" x="292" y="183">Management</text>
-<text class="lvs" x="396" y="183">what grows and how</text>
-<text class="lv" x="292" y="206">Ownership</text>
-<text class="lvs" x="396" y="206">who holds it</text>
-<text class="lv" x="292" y="229">Contracts</text>
-<text class="lvs" x="396" y="229">what was signed</text>
-<text class="cs" x="292" y="280">four act on ground, two on paper</text>
-<line x1="522" y1="147" x2="560" y2="147" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#ar)"/>
-<text class="eb" x="568" y="30">WHAT COMES OUT</text>
-<rect class="card" x="568" y="42" width="296" height="258" rx="6"/>
-<text class="ot" x="586" y="76">A place on the scale transect</text>
-<text class="os" x="586" y="94">read straight off the scale lever</text>
-<text class="ot" x="586" y="128">A place on the sharing–sparing axis</text>
-<text class="os" x="586" y="146">siting, structure, and management together</text>
-<text class="ot" x="586" y="180">Restorative functions</text>
-<text class="os" x="586" y="198">water, soil, ecology,</text>
-<text class="os" x="586" y="216">agriculture, community</text>
-<line x1="586" y1="244" x2="846" y2="244" stroke="#e2e0d8" stroke-width="1"/>
-<text class="os" x="586" y="264">a recurring set of settings is an <tspan font-weight="600" fill="#2c2c2a">archetype</tspan></text>
-<line x1="16" y1="336" x2="864" y2="336" stroke="#d3d1c7" stroke-width="1"/>
-<text class="eb" x="16" y="366">REGIONALITY</text>
-<text class="ft" x="16" y="392">Sun, water, crop, and grid conditions change how hard each pressure pushes, so the same levers get set</text>
-<text class="ft" x="16" y="410">differently in California and in Iowa. The aim is argued; the dimensions are left to the site.</text>
->>>>>>> af1799d (Restructure the functions chapter: five functions, routes not distances)
 </svg>
