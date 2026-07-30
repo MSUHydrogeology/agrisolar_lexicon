@@ -86,6 +86,12 @@ correct, and says nothing a reader can picture. Four more rules for that:
 - **Watch the balanced pair.** "Spreads good practice where the rule fits; locks in a bad fit where
   it does not." One of those is a sentence. Three in a row is a cadence the reader starts to hear,
   and it flattens real differences into symmetry.
+- **Write for an interested technical reader, not for a software engineer.** Words borrowed from
+  computing and systems design are precise to the people who use them and opaque to a township
+  planner, a grazier, or an agronomist: *gates*, *registers*, *primitives*, *surfaces*, *parses*,
+  *abstraction layer*. The same goes for imported social-science shorthand like *legible* and
+  *apparatus*. Say what happens in the reader's own vocabulary. Not "the axis gates the functions"
+  but "the axis decides which functions a site can deliver."
 
 A rough check for the first rule, run from the repository root:
 

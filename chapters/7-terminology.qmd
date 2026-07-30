@@ -42,11 +42,12 @@ The designer's freedom over where the array goes. What governs it migrates from 
 
 #### Restoration mode {#term-restoration-mode}
 
-Whether restorative work is delivered by the choice of ground, by array geometry, or by how the array is run. The mode shifts as siting latitude falls up the transect (§1.3). Three modes:
+Whether restorative work is delivered by the choice of ground, by array geometry, by how the array is run, or by what the contracts say. The first three are done on the ground and shift as siting latitude falls up the transect (§1.3); the fourth is done on paper and does not. Four modes:
 
 - []{#term-siting-led}**Siting-led** — the restorative work is done by the choice of ground; requires the A2–A3 latitude to choose it.
-- []{#term-structure-led}**Structure-led** — array geometry is the instrument: clearance, row spacing, module transmissivity.
+- []{#term-structure-led}**Structure-led** — array geometry does the work: clearance, row spacing, module transmissivity.
 - []{#term-management-led}**Management-led** — placement is a given, and the ground cover, grazing regime, and operational schedule carry everything. The dominant mode at A4–A5.
+- []{#term-contract-led}**Contract-led** — the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site. The mode the [community and economic function](#term-fn-community) runs on, and the one that decides whether the tenant is still farming in year twenty (§4.6).
 
 See [§1.3](1-the-scale-transect.qmd#sec-siting-latitude).
 
