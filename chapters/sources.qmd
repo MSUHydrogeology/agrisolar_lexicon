@@ -25,6 +25,10 @@ nocite: |
 - Kannenberg, S.A., Sturchio, M.A., Venturas, M.D. & Knapp, A.K. (2023). Grassland carbon-water cycling is minimally impacted by a photovoltaic array. *Communications Earth & Environment* 4:238. DOI 10.1038/s43247-023-00904-4. — *the bound on effect size in §-@sec-fn-hydrologic: at one semi-arid grassland array the carbon and water cycles barely changed.*
 - Carvalho, F., Healing, S. & Armstrong, A. (2024). Enhancing soil carbon in solar farms through active land management: a systematic review of the available evidence. *Environmental Research: Ecology* 3(4):042001. DOI 10.1088/2752-664X/ad8ce4. — *source for §-@sec-fn-soil's "multi-decade curve is still open" reading: direct long-run soil-carbon measurements at solar farms are scarce. Note the venue — Environmental Research: Ecology, not Environmental Research Letters.*
 
+**Design theory the lexicon borrows from**
+
+- Reed, B. (2007). Shifting from 'sustainability' to regeneration. *Building Research & Information* 35(6):674–680. DOI 10.1080/09613210701475753. — *source for the restorative/regenerative distinction behind* **Restorative** *(§-@sec-terminology); in Reed's trajectory restorative sits one rung below regenerative, which is the modesty the lexicon keeps deliberately. Verified against Crossref.*
+
 **Agrivoltaic typology**
 
 - Toledo, C. & Scognamiglio, A. (2021). Agrivoltaic systems design and assessment: a critical review, and a descriptive model towards a sustainable landscape vision (three-dimensional agrivoltaic patterns). *Sustainability* 13(12):6871. DOI 10.3390/su13126871. — *source for pore space and 3D pattern.*

@@ -1,6 +1,6 @@
 # Archetypes {#sec-archetypes}
 
-Certain designs recur when the same pressures meet the same scale and sharing position: a farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field. These **archetypes** are recurring, transformable patterns rather than an exhaustive typology. They classify how pressures are resolved; hardware taxonomies classify structure. The two can be read together.
+Certain designs recur when the same [pressures](terminology.qmd#term-design-pressures) meet the same scale and [sharing position](terminology.qmd#term-sharing-sparing): a farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field. These **archetypes** are recurring, transformable patterns rather than an exhaustive typology. They classify how pressures are resolved; [hardware taxonomies](terminology.qmd#term-overhead-interspace) classify structure. The two can be read together.
 
 Six featured archetypes, ordered from farmstead to region, each carry a documented case, and seven further forms are sketched more briefly.
 
@@ -9,7 +9,7 @@ Six featured archetypes, ordered from farmstead to region, each carry a document
 If you know roughly how much land is in play, start here. The table gives the forms that recur at each [zone](scale-transect.qmd#sec-zones), with **featured archetypes in bold** and [further ones](#sec-further-types) in plain text, and each name links to its entry. Arrays mounted on buildings take no ground at all and sit at [A0](scale-transect.qmd#sec-zones), off the table entirely.
 
 ::: {.zone-table}
-| Zone | Indicative footprint | Forms that recur here |
+| Zone | Indicative [footprint](terminology.qmd#term-footprint-influence) | Forms that recur here |
 |---|---|---|
 | **A1 — Farmstead** | under ~1 acre | [**Barnyard Shelter Solar**](#arch-barnyard) |
 | **A2 — Field** | ~0.5–8 acres | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) |
@@ -18,7 +18,7 @@ If you know roughly how much land is in play, start here. The table gives the fo
 | **A5 — Regional** | ~300 acres to 10,000+ | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 :::
 
-The crowding at A3 is the [feasible wedge](sharing-sparing-axis.qmd#sec-wedge) in practical form: it is big enough that management matters and small enough to site strategically ([§-@sec-community-scale](scale-transect.qmd#sec-community-scale)), so more forms are open there than anywhere else on the transect. A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
+The crowding at A3 is the [feasible wedge](sharing-sparing-axis.qmd#sec-wedge) in practical form: it is big enough that management matters and small enough to site strategically ([§-@sec-community-scale](scale-transect.qmd#sec-community-scale)), so more forms are open there than anywhere else on the [transect](terminology.qmd#term-scale-transect). A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
 
 ## The six featured archetypes {#sec-featured}
 
@@ -45,7 +45,7 @@ The crowding at A3 is the [feasible wedge](sharing-sparing-axis.qmd#sec-wedge) i
 
 Barnyard shelter solar places a modest array above the yard or paddock the farm's own animals already use. It provides shade and shelter while offsetting the parlor, cold store, or well pump. The same farmer holds the animals, array, and labor, but the array serves the farm rather than the grid; concentrated shade also concentrates manure and wear.
 
-*Dominant pressures: agricultural production, operations and maintenance. Yielded: generation at scale, since the array is sized to the farm rather than the grid.*
+*Dominant pressures: agricultural production, [operations and maintenance](terminology.qmd#term-operations-maintenance). Yielded: generation at scale, since the array is sized to the farm rather than the grid.*
 
 **West Central Research and Outreach Center, Morris, Minnesota**, a University of Minnesota dairy where a 30-kilowatt array was raised over the pasture in 2018 to shade thirty to forty grazing cows and power the milking equipment; the shaded herd ran about a degree cooler and panted less, while the same panels carried the parlor's load, a working demonstration that shelter and generation can sit together on one small farm.
 
@@ -65,11 +65,11 @@ Barnyard shelter solar places a modest array above the yard or paddock the farm'
 :::
 *Restoration by how it's built*
 
-Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels raised and spaced for their light and work needs. Its geometry is tuned to a crop and climate: excess shade cuts yield, while in hot, dry settings it can reduce heat and water stress [@barrongafford2019]. The form succeeds only where the crop still pays.
+Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics) keeps shade-tolerant food crops growing beneath panels raised and spaced for their light and work needs. Its geometry is tuned to a crop and climate: excess shade cuts yield, while in hot, dry settings it can reduce heat and water stress [@barrongafford2019]. The form succeeds only where the crop still pays.
 
-*Dominant pressures: agricultural production, community acceptance. Yielded: some generation and capital, to the clearance and spacing the crop demands.*
+*Dominant pressures: agricultural production, [community acceptance](terminology.qmd#term-community-acceptance). Yielded: some generation and capital, to the clearance and spacing the crop demands.*
 
-**Jack's Solar Garden, Colorado** — the largest commercial agrivoltaics research site in the country: 1.2 megawatts of tracking panels over four acres where partner farmers grow chard, greens, and tomatoes among the rows, a living laboratory for NREL, Colorado State, and University of Arizona researchers.
+**Jack's Solar Garden, Colorado** — the largest commercial agrivoltaics research site in the country: 1.2 megawatts of [tracking](terminology.qmd#term-tracking-curtailment) panels over four acres where partner farmers grow chard, greens, and tomatoes among the rows, a living laboratory for NREL, Colorado State, and University of Arizona researchers.
 
 ### Marginal Land Solar {#arch-marginal}
 
@@ -87,9 +87,9 @@ Vegetable agrivoltaics keeps shade-tolerant food crops growing beneath panels ra
 :::
 *Restoration by where you site*
 
-Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. What made the parcel marginal for farming can make it costly for solar too, through rock, flood risk, or a long interconnect, and the income has to clear that.
+[Marginal land](terminology.qmd#term-marginal-land) solar uses the farm's flood-prone corners, rocky headlands, wet remnants, and other ground that no longer pays its way, leaving the better fields alone. Rough grazing or naturalized cover can remain beneath the array. What made the parcel marginal for farming can make it costly for solar too, through rock, flood risk, or a long interconnect, and the income has to clear that.
 
-*Dominant pressures: build cost, since the conditions that made the parcel marginal also make the array dearer. What it is for is the [community & economic function](restorative-functions.qmd#sec-fn-community): income from ground that was not paying. Yielded: some generation, since marginal ground is rarely shaped for output.*
+*Dominant pressures: [build cost](terminology.qmd#term-build-cost), since the conditions that made the parcel marginal also make the array dearer. What it is for is the [community & economic function](restorative-functions.qmd#sec-fn-community): income from ground that was not paying. Yielded: some generation, since marginal ground is rarely shaped for output.*
 
 **Cozy Cove Farm, Gurley, Alabama** — a llama-and-alpaca farm that set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath, selling the power to the TVA while the pasture keeps working. *This particular site reads as [S2](sharing-sparing-axis.qmd#sec-positions), not S4: the siting decision was the marginal corner, but production never stopped there, since the herd still grazes beneath the panels. It is the archetype's sharing variant, and the reading rule in §-@sec-positions settles it.*
 
@@ -111,9 +111,9 @@ Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet re
 
 Solar prairie strips pair panels with deep-rooted prairie placed where a field sheds water: contours, low draws, wet corners, and wetland edges. The planting slows runoff and holds sediment and nutrients; the array gives it a durable revenue stream. STRIPS research found that converting about a tenth of a field to prairie in the right places can cut soil loss by more than 90% [@schulte2017]. 
 
-*Dominant pressures: restorative goals, community acceptance. Yielded: a little generation, to the prairie.*
+*Dominant pressures: [restorative goals](terminology.qmd#term-restorative-goals), community acceptance. Yielded: a little generation, to the prairie.*
 
-**Ramsey Renewable Station, Minnesota** — 3.4 megawatts of solar and storage whose native ground layer is the stormwater system itself: on that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all.
+**Ramsey Renewable Station, Minnesota** — 3.4 megawatts of solar and storage whose native [ground layer](terminology.qmd#term-ground-layer) is the stormwater system itself: on that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all.
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
@@ -131,9 +131,9 @@ Solar prairie strips pair panels with deep-rooted prairie placed where a field s
 :::
 *Restoration by how it's run*
 
-Regenerative solar grazing uses a planned flock rotation to manage vegetation, cycle nutrients, and support ground cover beneath a utility-scale array. It is usually a contracted service rather than the landowner's own operation, with fences, gates, clearance, and water points setting the rotation. The plant's mowing calendar and the shepherd's flock calendar must be reconciled. Grazing can reach cost parity with mowing [@mccall2023]; well-managed native understory can also improve soil carbon [@krasner2025].
+Regenerative [solar grazing](terminology.qmd#term-rangevoltaics) uses a planned flock rotation to manage vegetation, cycle nutrients, and support ground cover beneath a utility-scale array. It is usually a [contracted service](terminology.qmd#term-contract-grazing) rather than the landowner's own operation, with fences, gates, clearance, and water points setting the rotation. The plant's mowing calendar and the shepherd's flock calendar must be reconciled. Grazing can reach cost parity with mowing [@mccall2023]; well-managed native understory can also improve soil carbon [@krasner2025].
 
-*Dominant pressures: energy yield, operations and maintenance. Yielded: the farm's own agricultural production, since the grazing is a tenancy rather than the operation.*
+*Dominant pressures: [energy yield](terminology.qmd#term-energy-yield), operations and maintenance. Yielded: the farm's own agricultural production, since the grazing is a tenancy rather than the operation.*
 
 **Aurora Solar, Minnesota** — 150 megawatts of generation across sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory.
 
@@ -171,7 +171,7 @@ Two of them sit at [S3](sharing-sparing-axis.qmd#sec-positions) while carrying r
 
 *Dominant pressures:* [agricultural production](design-pressures.qmd#sec-pressures), [energy yield](design-pressures.qmd#sec-pressures).
 *Yielded:* [build cost](design-pressures.qmd#sec-pressures) (frameless glass–glass modules, more posts per watt), land-use density.
-*Signature levers:* vertical east–west [module technology](terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
+*Signature [levers](terminology.qmd#term-design-levers):* vertical east–west [module technology](terminology.qmd#term-module-technology), bifacial modules, wide (~8 m) row geometry set by machinery rather than crop light [@vaverkova2026]. The clean annual-arable S1 case that the overstory geometry misses.
 
 ### Pollinator Meadow Solar {#arch-community-solar}
 
@@ -211,7 +211,7 @@ Two of them sit at [S3](sharing-sparing-axis.qmd#sec-positions) while carrying r
 
 *Dominant pressures:* agricultural production, restorative goals.
 *Yielded:* build cost, which runs 1.8 to 2.7 times a conventional ground mount for orchard configurations.
-*Signature levers:* a steerable canopy over vines, orchard, or cane fruit, mounted one panel row per crop row so every row is treated alike, closed for shelter and opened for ripening. Modules run long-axis along the tracker tube, giving a chord near 1.1 m, which is what lets a row sit over eight-foot vine spacing at an ordinary ground-coverage ratio; a portrait module's 2.3 m chord cannot. Coverage is not removal, so capacity is set by row geometry rather than by any fraction of the parcel, and twenty acres of vines carries roughly 4.5 to 6.7 MW-AC with every row still cropped. The crop's 25 to 40 year life matches the array's, which no annual crop offers.
+*Signature levers:* a steerable canopy over vines, orchard, or cane fruit, mounted one panel row per crop row so every row is treated alike, closed for shelter and opened for ripening. Modules run long-axis along the tracker tube, giving a chord near 1.1 m, which is what lets a row sit over eight-foot vine spacing at an ordinary [ground-coverage ratio](terminology.qmd#term-gcr); a portrait module's 2.3 m chord cannot. Coverage is not removal, so capacity is set by row geometry rather than by any fraction of the parcel, and twenty acres of vines carries roughly 4.5 to 6.7 MW-AC with every row still cropped. The crop's 25 to 40 year life matches the array's, which no annual crop offers.
 
 **Emerging, and its central claim is borrowed rather than demonstrated.** Fruit-surface cooling is measured under panels: apple sunburn fell from 13% to 2% at 50% radiation reduction, and blush pear sunburn from 7.0% to under 1.2% across four seasons [@scalisi2026]. Air temperature barely moves, so fruit-surface temperature is the variable that matters. Acidity preservation is the most reproducible quality effect of overhead shade, and the mechanism is not delayed ripening: berries load sugar at a similar rate and read lower in Brix because turgor is preserved and shrivel avoided [@caravia2016].
 
