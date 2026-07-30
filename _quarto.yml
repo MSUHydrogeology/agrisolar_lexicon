@@ -29,6 +29,7 @@ book:
     - chapters/6-regionality.qmd
     - chapters/7-terminology.qmd
     - chapters/8-open-issues.qmd
+    - chapters/9-research-needs.qmd
     - chapters/sources.qmd
   appendices:
     - chapters/index-alphabetical.qmd

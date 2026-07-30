@@ -1,0 +1,58 @@
+# 9. Research Needs {#sec-research-needs}
+
+Each function in §4 ends with an evidence status, and each one says in isolation what is not yet known about it. Collected, they stop reading as caveats and start reading as an agenda. Nothing in this chapter is new to the document. The point is that the gaps cluster, and the clusters do not have the same remedy: some need a season of instrumentation, some need somebody to go to a primary table, and some need a project that does not exist yet to be built and reported.
+
+The list is deliberately short. It holds what the document itself has flagged, in the place it was flagged, so a reader can check the claim rather than take the priority on faith.
+
+## 9.1 Measurements nobody has made yet {#sec-rn-measurements}
+
+| Gap | Flagged at | What would close it |
+|:--|:--|:--|
+| **Nutrient and sediment interception under an array.** Whether a seeded solar ground layer performs like a prairie strip. | §4.1 | Paired monitoring above and below an array sited on a flow path, against a strip or an unplanted control. |
+| **Recharge and the water balance at depth.** Panel drip, altered cover, and what reaches the aquifer. | §4.1 | Measured drip and runoff, soil-moisture profiles, and coupled surface–groundwater modeling on instrumented sites. |
+| **Soil carbon over decades.** Early gains are measured; the multi-decade curve is not. | §4.2 | Re-sampling the early ecovoltaic sites on a decadal schedule, which needs a commitment longer than a grant cycle. |
+| **Pest regulation from an array.** Natural-enemy habitat is established for perennial refuge, never demonstrated from a solar site. | §4.5 | Natural-enemy and pest counts in fields at increasing distance from a planted array. |
+| **A yield or input-cost change attributable to the array.** The step a farmer actually cares about. | §4.5 | Paired fields near and far from a planted array, with pollination and pest pressure measured alongside yield. |
+| **Whether co-located ground supports biodiversity the way unbuilt ground does.** | §4.3, and the stated gap in @brock2026 | Comparative survey across co-located, conventional, and unbuilt sites in the same landscape. |
+| **Which benefit structures deliver durable, fairly-shared benefit.** The instruments are known; their outcomes are not. | §4.6 | Longitudinal work on host communities rather than one-time acceptance surveys, with landowner and tenant reported separately. |
+
+The first of these is the one with the most resting on it. Interception is the water-quality route most projects could actually adopt, since it asks for a seed mix and a placement rather than for the retirement of a working field, and it is currently supported entirely by analogy.
+
+## 9.2 Numbers that circulate without a traceable source {#sec-rn-tracing}
+
+Some of this work is reading rather than measurement. The [Sources](sources.qmd) chapter splits what has been checked from what has not, and the unverified block is not a list of doubts so much as a list of errands.
+
+::: {.caution}
+**The grazing-cost figures are actively misquoted.** @stewart2025 report @mccall2023's $279/ha/yr as the median cost of sheep grazing, where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr (§1.2). Both readings now coexist in the literature, and the per-hectare conversion compounds it. Anyone quoting a grazing cost should go to McCall's table directly, and anyone who has already quoted the transposed figure should check which one they used.
+:::
+
+The regional figures in §6 are the largest block of untraced material: irradiance ranges, queue and curtailment magnitudes, community-solar capacities, ground-coverage thresholds, and the acreages under SGMA and over the Ogallala. The argument in that chapter does not depend on any single one of them, which is why they were kept, but none should appear in a filing or a paper before it is traced. The community-benefit and grazing-economics material sits in gray literature for the same reason: real, widely practiced, and not yet synthesized anywhere citable.
+
+## 9.3 Claims that a counterexample would test {#sec-rn-counterexamples}
+
+The document makes several claims that could be wrong, and is more useful if the thing that would break them is named.
+
+- **Sparing does not assemble at scale.** §2.2 holds that S4 thins toward A5 because idle remnants are scattered. A utility-scale project assembled from scattered marginal remnants on ordinary farmland, rather than from uniformly pre-disturbed ground, would reopen that corner. None is documented here, and one would be worth reporting.
+- **Siting latitude peaks in the middle.** Whether the peak sits at A2 or A3 is argued from the archetypes rather than measured, and should be tested against real siting decisions (§8, issue 2).
+- **Regions resolve the pressures differently.** The calibration in §6.2 is a set of hypotheses. A region doing something its profile says it should not is the most useful single contribution the chapter can receive.
+- **Positions are exclusive.** The two-question reading rule (§2.1) should place any real project in exactly one position. A project that genuinely resists placement is a defect in the axis, not in the project.
+
+## 9.4 What the vocabulary cannot do yet {#sec-rn-vocabulary}
+
+Three of these are questions about the lexicon rather than about the world, and they are kept in [Open Issues](8-open-issues.qmd) rather than restated here: whether the document should take a position on success metrics (issue 5), the landscape-scale accounting that a site-scale vocabulary cannot perform (issue 7), and the fully scored archetype-by-function grid that issue 5 has to settle first (issue 6). They are listed here only so a reader looking for the research agenda in one place does not miss them.
+
+## 9.5 What would make the evidence easier to build {#sec-rn-reporting}
+
+These are recommendations about reporting, not about design. The document prescribes an aim and leaves the dimensions to the site, and none of what follows is a dimension.
+
+::: {.how-to}
+1. **Report acreage alongside capacity.** Megawatts are how a project is filed; acres are how the ground experiences it, and the two come apart with tracking and clearance (§1.2).
+2. **Name the benefit delivery when claiming a function.** A hydrologic claim that does not say whether it means moisture under the panels or nitrogen kept out of a creek cannot be checked, and the two need different evidence (§4.7).
+3. **Separate the landowner from the tenant.** Nearly 40% of Central Valley agricultural land is leased, and a conversion that sustains an owner can end the operation of the person farming the ground. Aggregate farm-income figures hide exactly the party most at risk (§4.6).
+4. **Publish the counterfactual behind a sparing claim.** Sparing is a claim about land that was not taken, so it is only checkable against the local market and the sites genuinely in play (§2.1).
+5. **State the prior land cover when reporting soil carbon.** Perennialization against a tilled baseline and conversion of existing grassland are opposite transactions, and the sign of the result depends on which one happened (§4.2).
+6. **Give the region and the crop when reporting a shade-yield result.** The sign flips with ambient temperature, so an unlocated yield figure travels further than the evidence behind it (§6.1).
+7. **Report what did not work.** Establishment failures, seed mixes that did not take, and grazing arrangements that fell apart are absent from the literature and present on the ground, and their absence is why cost expectations are unreliable (§1.2).
+:::
+
+---

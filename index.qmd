@@ -94,6 +94,9 @@ ground.
 [design pressures](chapters/3-design-pressures.qmd) name the forces pushing on it and the
 conflicts worth arguing about openly.
 
+**If you want to know what is not yet known**, [research needs](chapters/9-research-needs.qmd) collects the measurements nobody has made, the figures that circulate without a source, and the counterexamples that would test
+the claims here.
+
 **If you are trying to pin down a term** someone has used, the
 [alphabetical index](chapters/index-alphabetical.qmd) lists everything this document defines,
 and the search box at the top of every page finds the rest.
