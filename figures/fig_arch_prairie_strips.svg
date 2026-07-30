@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Solar Prairie Strips</title>
-<desc>Section through a sloping crop field, drawn at eight SVG units to the metre. Five rows stand mid-slope on a contour band of deep-rooted native prairie, raised clear of the standing vegetation. The band intercepts runoff coming down the hill, traps sediment at its upslope edge, and carries roots far below the crop rooting depth so water moves downward instead of across. Flow leaving the strip is reduced. Sunlight falls from the upper left, and the rows throw bands of shade that run downslope. Its SCALE footprint sits at the right: Landscapes almost at the centre, Agriculture out toward the rim.</desc>
+<desc>Section through a sloping crop field, drawn at eight SVG units to the metre. Five rows stand mid-slope on a contour band of deep-rooted native prairie, raised clear of the standing vegetation. The band intercepts runoff coming down the hill, traps sediment at its upslope edge, and carries roots far below the crop rooting depth so water moves downward instead of across. Flow leaving the strip is reduced. Sunlight falls from the upper left, and the rows throw bands of shade that run downslope. Its outcomes footprint sits at the right: Ecology and Water almost at the rim, Agriculture pulled in toward the centre, which is the trade this form makes on purpose.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -132,7 +132,7 @@
 </g>
 <text x="129" y="261.5" fill="#8a7f6a" font-size="9.5">12 m</text>
 
-<!-- ================= SCALE footprint ================= -->
+<!-- ================= outcomes footprint ================= -->
 <polygon points="690,132 708,150 690,168 672,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="690,114 726,150 690,186 654,150" fill="none" stroke="#8a8880" stroke-width="1.4" stroke-dasharray="4 3"/>
 <polygon points="690,96 744,150 690,204 636,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>

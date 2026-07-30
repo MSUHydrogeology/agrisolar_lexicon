@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Retired-Irrigation Solar</title>
-<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the metre, so the array runs off both edges of the frame. The centre pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its SCALE footprint sits at the right: Landscapes almost at the centre, Agriculture out at the rim, deliberately given up.</desc>
+<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the metre, so the array runs off both edges of the frame. The centre pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its outcomes footprint sits at the right: Water almost at the rim, Agriculture in toward the centre, deliberately given up.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -116,7 +116,7 @@
 </g>
 <text x="133" y="261.5" fill="#8a7f6a" font-size="9.5">20 m</text>
 
-<!-- ================= SCALE footprint ================= -->
+<!-- ================= outcomes footprint ================= -->
 <polygon points="690,132 708,150 690,168 672,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="690,114 726,150 690,186 654,150" fill="none" stroke="#8a8880" stroke-width="1.4" stroke-dasharray="4 3"/>
 <polygon points="690,96 744,150 690,204 636,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -130,10 +130,10 @@
 <text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Ecology</text>
 <text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Water</text>
 
-<polygon points="690,106 718,150 690,192 638,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<polygon points="690,106 718,150 690,183.5 638,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
 <circle cx="690" cy="106" r="2.2" fill="#2c5580"/>
 <circle cx="718" cy="150" r="2.2" fill="#2c5580"/>
-<circle cx="690" cy="192" r="2.2" fill="#2c5580"/>
+<circle cx="690" cy="183.5" r="2.2" fill="#2c5580"/>
 <circle cx="638" cy="150" r="2.2" fill="#2c5580"/>
 
 <text x="690" y="234" fill="#7a7973" font-size="9.5" font-style="italic" text-anchor="middle">benefit at the rim, harm at the center</text>

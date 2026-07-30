@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Barnyard Shelter Solar</title>
-<desc>Section through a farmyard, drawn at twenty SVG units to the metre, the closest view in the set. Three tall rows stand over the paddock the herd already uses, high enough for cattle to walk beneath, with a cable running back to the barn whose load they offset. Sunlight falls from the upper left, and the herd stands in the shade the panels throw. Beneath that shaded ground the soil is compacted where the animals crowd, which is the tradeoff this archetype carries. Its SCALE footprint sits at the right: Agriculture nearest the rim, Ecology out toward the centre.</desc>
+<desc>Section through a farmyard, drawn at twenty SVG units to the metre, the closest view in the set. Three tall rows stand over the paddock the herd already uses, high enough for cattle to walk beneath, with a cable running back to the barn whose load they offset. Sunlight falls from the upper left, and the herd stands in the shade the panels throw. Beneath that shaded ground the soil is compacted where the animals crowd, which is the tradeoff this archetype carries. Its outcomes footprint sits at the right: Agriculture nearest the rim, Ecology in toward the centre.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -103,7 +103,7 @@
 </g>
 <text x="133" y="261.5" fill="#8a7f6a" font-size="9.5">5 m</text>
 
-<!-- ================= SCALE footprint ================= -->
+<!-- ================= outcomes footprint ================= -->
 <polygon points="690,132 708,150 690,168 672,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="690,114 726,150 690,186 654,150" fill="none" stroke="#8a8880" stroke-width="1.4" stroke-dasharray="4 3"/>
 <polygon points="690,96 744,150 690,204 636,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
