@@ -46,7 +46,7 @@ under **S**.
 
 **Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](siting-axis.qmd#sec-positions)
 
-**Benefit delivery** — how a function's benefit reaches whoever receives it: by proximity, by channel, or by preservation; a restorative claim is not checkable until its delivery is named — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
+**Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or paper), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
 **Build cost** — design pressure: minimize installed cost per watt — [Terminology](terminology.qmd#term-build-cost) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -135,8 +135,6 @@ under **S**.
 **Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [Terminology](terminology.qmd#term-management-led) · [Scale controls the dominant restoration mode](scale-transect.qmd#sec-restoration-modes)
 
 **Marginal / Previously Disturbed Land** — the low-value ground that idled-land sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Terminology](terminology.qmd#term-marginal-land)
-
-**Microclimate & thermal–water buffering function** — restorative function: the array's reshaping of the near-surface energy balance; its sign flips with climate and crop — [Terminology](terminology.qmd#term-fn-microclimate) · [Microclimate & thermal–water buffering function](restorative-functions.qmd#sec-fn-microclimate)
 
 **Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [Terminology](terminology.qmd#term-module-technology)
 
