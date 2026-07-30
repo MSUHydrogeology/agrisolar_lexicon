@@ -4,7 +4,7 @@ Scale is the first of the six [design levers](design-levers.qmd): how much groun
 
 Scale earns a chapter because its consequences travel together. Interconnection posture, the decision unit, the permitting path, ground-layer management, and [siting latitude](#sec-siting-latitude) all shift as projects get bigger, and they shift closely enough that naming a position on the gradient tells you many things at once. That gradient is the **scale transect**, and A0 through A5 are named points along it rather than a separate kind of thing. What follows sets out why it is a gradient rather than a set of bins, what the zones are, how the instrument of restoration changes along the way, and why the middle of the transect behaves unlike either end.
 
-![**The scale transect.** Five zones from the farmstead to the region, with the attributes that move together along them. Capacity is an indicator rather than a definition, and the bands are indicative for the US Midwest. Building-mounted arrays are A0 and sit at the origin rather than on the gradient, because they take no ground at all. The bottom row is the design consequence and the reason the rest of the chapter exists: at the farmstead the restorative work is done by the hardware, in the middle by the choice of ground, and at scale by how the place is managed. Contract-led restoration is absent from that row on purpose, because it is the one mode scale does not ration.](../figures/fig_scale_transect.svg){#fig-scale-transect}
+![**The scale transect.** Five zones from the farmstead to the region, and what each one leaves of every [design lever](design-levers.qmd). Capacity is an indicator rather than a definition, and the bands are indicative for the US Midwest. Building-mounted arrays are A0 and sit at the origin rather than on the gradient, because they take no ground at all. The bars are the argument: siting is opportunistic at the farmstead, widest in the middle, and taken away by land assembly at A5, while structure runs the other way and management arrives only once a project is large enough to pay somebody. Ownership is drawn as an arrow because it does not narrow, it moves, and the generation revenue moves with it. Contracts hold full strength throughout and change only in form. The last row is the [restoration mode](design-levers.qmd#sec-lv-mode) that follows from all of it, and contract-led is absent from that row on purpose, because it is the one mode scale does not ration.](../figures/fig_scale_transect.svg){#fig-scale-transect}
 
 ## A gradient, not a set of size bins {#sec-transect-why}
 
@@ -77,15 +77,7 @@ One item in that list decides which restorative moves are available at all: **si
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
 | **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
 
-As projects grow, restoration changes instrument. All five [design levers](design-levers.qmd) remain available at every size, but not at the same strength, and the transect does something different to each of them.
-
-| Element | What the transect does to it |
-|:--|:--|
-| **Siting** | Peaks at A2–A3 and is gone by A5, where the land market and the interconnection queue have already chosen the ground |
-| **Structure** | Widest at A1, where an array can be built to fit a particular yard, and narrows to commodity racking by A4–A5 |
-| **Management** | Barely exists at A1, where the work is done by hand, and carries everything at A4–A5, where seeding and grazing are contracted enterprises |
-| **Ownership** | Moves the whole way, from the operator to the landowner to developer capital to a utility, and the generation revenue moves with it |
-| **Contracts** | Changes form rather than strength: the household at A1, a good-neighbor understanding at A2, a PILOT and a subscription from A3 up |
+As projects grow, restoration changes instrument. All six [design levers](design-levers.qmd) remain available at every size, but not at the same strength, and @fig-scale-transect sets out what the transect does to each of them. Three narrow or widen, ownership moves rather than narrows, and contracts change form without losing strength.
 
 Siting and management are the pair that cross, around A3–A4, and that crossing is what @fig-siting-latitude draws. Which element did the restorative work is the project's [restoration mode](design-levers.qmd#sec-lv-mode), the third tag the archetypes carry: **siting-led** where the work is done by choosing the ground, **structure-led** where the hardware does it, **management-led** where placement is fixed and the ground cover and grazing carry everything, and **contract-led** where it happens on paper and scale has no say at all.
 
