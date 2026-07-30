@@ -102,7 +102,7 @@
 <text x="190" y="716" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Regenerative Solar Grazing</text>
 <text x="190" y="732" fill="#777" font-size="11" text-anchor="middle">A4–A5 · S2 · management-led</text>
 
-<!-- Water-Sustainability Solar (row 3, right) -->
+<!-- Retired-Irrigation Solar (row 3, right) -->
 <polygon points="530.0,805.6 554.4,830.0 530.0,854.4 505.6,830.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="530.0,781.2 578.8,830.0 530.0,878.8 481.2,830.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
 <polygon points="530.0,756.0 604.0,830.0 530.0,904.0 456.0,830.0" fill="none" stroke="#e6e1d6" stroke-width="1"/>
@@ -119,6 +119,6 @@
 <circle cx="586.1" cy="830" r="2.4" fill="#2c5580"/>
 <circle cx="530" cy="842.2" r="2.4" fill="#2c5580"/>
 <circle cx="527.6" cy="830" r="2.4" fill="#2c5580"/>
-<text x="530" y="716" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Water-Sustainability Solar</text>
+<text x="530" y="716" fill="#222" font-size="14.5" font-weight="700" text-anchor="middle">Retired-Irrigation Solar</text>
 <text x="530" y="732" fill="#777" font-size="11" text-anchor="middle">A3–A5 · S5→S4 · siting / management-led</text>
 </svg>
