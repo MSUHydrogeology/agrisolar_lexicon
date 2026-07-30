@@ -41,17 +41,16 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 
 | Chapter | What it holds |
 |:--|:--|
-| [Design Levers](chapters/design-levers.qmd) | the six decisions a project can actually make, and what each one can deliver |
-| [The Scale Transect](chapters/scale-transect.qmd) | A1 to A5, from farmstead to region, and how much of each lever survives at each size |
+| [Design Levers](chapters/design-levers.qmd) | the six decisions a project can actually make |
+| [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how those decisions get made, and how the argument shifts by region |
+| [The Scale Transect](chapters/scale-transect.qmd) | A1 to A5, farmstead to region, and why the parcel scale is where local restoration can add up to a global number |
 | [The Siting Axis](chapters/siting-axis.qmd) | S1 to S5, what happened to agricultural production on the ground the array took |
-| [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how the levers get set, and the conflicts worth naming |
+| [Restoration Modes and Potential](chapters/restoration-modes.qmd) | which lever carries the restorative work, how much range each keeps at each size, and the two different kinds of work called restoration |
 | [Restorative Functions](chapters/restorative-functions.qmd) | the six things a design can be aimed at, how each is delivered, and how far the result carries |
 | [Archetypal Forms](chapters/archetypes.qmd) | recurring lever settings that already exist on real ground, from barnyard shelter to solar prairie strips |
-| [Regionality](chapters/design-pressures.qmd#sec-regionality) | why the same lever settings are right in California and wrong in Iowa |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
 | [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
 | [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
-
 : The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
 
 ## Joining in

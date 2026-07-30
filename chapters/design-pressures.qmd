@@ -61,6 +61,7 @@ The nine act on every site and carry different weight in every region. Shade tha
 
 ### A worked calibration: the United States {#sec-rg-us}
 
+:::: {.example}
 The table below is one [calibration](terminology.qmd#term-regional-calibration), offered as a worked example rather than a finding. Regions are drawn loosely on the USDA resource regions and named for recognizability, and the last column is what the factors, taken together, tend to push a region toward.
 
 ::: {.region-table}
@@ -75,6 +76,7 @@ The table below is one [calibration](terminology.qmd#term-regional-calibration),
 :::
 
 Read each row as a starting hypothesis, not an assignment. Counterexamples are worth reporting.
+::::
 
 ### What follows {#sec-rg-consequences}
 
