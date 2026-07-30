@@ -147,6 +147,7 @@ nocite: |
 
 **Working-landscapes framing (§-@sec-functions) — still not in `references.bib`**
 
+- **Corridor and connectivity experiments (Haddad and colleagues).** The claim in §-@sec-fn-biodiversity that connected patches exchange more individuals and accumulate more species than isolated patches of equal area rests on the long-running corridor experiments in fragmented landscapes, with butterflies as the model organism for movement. The best-known are sited at the Savannah River Site. **No citation is given in `references.bib` yet and none of the specific results are quoted here**, precisely because the primary papers have not been checked from this environment; the paragraph is written to the shape of the finding rather than to any number. Trace and cite the primary experiments before this passage is used anywhere it matters.
 - **Kremen, C. (2015).** Working-landscapes framing behind the archetype × function matrix — reframing the land-sparing/land-sharing debate for biodiversity conservation. Venue (reportedly *Annals of the New York Academy of Sciences*) and full citation **unconfirmed**; trace before citing.
 - **Grass et al. (2019).** Working-landscapes / connectivity framing (land-sharing–sparing for ecosystem services and biodiversity), reportedly *People and Nature*. Full citation **unconfirmed**; trace before citing.
 
