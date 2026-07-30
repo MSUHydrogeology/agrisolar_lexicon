@@ -40,7 +40,7 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 ### Siting latitude {#term-siting-latitude}
 
-The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
+The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
 
 ### Stocking density {#term-stocking-density}
 
@@ -96,7 +96,7 @@ Developed in [§-@sec-modes, Restoration Modes and Potential](restoration-modes.
 
 ### Restoration mode {#term-restoration-mode}
 
-Which [design lever](#term-design-levers) a design commits to carry the restorative work: the choice of ground, the array's geometry, how the array is run, who holds the asset, or what the parties signed. Each mode names a lever, so there are five modes for six levers. Scale has none, because deciding how big to build is not itself a way of doing restorative work, only what settles which ways stay available. The first three are done on the ground and shift along the transect as siting latitude rises and falls (§-@sec-restoration-modes). The last two are done on paper and trade against each other: ownership-led is free at the farmstead and unavailable at utility scale, and contract-led runs the opposite way. Five modes:
+Which [design lever](#term-design-levers) a design commits to carry the restorative work: the choice of ground, the array's geometry, how the array is run, who holds the asset, or what the parties signed. Each mode names a lever, so there are five modes for six levers. Scale has none, because deciding how big to build is not itself a way of doing restorative work, only what settles which ways stay available. The first three are done on the ground and shift along the transect as siting latitude rises and falls (§-@sec-siting-latitude). The last two are done on paper and trade against each other: ownership-led is free at the farmstead and unavailable at utility scale, and contract-led runs the opposite way. Five modes:
 
 - []{#term-siting-led}**Siting-led** — the restorative work is done by the choice of ground; requires the A2–A3 latitude to choose it.
 - []{#term-structure-led}**Structure-led** — array geometry does the work: clearance, row spacing, module transmissivity.
@@ -106,7 +106,7 @@ Which [design lever](#term-design-levers) a design commits to carry the restorat
 
 *Borrowed, and turned.* The phrase is already in use in ecological restoration and land reclamation, where a restoration mode is a package of restoration techniques matched to a site's degree of degradation [@zha2025]. Here it names which lever carries the work instead, which is why two of the five are institutional rather than anything done to the ground. The nearest existing framework for sorting interventions by the instrument that delivers them is the IUCN and CMP conservation actions classification, whose top categories line up with four of these five and have no equivalent of structure-led. Two collisions are worth naming for this audience. In the solar trade *site restoration* is a decommissioning obligation, what a lease owes when it ends, so a mode here is a choice made at design rather than a phase at the end of life. And *ownership-led* means the restorative work is carried by how the asset is held, not that the owner is running the project.
 
-See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
+See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
 
 ## Design levers and pressures {#sec-terms-pressures}
 

@@ -299,34 +299,35 @@ figure img,
 // index.qmd brings the off-by-one straight back.
 main.content > h1.unnumbered:first-child { display: none; }
 
-// The lever table is the chapter's main graphic. Rows are banded by what the
-// lever acts on, because that split is the chapter's argument: scale sets the
-// frame, three levers work the ground and are limited by it, and two act on
-// paper and are not. Colours follow the zone ramp (green = ground) and the
-// example box (warm grey = paper), so the page reads against the rest of the site.
+// The lever table is the chapter's main graphic, and it gets a palette nothing
+// else in the document uses. Greens belong to the scale zones, the blue-to-purple
+// diverging ramp to the siting-axis positions, and teal and terracotta to the
+// pressures, so the levers take bronze for the three that act on ground, plum for
+// the two that act on paper, and charcoal for scale, which sets the frame.
 .lever-table table {
   width: 100%;
   font-size: 0.93rem;
   border-collapse: collapse;
 }
 .lever-table thead th {
-  background-color: #f2f1ec;
-  border-bottom: 2px solid #b4b2a9;
+  background-color: #efede8;
+  border-bottom: 2px solid #9c927f;
   font-size: 0.82rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: #6f6d66;
+  color: #6f6a5e;
 }
 .lever-table td, .lever-table th { padding: 0.55rem 0.7rem; vertical-align: top; }
 .lever-table tbody tr td:first-child { white-space: nowrap; }
-.lever-table tbody tr:nth-child(1) td { background-color: #e6e4dc; }            // scale: the frame
-.lever-table tbody tr:nth-child(2) td { background-color: #eef5e3; }            // ground levers
-.lever-table tbody tr:nth-child(3) td { background-color: #e6f0d6; }
-.lever-table tbody tr:nth-child(4) td { background-color: #ddebc8; }
-.lever-table tbody tr:nth-child(n+5) td { background-color: #faf6ee; }          // paper levers
-.lever-table tbody tr:nth-child(1) td:first-child { border-left: 4px solid #8a8880; }
-.lever-table tbody tr:nth-child(n+2):nth-child(-n+4) td:first-child { border-left: 4px solid #639922; }
-.lever-table tbody tr:nth-child(n+5) td:first-child { border-left: 4px solid #b5843a; }
+.lever-table tbody tr:nth-child(1) td { background-color: #e8e6e1; }   // scale, the frame
+.lever-table tbody tr:nth-child(2) td { background-color: #f4eee2; }   // ground levers, bronze
+.lever-table tbody tr:nth-child(3) td { background-color: #eee5d3; }
+.lever-table tbody tr:nth-child(4) td { background-color: #e7dbc3; }
+.lever-table tbody tr:nth-child(5) td { background-color: #ece7f0; }   // paper levers, plum
+.lever-table tbody tr:nth-child(6) td { background-color: #e4dbeb; }
+.lever-table tbody tr:nth-child(1) td:first-child { border-left: 4px solid #6f6d66; }
+.lever-table tbody tr:nth-child(n+2):nth-child(-n+4) td:first-child { border-left: 4px solid #a8894f; }
+.lever-table tbody tr:nth-child(n+5) td:first-child { border-left: 4px solid #7d6b8f; }
 
 // Zone and position labels are names, not prose: let the first column size to
 // its content so "A1 — Farmstead" and "S1 — Full sharing" stay on one line and
