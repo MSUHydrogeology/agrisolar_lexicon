@@ -88,18 +88,9 @@ figure img,
   height: auto;
 }
 
-// ===== Archetype "At a glance" blocks (§6) =====
-.at-a-glance {
-  background-color: #f6f5f1;
-  border-left: 4px solid #639922;
-  border-radius: 3px;
-  padding: 0.85rem 1.1rem 0.6rem;
-  margin: 1rem 0 1.25rem;
-  font-size: 0.94rem;
-}
-.at-a-glance > p:first-child { margin-top: 0; }
-.at-a-glance ul { margin-bottom: 0.25rem; }
-.at-a-glance li { margin-bottom: 0.2rem; }
+
+
+
 
 // ===== Sharing–sparing positions (S1→S5) and regions (§7.2) =====
 // The zone table is banded with a SEQUENTIAL ramp because scale runs one way,
@@ -271,17 +262,9 @@ figure img,
 .how-to > ul:last-child { margin-bottom: 0; }
 .how-to li { margin-bottom: 0.35rem; }
 
-// "Where to start" routes — one paragraph per route, each opening in bold.
-.routes {
-  background-color: #f6f5f1;
-  border-left: 4px solid #639922;
-  border-radius: 3px;
-  padding: 0.9rem 1.1rem;
-  margin: 1rem 0 1.5rem;
-}
-.routes > p { margin-bottom: 0.85rem; }
-.routes > p:first-child { margin-top: 0; }
-.routes > p:last-child { margin-bottom: 0; }
+
+
+
 
 // ===== Dark mode: deliberately not implemented =====
 // There was a @media (prefers-color-scheme: dark) block here. It was actively

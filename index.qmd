@@ -50,30 +50,9 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 | [Regionality](chapters/regionality.qmd) | why the same lever settings are right in California and wrong in Iowa |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
 | [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
+| [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
 
 : The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
-
-## Where to start
-
-::: {.routes}
-**If you have land in mind and want to know what is possible on it**, go to
-[what appears at each scale](chapters/archetypes.qmd#sec-by-zone), which sets out the forms that
-recur at each size of project, from a barn roof to a regional complex, with what each one asks of the
-ground.
-
-**If you are weighing a specific proposal**, start with the
-[design levers](chapters/design-levers.qmd) to see which decisions are still open, then the
-[design pressures](chapters/design-pressures.qmd) for the forces pushing on each one and the
-conflicts worth arguing about openly.
-
-**If you want to know what is not yet known**, [open issues and research needs](chapters/open-issues.qmd) collect the measurements nobody has made, the figures that circulate without a source, and the counterexamples that would test
-the claims here.
-
-**If you are trying to pin down a term** someone has used, the
-[alphabetical index](chapters/index-alphabetical.qmd) lists everything this document defines,
-and the search box at the top of every page finds the rest.
-
-:::
 
 ## Joining in
 
