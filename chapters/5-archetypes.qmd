@@ -13,8 +13,8 @@ If you know roughly how much land is in play, start here. The table gives the fo
 |---|---|---|
 | **A1 — Farmstead** | under ~1 acre | [**Barnyard Shelter**](#arch-barnyard) |
 | **A2 — Field** | ~0.5–8 acres | [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) |
-| **A3 — Parcel** | ~5–80 acres | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Community-Solar Pollinator](#arch-community-solar) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
-| **A4 — Landscape** | ~60–400 acres | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A3 — Parcel** | ~6–30 acres | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Community-Solar Pollinator](#arch-community-solar) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A4 — Landscape** | ~30–300 acres | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
 | **A5 — Regional** | ~300 acres to 10,000+ | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 :::
 
@@ -94,7 +94,7 @@ Marginal land solar uses the farm's flood-prone corners, rocky headlands, wet re
 ::: {.at-a-glance}
 **At a glance**
 
-- **Scale** — A3 · ~1–10 MW · roughly 5–80 acres
+- **Scale** — A3 · ~1–5 MW · roughly 6–30 acres
 - **Position** — S5 — the strip ground leaves production
 - **Ground layer** — deep-rooted native prairie, the mix and width sized to a named hydrologic outcome
 - **Geometry** — placement follows the water — contour bands, low draws, wet corners, wetland edges
@@ -115,7 +115,7 @@ Solar prairie strips pair panels with deep-rooted prairie placed where a field s
 ::: {.at-a-glance}
 **At a glance**
 
-- **Scale** — A4–A5 · 10 MW and up · from tens of acres to several thousand
+- **Scale** — A4–A5 · 5 MW and up · from tens of acres to several thousand
 - **Position** — S2 — forage production continues, subordinate to the array
 - **Ground layer** — managed pasture or forage held under a planned rotation
 - **Geometry** — clearance and water points set what class of stock can work beneath; fence and gate topology defines the rotation cells

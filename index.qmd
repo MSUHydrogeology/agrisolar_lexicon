@@ -41,8 +41,8 @@ because several things move together along it.
 |---|---|---|
 | **A1 — Farmstead** | under ~1 acre | One owner-operator, existing farm labor, behind the meter |
 | **A2 — Field** | ~0.5–8 acres | Still the landowner's decision, perhaps one lease counterparty |
-| **A3 — Parcel** | ~5–80 acres | Multi-party; ground-layer management becomes a contract |
-| **A4 — Landscape** | ~60–400 acres | Developer-led; grazing and habitat become enterprises |
+| **A3 — Parcel** | ~6–30 acres | Multi-party; ground-layer management becomes a contract |
+| **A4 — Landscape** | ~30–300 acres | Developer-led; grazing and habitat become enterprises |
 | **A5 — Regional** | ~300 to 10,000+ acres | Transmission, institutional capital, many jurisdictions |
 :::
 

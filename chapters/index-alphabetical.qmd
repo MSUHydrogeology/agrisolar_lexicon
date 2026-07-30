@@ -24,9 +24,9 @@ under **S**.
 
 **A2 — Field** — 100 kW–1 MW, behind-meter to distribution, landowner with possibly one lease counterparty — [§7](7-terminology.qmd#term-a2) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A3 — Parcel** — 1–10 MW, distribution / community solar, multi-party, purpose-built ground management — [§7](7-terminology.qmd#term-a3) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A3 — Parcel** — 1–5 MW, distribution / community solar, multi-party, purpose-built ground management — [§7](7-terminology.qmd#term-a3) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
-**A4 — Landscape** — 10–50 MW, developer-led institutional capital, contract-enterprise management — [§7](7-terminology.qmd#term-a4) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
+**A4 — Landscape** — 5–50 MW, developer-led institutional capital, contract-enterprise management — [§7](7-terminology.qmd#term-a4) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
 **A5 — Regional** — 50 MW+, transmission, utility/IPP, contract enterprise at ranch scale — [§7](7-terminology.qmd#term-a5) · [1.2 The Zones](1-the-scale-transect.qmd#sec-zones)
 
