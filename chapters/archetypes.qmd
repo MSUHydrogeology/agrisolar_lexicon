@@ -20,7 +20,7 @@ Every archetype below carries a compact code under its name: its [zone](scale-tr
 | **A5 — Regional** | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 :::
 
-The crowding at A3 is the [feasible wedge](siting-axis.qmd#sec-wedge) in practical form: it is big enough that management matters and small enough to site strategically ([§-@sec-community-scale](scale-transect.qmd#sec-community-scale)), so more forms are open there than anywhere else on the [transect](terminology.qmd#term-scale-transect). A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
+The crowding at A3 is the [feasible wedge](siting-axis.qmd#sec-wedge) in practical form: it is big enough that management matters and small enough to site strategically ([§-@sec-community-scale](restoration-modes.qmd#sec-community-scale)), so more forms are open there than anywhere else on the [transect](terminology.qmd#term-scale-transect). A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
 
 ::: {.position-table}
 | Position | Forms that sit here |
