@@ -2,7 +2,7 @@
 
 Certain designs recur when the same pressures meet the same scale and sharing position: a farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field. These **archetypes** are recurring, transformable patterns rather than an exhaustive typology. They classify how pressures are resolved; hardware taxonomies classify structure. The two can be read together.
 
-Six featured archetypes, ordered from farmstead to region, each carry a documented case, and seven further forms are sketched more briefly.
+Six featured archetypes, ordered from farmstead to region, each carry a documented case, and eight further forms are sketched more briefly.
 
 ## What appears at each scale {#sec-by-zone}
 
@@ -12,9 +12,9 @@ If you know roughly how much land is in play, start here. The table gives the fo
 | Zone | Indicative footprint | Forms that recur here |
 |---|---|---|
 | **A1 — Farmstead** | under ~1 acre | [**Barnyard Shelter**](#arch-barnyard) |
-| **A2 — Field** | ~0.5–8 acres | [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) |
-| **A3 — Parcel** | ~6–30 acres | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Community-Solar Pollinator](#arch-community-solar) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
-| **A4 — Landscape** | ~30–300 acres | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A2 — Field** | ~0.5–8 acres | [Permanent-Crop Agrivoltaics](#arch-permanent-crop) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) |
+| **A3 — Parcel** | ~6–30 acres | [Permanent-Crop Agrivoltaics](#arch-permanent-crop) · [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land**](#arch-marginal) · [Community-Solar Pollinator](#arch-community-solar) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Recharge Enhancement](#arch-recharge) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A4 — Landscape** | ~30–300 acres | [Permanent-Crop Agrivoltaics](#arch-permanent-crop) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Vertical-Bifacial Cropland](#arch-vertical-bifacial) · [Linear Infrastructure](#arch-linear) · [Ag-Industrial Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
 | **A5 — Regional** | ~300 acres to 10,000+ | [**Regenerative Solar Grazing**](#arch-grazing) · [**Water-Sustainability**](#arch-water) · [Native-Grassland Utility](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 :::
 
@@ -219,6 +219,18 @@ Two of them sit at [S3](2-the-sharingsparing-axis.qmd#sec-positions) while carry
 *Dominant pressures:* [grid and market demands](3-design-pressures.qmd#sec-pressures) in its purest form, since the load *is* the offtake, and farm economic resilience.
 *Yielded:* [restorative goals](3-design-pressures.qmd#sec-pressures) on the ground layer, which is rarely the point at an industrial site.
 *Signature levers:* siting against a heavy on-farm load such as grain drying, cold storage, a feedlot, or a processing complex, with battery storage sized to shave peaks, ride through outages, or arbitrage time-of-use rates. It is the one archetype organized around *when* power is used rather than what the ground does, and it is where the [community & economic function](4-restorative-functions.qmd#sec-fn-community) shows up as resilience rather than as rent.
+
+### Permanent-Crop Agrivoltaics {#arch-permanent-crop}
+
+[A2](1-the-scale-transect.qmd#sec-zones)–[A4](1-the-scale-transect.qmd#sec-zones) · **[S1](2-the-sharingsparing-axis.qmd#sec-positions)** · *[structure-led](1-the-scale-transect.qmd#sec-siting-latitude)*
+
+*Dominant pressures:* agricultural production, restorative goals.
+*Yielded:* build cost, which runs 1.8 to 2.7 times a conventional ground mount for orchard configurations.
+*Signature levers:* a steerable canopy over vines, orchard, or cane fruit, mounted one panel row per crop row so every row is treated alike, closed for shelter and opened for ripening. Modules run long-axis along the tracker tube, giving a chord near 1.1 m, which is what lets a row sit over eight-foot vine spacing at an ordinary ground-coverage ratio; a portrait module's 2.3 m chord cannot. Coverage is not removal, so capacity is set by row geometry rather than by any fraction of the parcel, and twenty acres of vines carries roughly 4.5 to 6.7 MW-AC with every row still cropped. The crop's 25 to 40 year life matches the array's, which no annual crop offers.
+
+**Emerging, and its central claim is borrowed rather than demonstrated.** Fruit-surface cooling is measured under panels: apple sunburn fell from 13% to 2% at 50% radiation reduction, and blush pear sunburn from 7.0% to under 1.2% across four seasons [@scalisi2026]. Air temperature barely moves, so fruit-surface temperature is the variable that matters. Acidity preservation is the most reproducible quality effect of overhead shade, and the mechanism is not delayed ripening: berries load sugar at a similar rate and read lower in Brix because turgor is preserved and shrivel avoided [@caravia2016].
+
+The shelter case is weaker than it looks. Rain exclusion is well evidenced for *continuous* covers, cutting leaf wetness duration by more than three quarters and delaying downy mildew by weeks [@yu2022], but a photovoltaic array is not a roof: the one instrumented agri-PV orchard needed metal flashing between modules before rain protection appeared, and a sparse array redistributes rainfall instead, concentrating eleven times the control depth along the dripline. Rain exclusion also shifts the disease spectrum rather than shrinking it, since powdery mildew does not need free water and worsens once rain stops washing spores away, and every agrivoltaic microclimate study that reports humidity reports it rising, which is the condition *Botrytis* wants. Hail protection is contradicted outright: after two hail seasons the Austrian trial concluded the array did not protect the orchard beneath it, deflecting stones into the next row, and that netting must be added rather than replaced. Treat this archetype as a research agenda with a good design already built for it, not as a form with results in hand.
 
 ### Brightfield / Reclaimed-Land Array {#arch-brightfield}
 
