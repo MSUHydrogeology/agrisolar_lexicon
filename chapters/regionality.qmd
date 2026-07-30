@@ -10,7 +10,7 @@ Solar resource varies in amount and type. Cloudier regions have a higher [diffus
 
 ### The grid operator {#sec-rg-grid}
 
-The [grid market](terminology.qmd#term-grid-market) often determines the [zone](scale-transect.qmd#sec-zones) before the land does. Queue delays and curtailment reduce the value of the marginal megawatt, softening the push toward denser geometry. Community-solar program design likewise determines whether [A3](terminology.qmd#term-a3) has a viable business model. Without it, projects may jump from A2 to A4 and lose the widest part of the [feasible wedge](sharing-sparing-axis.qmd#sec-wedge).
+The [grid market](terminology.qmd#term-grid-market) often determines the [zone](scale-transect.qmd#sec-zones) before the land does. Queue delays and curtailment reduce the value of the marginal megawatt, softening the push toward denser geometry. Community-solar program design likewise determines whether [A3](terminology.qmd#term-a3) has a viable business model. Without it, projects may jump from A2 to A4 and lose the widest part of the [feasible wedge](siting-axis.qmd#sec-wedge).
 
 ### Aridity {#sec-rg-aridity}
 
@@ -22,7 +22,7 @@ Latitude sets sun angle, tilt, row spacing, and therefore [ground coverage ratio
 
 ### Cropping system {#sec-rg-cropping}
 
-The cropping system determines whether [sharing](sharing-sparing-axis.qmd#sec-positions) is plausible. Leafy and root horticulture and many forage grasses can tolerate moderate shade; C4 grains and many fruiting crops generally cannot. A maize- and soybean-dominant region will therefore rely more on S2 and S3 than S1. The USDA Farm Resource Regions offer a useful starting map because their county-level specializations align with the practices that recur in each region.
+The cropping system determines whether [sharing](siting-axis.qmd#sec-positions) is plausible. Leafy and root horticulture and many forage grasses can tolerate moderate shade; C4 grains and many fruiting crops generally cannot. A maize- and soybean-dominant region will therefore rely more on S2 and S3 than S1. The USDA Farm Resource Regions offer a useful starting map because their county-level specializations align with the practices that recur in each region.
 
 ### Irrigation {#sec-rg-irrigation}
 

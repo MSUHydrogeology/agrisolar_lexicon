@@ -23,7 +23,7 @@ book:
     - index.qmd
     - chapters/design-levers.qmd
     - chapters/scale-transect.qmd
-    - chapters/sharing-sparing-axis.qmd
+    - chapters/siting-axis.qmd
     - chapters/design-pressures.qmd
     - chapters/restorative-functions.qmd
     - chapters/archetypes.qmd
