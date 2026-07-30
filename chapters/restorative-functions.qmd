@@ -79,7 +79,7 @@ A project returns value in several currencies at once: lease and royalty income,
 A project can score well on one of these and badly on the rest. Naming them is what keeps "community benefit" from collapsing into "somebody was paid."
 :::
 
-This function travels almost entirely on paper, along tenure, contract, and jurisdiction, which is why the list above does more work than any radius would. Part of it is genuinely local, since construction spend lands in the nearest town that can supply it, but the money that matters most moves along channels drawn for reasons that have nothing to do with distance.
+This function travels almost entirely along institutions, by tenure, contract, and jurisdiction, which is why the list above does more work than any radius would. Part of it is genuinely local, since construction spend lands in the nearest town that can supply it, but the money that matters most moves along channels drawn for reasons that have nothing to do with distance.
 
 
 ## Where benefits are delivered {#sec-benefit-range}
@@ -90,7 +90,7 @@ What this document adds is that the useful question is **not how far a benefit g
 
 **In place.** Provider and beneficiary are the same ground: soil carbon, soil moisture, forage and shelter under the panels. The easiest delivery to measure and the easiest to over-claim from, since it says nothing about anywhere else.
 
-**Along a connection.** Everything that leaves the site leaves by a network, and three carry almost all of it. **Water** takes runoff, sediment, nutrient, and recharge downslope, to the field immediately below and on to the ditch, the creek, and the aquifer. **Living things** carry pollination, pest regulation, and dispersal, at foraging range first and dispersal range beyond it. **Paper** carries lease, tax, subscription, and easement along tenure, contract, and jurisdiction. The first two have a geography and the third does not, but all three behave the same way in the one respect that matters: the benefit goes where the network goes, not where a radius would put it. A creek can carry sediment past a neighbor who gains nothing, and a lease can carry money to a county that never sees the array.
+**Along a connection.** Everything that leaves the site leaves by a network, and three carry almost all of it. **Water** takes runoff, sediment, nutrient, and recharge downslope, to the field immediately below and on to the ditch, the creek, and the aquifer. **Living things** carry pollination, pest regulation, and dispersal, at foraging range first and dispersal range beyond it. **Institutions** carry lease, tax, subscription, and easement along tenure, contract, and jurisdiction. The first two have a geography and the third does not, but all three behave the same way in the one respect that matters: the benefit goes where the network goes, not where a radius would put it. A creek can carry sediment past a neighbor who gains nothing, and a lease can carry money to a county that never sees the array.
 
 **By preservation.** [Land sparing](siting-axis.qmd#sec-positions) delivers nothing that moves at all. Its benefit is ground elsewhere that stayed as it was, which makes this the one mode that is counterfactual rather than observed. It is still local, since a developer assembling acreage near a substation chooses among parcels within a fairly narrow radius, so the ground a project spares is realistically in the same county. That is what gives the claim somewhere to be checked, against the local land market and the sites genuinely in play.
 

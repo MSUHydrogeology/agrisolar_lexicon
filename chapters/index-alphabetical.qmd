@@ -46,7 +46,7 @@ under **S**.
 
 **Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](siting-axis.qmd#sec-positions)
 
-**Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or paper), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
+**Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or institutions), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
 **Build cost** — design pressure: minimize installed cost per watt — [Terminology](terminology.qmd#term-build-cost) · [The pressures](design-pressures.qmd#sec-pressures)
 
