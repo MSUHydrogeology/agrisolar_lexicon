@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="566" viewBox="0 0 800 566" role="img">
+<title>The outcomes footprint: a project read across four domains and eight outcomes</title>
+<desc>A radial plot with four domains, one for each restorative function, and two outcomes inside each. Communities carries financial security and livability. Agriculture carries food production and soil quality. Water carries quantity and quality. Ecology carries diversity and connectivity. Every spoke runs from causing harm at the centre, through a dashed ring where the domain is left no worse than it was found, out to promoting benefit at the rim, so a bigger footprint is a better project. The ring marks where the sign changes rather than a standard a project is expected to clear. The shaded polygon is a worked example rather than a measurement.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.dm{font-size:14px;font-weight:700;letter-spacing:.03em}
+.ax{font-size:11.5px;fill:#5f5e5a}
+.rg{font-size:10.5px;fill:#8a8880}
+</style>
+<path d="M400,288 L400.0,92.0 A196,196 0 0 1 596.0,288.0 Z" fill="#2f7f70" fill-opacity="0.07"/>
+<line x1="400" y1="288" x2="400.0" y2="92.0" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M400,288 L596.0,288.0 A196,196 0 0 1 400.0,484.0 Z" fill="#a8894f" fill-opacity="0.07"/>
+<line x1="400" y1="288" x2="596.0" y2="288.0" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M400,288 L400.0,484.0 A196,196 0 0 1 204.0,288.0 Z" fill="#4f86a8" fill-opacity="0.07"/>
+<line x1="400" y1="288" x2="400.0" y2="484.0" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M400,288 L204.0,288.0 A196,196 0 0 1 400.0,92.0 Z" fill="#639922" fill-opacity="0.07"/>
+<line x1="400" y1="288" x2="204.0" y2="288.0" stroke="#ffffff" stroke-width="2.5"/>
+<circle cx="400" cy="288" r="196" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
+<circle cx="400" cy="288" r="122" fill="none" stroke="#9c988e" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="400" cy="288" r="59" fill="none" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="400" y1="288" x2="475.0" y2="106.9" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="481" y="96" text-anchor="start">Financial security</text>
+<line x1="400" y1="288" x2="581.1" y2="213.0" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="596" y="211" text-anchor="start">Livability</text>
+<line x1="400" y1="288" x2="581.1" y2="363.0" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="596" y="373" text-anchor="start">Food production</text>
+<line x1="400" y1="288" x2="475.0" y2="469.1" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="481" y="488" text-anchor="start">Soil quality</text>
+<line x1="400" y1="288" x2="325.0" y2="469.1" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="319" y="488" text-anchor="end">Quantity</text>
+<line x1="400" y1="288" x2="218.9" y2="363.0" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="204" y="373" text-anchor="end">Quality</text>
+<line x1="400" y1="288" x2="218.9" y2="213.0" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="204" y="211" text-anchor="end">Diversity</text>
+<line x1="400" y1="288" x2="325.0" y2="106.9" stroke="#e2e0d8" stroke-width="1"/>
+<text class="ax" x="319" y="96" text-anchor="end">Connectivity</text>
+<polygon points="455.5,154.0 505.0,244.5 468.8,316.5 461.5,436.5 350.5,407.5 258.8,346.5 244.3,223.5 358.0,186.6" fill="#6f6d66" fill-opacity="0.16" stroke="#6f6d66" stroke-width="2"/>
+<circle cx="455.5" cy="154.0" r="3.2" fill="#6f6d66"/>
+<circle cx="505.0" cy="244.5" r="3.2" fill="#6f6d66"/>
+<circle cx="468.8" cy="316.5" r="3.2" fill="#6f6d66"/>
+<circle cx="461.5" cy="436.5" r="3.2" fill="#6f6d66"/>
+<circle cx="350.5" cy="407.5" r="3.2" fill="#6f6d66"/>
+<circle cx="258.8" cy="346.5" r="3.2" fill="#6f6d66"/>
+<circle cx="244.3" cy="223.5" r="3.2" fill="#6f6d66"/>
+<circle cx="358.0" cy="186.6" r="3.2" fill="#6f6d66"/>
+<text class="dm" x="525" y="168" text-anchor="middle" fill="#2f7f70">Communities</text>
+<text class="dm" x="525" y="418" text-anchor="middle" fill="#a8894f">Agriculture</text>
+<text class="dm" x="275" y="418" text-anchor="middle" fill="#4f86a8">Water</text>
+<text class="dm" x="275" y="168" text-anchor="middle" fill="#639922">Ecology</text>
+<circle cx="400" cy="288" r="5" fill="#6f6d66"/>
+<text class="rg" x="408" y="278">harm</text>
+<text class="rg" x="530" y="278">no worse</text>
+<text class="rg" x="604" y="278">benefit</text>
+</svg>

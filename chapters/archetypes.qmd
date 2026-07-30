@@ -36,7 +36,7 @@ The sharing wing is thin and structure-led: holding a crop under panels takes ge
 
 ## Six featured archetypes {#sec-featured}
 
-Each archetype is drawn in section, and each at its own scale, so a farmstead array fills the frame while a regional one runs off both edges. The bar in the lower corner gives the distance, and the panel is the same three-meter table throughout, which is what makes the frames comparable once the bar is read. What changes between them is real: the ground, the clearance, the cover, how deep the roots go, and how much land is in view. Sun falls from the upper left in every frame, so the bands on the ground are where the shade actually lands, offset from the panel that casts it. The [SCALE footprint](restorative-functions.qmd#sec-scale) beside each drawing places the form across Communities, Agriculture, Landscapes, and Energy. A dominant pressure moves its domain toward the center; a yielded pressure pushes it toward the rim; domains the form does not engage stay mid-scale. These are judgments about forms, not measurements, and not audits of the named projects.
+Each archetype is drawn in section, and each at its own scale, so a farmstead array fills the frame while a regional one runs off both edges. The bar in the lower corner gives the distance, and the panel is the same three-meter table throughout, which is what makes the frames comparable once the bar is read. What changes between them is real: the ground, the clearance, the cover, how deep the roots go, and how much land is in view. Sun falls from the upper left in every frame, so the bands on the ground are where the shade actually lands, offset from the panel that casts it. The [outcomes footprint](restorative-functions.qmd#sec-scale) beside each drawing places the form across Communities, Agriculture, Water, and Ecology. A dominant pressure carries its domain out toward the rim; a yielded pressure pulls it in toward the center; domains the form does not engage sit near the ring. These are judgments about forms, not measurements, and not audits of the named projects.
 
 The figures given for each form are indicative, drawn from the worked case and from forms in circulation, not requirements. Each featured archetype carries one real project. Several rest on developer pages, NGO case studies, and extension write-ups rather than peer-reviewed evidence; capacities and areas are as-reported and are traced in [Sources](sources.qmd). They illustrate the *form*. They are not verified performance data, and none of them has been independently audited against the [restorative functions](restorative-functions.qmd) it is cited for.
 
@@ -45,7 +45,7 @@ The figures given for each form are indicative, drawn from the worked case and f
 
 [A1](scale-transect.qmd#sec-zones) scale · **[S1–S2](siting-axis.qmd#sec-positions)** siting · *[management-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Barnyard shelter solar in section. The array is sized to the parlor rather than to the grid, which puts Agriculture nearest the center and Energy out at the rim. The drawing carries what the profile cannot: shade gathers the herd, and the ground beneath it compacts.](../figures/fig_arch_barnyard.svg){#fig-arch-barnyard}
+![Barnyard shelter solar in section. The array is sized to the parlor rather than to the grid, which pushes Agriculture out toward the rim and leaves Ecology short of the ring. The drawing carries what the profile cannot: shade gathers the herd, and the ground beneath it compacts.](../figures/fig_arch_barnyard.svg){#fig-arch-barnyard}
 
 Barnyard shelter solar raises roughly 10 to 100 kilowatts of panel over the yard or paddock the farm's own animals already use, on under about an acre. Nothing new has to be established underneath, since the ground layer is the worn yard the stock already stands on. The clearance is set by the animals themselves, high enough that they can walk in and shelter under the array, and the wiring runs behind the meter against the parlor, the cold store, and the well pump. The same farmer holds the animals, the array, and the labor.
 
@@ -57,7 +57,7 @@ The worked case sits on a University of Minnesota dairy, the West Central Resear
 
 [A2–A3](scale-transect.qmd#sec-zones) scale · **[S1](siting-axis.qmd#sec-positions)** siting · *[structure-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Vegetable agrivoltaics in section. Clearance for hand work and rows spaced for the crop's light are both bought with generation, so Agriculture sits near the center and Energy reaches the rim. Shaded ground holds moisture the open rows lose.](../figures/fig_arch_vegetable.svg){#fig-arch-vegetable}
+![Vegetable agrivoltaics in section. Clearance for hand work and rows spaced for the crop's light are both bought with generation, so Agriculture reaches the rim and Energy reaches the rim. Shaded ground holds moisture the open rows lose.](../figures/fig_arch_vegetable.svg){#fig-arch-vegetable}
 
 Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics) keeps shade-tolerant food crops growing beneath the panels: greens, tomatoes, peppers, the things a market garden already sells. Projects run from about 100 kilowatts to 3 megawatts across roughly 1 to 20 acres, feeding anything from behind the meter to a distribution line. The array is raised high enough that a person can work under it with hand tools and small equipment, and the rows are spaced by how much light the crop needs rather than by how tightly the parcel could be packed.
 
@@ -81,7 +81,7 @@ At Cozy Cove Farm in Gurley, Alabama, a llama-and-alpaca farm set a 50-kilowatt 
 
 [A3](scale-transect.qmd#sec-zones) scale · **[S5](siting-axis.qmd#sec-positions)** siting · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Solar prairie strips in section. Landscapes comes almost to the center and Agriculture goes to the rim, which is the trade this form makes on purpose. The mechanism is visible: runoff intercepted on the contour, sediment held at the upslope edge, roots well below crop depth.](../figures/fig_arch_prairie_strips.svg){#fig-arch-prairie-strips}
+![Solar prairie strips in section. Water reaches almost to the rim and Agriculture falls inside the ring, which is the trade this form makes on purpose. The mechanism is visible: runoff intercepted on the contour, sediment held at the upslope edge, roots well below crop depth.](../figures/fig_arch_prairie_strips.svg){#fig-arch-prairie-strips}
 
 Solar prairie strips pair a distribution-scale array, roughly one to five megawatts across six to thirty acres, with deep-rooted native prairie planted where a field sheds water: contour bands, low draws, wet corners, and wetland edges. The mix and the width of each band are sized to a named hydrologic outcome. That ground leaves production, and what grows on it slows runoff and holds sediment and nutrients, while the array, often sold as community solar, pays for the planting. STRIPS research found that converting about a tenth of a field to prairie in the right places can cut soil loss by more than 90% [@schulte2017].
 
@@ -93,7 +93,7 @@ Minnesota has a built case in **Ramsey Renewable Station**, where 3.4 megawatts 
 
 [A4–A5](scale-transect.qmd#sec-zones) scale · **[S2](siting-axis.qmd#sec-positions)** siting · *[management-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Regenerative solar grazing in section. Energy sits nearest the center, and agriculture here is a tenancy rather than the farm's own operation, which is why Communities reaches the rim. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
+![Regenerative solar grazing in section. Ecology reaches furthest, and agriculture here is a tenancy rather than the farm's own operation, which is why Communities reaches the rim. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
 
 Regenerative [solar grazing](terminology.qmd#term-rangevoltaics) runs a planned flock rotation under a utility-scale array, 5 megawatts and up, across tens of acres to several thousand, connected at sub-transmission or transmission voltage. The ground layer is managed pasture or forage; the fence and gate lines draw the rotation cells, and clearance and water points settle what class of stock can work beneath, which in practice means sheep. The flock is usually hired in, a [contracted service](terminology.qmd#term-contract-grazing) rather than the farm's own animals. Rotation manages vegetation, cycles nutrients, holds ground cover, and can build soil carbon under a well-managed native understory [@krasner2025].
 
@@ -105,7 +105,7 @@ One built case runs across Minnesota, where Aurora Solar's 150 megawatts of gene
 
 [A4–A5](scale-transect.qmd#sec-zones) scale · **[S5](siting-axis.qmd#sec-positions)** siting · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Retired-irrigation solar in section. Agriculture goes to the rim by design and Landscapes comes almost to the center. The dashed line is the counterfactual, and the claim holds only where governance keeps the saved water from being pumped somewhere else.](../figures/fig_arch_retired_irrigation.svg){#fig-arch-retired-irrigation}
+![Retired-irrigation solar in section. Agriculture falls inside the ring by design and Water reaches almost to the rim. The dashed line is the counterfactual, and the claim holds only where governance keeps the saved water from being pumped somewhere else.](../figures/fig_arch_retired_irrigation.svg){#fig-arch-retired-irrigation}
 
 Retired-irrigation solar takes irrigated fields above an overdrawn aquifer out of production and puts a large array on them [@stid2025], commonly 50 megawatts and up across hundreds to many thousands of acres, connected at transmission. The panels need no water, so a low-water cover takes the place of the crop. The land it suits is drainage-impaired, salt-affected, or otherwise marginal irrigated ground, and the unit of design is the district or the aquifer rather than the parcel, which is why the form is regional: the impairment it answers is regional too.
 

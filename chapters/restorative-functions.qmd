@@ -1,4 +1,4 @@
-# Restorative Functions {#sec-functions}
+# Restorative Functions and Outcomes {#sec-functions}
 
 Two solar farms in the same county, the same size, the same panels, the same crop ground underneath. Under one, gravel and a herbicide schedule; under the other, a planting rooted deep enough to hold a summer storm where it falls.
 
@@ -7,9 +7,8 @@ Nothing about the land separates them. Where a project sits (§-@sec-transect) a
 [*Restorative*](terminology.qmd#term-restorative) is therefore not something a piece of ground is. It is something a design produces, and on most sites it can be produced or withheld. **Restorative functions** name the five things a design can be aimed at.
 
 - **Water** (§-@sec-fn-hydrologic) — what soaks in, what runs off, and what the runoff carries with it
-- **Soil and carbon** (§-@sec-fn-soil) — what builds back up underneath
 - **Ecology** (§-@sec-fn-biodiversity) — what can live there, and what can move through
-- **Agriculture** (§-@sec-fn-agricultural) — what farming gets from it, here and on the fields around it
+- **Agriculture and soils** (§-@sec-fn-agricultural) — what farming gets from it, and what the ground underneath is made of
 - **Community and economy** (§-@sec-fn-community) — what the people hosting it actually get
 
 ![Five functions, which lever carries each one, and which route its benefit travels. The route matters more than the distance: every function here reaches beyond the fence along some route, so the useful question is which one, since that decides who can check the claim and who receives it. Carbon is the exception the table cannot draw, leaving by air to everywhere and no one in particular. Land sparing is missing for a different reason: its benefit is ground elsewhere that stayed as it was, so nothing travels at all (§-@sec-benefit-range).](../figures/fig_functions_overview.svg){#fig-functions-overview}
@@ -36,18 +35,6 @@ Water travels, so its benefits do. Moisture is held **in place**; slowed runoff 
 **Evidence status.** The dryland moisture link is **verified** [@barrongafford2019; @sturchio2025; @pinos2026], though bounded at some sites [@kannenberg2023], and infiltration and recharge at depth remain **thin** [@yavari2022]. Interception is documented for prairie strips in cropland [@schulte2017], never yet from beneath an array; avoided loading is **arithmetic rather than measurement**, following from application rates on retired acreage rather than from a monitored stream.
 :::
 
-## Soil and carbon {#sec-fn-soil}
-
-Where perennial, low-disturbance cover replaces a tilled row-crop baseline, roots stay in the ground year-round, traffic and tillage fall away, and soil organic carbon and aggregate stability build back. That is ordinary perennialization, running under and between the panels.
-
-Construction cuts the other way and can cut deep. Grading removes the shallow horizon holding most of the carbon, trenching and traffic compact what is left, and compacted ground restricts the roots that would rebuild it, so a site can begin its thirty years in debt rather than at zero. How large that debt is depends on how much earth anyone had to move, which makes a racking choice a soil decision taken years before anybody picks a seed mix: a mounting system that tolerates slope leaves the ground roughly as it found it, and one that needs a level plane means mass grading. Establishment method, grazing regime, and [stocking density](terminology.qmd#term-stocking-density) then carry the accumulation, which is slow and cumulative and therefore hostage to a sustained operating regime.
-
-This is the one function delivered almost entirely **in place**, since soil stays where it is, which also makes it the one most fully captured by whoever holds the ground. Carbon is the exception and the limiting case: it leaves by air, benefiting everywhere and no one in particular, which is why it needs a market or a policy behind it before it is worth anything to the person holding the land.
-
-::: {.evidence}
-**Evidence status.** Early gains are **verified** for [ecovoltaic](terminology.qmd#term-ecovoltaics) grassland restoration [@krasner2025], long-run accumulation is thinly measured [@carvalho2024], and the baseline sets the sign, since perennialization improves a tilled baseline while converting existing grassland creates a debt [@merheb2025]. The size of the construction debt is the least measured part of the ledger and among the likeliest to decide that sign, because published gains come from sites whose earthworks are not described.
-:::
-
 ## Ecology {#sec-fn-biodiversity}
 
 Two halves: what can live on the ground, and what can reach it.
@@ -64,16 +51,22 @@ Both halves travel along living things. About 3,500 km² of US farmland sits wit
 **Evidence status.** **Verified** for grassland-bird gains [@walston2025], insect-community response [@walston2024], and bee diversity in pollinator-planted arrays [@bruningasocolar2025]; scorecards codify the choices, though what each credits differs [@epri2021]. The gain is **context-dependent**, largest where the surrounding landscape is already sparse in semi-natural habitat, so its size is set by what the site would otherwise have been rather than by the planting alone.
 :::
 
-## Agriculture {#sec-fn-agricultural}
+## Agriculture and soils {#sec-fn-agricultural}
 
-**Not the siting axis under another name.** The axis records whether farming continues on the ground the array occupies. This asks what the array does *for* farming, and the two answers come apart: a project with production stopped inside its own fence can still be why the field next door gets pollinated, and why the host farm is still in business.
+Two things the same ground does at once, and the same decisions govern both: what the farm gets out of the array, and what the soil under it is made of.
 
-Three routes. The ecological one runs along the same living network ecology does, carrying pollination into neighboring crops [@walston2024; @walston2018] and sheltering the predators and parasitoids that hold pest numbers down, which is the established case for perennial refuge in row-crop landscapes [@schulte2017] and makes an array a candidate piece of integrated pest management. The on-site one is forage and shelter under the panels, including shade for stock through the worst of the afternoon and for the people working there. The third runs on paper: lease revenue is what decides whether there is still a farm to serve, which is [coexistence](siting-axis.qmd#sec-positions) seen from the agricultural side.
+**Not the siting axis under another name.** The axis records whether farming continues on the ground the array occupies. This asks what the array does *for* farming, and the two answers come apart: a project with production stopped inside its own fence can still be the reason the field next door gets pollinated, and the reason the host farm is still in business.
 
 Position in the landscape counts for more here than for any other function, because a planting reaches only the fields inside a forager's range, and bloom sequence matters more than bloom, since a service to a crop depends on flowering when that crop needs it.
 
+Where perennial, low-disturbance cover replaces a tilled row-crop baseline, roots stay in the ground year-round, traffic and tillage fall away, and soil organic carbon and aggregate stability build back. That is ordinary perennialization, running under and between the panels.
+
+Construction cuts the other way and can cut deep. Grading removes the shallow horizon holding most of the carbon, trenching and traffic compact what is left, and compacted ground restricts the roots that would rebuild it, so a site can begin its thirty years in debt rather than at zero. How large that debt is depends on how much earth anyone had to move, which makes a racking choice a soil decision taken years before anybody picks a seed mix: a mounting system that tolerates slope leaves the ground roughly as it found it, and one that needs a level plane means mass grading. Establishment method, grazing regime, and [stocking density](terminology.qmd#term-stocking-density) then carry the accumulation, which is slow and cumulative and therefore hostage to a sustained operating regime.
+
+This is the one function delivered almost entirely **in place**, since soil stays where it is, which also makes it the one most fully captured by whoever holds the ground. Carbon is the exception and the limiting case: it leaves by air, benefiting everywhere and no one in particular, which is why it needs a market or a policy behind it before it is worth anything to the person holding the land.
+
 ::: {.evidence}
-**Evidence status.** Pollinator movement into adjacent crops is **verified** [@walston2024] and the farmland inside foraging distance has been mapped [@walston2018]. Pest regulation is **inferred, not measured** at solar sites. The step that matters most to a farmer, a yield or input-cost change attributable to the array, is **not established anywhere** and should not be claimed. The enterprise route is the best evidenced of the three [@stid2025; @sturchio2025croplands].
+**Evidence status.** On the farming side, pollinator movement into adjacent crops is **verified** [@walston2024] and the farmland inside foraging distance has been mapped [@walston2018], while pest regulation is **inferred, not measured** at solar sites and a yield or input-cost change attributable to an array is **not established anywhere**. On the soil side, early gains are **verified** for [ecovoltaic](terminology.qmd#term-ecovoltaics) grassland restoration [@krasner2025], long-run accumulation is thinly measured [@carvalho2024], and the size of the construction debt is the least measured part of the ledger and among the likeliest to decide its sign, because the reported gains come from sites whose earthworks are not described.
 :::
 
 ## Community and economy {#sec-fn-community}
@@ -123,8 +116,21 @@ One case runs backwards. Demonstration sites, field days, and school visits deli
 3. **Which objection it answers.** A neighbor objecting to the view is describing something delivered at the fence line, and a developer answering with a carbon figure is describing something delivered everywhere and to no one. Both can be true, and neither is a reply to the other.
 :::
 
-## The SCALE footprint {#sec-scale}
+## Evaluating outcomes {#sec-scale}
 
-SCALE reads a project across **Sustainable Communities, Agriculture, Landscapes, and Energy**, each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center (§-@sec-harm-benefit). Three of the four line up with a function: Communities with the community and economic function, Landscapes with water, soil, and ecology, and Agriculture with the agricultural function together with the siting axis. Energy is the exception, aligning with the design pressures rather than with anything this chapter produces. The reading is evaluative, but the ring where harm ends is a zero point rather than a pass mark, and how far past it a project ought to travel is left open (§-@sec-open-issues, issue 5).
+The four functions each carry two outcomes, and together the eight are what a project can be judged on. Naming them separately matters because they move independently: an array can hold water on the site and still compact the soil under it, or pay a landowner well and give the neighbours nothing.
 
-![The SCALE footprint: a project's influence read across four domains (Sustainable Communities, Agriculture, Landscapes, Energy) and their sub-axes. Each runs from causing harm at the rim, through the dashed ring where a domain is left no worse than it was found, to promoting benefit at the center. The ring is a zero point and not a pass mark: it marks where the sign changes, not a standard a project is expected to clear, and how far past it to travel is still open (§-@sec-open-issues, issue 5). The reading is evaluative by design, which is what *restorative* commits the document to. The polygon shown is a worked example.](../figures/fig_scale_footprint.svg){#fig-scale-footprint}
+| Function | Outcomes |
+|:--|:--|
+| **Water** | quantity, meaning what soaks in and what leaves · quality, meaning what the water carries with it |
+| **Ecology** | diversity, meaning what can live there · connectivity, meaning what can move through |
+| **Agriculture and soils** | food production, meaning what the ground still grows · soil quality, meaning what it is made of |
+| **Communities** | financial security, meaning durable local income · livability, meaning whether people can live alongside it and had a real say |
+
+: The eight outcomes, two to a function. {#tbl-outcomes}
+
+Each outcome runs on the same scale, from causing harm at one end to promoting benefit at the other, with a point in between where the project leaves that outcome no worse than it found it. @fig-outcomes-footprint plots all eight at once. **The middle ring is a zero point rather than a pass mark.** It marks where the sign changes, and nothing here says how far past it a project ought to travel, which is a question the lexicon has deliberately not answered (§-@sec-open-issues, issue 5).
+
+Reading a project this way does two things a single verdict cannot. It shows the trade, because a project that gains on one axis and loses on another has a shape rather than a score. And it shows who is owed an explanation, because an outcome sitting inside the ring is a commitment the design did not keep.
+
+![The eight outcomes plotted together. Each spoke runs from causing harm at the centre, through the dashed ring where that outcome is left no worse than it was found, out to promoting benefit at the rim, so a larger shape is a better project. The four functions each own a quadrant. The polygon shown is a worked example rather than a measurement: it belongs to a project that gives up food production for soil quality and ecological diversity, which is the trade a retired or heavily planted site makes.](../figures/fig_outcomes_footprint.svg){#fig-outcomes-footprint}

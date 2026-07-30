@@ -143,15 +143,15 @@
 
 <text x="690" y="85" fill="#6f4a9c" font-size="10.5" font-weight="600" text-anchor="middle">Communities</text>
 <text x="752" y="150" fill="#3f8f36" font-size="10.5" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
-<text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Energy</text>
-<text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Landscapes</text>
+<text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Ecology</text>
+<text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Water</text>
 
-<polygon points="690,134.3 721.9,150 690,176.4 687.9,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="690" cy="134.3" r="2.2" fill="#2c5580"/>
-<circle cx="721.9" cy="150" r="2.2" fill="#2c5580"/>
-<circle cx="690" cy="176.4" r="2.2" fill="#2c5580"/>
-<circle cx="687.9" cy="150" r="2.2" fill="#2c5580"/>
+<polygon points="690.0,111.7 712.1,150.0 690.0,177.6 638.1,150.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="690.0" cy="111.7" r="2.2" fill="#2c5580"/>
+<circle cx="712.1" cy="150.0" r="2.2" fill="#2c5580"/>
+<circle cx="690.0" cy="177.6" r="2.2" fill="#2c5580"/>
+<circle cx="638.1" cy="150.0" r="2.2" fill="#2c5580"/>
 
-<text x="690" y="234" fill="#7a7973" font-size="9.5" font-style="italic" text-anchor="middle">benefit at the center, harm at the rim</text>
+<text x="690" y="234" fill="#7a7973" font-size="9.5" font-style="italic" text-anchor="middle">benefit at the rim, harm at the center</text>
 <text x="690" y="246" fill="#8a8880" font-size="9" font-style="italic" text-anchor="middle">dashed ring: no harm either way</text>
 </svg>

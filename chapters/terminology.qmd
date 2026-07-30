@@ -168,10 +168,6 @@ A restorative capacity a project can be designed to deliver, obtainable to varyi
 
 Water quantity and quality as design objectives. On **quantity**: infiltration and recharge raised, soil moisture buffered, and at scale consumptive use retired from a basin's budget. On **quality**, two routes needing opposite ground: **avoided loading**, siting on the ground that is doing the leaching, which the water-quality literature calls a critical source area, so the fertilizer and pesticide programs stop with the cropping, and **interception**, siting on the flow path below it so runoff gives up its nutrients and sediment before reaching a channel. See [§-@sec-fn-hydrologic](restorative-functions.qmd#sec-fn-hydrologic).
 
-### Soil & carbon function {#term-fn-soil}
-
-Perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability under and between the panels, against a construction-disturbance debt paid first. See [§-@sec-fn-soil](restorative-functions.qmd#sec-fn-soil).
-
 ### Ecological function {#term-fn-biodiversity}
 
 What can live on the ground and what can move through it. Habitat is built from the ground layer up, through floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix; [connectivity](#term-connectivity) is the other half. Reachable across S2–S5, which is why it is a function and not a position. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
@@ -180,13 +176,15 @@ What can live on the ground and what can move through it. Habitat is built from 
 
 Whether organisms can move into, through, and out of a site, as against whether the site can feed them once they arrive. It is designed at four scales at once: inside the array by fencing, roads, and mown strips; at the edge by whether the planting meets an existing corridor; across a landscape by the choice between a few large arrays and many small ones; and at regional range by whether a fleet of sites falls within dispersal distance of one another. Connectivity is a property of the arrangement rather than of any one patch, and the scale on which it matters is set by the disperser, so a connectivity claim means little until it names the taxon. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
 
-### Agricultural function {#term-fn-agricultural}
+### Agriculture and soils function {#term-fn-agricultural}
+
+[]{#term-fn-soil}
 
 What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [siting axis](#term-siting-axis) restated, which records whether production continues in the footprint rather than what the project gives farming. Its dominant [benefit delivery](#term-benefit-delivery) runs along living things, which makes it the function most dependent on what surrounds the site. See [§-@sec-fn-agricultural](restorative-functions.qmd#sec-fn-agricultural).
 
 ### Community & economic function {#term-fn-community}
 
-The one socioeconomic function: the economic prosperity, livability, and health and equity a project builds for its host, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
+The one socioeconomic function: the durable local income, the livability, and the question of whether the burdens and the benefits land on the same people, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
 
 ### Benefit delivery {#term-benefit-delivery}
 
@@ -202,9 +200,9 @@ The mode in which a benefit consists of ground nearby remaining as it was. It is
 
 The field's usual word for what this lexicon calls a [restorative function](#term-restorative-function). Recorded here because it is what practitioners will say, and used here only to describe how others frame the same ground. The term carries acknowledged definitional ambivalence, and its grammar demotes what it names, since a *co-*benefit arrives alongside the real objective [@mayrhofer2016]. This document argues these capacities are objectives, so it does not adopt the word. *Cf.* **techno-ecological synergy**, the literature's own attempt at a framing that does not subordinate them [@hernandez2019].
 
-### SCALE footprint {#term-scale-footprint}
+### outcomes footprint {#term-scale-footprint}
 
-A whole-project reading across four domains, Sustainable Communities, Agriculture, Landscapes, and Energy, each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center (§-@sec-harm-benefit). Evaluative by design, but the ring where harm ends is a zero point rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
+A whole-project reading across four domains, Communities, Agriculture, Water, and Ecology, each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center (§-@sec-harm-benefit). Evaluative by design, but the ring where harm ends is a zero point rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
 
 ## Archetypal forms {#sec-terms-archetypes}
 
@@ -310,7 +308,7 @@ Integration is also the line a design crosses to be restorative in the structura
 
 The zone can also act through *economics* rather than through hydrology or sightlines. @stid2025 document intentional fallowing of irrigated cropland **adjacent to** arrays, 968 ha across 58 utility-scale installations in California's Central Valley, about 27% of those arrays' own area, apparently funded by array revenue, and call the practice **solar fallowing** where the aim is reducing water use. The array changes what happens on ground it never occupies.
 
-Its multi-domain accounting across Sustainable Communities, Agriculture, Landscapes, and Energy is the [SCALE footprint](restorative-functions.qmd#sec-scale), introduced with the restorative functions (§-@sec-functions).
+Its multi-domain accounting across Communities, Agriculture, Water, and Ecology is the [outcomes footprint](restorative-functions.qmd#sec-scale), introduced with the restorative functions (§-@sec-functions).
 
 ### Screening {#term-screening}
 

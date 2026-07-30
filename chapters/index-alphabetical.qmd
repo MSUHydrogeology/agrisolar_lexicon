@@ -32,7 +32,7 @@ under **S**.
 
 **Agricultural production** — design pressure: keep working land working — [Terminology](terminology.qmd#term-agricultural-production) · [The pressures](design-pressures.qmd#sec-pressures)
 
-**Agricultural function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the siting axis restated — [Terminology](terminology.qmd#term-fn-agricultural) · [Agricultural function](restorative-functions.qmd#sec-fn-agricultural)
+**Agriculture and soils function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the siting axis restated — [Terminology](terminology.qmd#term-fn-agricultural) · [Agricultural function](restorative-functions.qmd#sec-fn-agricultural)
 
 **Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the siting axis — [Terminology](terminology.qmd#term-agrisolar)
 
@@ -60,7 +60,7 @@ under **S**.
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Terminology](terminology.qmd#term-colocation-integration)
 
-**Community & economic function** — the socioeconomic restorative function: economic prosperity, livability, and health & equity built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [Terminology](terminology.qmd#term-fn-community) · [Community & economic function](restorative-functions.qmd#sec-fn-community)
+**Community & economic function** — the socioeconomic restorative function: durable local income, livability, and whether the burdens and the benefits land on the same people, built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [Terminology](terminology.qmd#term-fn-community) · [Community & economic function](restorative-functions.qmd#sec-fn-community)
 
 **Community acceptance and benefit** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [Terminology](terminology.qmd#term-community-acceptance) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -184,7 +184,7 @@ under **S**.
 
 **S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](siting-axis.qmd#sec-positions)
 
-**SCALE footprint** — a whole-project reading across four domains (Sustainable Communities, Agriculture, Landscapes, Energy), each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The SCALE footprint](restorative-functions.qmd#sec-scale)
+**outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
 
 **Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [1. The Scale Transect](scale-transect.qmd)
 
@@ -199,8 +199,6 @@ under **S**.
 **Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [Terminology](terminology.qmd#term-siting-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
 **Solar grazing** — *see* Rangevoltaics — [Terminology](terminology.qmd#term-rangevoltaics)
-
-**Soil & carbon function** — restorative function: perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability, against a construction-disturbance debt paid first — [Terminology](terminology.qmd#term-fn-soil) · [Soil & carbon function](restorative-functions.qmd#sec-fn-soil)
 
 **Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [Terminology](terminology.qmd#term-stocking-density) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
