@@ -8,7 +8,7 @@ Six featured archetypes carry a documented case each, ordered from farmstead to 
 
 ## Archetypes across scale and siting {#sec-scale-position}
 
-Every archetype below carries a compact code under its name: its [zone](scale-transect.qmd#sec-zones) on the scale transect, its [position](siting-axis.qmd#sec-positions) on the siting axis, and its [restoration mode](terminology.qmd#term-restoration-mode), meaning whether the restorative work is carried by the choice of ground, by the array's geometry, by how the site is run, or by what the contracts say. So `A1 scale · S1–S2 siting · management-led restoration` reads as a farmstead array on ground the farm's own animals keep using, restored by how it is operated. The two tables sort the same forms by each coordinate in turn, with **featured archetypes in bold** and [the others](#sec-further-types) in plain text. Arrays mounted on buildings take no ground at all and sit at [A0](scale-transect.qmd#sec-zones), off both tables.
+Every archetype below carries a compact code under its name: its [zone](scale-transect.qmd#sec-zones) on the scale transect, its [position](siting-axis.qmd#sec-positions) on the siting axis, and its [restoration mode](terminology.qmd#term-restoration-mode), meaning whether the restorative work is carried by the choice of ground, by the array's geometry, by how the site is run, by who holds the asset, or by what the contracts say. So `A1 scale · S1–S2 siting · structure-led restoration` reads as a farmstead array on ground the farm's own animals keep using, restored by how it was built for them. The two tables sort the same forms by each coordinate in turn, with **featured archetypes in bold** and [the others](#sec-further-types) in plain text. Arrays mounted on buildings take no ground at all and sit at [A0](scale-transect.qmd#sec-zones), off both tables.
 
 ::: {.zone-table}
 | Zone | Forms that recur here |
@@ -45,11 +45,11 @@ The figures given for each form are indicative, drawn from the worked case and f
 
 ### Barnyard Shelter Solar {#arch-barnyard}
 
-[A1](scale-transect.qmd#sec-zones) scale · **[S1–S2](siting-axis.qmd#sec-positions)** siting · *[management-led](restoration-modes.qmd#sec-siting-latitude)* restoration
+[A1](scale-transect.qmd#sec-zones) scale · **[S1–S2](siting-axis.qmd#sec-positions)** siting · *[structure-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
 ![Barnyard shelter solar in section. The array is sized to the parlor rather than to the grid, which pushes Agriculture out toward the rim and leaves Ecology short of the ring. The drawing carries what the profile cannot: shade gathers the herd, and the ground beneath it compacts.](../figures/fig_arch_barnyard.svg){#fig-arch-barnyard}
 
-Barnyard shelter solar raises roughly 10 to 100 kilowatts of panel over the yard or paddock the farm's own animals already use, on under about an acre. Nothing new has to be established underneath, since the ground layer is the worn yard the stock already stands on. The clearance is set by the animals themselves, high enough that they can walk in and shelter under the array, and the wiring runs behind the meter against the parlor, the cold store, and the well pump. The same farmer holds the animals, the array, and the labor.
+Barnyard shelter solar raises roughly 10 to 100 kilowatts of panel over the yard or paddock the farm's own animals already use, on under about an acre. Nothing new has to be established underneath, since the ground layer is the worn yard the stock already stands on. The clearance is set by the animals themselves, high enough that they can walk in and shelter under the array, and the wiring runs behind the meter against the parlor, the cold store, and the well pump. The same farmer holds the animals, the array, and the labor, which makes it the [ownership-led](restoration-modes.qmd#sec-lv-mode) case as well.
 
 What the form gives up is generation at scale, since the array is sized to the farm rather than the grid; agricultural production and [operations and maintenance](terminology.qmd#term-operations-maintenance) are the pressures that set its shape. Shade gathers the herd into one place, so muck and wear concentrate where the animals crowd in, and the ground beneath the panels compacts in a way the open paddock does not. That wear is the farmer's to repair, and it belongs in the same accounting as the power bill the array offsets.
 
@@ -59,7 +59,7 @@ The worked case sits on a University of Minnesota dairy, the West Central Resear
 
 [A2–A3](scale-transect.qmd#sec-zones) scale · **[S1](siting-axis.qmd#sec-positions)** siting · *[structure-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Vegetable agrivoltaics in section. Clearance for hand work and rows spaced for the crop's light are both bought with generation, so Agriculture reaches the rim and Energy reaches the rim. Shaded ground holds moisture the open rows lose.](../figures/fig_arch_vegetable.svg){#fig-arch-vegetable}
+![Vegetable agrivoltaics in section. Clearance for hand work and rows spaced for the crop's light are both bought with generation, so Agriculture reaches nearest the rim while Ecology falls inside the ring. Shaded ground holds moisture the open rows lose.](../figures/fig_arch_vegetable.svg){#fig-arch-vegetable}
 
 Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics) keeps shade-tolerant food crops growing beneath the panels: greens, tomatoes, peppers, the things a market garden already sells. Projects run from about 100 kilowatts to 3 megawatts across roughly 1 to 20 acres, feeding anything from behind the meter to a distribution line. The array is raised high enough that a person can work under it with hand tools and small equipment, and the rows are spaced by how much light the crop needs rather than by how tightly the parcel could be packed.
 
@@ -71,7 +71,7 @@ The fullest working example sits in Colorado, where **Jack's Solar Garden** puts
 
 [A2–A3](scale-transect.qmd#sec-zones) scale · **[S4](siting-axis.qmd#sec-positions)** siting · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Marginal land solar in section. The siting decision is the archetype: the array takes the wet, stony corner and the field keeps farming. Communities sits nearest the center, because what the form delivers is income from ground that was not paying.](../figures/fig_arch_marginal.svg){#fig-arch-marginal}
+![Marginal land solar in section. The siting decision is the archetype: the array takes the wet, stony corner and the field keeps farming. Communities, Water, and Ecology all sit well out toward the rim, and Agriculture is the one pulled back to the ring, because what the form delivers is income from ground that was not paying.](../figures/fig_arch_marginal.svg){#fig-arch-marginal}
 
 [Marginal land](terminology.qmd#term-marginal-land) solar takes the flood-prone corners, rocky headlands, and wet remnants that no longer pay their way, and leaves the better fields to farm. Arrays run from about 100 kilowatts to 3 megawatts on roughly 1 to 20 acres, sized by what the odd parcel will hold. The ground keeps whatever it supports, rough grazing where it drains and naturalized or pollinator cover where it does not, and where stock still walks beneath the panels the form sits at [S2](siting-axis.qmd#sec-positions) rather than S4. Orientation and layout follow the shape of the ground, not the optimum, and the power goes behind the meter or onto distribution.
 
@@ -95,7 +95,7 @@ Minnesota has a built case in **Ramsey Renewable Station**, where 3.4 megawatts 
 
 [A4–A5](scale-transect.qmd#sec-zones) scale · **[S2](siting-axis.qmd#sec-positions)** siting · *[management-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-![Regenerative solar grazing in section. Ecology reaches furthest, and agriculture here is a tenancy rather than the farm's own operation, which is why Communities reaches the rim. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
+![Regenerative solar grazing in section. Water reaches furthest, on held cover and year-round roots, while Communities is pulled just inside the ring, because the agriculture here is a tenancy rather than the farm's own operation. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
 
 Regenerative [solar grazing](terminology.qmd#term-rangevoltaics) runs a planned flock rotation under a utility-scale array, 5 megawatts and up, across tens of acres to several thousand, connected at sub-transmission or transmission voltage. The ground layer is managed pasture or forage; the fence and gate lines draw the rotation cells, and clearance and water points settle what class of stock can work beneath, which in practice means sheep. The flock is usually hired in, a [contracted service](terminology.qmd#term-contract-grazing) rather than the farm's own animals. Rotation manages vegetation, cycles nutrients, holds ground cover, and can build soil carbon under a well-managed native understory [@krasner2025].
 

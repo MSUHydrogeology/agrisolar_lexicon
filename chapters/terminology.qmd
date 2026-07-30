@@ -42,7 +42,7 @@ Pressure: satisfy whoever is buying the power, the attributes, or the tax positi
 
 ### Policy and permission {#term-policy-permission}
 
-Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](design-pressures.qmd#sec-regionality) as much as to §3. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](design-pressures.qmd#sec-regionality) as much as to the pressure set itself. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### End-of-life responsibility {#term-end-of-life}
 
@@ -50,7 +50,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 ### Design levers {#term-design-levers}
 
-The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two are institutional and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
+The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. Scale sets the frame; the three below it act on ground and are limited by how much of it there is; the last two are institutional and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
 
 ## Regionality {#sec-terms-regionality}
 
@@ -104,7 +104,7 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 ### A4 — Landscape {#term-a4}
 
-5–50 MW, roughly 30–300 acres; developer-led institutional capital, contract-enterprise ground management. The widest band on the transect, and it probably contains a jurisdictional break near 20–25 MW, the capacity at which several states move siting from local boards to a state office. Not split yet (§-@sec-open-issues, issue 1). See [§-@sec-zones](scale-transect.qmd#sec-zones).
+5–50 MW, roughly 30–300 acres; developer-led institutional capital, contract-enterprise ground management. The widest band on the transect, and it probably contains a jurisdictional break near 20–25 MW, the capacity at which several states move siting from local boards to a state office. Not split yet (§-@sec-zones). See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
 ### A5 — Regional {#term-a5}
 
@@ -112,7 +112,7 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 ### Siting latitude {#term-siting-latitude}
 
-The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
+The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [the five modes](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
 
 ### Stocking density {#term-stocking-density}
 
@@ -178,7 +178,7 @@ Which [design lever](#term-design-levers) a design commits to carry the restorat
 
 *Borrowed, and turned.* The phrase is already in use in ecological restoration and land reclamation, where a restoration mode is a package of restoration techniques matched to a site's degree of degradation [@zha2025]. Here it names which lever carries the work instead, which is why two of the five are institutional rather than anything done to the ground. The nearest existing framework for sorting interventions by the instrument that delivers them is the IUCN and CMP conservation actions classification, whose top categories line up with four of these five and have no equivalent of structure-led. Two collisions are worth naming for this audience. In the solar trade *site restoration* is a decommissioning obligation, what a lease owes when it ends, so a mode here is a choice made at design rather than a phase at the end of life. And *ownership-led* means the restorative work is carried by how the asset is held, not that the owner is running the project.
 
-See [Design Levers](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
+See [the five modes](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
 
 ## Restorative functions {#sec-terms-functions}
 
@@ -186,7 +186,7 @@ Developed in [§-@sec-functions, Restorative Functions](restorative-functions.qm
 
 ### Restorative function {#term-restorative-function}
 
-A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once, the columns laid over the archetypes as rows (§-@sec-functions). Four are biophysical, one agricultural, and one socioeconomic. See [Restorative Functions](restorative-functions.qmd).
+A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once, the columns laid over the archetypes as rows (§-@sec-functions). Two are biophysical, one agricultural, and one socioeconomic. See [Restorative Functions](restorative-functions.qmd).
 
 ### Hydrologic function {#term-fn-hydrologic}
 
@@ -204,11 +204,11 @@ Whether organisms can move into, through, and out of a site, as against whether 
 
 []{#term-fn-soil}
 
-What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [siting axis](#term-siting-axis) restated, which records whether production continues in the footprint rather than what the project gives farming. Its dominant [benefit delivery](#term-benefit-delivery) runs along living things, which makes it the function most dependent on what surrounds the site. See [§-@sec-fn-agricultural](restorative-functions.qmd#sec-fn-agricultural).
+What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [siting axis](#term-siting-axis) restated, which records whether production continues in the footprint rather than what the project gives farming. Its [benefit delivery](#term-benefit-delivery) splits: the soil half stays in place, while the service to farming travels along living things, which makes that half the most dependent on what surrounds the site. See [§-@sec-fn-agricultural](restorative-functions.qmd#sec-fn-agricultural).
 
 ### Community & economic function {#term-fn-community}
 
-The one socioeconomic function: the durable local income, the livability, and the question of whether the burdens and the benefits land on the same people, the [SCALE](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
+The one socioeconomic function: the durable local income, the livability, and the question of whether the burdens and the benefits land on the same people, the [outcomes footprint's](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
 
 ### Benefit delivery {#term-benefit-delivery}
 
@@ -226,7 +226,7 @@ The field's usual word for what this lexicon calls a [restorative function](#ter
 
 ### outcomes footprint {#term-scale-footprint}
 
-A whole-project reading across four domains, Communities, Agriculture, Water, and Ecology, each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center (§-@sec-harm-benefit). Evaluative by design, but the ring where harm ends is a zero point rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
+A whole-project reading across four domains, Communities, Agriculture, Water, and Ecology, each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim, so a larger shape is a better project (§-@sec-harm-benefit). Evaluative by design, but the ring where harm ends is a zero point rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
 
 ## Archetypal forms {#sec-terms-archetypes}
 
@@ -308,7 +308,7 @@ Integration is also the line a design crosses to be restorative in the structura
 
 The zone can also act through *economics* rather than through hydrology or sightlines. @stid2025 document intentional fallowing of irrigated cropland **adjacent to** arrays, 968 ha across 58 utility-scale installations in California's Central Valley, about 27% of those arrays' own area, apparently funded by array revenue, and call the practice **solar fallowing** where the aim is reducing water use. The array changes what happens on ground it never occupies.
 
-Its multi-domain accounting across Communities, Agriculture, Water, and Ecology is the [outcomes footprint](restorative-functions.qmd#sec-scale), introduced with the restorative functions (§-@sec-functions).
+Neither sense should be confused with the [outcomes footprint](restorative-functions.qmd#sec-scale), which is not an area at all but a reading of a project across Communities, Agriculture, Water, and Ecology (§-@sec-functions).
 
 ### Screening {#term-screening}
 
@@ -352,7 +352,7 @@ Two [management levers](design-levers.qmd#sec-lv-ground). *Tracking schedule* is
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function, and it handles the non-production ground layers of [S3–S5](siting-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](restorative-functions.qmd) or the [SCALE](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-open-issues, issue 5).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function, and it handles the non-production ground layers of [S3–S5](siting-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 

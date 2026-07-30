@@ -32,7 +32,7 @@ under **S**.
 
 **Agricultural production** — design pressure: keep working land working — [Terminology](terminology.qmd#term-agricultural-production) · [The pressures](design-pressures.qmd#sec-pressures)
 
-**Agriculture and soils function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the siting axis restated — [Terminology](terminology.qmd#term-fn-agricultural) · [Agricultural function](restorative-functions.qmd#sec-fn-agricultural)
+**Agriculture and soils function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the siting axis restated — [Terminology](terminology.qmd#term-fn-agricultural) · [Agriculture and soils](restorative-functions.qmd#sec-fn-agricultural)
 
 **Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the siting axis — [Terminology](terminology.qmd#term-agrisolar)
 
@@ -40,7 +40,7 @@ under **S**.
 
 **Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [Terminology](terminology.qmd#term-agroenergy)
 
-**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position —  [Terminology](terminology.qmd#term-archetype) · [5. Archetypes](archetypes.qmd)
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position —  [Terminology](terminology.qmd#term-archetype) · [Archetypal Forms](archetypes.qmd)
 
 ## B {.unnumbered}
 
@@ -60,17 +60,17 @@ under **S**.
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Terminology](terminology.qmd#term-colocation-integration)
 
-**Community & economic function** — the socioeconomic restorative function: durable local income, livability, and whether the burdens and the benefits land on the same people, built for the host community; the SCALE Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [Terminology](terminology.qmd#term-fn-community) · [Community & economic function](restorative-functions.qmd#sec-fn-community)
+**Community & economic function** — the socioeconomic restorative function: durable local income, livability, and whether the burdens and the benefits land on the same people, built for the host community; the outcomes footprint's Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [Terminology](terminology.qmd#term-fn-community) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
 **Community acceptance and benefit** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [Terminology](terminology.qmd#term-community-acceptance) · [The pressures](design-pressures.qmd#sec-pressures)
 
 **Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [Terminology](terminology.qmd#term-community-benefit)
 
-**Connectivity** — whether organisms can move into, through, and out of a site; designed at four scales, from fencing and mown strips to whether a regional fleet falls within dispersal distance — [Terminology](terminology.qmd#term-connectivity) · [Ecological function](restorative-functions.qmd#sec-fn-biodiversity)
+**Connectivity** — whether organisms can move into, through, and out of a site; designed at four scales, from fencing and mown strips to whether a regional fleet falls within dispersal distance — [Terminology](terminology.qmd#term-connectivity) · [Ecology](restorative-functions.qmd#sec-fn-biodiversity)
 
 **Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [Terminology](terminology.qmd#term-contract-grazing) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
-**Contract-led** — restoration mode: the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site; the mode the community and economic function runs on — [Terminology](terminology.qmd#term-contract-led) · [Community & economic function](restorative-functions.qmd#sec-fn-community)
+**Contract-led** — restoration mode: the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site; the mode the community and economic function runs on — [Terminology](terminology.qmd#term-contract-led) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
 ## D {.unnumbered}
 
@@ -82,7 +82,7 @@ under **S**.
 
 **Design levers** — the six kinds of decision a project can make, and the only things anyone can change: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
 
-**Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [3. Design Pressures](design-pressures.qmd)
+**Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [Design Pressures](design-pressures.qmd)
 
 **Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](design-pressures.qmd#sec-rg-resource)
 
@@ -90,7 +90,7 @@ under **S**.
 
 ## E {.unnumbered}
 
-**Ecological function** — restorative function: what can live on the ground and what can move through it; habitat from the ground layer up, plus connectivity — [Terminology](terminology.qmd#term-fn-biodiversity) · [Ecological function](restorative-functions.qmd#sec-fn-biodiversity)
+**Ecological function** — restorative function: what can live on the ground and what can move through it; habitat from the ground layer up, plus connectivity — [Terminology](terminology.qmd#term-fn-biodiversity) · [Ecology](restorative-functions.qmd#sec-fn-biodiversity)
 
 **Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation; its ecological ground layer is a restorative function rather than an axis position, most often built at S3 — [Terminology](terminology.qmd#term-ecovoltaics)
 
@@ -114,7 +114,7 @@ under **S**.
 
 ## H {.unnumbered}
 
-**Hydrologic function** — restorative function: water quantity (infiltration, recharge, soil moisture, and at scale consumptive use retired from a basin's budget) and water quality by two routes needing opposite ground, avoided loading on the ground that leaches and interception on the flow path below it — [Terminology](terminology.qmd#term-fn-hydrologic) · [Hydrologic function](restorative-functions.qmd#sec-fn-hydrologic)
+**Hydrologic function** — restorative function: water quantity (infiltration, recharge, soil moisture, and at scale consumptive use retired from a basin's budget) and water quality by two routes needing opposite ground, avoided loading on the ground that leaches and interception on the flow path below it — [Terminology](terminology.qmd#term-fn-hydrologic) · [Water](restorative-functions.qmd#sec-fn-hydrologic)
 
 ## I {.unnumbered}
 
@@ -126,9 +126,9 @@ under **S**.
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [Terminology](terminology.qmd#term-ler)
 
-**Land sharing** — production continues on the ground the array occupies; the sharing wing of the axis (S1–S2). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-siting-axis) · [2. The Siting Axis](siting-axis.qmd)
+**Land sharing** — production continues on the ground the array occupies; the sharing wing of the axis (S1–S2). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
 
-**Land sparing** — ground comes out of production so other ground can be left alone; the sparing wing of the axis (S4–S5). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-siting-axis) · [2. The Siting Axis](siting-axis.qmd)
+**Land sparing** — ground comes out of production so other ground can be left alone; the sparing wing of the axis (S4–S5). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
 
 ## M {.unnumbered}
 
@@ -144,7 +144,7 @@ under **S**.
 
 **Operations and maintenance** — design pressure: minimize management burden across a 25–40 year asset life — [Terminology](terminology.qmd#term-operations-maintenance) · [The pressures](design-pressures.qmd#sec-pressures)
 
-**Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [5. Archetypes](archetypes.qmd)
+**Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [Archetypal Forms](archetypes.qmd)
 
 **Ownership-led** — restoration mode: the work is done by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
@@ -170,7 +170,7 @@ under **S**.
 
 **Restorative goals** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [Terminology](terminology.qmd#term-restorative-goals) · [The pressures](design-pressures.qmd#sec-pressures)
 
-**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one agricultural and one socioeconomic (community & economic) — [Terminology](terminology.qmd#term-restorative-function) · [4. Restorative Functions](restorative-functions.qmd)
+**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; two biophysical (water, ecology) plus one agricultural (agriculture and soils) and one socioeconomic (community and economy) — [Terminology](terminology.qmd#term-restorative-function) · [Restorative Functions](restorative-functions.qmd)
 
 ## S {.unnumbered}
 
@@ -184,15 +184,15 @@ under **S**.
 
 **S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](siting-axis.qmd#sec-positions)
 
-**outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
+**outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
 
-**Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [1. The Scale Transect](scale-transect.qmd)
+**Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Terminology](terminology.qmd#term-screening)
 
 **Siting Axis** — *see* Siting Axis — [Terminology](terminology.qmd#term-siting-axis)
 
-**Siting Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-siting-axis) · [2. The Siting Axis](siting-axis.qmd)
+**Siting Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
 
 **Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale constrains design leverage](restoration-modes.qmd#sec-siting-latitude)
 

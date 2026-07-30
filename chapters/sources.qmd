@@ -62,7 +62,7 @@ nocite: |
 
 **Land sharing / land sparing**
 
-- Green, R.E., Cornell, S.J., Scharlemann, J.P.W. & Balmford, A. (2005). Farming and the fate of wild nature. *Science* 307(5709):550–555. DOI 10.1126/science.1106049. — *canonical anchor for the sharing/sparing framing in §2.*
+- Green, R.E., Cornell, S.J., Scharlemann, J.P.W. & Balmford, A. (2005). Farming and the fate of wild nature. *Science* 307(5709):550–555. DOI 10.1126/science.1106049. — *canonical anchor for the sharing/sparing framing in §-@sec-siting-axis.*
 - Phalan, B., Onial, M., Balmford, A. & Green, R.E. (2011). Reconciling food production and biodiversity conservation: land sharing and land sparing compared. *Science* 333(6047):1289–1291. DOI 10.1126/science.1208742.
 
 **Deployment scale, land use, and cropland displacement**
