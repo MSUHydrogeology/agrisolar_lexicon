@@ -1,4 +1,4 @@
-# The Sharing–Sparing Axis {#sec-sharing-sparing}
+# The Siting Axis: Land Sharing to Land Sparing {#sec-sharing-sparing}
 
 The axis answers one question: **what happened to agricultural production on this ground?** Every ground-mounted project occupies one of five positions, S1 through S5, running from **land sharing**, where production continues on the ground the array occupies, to **land sparing**, where ground comes out of production so other ground can be left alone. The axis is largely independent of [scale](scale-transect.qmd): scale says what was available; position says what happened.
 

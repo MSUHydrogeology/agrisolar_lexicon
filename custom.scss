@@ -327,3 +327,14 @@ main.content > h1.unnumbered:first-child { display: none; }
 .lever-table tbody tr:nth-child(1) td:first-child { border-left: 4px solid #8a8880; }
 .lever-table tbody tr:nth-child(n+2):nth-child(-n+4) td:first-child { border-left: 4px solid #639922; }
 .lever-table tbody tr:nth-child(n+5) td:first-child { border-left: 4px solid #b5843a; }
+
+// Zone and position labels are names, not prose: let the first column size to
+// its content so "A1 — Farmstead" and "S1 — Full sharing" stay on one line and
+// the forms column takes the rest of the width.
+.zone-table table th:first-child,
+.zone-table table td:first-child,
+.position-table table th:first-child,
+.position-table table td:first-child {
+  white-space: nowrap;
+  width: 1%;
+}

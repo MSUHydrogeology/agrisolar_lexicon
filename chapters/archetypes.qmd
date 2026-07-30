@@ -2,34 +2,34 @@
 
 Certain designs keep turning up. A farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field: the same few arrangements appear on ground that has nothing else in common. They recur because the [pressures](terminology.qmd#term-design-pressures) bearing on a project are never evenly matched. [Build cost](design-pressures.qmd#sec-pressures) and [energy yield](design-pressures.qmd#sec-pressures) push hardest nearly everywhere, and where nothing pushes back the result is the same array anywhere in the country. Where something does push back, and keeps pushing through permitting and value engineering and the last round of cost cutting, the design settles into a shape that answers it. An **archetype** is one of those settled shapes.
 
-Scale and [sharing position](terminology.qmd#term-sharing-sparing) decide which pressures can win. A farmer who owns the herd, the array, and the labor can let agricultural production beat generation, because the array is sized to the parlor and nobody is asking it to clear a hurdle rate. At five hundred acres that argument has no one to make it, and restoration has to come from how the ground is run instead. This is also why an archetype can disappear: when the policy or the market that let a pressure win is withdrawn, the shape stops being built. Archetypes classify how the pressures were resolved, while [hardware taxonomies](terminology.qmd#term-overhead-interspace) classify what was built, and the two can be read together.
+Scale and [siting axis position](terminology.qmd#term-sharing-sparing) decide which pressures can win. A farmer who owns the herd, the array, and the labor can let agricultural production beat generation, because the array is sized to the parlor and nobody is asking it to clear a hurdle rate. At five hundred acres that argument has no one to make it, and restoration has to come from how the ground is run instead. This is also why an archetype can disappear: when the policy or the market that let a pressure win is withdrawn, the shape stops being built. Archetypes classify how the pressures were resolved, while [hardware taxonomies](terminology.qmd#term-overhead-interspace) classify what was built, and the two can be read together.
 
 Six featured archetypes carry a documented case each, ordered from farmstead to region, and seven others are sketched more briefly.
 
-## Where each form sits {#sec-scale-position}
+## Archetypes across scale and siting {#sec-scale-position}
 
 Every archetype below carries a compact code under its name: its [zone](scale-transect.qmd#sec-zones) on the scale transect, its [position](sharing-sparing-axis.qmd#sec-positions) on the sharing–sparing axis, and its [restoration mode](terminology.qmd#term-restoration-mode), meaning whether the restorative work is carried by the choice of ground, by the array's geometry, by how the site is run, or by what the contracts say. So `A1 · S1–S2 · management-led` reads as a farmstead array on ground the farm's own animals keep using, restored by how it is operated. The two tables sort the same forms by each coordinate in turn, with **featured archetypes in bold** and [the others](#sec-further-types) in plain text. Arrays mounted on buildings take no ground at all and sit at [A0](scale-transect.qmd#sec-zones), off both tables.
 
 ::: {.zone-table}
-| Zone | Indicative [footprint](terminology.qmd#term-footprint-influence) | Forms that recur here |
-|---|---|---|
-| **A1 — Farmstead** | under ~1 acre | [**Barnyard Shelter Solar**](#arch-barnyard) |
-| **A2 — Field** | ~0.5–8 acres | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) |
-| **A3 — Parcel** | ~6–30 acres | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Pollinator Meadow Solar](#arch-community-solar) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
-| **A4 — Landscape** | ~30–300 acres | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Solar Fencerows](#arch-vertical-bifacial) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
-| **A5 — Regional** | ~300 acres to 10,000+ | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
+| Zone | Forms that recur here |
+|---|---|
+| **A1 — Farmstead** | [**Barnyard Shelter Solar**](#arch-barnyard) |
+| **A2 — Field** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) |
+| **A3 — Parcel** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Pollinator Meadow Solar](#arch-community-solar) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A4 — Landscape** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Solar Fencerows](#arch-vertical-bifacial) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A5 — Regional** | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 :::
 
 The crowding at A3 is the [feasible wedge](sharing-sparing-axis.qmd#sec-wedge) in practical form: it is big enough that management matters and small enough to site strategically ([§-@sec-community-scale](scale-transect.qmd#sec-community-scale)), so more forms are open there than anywhere else on the [transect](terminology.qmd#term-scale-transect). A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
 
 ::: {.position-table}
-| Position | What happened to production | Forms that sit here |
-|---|---|---|
-| **S1 — Full sharing** | it continues in the same ground | [**Vegetable Agrivoltaics**](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [Vineyard and Orchard Canopy](#arch-permanent-crop) |
-| **S2 — Functional sharing** | a productive ground layer, subordinate to the array | [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Marginal Land Solar**](#arch-marginal) where stock stays on |
-| **S3 — Coexistence** | it stops, and the farm business carries on without the field | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
-| **S4 — Idled-land sparing** | it had already stopped before the array arrived | [**Marginal Land Solar**](#arch-marginal) · [Pivot-Corner Recharge](#arch-recharge) · [Brightfield](#arch-brightfield) · [Farm-Load Microgrid](#arch-microgrid) |
-| **S5 — Impaired-land retirement** | it ends on ground that was carrying an off-site burden | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Retired-Irrigation Solar**](#arch-water) |
+| Position | Forms that sit here |
+|---|---|
+| **S1 — Full sharing** | [**Vegetable Agrivoltaics**](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [Vineyard and Orchard Canopy](#arch-permanent-crop) |
+| **S2 — Functional sharing** | [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Marginal Land Solar**](#arch-marginal) where stock stays on |
+| **S3 — Coexistence** | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
+| **S4 — Idled-land sparing** | [**Marginal Land Solar**](#arch-marginal) · [Pivot-Corner Recharge](#arch-recharge) · [Brightfield](#arch-brightfield) · [Farm-Load Microgrid](#arch-microgrid) |
+| **S5 — Impaired-land retirement** | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Retired-Irrigation Solar**](#arch-water) |
 :::
 
 The sharing wing is thin and structure-led: holding a crop under panels takes geometry that costs money, so only three forms manage it. The sparing wing is where siting does the work. Grazing is the one form that reaches utility scale without giving up a productive ground layer, which is most of why it is the commonest restorative practice on large arrays.
@@ -43,7 +43,7 @@ The figures given for each form are indicative, drawn from the worked case and f
 
 ### Barnyard Shelter Solar {#arch-barnyard}
 
-[A1](scale-transect.qmd#sec-zones) · **[S1–S2](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)*
+[A1](scale-transect.qmd#sec-zones) · **[S1–S2](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 ![Barnyard shelter solar in section. The array is sized to the parlor rather than to the grid, which puts Agriculture nearest the center and Energy out at the rim. The drawing carries what the profile cannot: shade gathers the herd, and the ground beneath it compacts.](../figures/fig_arch_barnyard.svg){#fig-arch-barnyard}
 
@@ -55,7 +55,7 @@ The worked case sits on a University of Minnesota dairy, the West Central Resear
 
 ### Vegetable Agrivoltaics {#arch-vegetable}
 
-[A2–A3](scale-transect.qmd#sec-zones) · **[S1](sharing-sparing-axis.qmd#sec-positions)** · *[structure-led](scale-transect.qmd#sec-siting-latitude)*
+[A2–A3](scale-transect.qmd#sec-zones) · **[S1](sharing-sparing-axis.qmd#sec-positions)** · *[structure-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 ![Vegetable agrivoltaics in section. Clearance for hand work and rows spaced for the crop's light are both bought with generation, so Agriculture sits near the center and Energy reaches the rim. Shaded ground holds moisture the open rows lose.](../figures/fig_arch_vegetable.svg){#fig-arch-vegetable}
 
@@ -67,7 +67,7 @@ The fullest working example sits in Colorado, where **Jack's Solar Garden** puts
 
 ### Marginal Land Solar {#arch-marginal}
 
-[A2](scale-transect.qmd#sec-zones)–[A3](scale-transect.qmd#sec-zones) · **[S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)*
+[A2](scale-transect.qmd#sec-zones)–[A3](scale-transect.qmd#sec-zones) · **[S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 ![Marginal land solar in section. The siting decision is the archetype: the array takes the wet, stony corner and the field keeps farming. Communities sits nearest the center, because what the form delivers is income from ground that was not paying.](../figures/fig_arch_marginal.svg){#fig-arch-marginal}
 
@@ -79,7 +79,7 @@ At Cozy Cove Farm in Gurley, Alabama, a llama-and-alpaca farm set a 50-kilowatt 
 
 ### Solar Prairie Strips {#arch-prairie-strips}
 
-[A3](scale-transect.qmd#sec-zones) · **[S5](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)*
+[A3](scale-transect.qmd#sec-zones) · **[S5](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 ![Solar prairie strips in section. Landscapes comes almost to the center and Agriculture goes to the rim, which is the trade this form makes on purpose. The mechanism is visible: runoff intercepted on the contour, sediment held at the upslope edge, roots well below crop depth.](../figures/fig_arch_prairie_strips.svg){#fig-arch-prairie-strips}
 
@@ -91,7 +91,7 @@ Minnesota has a built case in **Ramsey Renewable Station**, where 3.4 megawatts 
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
-[A4–A5](scale-transect.qmd#sec-zones) · **[S2](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)*
+[A4–A5](scale-transect.qmd#sec-zones) · **[S2](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 ![Regenerative solar grazing in section. Energy sits nearest the center, and agriculture here is a tenancy rather than the farm's own operation, which is why Communities reaches the rim. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
 
@@ -103,7 +103,7 @@ One built case runs across Minnesota, where Aurora Solar's 150 megawatts of gene
 
 ### Retired-Irrigation Solar {#arch-water}
 
-[A4–A5](scale-transect.qmd#sec-zones) · **[S5](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)*
+[A4–A5](scale-transect.qmd#sec-zones) · **[S5](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 ![Retired-irrigation solar in section. Agriculture goes to the rim by design and Landscapes comes almost to the center. The dashed line is the counterfactual, and the claim holds only where governance keeps the saved water from being pumped somewhere else.](../figures/fig_arch_retired_irrigation.svg){#fig-arch-retired-irrigation}
 
@@ -119,42 +119,42 @@ Seven more forms, sketched rather than worked through, applying the same languag
 
 ### Solar Fencerows {#arch-vertical-bifacial}
 
-[A2–A4](scale-transect.qmd#sec-zones) · **[S1](sharing-sparing-axis.qmd#sec-positions)** · *[structure-led](scale-transect.qmd#sec-siting-latitude)*
+[A2–A4](scale-transect.qmd#sec-zones) · **[S1](sharing-sparing-axis.qmd#sec-positions)** · *[structure-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 Solar fencerows stand bifacial modules vertically in rows facing east and west, catching morning and evening sun and leaving the ground between them in crop. The rows run wide, around 8 m, because the machinery sets the spacing and the crop's light budget does not [@vaverkova2026]. That geometry gives the clean annual-arable [S1](sharing-sparing-axis.qmd#sec-positions) case overhead arrays miss. Frameless glass–glass modules and more posts per watt raise the build cost and thin the watts per acre, and whether an arable rotation can carry that premium on its own is unsettled.
 
 ### Pollinator Meadow Solar {#arch-community-solar}
 
-[A3](scale-transect.qmd#sec-zones) · **[S3](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)*
+[A3](scale-transect.qmd#sec-zones) · **[S3](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 Pollinator meadow solar seeds the whole site to a native [ground layer](terminology.qmd#term-ground-layer) and times mowing or grazing around bloom [@blaydes2022]. What holds the form together is the buying side: community-solar subscribers and pollinator-habitat certification give the planting a channel that pays for it [@epri2021]. Establishment takes several years and costs more to manage in that window than mowed turf, and how much of the habitat value persists once the site drops into routine maintenance is the part nobody has followed long enough to say.
 
 ### Restored-Grassland Solar {#arch-native-grassland}
 
-[A4–A5](scale-transect.qmd#sec-zones) · **[S3](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)*
+[A4–A5](scale-transect.qmd#sec-zones) · **[S3](sharing-sparing-axis.qmd#sec-positions)** · *[management-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 Restored-grassland solar puts a native seed mix under a large array and runs it on deferred or rotational mowing, treating the site as grassland restoration that happens to generate [@walston2025]. Row cropping ends, and the soil-carbon claim rides on the perennial cover that replaces it [@krasner2025; @carvalho2024]. It is the characteristic large-scale [convergence case](sharing-sparing-axis.qmd#sec-wedge) (§-@sec-wedge), and how many years a seeding needs before it reaches the condition the studies report is the open question.
 
 ### Pivot-Corner Recharge {#arch-recharge}
 
-[A2–A3](scale-transect.qmd#sec-zones) · **[S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)*
+[A2–A3](scale-transect.qmd#sec-zones) · **[S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 Pivot-corner recharge takes the dry corners a center pivot never reaches, ground already out of production, and grades them to send rainfall downward instead of off [@yavari2022]. The corners are small and awkward, so the generation is minor and what pays is a lease on ground that earned nothing. It is the supply-side counterpart to [retired-irrigation solar](#arch-water), which subtracts pumping demand across a district while this adds recharge on a few acres and the pivot circle keeps farming beside it. Kansas Geological Survey, Kansas State, and Michigan State researchers are testing it over the Ogallala; how much of that infiltration reaches the aquifer is the open question.
 
 ### Farm-Load Microgrid {#arch-microgrid}
 
-[A3–A4](scale-transect.qmd#sec-zones) · **[S3–S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)*
+[A3–A4](scale-transect.qmd#sec-zones) · **[S3–S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 A farm-load microgrid is sited against a heavy on-farm load, grain drying, cold storage, a feedlot, or a processing complex, with battery storage sized to shave peaks, ride through outages, or arbitrage time-of-use rates. The load is the offtake, which makes this the one form here organized around *when* power is used instead of around what the ground does, and the [community & economic function](restorative-functions.qmd#sec-fn-community) shows up as resilience rather than as rent. The ground layer is rarely the point at an industrial yard, and the storage economics depend on rate structures that can be rewritten.
 
 ### Vineyard and Orchard Canopy {#arch-permanent-crop}
 
-[A2–A4](scale-transect.qmd#sec-zones) · **[S1](sharing-sparing-axis.qmd#sec-positions)** · *[structure-led](scale-transect.qmd#sec-siting-latitude)*
+[A2–A4](scale-transect.qmd#sec-zones) · **[S1](sharing-sparing-axis.qmd#sec-positions)** · *[structure-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 Vineyard and orchard canopy runs a steerable canopy over a permanent crop, one panel row per crop row, closed for shelter and opened for ripening, on vines or trees whose 25 to 40 year life matches the array's. Build cost runs 1.8 to 2.7 times a conventional ground mount. Fruit-surface cooling is measured, with apple sunburn falling from 13% to 2% at half the radiation [@scalisi2026], and shade holds acidity by preserving turgor [@caravia2016]. The shelter case is weaker: an array is not a roof, so rain exclusion shown under continuous covers does not carry [@yu2022], excluding rain shifts the disease spectrum rather than shrinking it, and after two hail seasons the Austrian trial found the array deflecting stones into the next row.
 
 ### Brightfield {#arch-brightfield}
 
-[A3–A5](scale-transect.qmd#sec-zones) · **[S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)*
+[A3–A5](scale-transect.qmd#sec-zones) · **[S4](sharing-sparing-axis.qmd#sec-positions)** · *[siting-led](scale-transect.qmd#sec-siting-latitude)* restoration
 
 A brightfield puts an array on reclaimed mine land, a closed landfill, or a brownfield [@hernandez2019], ground that is cheap because nothing else will take it and welcome because the neighbors have watched it sit idle. Remediation drives the engineering, constraining what foundations can go in and what the ground layer can be, and constrained sites give up some generation. It is the standing [S4-at-A5 exception](sharing-sparing-axis.qmd#sec-wedge) (§-@sec-wedge), and whether enough such ground sits near enough to interconnection to matter at regional scale is unresolved.

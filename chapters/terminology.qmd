@@ -68,9 +68,9 @@ Grazing delivered as a contracted vegetation-management service by a party who d
 
 ## Sharing and sparing {#sec-terms-sharing}
 
-Developed in [§-@sec-sharing-sparing, The Sharing–Sparing Axis](sharing-sparing-axis.qmd).
+Developed in [§-@sec-sharing-sparing, The Siting Axis](sharing-sparing-axis.qmd).
 
-### Sharing–Sparing Axis {#term-sharing-sparing}
+### Siting Axis {#term-sharing-sparing}
 
 The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3. See [The Sharing–Sparing Axis](sharing-sparing-axis.qmd).
 
@@ -202,7 +202,7 @@ The field's usual word for what this lexicon calls a [restorative function](#ter
 
 ### SCALE footprint {#term-scale-footprint}
 
-A whole-project reading across four domains, Sustainable Communities, Agriculture, Landscapes, and Energy, each running from regeneration to depletion. Evaluative by design, but carrying direction rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
+A whole-project reading across four domains, Sustainable Communities, Agriculture, Landscapes, and Energy, each running from causing harm at the rim, through avoiding harm, to promoting benefit at the center (§-@sec-harm-benefit). Evaluative by design, but the ring where harm ends is a zero point rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
 
 ## Archetypes {#sec-terms-archetypes}
 
