@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="624" viewBox="0 0 1020 624" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img">
 <title>How the design language fits together</title>
 <desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the colour of the restoration mode it produces. Scale is neutral because it produces no mode. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the siting axis from S1 to S5, the restoration modes the setting leaves active, and the SCALE footprint, a reading across Sustainable Communities, Agriculture, Landscapes, and Energy that runs from causing harm at the rim to promoting benefit at the centre.</desc>
 <style>
@@ -63,51 +63,51 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="298" y1="150" x2="342" y2="150" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="196" x2="342" y2="196" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="242" x2="342" y2="242" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
-<line x1="510.0" y1="348" x2="510.0" y2="382" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
-<text class="eb" x="30" y="404">WHAT A SETTING PRODUCES</text>
-<text class="ot" x="30" y="446">scale transect position</text>
-<rect x="30" y="460" width="42" height="30" rx="5" fill="#EAF3DE" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="51.0" y="480" text-anchor="middle">A1</text>
-<rect x="76" y="460" width="42" height="30" rx="5" fill="#DCEBC8" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="97.0" y="480" text-anchor="middle">A2</text>
-<rect x="122" y="460" width="42" height="30" rx="5" fill="#C0DD97" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="143.0" y="480" text-anchor="middle">A3</text>
-<rect x="168" y="460" width="42" height="30" rx="5" fill="#AED483" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="189.0" y="480" text-anchor="middle">A4</text>
-<rect x="214" y="460" width="42" height="30" rx="5" fill="#97C459" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="235.0" y="480" text-anchor="middle">A5</text>
-<text class="ot" x="30" y="530">siting axis position</text>
-<rect x="30" y="544" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="51.0" y="564" text-anchor="middle">S1</text>
-<rect x="76" y="544" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="97.0" y="564" text-anchor="middle">S2</text>
-<rect x="122" y="544" width="42" height="30" rx="5" fill="#efeeea" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="143.0" y="564" text-anchor="middle">S3</text>
-<rect x="168" y="544" width="42" height="30" rx="5" fill="#d9cbe6" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="189.0" y="564" text-anchor="middle">S4</text>
-<rect x="214" y="544" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="235.0" y="564" text-anchor="middle">S5</text>
-<text class="ot" x="294" y="446">active restoration modes</text>
-<rect x="294" y="460" width="150" height="20" rx="5" fill="#c9a862"/>
-<text class="cw" x="369" y="474" text-anchor="middle">siting-led</text>
-<rect x="294" y="486" width="150" height="20" rx="5" fill="#a8894f"/>
-<text class="cw" x="369" y="500" text-anchor="middle">structure-led</text>
-<rect x="294" y="512" width="150" height="20" rx="5" fill="#86683a"/>
-<text class="cw" x="369" y="526" text-anchor="middle">management-led</text>
-<rect x="294" y="538" width="150" height="20" rx="5" fill="#e6e4dc"/>
-<text class="cw" x="369" y="552" text-anchor="middle" fill='#9c988e'>ownership-led</text>
-<rect x="294" y="564" width="150" height="20" rx="5" fill="#7d6b8f"/>
-<text class="cw" x="369" y="578" text-anchor="middle">contract-led</text>
-<text class="ot" x="556" y="446">restorative functions</text>
-<circle cx="730" cy="528" r="72" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
-<circle cx="730" cy="528" r="42" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
-<line x1="730" y1="528" x2="730.0" y2="456.0" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="730" y1="528" x2="802.0" y2="528.0" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="730" y1="528" x2="730.0" y2="600.0" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="730" y1="528" x2="658.0" y2="528.0" stroke="#e2e0d8" stroke-width="1"/>
-<polygon points="730.0,483.4 761.7,528.0 730.0,581.3 690.4,528.0" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
-<text class="sc" x="730" y="445" text-anchor="middle">Communities</text>
-<text class="sc" x="816" y="531" text-anchor="start">Agriculture</text>
-<text class="sc" x="730" y="617" text-anchor="middle">Landscapes</text>
-<text class="sc" x="644" y="531" text-anchor="end">Energy</text>
+<line x1="490.0" y1="346" x2="490.0" y2="378" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
+<text class="eb" x="30" y="406">WHAT A SETTING PRODUCES</text>
+<text class="ot" x="30" y="442">scale transect position</text>
+<rect x="30" y="456" width="42" height="30" rx="5" fill="#EAF3DE" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="51.0" y="476" text-anchor="middle">A1</text>
+<rect x="76" y="456" width="42" height="30" rx="5" fill="#DCEBC8" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="97.0" y="476" text-anchor="middle">A2</text>
+<rect x="122" y="456" width="42" height="30" rx="5" fill="#C0DD97" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="143.0" y="476" text-anchor="middle">A3</text>
+<rect x="168" y="456" width="42" height="30" rx="5" fill="#AED483" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="189.0" y="476" text-anchor="middle">A4</text>
+<rect x="214" y="456" width="42" height="30" rx="5" fill="#97C459" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="235.0" y="476" text-anchor="middle">A5</text>
+<text class="ot" x="30" y="522">siting axis position</text>
+<rect x="30" y="536" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="51.0" y="556" text-anchor="middle">S1</text>
+<rect x="76" y="536" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="97.0" y="556" text-anchor="middle">S2</text>
+<rect x="122" y="536" width="42" height="30" rx="5" fill="#efeeea" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="143.0" y="556" text-anchor="middle">S3</text>
+<rect x="168" y="536" width="42" height="30" rx="5" fill="#d9cbe6" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="189.0" y="556" text-anchor="middle">S4</text>
+<rect x="214" y="536" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="235.0" y="556" text-anchor="middle">S5</text>
+<text class="ot" x="300" y="442">active restoration modes</text>
+<rect x="300" y="456" width="182" height="20" rx="5" fill="#c9a862"/>
+<text class="cw" x="391" y="470" text-anchor="middle">siting-led</text>
+<rect x="300" y="482" width="182" height="20" rx="5" fill="#a8894f"/>
+<text class="cw" x="391" y="496" text-anchor="middle">structure-led</text>
+<rect x="300" y="508" width="182" height="20" rx="5" fill="#86683a"/>
+<text class="cw" x="391" y="522" text-anchor="middle">management-led</text>
+<rect x="300" y="534" width="182" height="20" rx="5" fill="#e6e4dc"/>
+<text class="cw" x="391" y="548" text-anchor="middle" fill='#9c988e'>ownership-led</text>
+<rect x="300" y="560" width="182" height="20" rx="5" fill="#7d6b8f"/>
+<text class="cw" x="391" y="574" text-anchor="middle">contract-led</text>
+<text class="ot" x="738" y="424" text-anchor="middle">restorative functions</text>
+<circle cx="738" cy="522" r="80" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
+<circle cx="738" cy="522" r="46" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="738" y1="522" x2="794.6" y2="465.4" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="738" y1="522" x2="794.6" y2="578.6" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="738" y1="522" x2="681.4" y2="578.6" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="738" y1="522" x2="681.4" y2="465.4" stroke="#e2e0d8" stroke-width="1"/>
+<polygon points="773.1,486.9 762.9,546.9 696.1,563.9 706.9,490.9" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
+<text class="sc" x="804" y="459" text-anchor="start">Communities</text>
+<text class="sc" x="804" y="591" text-anchor="start">Agriculture</text>
+<text class="sc" x="672" y="591" text-anchor="end">Landscapes</text>
+<text class="sc" x="672" y="459" text-anchor="end">Ecology</text>
 </svg>
