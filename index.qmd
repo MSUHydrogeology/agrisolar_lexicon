@@ -3,8 +3,8 @@
 ::: {.draft-note}
 **Working draft, circulated for comment.** Some citations are
 [not yet verified](chapters/sources.qmd) and are marked where they appear, and the
-[open issues](chapters/open-issues.qmd) record what this document has deliberately
-not settled.
+[evidence base](chapters/open-issues.qmd) says what is established, what is
+inferred, and what nobody has measured.
 :::
 
 ::: {.welcome}
@@ -49,7 +49,7 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 | [Restorative Functions](chapters/restorative-functions.qmd) | the four functions a design can be aimed at, the eight outcomes they carry, and which route each benefit travels to whoever receives it |
 | [Archetypal Forms](chapters/archetypes.qmd) | recurring settings of the levers that already exist on real ground, six worked through and seven sketched, from barnyard shelter to solar prairie strips |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
-| [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
+| [Evidence Base and Research Needs](chapters/open-issues.qmd) | how well each claim is evidenced, stated once rather than hedged everywhere, and the measurements that would settle what is still inferred |
 | [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
 : The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
 
