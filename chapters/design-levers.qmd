@@ -69,9 +69,9 @@ Three things come out of a lever setting, and the rest of this document is organ
 
 **The restorative functions.** Each of the six in §-@sec-functions is produced by a particular lever or pair, which is what the middle column of @fig-functions-overview records: microclimate is structural, soil and carbon is structural at construction and managed afterward, habitat is managed, water is sited and then managed, and the community function is contractual. Ownership is the exception, because it produces no function of its own and instead decides who captures the ones that are produced.
 
-## Which lever did the work {#sec-lv-mode}
+## Restoration modes: which lever did the work {#sec-lv-mode}
 
-Naming the levers makes a question askable that is otherwise vague: when a project turns out to be restorative, which lever did it? The answer is the project's **restoration mode**. Five of the six levers name one directly.
+Naming the levers makes a question askable that is otherwise vague: when a project turns out to be restorative, which lever did it? The answer is the project's [**restoration mode**](terminology.qmd#term-restoration-mode). Five of the six levers name one directly.
 
 - **Siting-led** — the restorative work is done by the choice of ground. [Solar prairie strips](archetypes.qmd#arch-prairie-strips) are the case, because the planting goes where the runoff already goes.
 - **Structure-led** — the array's geometry does it: clearance, row spacing, how much light the modules let through. [Barnyard shelter](archetypes.qmd#arch-barnyard) is the case.

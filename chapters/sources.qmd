@@ -108,6 +108,10 @@ nocite: |
 - Gallaher, A., Koch, T., Kalies, E.L., Woodbury, P.B. & Grodsky, S.M. (2026). Sustainability trade-offs at the nexus of solar energy, agriculture, and biodiversity. *Geography and Sustainability* 7:100483. DOI 10.1016/j.geosus.2026.100483. — *the New York State optimization behind §-@sec-sharing-sparing's displacement boundary, §-@sec-conflicts's 0.17% cost result, and §-@sec-regionality's prior-land-cover contrast.*
 - Brock, C., Roehrdanz, P.R., Beringer, T., Chaplin-Kramer, R., Enquist, B.J., Frazier, A.E., et al. (2026). Balancing land use for conservation, agriculture, and renewable energy. *Nature Communications* 17:3623. DOI 10.1038/s41467-026-69952-6. — *global multi-sector land allocation; cited in §-@sec-open-issues for its explicit inability to represent co-location, which is the space this lexicon describes.*
 
+**Siting drivers and land-class economics (§-@sec-restoration-modes)**
+
+- Wu, G.C., Min, Y., Deshmukh, R., Cartwright, P., DeCesaro, J., Kerstan, D., Somasundaram, D. & Strecker, H. (2026). Factors shaping the siting of utility-scale solar and wind projects in the United States. *Environmental Research Letters* 21(9):094003. DOI 10.1088/1748-9326/ae5faa. — *what utility-scale siting actually responds to: roads, transmission, substations, population density, non-forested cover, flatter terrain. Cited for the mechanism behind assembly-driven placement. Note the limit: the study uses a 1 MW floor and treats each project as one observation, so it does not test whether siting drivers differ by project size, and cannot on its own support the contrast this document draws with smaller projects.*
+
 **Design theory borrowed from architecture (§-@sec-levers-ch)**
 
 - Brand, S. (1994). *How Buildings Learn: What Happens After They're Built.* Viking, New York. — *the shearing-layers argument, after Frank Duffy: a building is several layers of differing longevity, and a design works when the fast layers can move without tearing the slow ones. The lexicon borrows the pattern rather than the layers, to explain why management is both the most powerful lever at utility scale and the most fragile.*
@@ -140,6 +144,10 @@ nocite: |
 - **Bessette, D.L., White, J., Mills, S.B., Hoen, B., Rand, J., Nilson, R. & Hoesch, K. (2024).** *Supporting community-centered solar development: a guide to hosting community conversations about large-scale solar development.* Michigan State University & Lawrence Berkeley National Laboratory (CCSD guidebook). — *REAL team publication; the community-benefit guidance behind §-@sec-fn-community, which the chapter is careful to label gray literature.*
 - **Gagnon, P., Margolis, R., Melius, J., Phillips, C. & Elmore, R. (2016).** *Rooftop Solar Photovoltaic Technical Potential in the United States: A Detailed Assessment.* NREL/TP-6A20-65298, Golden, CO. DOI 10.2172/1236153. — *the rooftop alternative to ground-mount siting; a 2016 assessment, so check it against a current edition before quoting a number.*
 - **U.S. Energy Information Administration (2024).** Today in Energy: solar and battery storage to make up 81% of new US electric-generating capacity in 2024 (eia.gov). — *agency web page; a single-year projection that is superseded annually — re-check the current release before citing.*
+
+**Land-class cost premiums (§-@sec-restoration-modes)**
+
+- Owusu-Obeng, P.Y., Shi, M., Vanatta, M. & Craig, M.T. (2025). *Beyond Prime Farmland: Solar Siting Tradeoffs for Cost-Effective Decarbonization.* arXiv:2511.07323. — *greenfield and prime agricultural land give the lowest levelized cost, roughly \$39–57/MWh, while contaminated land carries a 14–33% premium and limited technical potential. The source for the claim that the ground restoration most wants taken is the ground a cost model most wants avoided. Preprint, not peer-reviewed; trace to the published version before citing.*
 
 **Landscape-architecture prior art on maintenance (§-@sec-levers-ch)**
 
