@@ -12,7 +12,9 @@ not settled.
 ::: {.welcome}
 Solar and farming want the same flat, open, well-drained ground. An array can carry pollinator habitat or gravel, slow runoff or redirect it, shade stock, retire irrigation demand, or help sustain a farm. Those are design decisions.
 
-**Agrisolar** names solar generation on agricultural land, whether or not production continues below it. **Agrivoltaics** is the narrower case of crops or livestock inside the footprint. Direct crop production under or between panels remains a small share of built practice [@stid2022; @macknick2022].
+**Agrisolar** names solar generation on agricultural land, whether or not production continues below it. **Agrivoltaics** is the narrower case of crops or livestock inside the footprint. Direct crop production under or between panels is under two percent of built practice, and it carries a large share of the research attention [@stid2022; @macknick2022]. A working vocabulary has to describe the other ninety-eight percent as precisely as it describes the exception.
+
+Where the boundary is drawn decides what counts. Most accounting stops at the fence line, the top of the modules, and a meter into the soil. This document draws it around the farm operation and the community hosting it, so a lease that keeps a farm solvent, the water leaving the field, and the habitat next door are all inside the frame.
 
 **Restorative agrisolar design** holds that ecological, hydrological, and community function belong among a project's objectives. This document gives that claim a vocabulary that can be tested on real ground.
 :::
@@ -21,7 +23,9 @@ Solar and farming want the same flat, open, well-drained ground. An array can ca
 
 A solar grazier, township planner, hydrologist, and developer can describe the same eighty acres in incompatible terms. This lexicon is for the people deciding what an array does to an operation and a place.
 
-A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of the contiguous United States [@larson2021]. Much of it will be farmland.
+Those decisions are being made now, and mostly in an information-poor setting: townships write ordinances without comparable data, developers and neighbors argue past each other, and several states have moved permitting authority away from the communities that host the projects [@susskind2022; @bessette2024]. Shared terms will not resolve those arguments. They let people find out what they are actually arguing about.
+
+The build-out is not a forecast. Around 15,000 ground-mounted arrays already cover some 3,000 km² of the United States; roughly half of that ground was cropland beforehand and another third agricultural grassland [@stid2022; @sturchio2025croplands]. A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of the contiguous United States [@larson2021]. Most of what comes next will be farmland too.
 
 ## How the language works
 
