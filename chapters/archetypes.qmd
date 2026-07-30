@@ -18,6 +18,7 @@ Every archetype below carries a compact code under its name: its [zone](scale-tr
 | **A3 — Parcel** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Pollinator Meadow Solar](#arch-community-solar) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
 | **A4 — Landscape** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Solar Fencerows](#arch-vertical-bifacial) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
 | **A5 — Regional** | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
+: Which forms recur at each zone. Bold entries are the six developed in full below; the rest are sketched. Crowding at A3 is the feasible wedge in practical form. {#tbl-forms-by-zone}
 :::
 
 The crowding at A3 is the [feasible wedge](siting-axis.qmd#sec-wedge) in practical form: it is big enough that management matters and small enough to site strategically ([§-@sec-community-scale](restoration-modes.qmd#sec-community-scale)), so more forms are open there than anywhere else on the [transect](terminology.qmd#term-scale-transect). A listed form has been built at that scale; climate, soil, water, market, and neighbors still decide whether it fits a particular site.
@@ -30,6 +31,7 @@ The crowding at A3 is the [feasible wedge](siting-axis.qmd#sec-wedge) in practic
 | **S3 — Coexistence** | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
 | **S4 — Idled-land sparing** | [**Marginal Land Solar**](#arch-marginal) · [Pivot-Corner Recharge](#arch-recharge) · [Brightfield](#arch-brightfield) · [Farm-Load Microgrid](#arch-microgrid) |
 | **S5 — Impaired-land retirement** | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Retired-Irrigation Solar**](#arch-water) |
+: The same forms arranged by what happened to agricultural production, rather than by size. A form appearing at more than one position is one whose ground layer can be run more than one way. {#tbl-forms-by-position}
 :::
 
 The sharing wing is thin and structure-led: holding a crop under panels takes geometry that costs money, so only three forms manage it. The sparing wing is where siting does the work. Grazing is the one form that reaches utility scale without giving up a productive ground layer, which is most of why it is the commonest restorative practice on large arrays.

@@ -64,10 +64,6 @@
   padding: 0.35rem 0.5rem;
   vertical-align: top;
 }
-.zone-table thead th {
-  background-color: #d3d1c7;
-  color: #2c2c2a;
-}
 .zone-table tbody tr:nth-child(1) td { background-color: #eaf3de; } // A1
 .zone-table tbody tr:nth-child(2) td { background-color: #dcebc8; } // A2
 .zone-table tbody tr:nth-child(3) td { background-color: #c0dd97; } // A3
@@ -115,11 +111,6 @@ figure img,
   padding: 0.35rem 0.5rem;
   vertical-align: top;
 }
-.position-table thead th,
-.region-table thead th {
-  background-color: #d3d1c7;
-  color: #2c2c2a;
-}
 .region-table tbody td:first-child {
   background-color: #f6f5f1;
 }
@@ -166,10 +157,6 @@ figure img,
   border: 1px solid rgba(0, 0, 0, 0.08);
   padding: 0.4rem 0.55rem;
   vertical-align: top;
-}
-.pressure-table thead th {
-  background-color: #d3d1c7;
-  color: #2c2c2a;
 }
 .pressure-table tbody tr:nth-child(-n+3) td { background-color: #d5e7e2; color: #2c2c2a; } // toward
 .pressure-table tbody tr:nth-child(n+4):nth-child(-n+6) td { background-color: #efeeea; color: #2c2c2a; } // both ways
@@ -309,14 +296,6 @@ main.content > h1.unnumbered:first-child { display: none; }
   font-size: 0.93rem;
   border-collapse: collapse;
 }
-.lever-table thead th {
-  background-color: #efede8;
-  border-bottom: 2px solid #9c927f;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #6f6a5e;
-}
 .lever-table td, .lever-table th { padding: 0.55rem 0.7rem; vertical-align: top; }
 .lever-table tbody tr td:first-child { white-space: nowrap; }
 .lever-table tbody tr:nth-child(1) td { background-color: #e8e6e1; }   // scale, the frame
@@ -338,4 +317,34 @@ main.content > h1.unnumbered:first-child { display: none; }
 .position-table table td:first-child {
   white-space: nowrap;
   width: 1%;
+}
+
+// One heading style for every table in the book, taken from the lever table in
+// chapter 1. Tables differ in what their rows mean and are coloured accordingly;
+// the header should not also vary, because a reader uses it to recognize that
+// they are looking at a table rather than to tell one table from another.
+.zone-table thead th,
+.position-table thead th,
+.region-table thead th,
+.pressure-table thead th,
+.lever-table thead th,
+main.content table thead th {
+  background-color: #efede8;
+  border-bottom: 2px solid #9c927f;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6f6a5e;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+// Table captions read as captions, not as body text that happens to sit below.
+main.content caption,
+main.content .quarto-float-tbl figcaption {
+  font-size: 0.88rem;
+  color: #6f6d66;
+  text-align: left;
+  padding-top: 0.4rem;
 }

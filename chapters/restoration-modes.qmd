@@ -40,6 +40,7 @@ The lever the transect treats most sharply is **[siting latitude](terminology.qm
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Parcel size, and what the distribution line will take |
 | **A4–A5** | Little beyond the edges: setbacks, buffer planting, and what grows under the array | Contiguous acreage near a substation, a place in the queue, prime-farmland rules, and likely opposition |
 : Siting latitude along the transect. What a design can still choose about where the array goes, and what has already decided it. {#tbl-siting-latitude}
+
 :::
 
 Through A2 and A3 that latitude is the strongest instrument a design has, so the work there is **[siting-led](terminology.qmd#term-siting-led)**: the planting goes where the runoff already goes, and the array goes on the part of the field that never performed. At A1 there is almost nothing to choose among, and by A4 and A5 the ground has been chosen by other forces entirely.

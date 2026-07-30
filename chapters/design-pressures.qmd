@@ -18,6 +18,7 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 | **Operations and maintenance** | Cover that is simple to mow, or gravel that does not grow at all, for twenty-five to forty years | **Away, then toward.** Somebody mows that ground for the next thirty years. Gravel never needs mowing, which is how gravel wins. Natives cost more for three years and less every year after, so which way this pushes depends on how far ahead the owner is looking |
 | **Energy yield** | Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field | **Away.** This is why the standard array looks the way it does: low, tight, edge to edge. Not always opposed, though. Plants under the panels hold the dust down and keep the modules cool, and cool modules make more power [@merheb2025] |
 | **Build cost** | Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes | **Away.** Anything unusual costs more and somebody will ask why it is worth it. Sometimes the answer is cheap: siting New York's entire 2050 build around biodiversity came to 0.17% more than the cheapest version [@gallaher2026] |
+: The nine pressures and the direction each one pushes. Read the third column as a direction rather than a verdict on anyone advocating it, since every one of the nine has someone arguing for it in good faith. {#tbl-pressures}
 :::
 
 Read the third column as the direction a pressure pushes, not as a verdict on anyone advocating it. Every one of the nine has someone arguing for it in good faith, and a site with no build cost does not get built.
@@ -57,6 +58,7 @@ The nine act on every site and carry different weight in every region. Shade tha
 | **Latitude** | Sets sun angle, tilt, row spacing, and therefore [ground coverage](terminology.qmd#term-gcr). Wider northern rows give the ground layer more light and use more land; tighter southern arrays do the reverse. The resulting [pore space](terminology.qmd#term-pore-space) is why [vertical bifacial](terminology.qmd#term-module-technology) full sharing is not equally viable nationwide |
 | **Cropping system** | Decides whether keeping a crop under the panels is plausible at all. Leafy and root horticulture and many forage grasses tolerate moderate shade; C4 grains and many fruiting crops do not, so a maize and soybean region leans on grazing and on leases rather than on cropping through |
 | **Irrigation** | Makes [impaired-land retirement](terminology.qmd#term-s5) possible where a district exceeds its aquifer budget, because retiring demand saves water and solar makes the retirement pay. Rain-fed regions have no consumptive use to retire, and their water work is interception instead |
+: The six regional factors and what each one changes. The vocabulary travels between regions; the weights do not. {#tbl-regional-factors}
 :::
 
 ### A worked calibration: the United States {#sec-rg-us}
@@ -73,6 +75,7 @@ The table below is one [calibration](terminology.qmd#term-regional-calibration),
 | **Corn Belt** | Moderate GHI, moderate diffuse | Rain-fed; runoff and nutrient export | C4 grain, soybean | MISO / PJM, deep queues | Leases and grazing; hydrologic function as interception, via [prairie strips](archetypes.qmd#arch-prairie-strips) and pollinator ground layers |
 | **Great Lakes & Northeast** | Lowest GHI, highest diffuse fraction | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs, so mid-sized projects are real | Crops and stock kept on the ground at small and parcel scale; [vegetable agrivoltaics](archetypes.qmd#arch-vegetable), [barnyard shelter](archetypes.qmd#arch-barnyard) |
 | **Southeast** | Moderate-to-high GHI, humid and cloudy | Humid; rainfall intensity | Row crop, pasture, poultry | Largely non-ISO, utility-led | Grazing at scale, and leases with managed ground layers |
+: One regional calibration of the United States, offered as a worked example rather than a finding. Read each row as a starting hypothesis: a region doing something its profile says it should not is the most useful contribution this chapter can receive. {#tbl-us-calibration}
 :::
 
 Read each row as a starting hypothesis, not an assignment. Counterexamples are worth reporting.

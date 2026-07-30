@@ -31,6 +31,8 @@ The numbers are stable so the questions can be cited. Items settled as the work 
 | **Whether co-located ground supports biodiversity the way unbuilt ground does.** | §-@sec-fn-biodiversity, and the stated gap in @brock2026 | Comparative survey across co-located, conventional, and unbuilt sites in the same landscape. |
 | **Which benefit structures deliver durable, fairly-shared benefit.** The instruments are known; their outcomes are not. | §-@sec-fn-community | Longitudinal work on host communities rather than one-time acceptance surveys, with landowner and tenant reported separately. |
 
+: The measurements that would settle claims this document has to make on inference. Each is flagged where the chapters raise it, so a reader can check the claim rather than take the priority on faith. {#tbl-measurement-gaps}
+
 The first of these is the one with the most resting on it. Interception is the water-quality route most projects could actually adopt, since it asks for a seed mix and a placement rather than for the retirement of a working field, and it is currently supported entirely by analogy.
 
 ## Numbers that circulate without a traceable source {#sec-rn-tracing}
