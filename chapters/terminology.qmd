@@ -206,7 +206,7 @@ A whole-project reading across four domains, Sustainable Communities, Agricultur
 
 ## Archetypes {#sec-terms-archetypes}
 
-Developed in [§-@sec-archetypes, Archetypes](archetypes.qmd).
+Developed in [§-@sec-archetypes, Archetypal Forms](archetypes.qmd).
 
 ### Archetype {#term-archetype}
 

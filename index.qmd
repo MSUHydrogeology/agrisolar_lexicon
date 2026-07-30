@@ -46,7 +46,7 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 | [The Siting Axis](chapters/siting-axis.qmd) | S1 to S5, what happened to agricultural production on the ground the array took |
 | [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how the levers get set, and the conflicts worth naming |
 | [Restorative Functions](chapters/restorative-functions.qmd) | the six things a design can be aimed at, how each is delivered, and how far the result carries |
-| [Archetypes](chapters/archetypes.qmd) | recurring lever settings that already exist on real ground, from barnyard shelter to solar prairie strips |
+| [Archetypal Forms](chapters/archetypes.qmd) | recurring lever settings that already exist on real ground, from barnyard shelter to solar prairie strips |
 | [Regionality](chapters/regionality.qmd) | why the same lever settings are right in California and wrong in Iowa |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
 | [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
