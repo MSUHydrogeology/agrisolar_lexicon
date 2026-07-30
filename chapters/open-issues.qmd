@@ -1,6 +1,6 @@
 # Open Issues and Research Needs {#sec-open-issues}
 
-What this document does not settle, in two registers. The first is about the vocabulary itself, where a term may be wrong or a distinction may not hold. The second is about the world, where the vocabulary is probably fine and nobody has taken the measurement. Both stay in the open because shared infrastructure earns trust by showing its seams.
+What this document does not settle, in two kinds. The first is about the vocabulary itself, where a term may be wrong or a distinction may not hold. The second is about the world, where the vocabulary is probably fine and nobody has taken the measurement. Both stay in the open because shared infrastructure earns trust by showing its seams.
 
 The research half holds only what the chapters already flagged, in the place they flagged it, so a reader can check the claim rather than take the priority on faith. It is arranged by remedy rather than by topic, because some gaps need a season of instrumentation, some need somebody to go to a primary table, and some need a project that does not exist yet to be built and reported.
 
