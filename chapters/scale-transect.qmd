@@ -4,6 +4,8 @@ Scale is the first of the six [design levers](design-levers.qmd): how much groun
 
 Scale earns a chapter because its consequences travel together. Interconnection posture, the decision unit, the permitting path, ground-layer management, and [siting latitude](#sec-siting-latitude) all shift as projects get bigger, and they shift closely enough that naming a position on the gradient tells you many things at once. That gradient is the **scale transect**, and A0 through A5 are named points along it rather than a separate kind of thing. What follows sets out why it is a gradient rather than a set of bins, what the zones are, how the instrument of restoration changes along the way, and why the middle of the transect behaves unlike either end.
 
+![**The scale transect.** Five zones from the farmstead to the region, with the attributes that move together along them. Capacity is an indicator rather than a definition, and the bands are indicative for the US Midwest. Building-mounted arrays are A0 and sit at the origin rather than on the gradient, because they take no ground at all. The bottom row is the design consequence and the reason the rest of the chapter exists: at the farmstead the restorative work is done by the hardware, in the middle by the choice of ground, and at scale by how the place is managed. Contract-led restoration is absent from that row on purpose, because it is the one mode scale does not ration.](../figures/fig_scale_transect.svg){#fig-scale-transect}
+
 ## A gradient, not a set of size bins {#sec-transect-why}
 
 A 30-kilowatt barn array and a 300-megawatt regional project are both solar on farmland, but their decision-makers, finance, grid connection, ground management, and possible land functions differ. **Scale** is therefore a transect: a gradient of attributes that change together, rather than a set of capacity bins. Capacity is a useful hint, not the definition. The zones below are calibration points on that gradient in the sense the rural-to-urban transect uses them, which is to say named places to stand rather than boxes with walls. Pressures shift continuously along it, a 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as being near a boundary. What moves together is:
@@ -38,9 +40,7 @@ Building-mounted arrays are **A0**: no ground to choose, manage, share, or spare
 
 **A4 spans a wide range and probably contains a break of its own, near 20 to 25 MW.** That is not a land threshold but a jurisdictional one: it is roughly where several states move siting authority from local boards to a state office, New York's being the clearest case. Below it a township still decides, and a design argument can be made to people who live there. Above it the venue changes and so does the audience. The lexicon has not split A4 on that line yet, because unlike the 5 MW boundary it rests on one attribute rather than several converging ones, but a reader working between 20 and 25 MW should expect the project to behave like the zone above rather than the zone below (§-@sec-open-issues, issue 1).
 
-![The Scale Transect. Interconnection posture, siting latitude, and restoration mode covary along a single gradient, which is what makes it a transect rather than a set of size bins.](../figures/fig_scale_transect.svg){#fig-scale-transect}
-
-These indicative bands fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
+The bands in the table fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
 
 :::: {#sec-grazing .example}
 **A worked example: grazing across the transect.** Take one practice, sheep grazing, and follow it from the farmstead to the region. The name never changes. The job changes three times.

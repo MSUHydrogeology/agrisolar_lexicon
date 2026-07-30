@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img">
 <title>The agroenergy scale transect, zones A1 to A5</title>
-<desc>Five zones from Farmstead to Regional, showing how interconnection posture, siting latitude, and restoration mode covary across the gradient.</desc>
+<desc>Five zones from Farmstead to Regional, showing how interconnection posture, siting latitude, and restoration mode covary across the gradient. At A1 the work is structure-led, because the operator controls the hardware and has almost no ground to choose among; latitude peaks at A2 to A3, where placement becomes the instrument; and by A4 to A5 placement is fixed and management carries the restoration.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .th{font-size:14px;font-weight:500;fill:#2c2c2a}
@@ -22,9 +22,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="zn" x="368" y="56" text-anchor="middle">A2 · Field</text>
 <text class="zc" x="368" y="76" text-anchor="middle">100 kW – 1 MW</text>
 <text class="zn" x="510" y="56" text-anchor="middle">A3 · Parcel</text>
-<text class="zc" x="510" y="76" text-anchor="middle">1 – 10 MW</text>
+<text class="zc" x="510" y="76" text-anchor="middle">1 – 5 MW</text>
 <text class="zn" x="652" y="56" text-anchor="middle">A4 · Landscape</text>
-<text class="zc" x="652" y="76" text-anchor="middle">10 – 50 MW</text>
+<text class="zc" x="652" y="76" text-anchor="middle">5 – 50 MW</text>
 <text class="zn" x="794" y="56" text-anchor="middle">A5 · Regional</text>
 <text class="zc" x="794" y="76" text-anchor="middle">50 MW +</text>
 
@@ -46,8 +46,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <line class="gl" x1="160" y1="206" x2="860" y2="206"/>
 <text class="rl" x="145" y="230" text-anchor="end">Restoration mode</text>
-<text class="ts" x="226" y="230" text-anchor="middle">siting-led</text>
-<text class="ts" x="368" y="230" text-anchor="middle">siting / structure</text>
+<text class="ts" x="226" y="230" text-anchor="middle">structure-led</text>
+<text class="ts" x="368" y="230" text-anchor="middle">structure / siting</text>
 <text class="ts" x="510" y="230" text-anchor="middle">siting-led</text>
 <text class="ts" x="652" y="230" text-anchor="middle">management-led</text>
 <text class="ts" x="794" y="230" text-anchor="middle">management-led</text>
