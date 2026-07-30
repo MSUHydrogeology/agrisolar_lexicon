@@ -22,7 +22,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="sub" x="526" y="50" text-anchor="middle">downstream</text>
 <text class="sub" x="585" y="50" text-anchor="middle">regional</text>
 <line x1="16" y1="58" x2="744" y2="58" stroke="#d3d1c7" stroke-width="1"/>
-<text class="nm" x="16" y="84">Water</text><text class="gl" x="16" y="99">what soaks in and what runs off</text>
+<text class="nm" x="16" y="84">Water</text><text class="gl" x="16" y="99">quantity, and what the runoff carries</text>
 <rect class="on" x="230" y="76" width="22" height="22" rx="3" stroke-dasharray="3 2"/><text class="pn" x="241" y="91" text-anchor="middle">S1</text>
 <rect x="256" y="76" width="22" height="22" rx="3" fill="#bfdaec"/><text class="pc" x="267" y="91" text-anchor="middle">S2</text>
 <rect x="282" y="76" width="22" height="22" rx="3" fill="#efeeea"/><text class="pc" x="293" y="91" text-anchor="middle">S3</text>

@@ -156,7 +156,7 @@ A restorative capacity a project can be designed to deliver, obtainable to varyi
 
 #### Hydrologic function {#term-fn-hydrologic}
 
-The site water balance as a design objective: infiltration and recharge raised, runoff slowed and filtered, soil moisture buffered, and, at scale, consumptive use retired from a basin's water budget. See [§4.1](4-restorative-functions.qmd#sec-fn-hydrologic).
+Water quantity and quality as design objectives. On **quantity**: infiltration and recharge raised, soil moisture buffered, and at scale consumptive use retired from a basin's budget. On **quality**, two routes needing opposite ground: **avoided loading**, siting on the leaching field so the fertilizer and pesticide programs stop with the cropping, and **interception**, siting on the flow path below it so runoff gives up its nutrients and sediment before reaching a channel. See [§4.1](4-restorative-functions.qmd#sec-fn-hydrologic).
 
 #### Soil & carbon function {#term-fn-soil}
 

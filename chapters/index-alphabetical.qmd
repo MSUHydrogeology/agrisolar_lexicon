@@ -106,7 +106,7 @@ under **S**.
 
 ## H
 
-**Hydrologic function** — restorative function: infiltration and recharge raised, runoff slowed and filtered, soil moisture buffered — and at scale, consumptive use retired from a basin's budget — [§7](7-terminology.qmd#term-fn-hydrologic) · [4.1 Hydrologic function](4-restorative-functions.qmd#sec-fn-hydrologic)
+**Hydrologic function** — restorative function: water quantity (infiltration, recharge, soil moisture, and at scale consumptive use retired from a basin's budget) and water quality by two routes needing opposite ground, avoided loading on the leaching field and interception on the flow path below it — [§7](7-terminology.qmd#term-fn-hydrologic) · [4.1 Hydrologic function](4-restorative-functions.qmd#sec-fn-hydrologic)
 
 ## I
 
