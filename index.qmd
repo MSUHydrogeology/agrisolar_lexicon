@@ -37,17 +37,17 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 **The aim is argued; the dimensions are left to the site.** This document takes a position on what agrisolar is *for*, and refuses to fix a clearance height or a row spacing, because the same lever settings that restore ground in one region deplete it in another. [Regionality](chapters/design-pressures.qmd#sec-regionality) is where that gets explicit.
 :::
 
-## What is in here
+## Chapter contents
 
 | Chapter | What it holds |
 |:--|:--|
-| [Design Levers](chapters/design-levers.qmd) | the six decisions a project can actually make |
-| [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how those decisions get made, and how the argument shifts by region |
-| [The Scale Transect](chapters/scale-transect.qmd) | A1 to A5, farmstead to region, and why the parcel scale is where local restoration can add up to a global number |
-| [The Siting Axis](chapters/siting-axis.qmd) | S1 to S5, what happened to agricultural production on the ground the array took |
-| [Restoration Modes and Potential](chapters/restoration-modes.qmd) | which lever carries the restorative work, how much range each keeps at each size, and the two different kinds of work called restoration |
-| [Restorative Functions](chapters/restorative-functions.qmd) | the six things a design can be aimed at, how each is delivered, and how far the result carries |
-| [Archetypal Forms](chapters/archetypes.qmd) | recurring lever settings that already exist on real ground, from barnyard shelter to solar prairie strips |
+| [Design Levers](chapters/design-levers.qmd) | the six decisions a project can actually make, three on the ground and two on paper, with scale setting the frame for all of them |
+| [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how those decisions get made, where they collide, and how their weights shift by region |
+| [The Scale Transect](chapters/scale-transect.qmd) | A1 to A5, farmstead to region, and how much of every other lever survives at each size |
+| [The Siting Axis](chapters/siting-axis.qmd) | S1 to S5, what happened to agricultural production on the ground the array took, and which positions each scale allows |
+| [Restoration Modes and Potential](chapters/restoration-modes.qmd) | which lever is made to carry the restorative work, how much each can still do at each size, why the parcel scale stands out, and the two different kinds of work called restoration |
+| [Restorative Functions](chapters/restorative-functions.qmd) | the four functions a design can be aimed at, the eight outcomes they carry, how each is delivered, and how far the result reaches |
+| [Archetypal Forms](chapters/archetypes.qmd) | recurring settings of the levers that already exist on real ground, six worked through and seven sketched, from barnyard shelter to solar prairie strips |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
 | [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
 | [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
