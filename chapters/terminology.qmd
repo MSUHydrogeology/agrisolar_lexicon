@@ -38,18 +38,18 @@ Arrays mounted on buildings, which take no ground at all: no siting latitude to 
 
 ### Siting latitude {#term-siting-latitude}
 
-The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [§-@sec-siting-latitude](scale-transect.qmd#sec-siting-latitude).
+The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [Design Levers](design-levers.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
 
 ### Restoration mode {#term-restoration-mode}
 
-Whether restorative work is delivered by the choice of ground, by array geometry, by how the array is run, or by what the contracts say. The first three are done on the ground and shift as siting latitude falls up the transect (§-@sec-siting-latitude); the fourth is done on paper and does not. Four modes:
+Which [design lever](#term-design-levers) actually carried the restorative work: the choice of ground, the array's geometry, how the array is run, or what the contracts say. Each mode names a lever, so there are four modes for six levers. Ownership has none of its own because an ownership structure is constituted on paper, which makes it contract-led, and scale has none because deciding how big to build is not itself a way of doing restorative work, only what settles which ways stay available. The first three modes are done on the ground and shift along the transect as siting latitude rises and falls (§-@sec-restoration-modes); the fourth is done on paper and does not shift at all. Four modes:
 
 - []{#term-siting-led}**Siting-led** — the restorative work is done by the choice of ground; requires the A2–A3 latitude to choose it.
 - []{#term-structure-led}**Structure-led** — array geometry does the work: clearance, row spacing, module transmissivity.
 - []{#term-management-led}**Management-led** — placement is a given, and the ground cover, grazing regime, and operational schedule carry everything. The dominant mode at A4–A5.
 - []{#term-contract-led}**Contract-led** — the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site. The mode the [community and economic function](#term-fn-community) runs on, and the one that decides whether the tenant is still farming in year twenty (§-@sec-fn-community).
 
-See [§-@sec-siting-latitude](scale-transect.qmd#sec-siting-latitude).
+See [Design Levers](design-levers.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-restoration-modes for which one dominates at each zone.
 
 ### Stocking density {#term-stocking-density}
 
@@ -169,7 +169,7 @@ Habitat built from the ground layer up: floral resources, nesting substrate, and
 
 ### Microclimate & thermal–water buffering function {#term-fn-microclimate}
 
-The array's reshaping of the near-surface and below-panel energy balance: shade lowers soil and canopy temperature, daytime vapor-pressure deficit and evaporative demand, raising soil moisture, while longwave sheltering lifts nighttime minima, most of all in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Its sign flips with climate and crop, and it is itself scale- and geometry-dependent (§-@sec-transect-why). See [§-@sec-fn-microclimate](restorative-functions.qmd#sec-fn-microclimate).
+The array's reshaping of the near-surface and below-panel energy balance: shade lowers soil and canopy temperature, daytime vapor-pressure deficit and evaporative demand, raising soil moisture, while longwave sheltering lifts nighttime minima, most of all in hot, water-limited settings [@barrongafford2019; @sturchio2025; @pinos2026]. Its sign flips with climate and crop, and it is itself scale- and geometry-dependent (§-@sec-zones). See [§-@sec-fn-microclimate](restorative-functions.qmd#sec-fn-microclimate).
 
 ### Agricultural function {#term-fn-agricultural}
 

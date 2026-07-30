@@ -4,9 +4,9 @@ Scale is the first of the six [design levers](design-levers.qmd): how much groun
 
 Scale earns a chapter because its consequences travel together. Interconnection posture, the decision unit, the permitting path, ground-layer management, and [siting latitude](#sec-siting-latitude) all shift as projects get bigger, and they shift closely enough that naming a position on the gradient tells you many things at once. That gradient is the **scale transect**, and A0 through A5 are named points along it rather than a separate kind of thing. What follows sets out why it is a gradient rather than a set of bins, what the zones are, how the instrument of restoration changes along the way, and why the middle of the transect behaves unlike either end.
 
-![**The scale transect.** Five zones from the farmstead to the region, and what each one leaves of every [design lever](design-levers.qmd). Capacity is an indicator rather than a definition, and the bands are indicative for the US Midwest. Building-mounted arrays are A0 and sit at the origin rather than on the gradient, because they take no ground at all. The bars are the argument: siting is opportunistic at the farmstead, widest in the middle, and taken away by land assembly at A5, while structure runs the other way and management arrives only once a project is large enough to pay somebody. Ownership is drawn as an arrow because it does not narrow, it moves, and the generation revenue moves with it. Contracts hold full strength throughout and change only in form. The last row is the [restoration mode](design-levers.qmd#sec-lv-mode) that follows from all of it, and contract-led is absent from that row on purpose, because it is the one mode scale does not ration.](../figures/fig_scale_transect.svg){#fig-scale-transect}
+![**The five zones.** Calibration points on the gradient rather than boxes with walls: named places to stand, so that a project near a boundary can be read as being near a boundary. Capacity is how a project is filed and acreage is how a place experiences it, so where the two disagree the acres are the better guide. Building-mounted arrays are **A0** and take no ground at all, which puts them at the origin of the gradient rather than on it.](../figures/fig_scale_transect.svg){#fig-scale-transect}
 
-## A gradient, not a set of size bins {#sec-transect-why}
+## Five zones on one gradient {#sec-zones}
 
 A 30-kilowatt barn array and a 300-megawatt regional project are both solar on farmland, but their decision-makers, finance, grid connection, ground management, and possible land functions differ. **Scale** is therefore a transect: a gradient of attributes that change together, rather than a set of capacity bins. Capacity is a useful hint, not the definition. The zones below are calibration points on that gradient in the sense the rural-to-urban transect uses them, which is to say named places to stand rather than boxes with walls. Pressures shift continuously along it, a 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as being near a boundary. What moves together is:
 
@@ -19,8 +19,6 @@ A 30-kilowatt barn array and a 300-megawatt regional project are both solar on f
 - **[Siting latitude](#sec-siting-latitude)**: opportunistic → strategic → decided by what land could be assembled near a substation
 
 Physical effects change with geometry and scale as well. Soil cooling and moisture retention are more consistent than air-temperature effects, which vary by site [@zhang2025].
-
-## The Zones {#sec-zones}
 
 ::: {.zone-table}
 | Zone | Indicative capacity | Indicative footprint | Interconnection | Decision unit | Ground-layer management |
@@ -43,32 +41,34 @@ Building-mounted arrays are **A0**: no ground to choose, manage, share, or spare
 The bands in the table fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
 
 :::: {#sec-grazing .example}
-**A worked example: grazing across the transect.** Take one practice, sheep grazing, and follow it from the farmstead to the region. The name never changes. The job changes three times.
+**A worked example: grazing across the transect.** Sheep grazing keeps the same name from the farmstead to the region, and stops being the same job about twice along the way. Following one practice across the zones shows what the transect is actually measuring, because nothing about the animal changes and almost everything about the arrangement does.
 
-Sheep generally fit standard racking; goats climb it and chew wiring, and cattle and horses are too large for standard clearances [@merheb2025], so the animal is settled before the scale question comes up.
+The choice of animal is made before the scale question arises. Sheep fit standard racking, goats climb it and chew wiring, and cattle and horses need more clearance than a standard array leaves them [@merheb2025], so in practice it is sheep or it is mowing.
 
 | Zone | Who grazes | Typical figures | The design problem |
 |:--|:--|:--|:--|
-| **A1–A2** | the farm's own flock | ~3 ewes/acre in New York and Michigan experience [@hartman2026]; 4–20 sheep/acre in rotational trials at Cornell | calibrating stocking to forage and weather rather than to a published rate |
-| **A3** | a contracted grazier | ~$300–500/acre/yr for vegetation management | making the design work for someone who does not live there |
-| **A4–A5** | a logistics enterprise | mowing medians across 54 utility-scale sites: $113/acre/yr at sheep-grazed sites, $121 at native-vegetation, $203 at turfgrass; herbicide $293 on gravel [@mccall2023] | water, gates, travel, and rotation between parcels that do not touch |
+| **A1–A2** | the farm's own flock | ~3 ewes/acre in New York and Michigan experience [@hartman2026]; 4–20 sheep/acre in rotational trials at Cornell | matching stocking to the forage and the weather in front of you, rather than to a published rate |
+| **A3** | a contracted grazier | ~$300–500/acre/yr for vegetation management | building a site that works for someone who does not live on it and visits on a schedule |
+| **A4–A5** | a logistics enterprise | mowing medians across 54 utility-scale sites: $113/acre/yr at sheep-grazed sites, $121 at native-vegetation, $203 at turfgrass; herbicide $293 on gravel [@mccall2023] | water, gates, hauling, and rotating a flock between parcels that do not touch each other |
 
 : Solar grazing across the transect. {#tbl-grazing}
 
-**Stocking density** (animals on the ground at one moment) and **carrying capacity** (what the forage feeds across a season) come apart as growth, use, and weather vary, which is why the A1–A2 figures are a range and not a rate.
+Two terms come apart here and are worth keeping apart. **Stocking density** is how many animals are on the ground at one moment, and **carrying capacity** is what the forage will feed across a season. Growth, utilization, and weather all move one without moving the other, which is why the A1–A2 figures above are a range rather than a rate.
 
-Establishment is the cost that surprises people. Per-activity costs at native and pollinator-friendly covers run *below* turfgrass, but total vegetation O&M came out slightly *higher*, because the first three to five years take more separate operations [@mccall2023]. Restorative ground cover is more expensive to establish and competitive afterward, so anyone arguing for it on cost savings should expect to meet an operator who has seen the establishment invoices.
+Establishment is the cost that catches people out. Measured per activity, native and pollinator-friendly covers run *below* turfgrass, and yet total vegetation O&M came out slightly *higher*, because the first three to five years take more separate passes across the site [@mccall2023]. Restorative ground cover is expensive to establish and competitive once established, so anyone arguing for it on cost savings alone should expect to meet an operator holding the establishment invoices.
 
-“Solar grazing” without a zone can mean three different practices.
+So “solar grazing” on its own names three different practices, and which one a person means is usually settled by the size of the project they last worked on.
 ::::
 
 ::: {.caution}
 **Citation caution.** The figures in the table above are widely misquoted with the activity labels transposed, reporting the mowing cost incurred *at* grazing sites as the cost *of* grazing. @stewart2025 give McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr. Go to @mccall2023 directly.
 :::
 
-## Siting latitude and the restoration mode shift {#sec-siting-latitude}
+## Scale constrains design leverage {#sec-siting-latitude}
 
-One item in that list decides which restorative moves are available at all: **siting latitude**, the freedom to choose where the array goes. What controls it changes as projects get bigger.
+Every one of the six [design levers](design-levers.qmd) is available at every size. None of them holds the same range throughout, and the pattern is not a general loss of freedom as projects grow: three levers narrow or widen against each other, and two barely move at all.
+
+**Siting latitude** is the freedom to choose where the array goes, and it is the lever the transect treats most sharply. What governs it changes as projects get bigger.
 
 | Zone | What decides where it goes | Who actually chooses |
 |---|---|---|
@@ -77,16 +77,23 @@ One item in that list decides which restorative moves are available at all: **si
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
 | **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
 
-As projects grow, restoration changes instrument. All six [design levers](design-levers.qmd) remain available at every size, but not at the same strength, and @fig-scale-transect sets out what the transect does to each of them. Three narrow or widen, ownership moves rather than narrows, and contracts change form without losing strength.
+**Structure** runs the opposite way and peaks where siting is weakest. At the farmstead an array is built to fit a particular yard, at a clearance the herd needs, out of whatever the local installer can source, because nothing about it has to be repeatable. Through the field and parcel zones the geometry answers to a crop. By A4 and A5 racking is a commodity bought by the megawatt, and the structural decision that still matters most is how much earth the system obliges anyone to move.
 
-Siting and management are the pair that cross, around A3–A4, and that crossing is what @fig-siting-latitude draws. Which element did the restorative work is the project's [restoration mode](design-levers.qmd#sec-lv-mode), the third tag the archetypes carry: **siting-led** where the work is done by choosing the ground, **structure-led** where the hardware does it, **management-led** where placement is fixed and the ground cover and grazing carry everything, and **contract-led** where it happens on paper and scale has no say at all.
+**Management** barely exists at A1, where the work is done by hand alongside the rest of the farm, and carries everything at A4 and A5, where seeding and grazing are contracted enterprises with their own line in the budget. That is the crossing: siting and management trade places between A3 and A4.
 
+![What scale leaves of each lever. Siting is opportunistic at the farmstead, widest in the middle, and taken away at A5 by land assembly and the interconnection queue. Structure runs the other way, widest where an array can be built for one particular yard and narrowest where racking is bought by the megawatt. Management arrives only once a project is large enough to pay somebody to seed and graze it. Siting and management cross between A3 and A4, and that crossing is where the dominant restoration mode changes. Ownership and contracts are drawn as a flat band rather than curves because they act on paper: scale changes their form and not their strength, and a lease is a lease at eighty acres and at eight thousand. Ownership is the one that moves rather than narrows, from operator to landowner to developer capital to a utility, and the generation revenue moves with it.](../figures/fig_siting_latitude.svg){#fig-siting-latitude}
 
-![How the freedom to choose ground trades off against the ability to manage it. Siting latitude is how much say you have over where the array goes. It peaks in the middle of the transect: at A1 the property line leaves almost nothing to choose among, and at A5 the choice belongs to the land market and the interconnection queue. Management leverage runs the other way, because contract grazing, professional seeding, and dedicated maintenance barely exist below a certain size and are routine above it. The two cross between A3 and A4, and that crossing is where the instrument changes: below it you restore land by choosing which ground to take, above it by deciding how the ground is run. Restoration does not fall away with scale, it changes tool.](../figures/fig_siting_latitude.svg){#fig-siting-latitude}
+**Ownership and contracts do not follow the curves at all**, which is why the figure draws them as a band. A lease exists at every zone and every term in it is written by somebody, so what scale changes is the form: the household at A1, a good-neighbor understanding at A2, a PILOT and a subscription from A3 up. Ownership is the odd one, because it neither narrows nor holds steady. It moves, from owner-operator through landowner and developer capital to a utility, and the generation revenue moves with it.
 
-At utility scale, restorative practice is mainly ground cover and grazing; at small and mid scale it is mainly placement [@macknick2022; @boggis2020]. Latitude peaks at A2–A3, bounded by the property line at A1 and land assembly and grid access at A5. That is why siting-led forms such as [solar prairie strips](archetypes.qmd#arch-prairie-strips) and [marginal land solar](archetypes.qmd#arch-marginal) live in the middle zones.
+## Scale controls the dominant restoration mode {#sec-restoration-modes}
 
-## The middle of the transect {#sec-community-scale}
+Leverage is about what is available. The [restoration mode](design-levers.qmd#sec-lv-mode) is about what actually did the work, and because the levers wax and wane against each other, the mode changes predictably along the transect. At A1 the operator controls the hardware and has almost no ground to choose among, so the work is **structure-led**. Through A2 and A3 latitude opens and placement becomes the strongest instrument available, so it is **siting-led**. By A4 and A5 the ground has been chosen by the land market and the queue, and restoration is carried by what grows and how it is run, so it is **management-led**.
+
+At utility scale, restorative practice is mainly ground cover and grazing; at small and mid scale it is mainly placement [@macknick2022; @boggis2020]. That is why siting-led forms such as [solar prairie strips](archetypes.qmd#arch-prairie-strips) and [marginal land solar](archetypes.qmd#arch-marginal) live in the middle zones, and why a design that worked at A3 because of where it sat will not transfer to an A5 project however carefully the rest is copied.
+
+**Restoration does not fall away with scale. It changes tool.** That is the useful thing to take from the crossing, and it is the reason the transect is worth naming at all: a developer told that restoration belongs to small projects has been given the wrong lever rather than the wrong ambition. The fourth mode, **contract-led**, sits outside this pattern entirely, because contracts are the lever scale does not ration.
+
+## A3 has the most room to design {#sec-community-scale}
 
 A3 sits at the crossing in @fig-siting-latitude, and it is the only zone where both restorative instruments are available at once. A parcel of forty or eighty acres is big enough that management arrives: someone is hired to seed it, a grazier turns up with a flock, and maintenance has a line of its own in the budget. It is also still small enough to place deliberately, because a developer and a landowner can walk the ground together and decide which part of it the array takes. At A1 there is almost nothing to choose among, and by A5 the choice has already been made by whatever acreage could be assembled near a substation. A typical US crop field runs fifty to ninety acres, so an A3 array fits inside one or two of them, which means it also fits inside one owner's decision.
 

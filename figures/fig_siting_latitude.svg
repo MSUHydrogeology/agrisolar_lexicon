@@ -1,43 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="312" viewBox="0 0 760 312" role="img">
-<title>Siting latitude and management leverage across the scale transect</title>
-<desc>Siting latitude peaks in the middle of the transect and falls at large scale, while management leverage rises steadily. The curves cross between A3 and A4, where restoration shifts from siting-led to management-led.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="368" viewBox="0 0 880 368" role="img">
+<title>What scale leaves of each design lever</title>
+<desc>Three curves across the five zones. Structure starts highest at A1, where an array can be built to fit a particular yard, and falls to commodity racking at A5. Siting latitude is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Siting and management cross between A3 and A4, which is where the dominant restoration mode changes. Below the plot, a flat band shows ownership and contracts holding full range at every zone, because they act on paper rather than on ground and scale does not ration them.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.ts{font-size:14px;fill:#5f5e5a}
-.rl{font-size:15px;font-weight:600}
-.lg{font-size:13.5px}
-.fn{font-size:13px;fill:#5f5e5a}
-.ax{stroke:#b4b2a9;stroke-width:1}
-.gl{stroke:#d3d1c7;stroke-width:1;stroke-dasharray:3 3}
+.ax{font-size:11.5px;fill:#8a8880}
+.zl{font-size:12.5px;font-weight:600;fill:#173404}
+.cl{font-size:12.5px;font-weight:600}
+.cs{font-size:11px;fill:#75736c}
+.nt{font-size:11px;fill:#8a8880}
+.pl{font-size:12.5px;font-weight:600;fill:#5f5e5a}
 </style>
-
-<line class="ax" x1="58" y1="40" x2="58" y2="240"/>
-<line class="ax" x1="58" y1="240" x2="744" y2="240"/>
-
-<text class="ts" x="50" y="52" text-anchor="end">high</text>
-<text class="ts" x="50" y="238" text-anchor="end">low</text>
-
-<line class="gl" x1="475" y1="40" x2="475" y2="240"/>
-<text class="ts" x="475" y="32" text-anchor="middle">the instrument changes here</text>
-
-<path d="M100 128 L250 92 L400 104 L550 172 L715 214" fill="none" stroke="#1D9E75" stroke-width="3"/>
-<path d="M100 220 L250 198 L400 156 L550 106 L715 68" fill="none" stroke="#7F77DD" stroke-width="3" stroke-dasharray="8 5"/>
-
-<circle cx="100" cy="128" r="4.5" fill="#1D9E75"/><circle cx="250" cy="92" r="4.5" fill="#1D9E75"/><circle cx="400" cy="104" r="4.5" fill="#1D9E75"/><circle cx="550" cy="172" r="4.5" fill="#1D9E75"/><circle cx="715" cy="214" r="4.5" fill="#1D9E75"/>
-<circle cx="100" cy="220" r="4.5" fill="#7F77DD"/><circle cx="250" cy="198" r="4.5" fill="#7F77DD"/><circle cx="400" cy="156" r="4.5" fill="#7F77DD"/><circle cx="550" cy="106" r="4.5" fill="#7F77DD"/><circle cx="715" cy="68" r="4.5" fill="#7F77DD"/>
-
-<text class="rl" x="250" y="78" text-anchor="middle" fill="#0F6E56">siting latitude</text>
-<text class="rl" x="560" y="92" text-anchor="middle" fill="#534AB7">management leverage</text>
-
-<text class="ts" x="100" y="264" text-anchor="middle">A1</text>
-<text class="ts" x="250" y="264" text-anchor="middle">A2</text>
-<text class="ts" x="400" y="264" text-anchor="middle">A3</text>
-<text class="ts" x="550" y="264" text-anchor="middle">A4</text>
-<text class="ts" x="715" y="264" text-anchor="middle">A5</text>
-
-<rect x="100" y="280" width="310" height="24" rx="4" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.5"/>
-<rect x="475" y="280" width="240" height="24" rx="4" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.5"/>
-<text class="lg" x="255" y="296" text-anchor="middle" fill="#0F6E56">siting-led restoration</text>
-<text class="lg" x="595" y="296" text-anchor="middle" fill="#3C3489">management-led restoration</text>
-
+<text class="ax" x="98" y="57" text-anchor="end">most</text>
+<text class="ax" x="98" y="218" text-anchor="end">least</text>
+<line x1="112" y1="214" x2="690" y2="214" stroke="#d3d1c7" stroke-width="1"/>
+<line x1="112" y1="46" x2="112" y2="214" stroke="#eceae3" stroke-width="1"/>
+<text class="zl" x="112" y="236" text-anchor="middle">A1</text>
+<line x1="256" y1="46" x2="256" y2="214" stroke="#eceae3" stroke-width="1"/>
+<text class="zl" x="256" y="236" text-anchor="middle">A2</text>
+<line x1="401" y1="46" x2="401" y2="214" stroke="#eceae3" stroke-width="1"/>
+<text class="zl" x="401" y="236" text-anchor="middle">A3</text>
+<line x1="546" y1="46" x2="546" y2="214" stroke="#eceae3" stroke-width="1"/>
+<text class="zl" x="546" y="236" text-anchor="middle">A4</text>
+<line x1="690" y1="46" x2="690" y2="214" stroke="#eceae3" stroke-width="1"/>
+<text class="zl" x="690" y="236" text-anchor="middle">A5</text>
+<line x1="473" y1="46" x2="473" y2="214" stroke="#b4b2a9" stroke-width="1" stroke-dasharray="3 3"/>
+<text class="nt" x="473" y="38" text-anchor="middle">the dominant mode changes here</text>
+<path d="M112,185 C173,185 196,97 256,97 C317,97 340,52 401,52 C462,52 485,146 546,146 C606,146 629,195 690,195" fill="none" stroke="#639922" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="112" cy="185" r="3" fill="#639922"/>
+<circle cx="256" cy="97" r="3" fill="#639922"/>
+<circle cx="401" cy="52" r="3" fill="#639922"/>
+<circle cx="546" cy="146" r="3" fill="#639922"/>
+<circle cx="690" cy="195" r="3" fill="#639922"/>
+<path d="M112,52 C173,52 196,81 256,81 C317,81 340,117 401,117 C462,117 485,162 546,162 C606,162 629,188 690,188" fill="none" stroke="#5f7fa8" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="112" cy="52" r="3" fill="#5f7fa8"/>
+<circle cx="256" cy="81" r="3" fill="#5f7fa8"/>
+<circle cx="401" cy="117" r="3" fill="#5f7fa8"/>
+<circle cx="546" cy="162" r="3" fill="#5f7fa8"/>
+<circle cx="690" cy="188" r="3" fill="#5f7fa8"/>
+<path d="M112,195 C173,195 196,162 256,162 C317,162 340,104 401,104 C462,104 485,60 546,60 C606,60 629,52 690,52" fill="none" stroke="#b5843a" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="112" cy="195" r="3" fill="#b5843a"/>
+<circle cx="256" cy="162" r="3" fill="#b5843a"/>
+<circle cx="401" cy="104" r="3" fill="#b5843a"/>
+<circle cx="546" cy="60" r="3" fill="#b5843a"/>
+<circle cx="690" cy="52" r="3" fill="#b5843a"/>
+<text class="cl" x="702" y="56" fill="#b5843a">management</text>
+<text class="cl" x="702" y="192" fill="#5f7fa8">structure</text>
+<text class="cl" x="702" y="216" fill="#639922">siting</text>
+<rect x="112" y="266" width="578" height="26" rx="4" fill="#f2f1ec" stroke="#c9c6bc" stroke-width="1" stroke-dasharray="4 3"/>
+<text class="pl" x="126" y="284">ownership · contracts</text>
+<text class="nt" x="676" y="284" text-anchor="end">full range at every zone</text>
+<text class="nt" x="112" y="314">The three curves act on ground, and scale rations them. The two on paper are a flat band because scale changes</text>
+<text class="nt" x="112" y="330">their form and not their strength. Ownership is the exception that moves rather than narrows, from operator to utility.</text>
 </svg>
