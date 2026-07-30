@@ -194,7 +194,7 @@ under **S**.
 
 **Siting Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-siting-axis) · [2. The Siting Axis](siting-axis.qmd)
 
-**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale constrains design leverage](scale-transect.qmd#sec-siting-latitude)
+**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale constrains design leverage](restoration-modes.qmd#sec-siting-latitude)
 
 **Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [Terminology](terminology.qmd#term-siting-led) · [Scale controls the dominant restoration mode](restoration-modes.qmd#sec-restoration-modes)
 

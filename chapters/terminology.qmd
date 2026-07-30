@@ -150,7 +150,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 ### Design levers {#term-design-levers}
 
-The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](scale-transect.qmd#sec-siting-latitude) for the levers read against the transect.
+The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
 
 ## Restorative functions {#sec-terms-functions}
 
