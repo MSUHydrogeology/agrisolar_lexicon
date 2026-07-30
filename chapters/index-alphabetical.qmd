@@ -48,8 +48,6 @@ under **S**.
 
 **Benefit delivery** — how a function's benefit reaches whoever receives it: by proximity, by channel, or by preservation; a restorative claim is not checkable until its delivery is named — [Terminology](terminology.qmd#term-benefit-delivery) · [Where each function applies](restorative-functions.qmd#sec-benefit-range)
 
-**Biodiversity & habitat function** — restorative function: habitat built from the ground layer up, with mowing and grazing *timing* as decisive as the seed mix; reachable across S2–S5 — [Terminology](terminology.qmd#term-fn-biodiversity) · [Biodiversity & habitat function](restorative-functions.qmd#sec-fn-biodiversity)
-
 **Build cost** — design pressure: minimize installed cost per watt — [Terminology](terminology.qmd#term-build-cost) · [The pressures](design-pressures.qmd#sec-pressures)
 
 ## C {.unnumbered}
@@ -67,6 +65,8 @@ under **S**.
 **Community acceptance and benefit** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [Terminology](terminology.qmd#term-community-acceptance) · [The pressures](design-pressures.qmd#sec-pressures)
 
 **Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [Terminology](terminology.qmd#term-community-benefit)
+
+**Connectivity** — whether organisms can move into, through, and out of a site; designed at four scales, from fencing and mown strips to whether a regional fleet falls within dispersal distance — [Terminology](terminology.qmd#term-connectivity) · [Ecological function](restorative-functions.qmd#sec-fn-biodiversity)
 
 **Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [Terminology](terminology.qmd#term-contract-grazing) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
@@ -89,6 +89,8 @@ under **S**.
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [Terminology](terminology.qmd#term-dual-use)
 
 ## E {.unnumbered}
+
+**Ecological function** — restorative function: what can live on the ground and what can move through it; habitat from the ground layer up, plus connectivity — [Terminology](terminology.qmd#term-fn-biodiversity) · [Ecological function](restorative-functions.qmd#sec-fn-biodiversity)
 
 **Ecovoltaics** — solar development incorporating ecological understanding into array design and management, co-prioritizing ecosystem function with generation; its ecological ground layer is a restorative function rather than an axis position, most often built at S3 — [Terminology](terminology.qmd#term-ecovoltaics)
 

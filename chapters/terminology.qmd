@@ -166,9 +166,13 @@ Water quantity and quality as design objectives. On **quantity**: infiltration a
 
 Perennial, low-disturbance cover rebuilding soil organic carbon and aggregate stability under and between the panels, against a construction-disturbance debt paid first. See [§-@sec-fn-soil](restorative-functions.qmd#sec-fn-soil).
 
-### Biodiversity & habitat function {#term-fn-biodiversity}
+### Ecological function {#term-fn-biodiversity}
 
-Habitat built from the ground layer up: floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix. Reachable across S2–S5, which is why it is a function and not a position. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
+What can live on the ground and what can move through it. Habitat is built from the ground layer up, through floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix; [connectivity](#term-connectivity) is the other half. Reachable across S2–S5, which is why it is a function and not a position. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
+
+### Connectivity {#term-connectivity}
+
+Whether organisms can move into, through, and out of a site, as against whether the site can feed them once they arrive. It is designed at four scales at once: inside the array by fencing, roads, and mown strips; at the edge by whether the planting meets an existing corridor; across a landscape by the choice between a few large arrays and many small ones; and at regional range by whether a fleet of sites falls within dispersal distance of one another. Connectivity is a property of the arrangement rather than of any one patch, and the scale on which it matters is set by the disperser, so a connectivity claim means little until it names the taxon. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
 
 ### Microclimate & thermal–water buffering function {#term-fn-microclimate}
 
