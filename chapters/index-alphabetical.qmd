@@ -32,6 +32,8 @@ under **S**.
 
 **Agricultural production** — design pressure: keep working land working — [§7](7-terminology.qmd#term-agricultural-production) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
+**Agricultural function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the sharing–sparing axis restated — [§7](7-terminology.qmd#term-fn-agricultural) · [4.5 Agricultural function](4-restorative-functions.qmd#sec-fn-agricultural)
+
 **Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the sharing–sparing axis — [§7](7-terminology.qmd#term-agrisolar)
 
 **Agrivoltaics** — crop or livestock production within the array footprint (S1–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [§7](7-terminology.qmd#term-agrivoltaics)
@@ -162,7 +164,7 @@ under **S**.
 
 **Restorative goals** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [§7](7-terminology.qmd#term-restorative-goals) · [3.1 The pressures](3-design-pressures.qmd#sec-pressures)
 
-**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one socioeconomic (community & economic) — [§7](7-terminology.qmd#term-restorative-function) · [4. Restorative Functions](4-restorative-functions.qmd)
+**Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; a column of the archetype × function matrix — four biophysical (hydrologic, soil & carbon, biodiversity & habitat, microclimate) plus one agricultural and one socioeconomic (community & economic) — [§7](7-terminology.qmd#term-restorative-function) · [4. Restorative Functions](4-restorative-functions.qmd)
 
 ## S
 

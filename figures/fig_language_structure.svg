@@ -113,16 +113,18 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="rt" x="440" y="304" text-anchor="middle">An archetype</text>
 <text class="rs" x="440" y="325" text-anchor="middle">a recurring way the three resolve on real ground — and what it is made to give back</text>
 
-<rect x="146" y="340" width="112" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="266" y="340" width="126" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="400" y="340" width="112" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="520" y="340" width="106" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<rect x="634" y="340" width="112" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
-<text class="fn" x="202" y="357" text-anchor="middle">water</text>
-<text class="fn" x="329" y="357" text-anchor="middle">soil &amp; carbon</text>
-<text class="fn" x="456" y="357" text-anchor="middle">biodiversity</text>
-<text class="fn" x="573" y="357" text-anchor="middle">microclimate</text>
-<text class="fn" x="690" y="357" text-anchor="middle">community</text>
+<rect x="173" y="340" width="62" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="243" y="340" width="94" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="345" y="340" width="82" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="435" y="340" width="92" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="535" y="340" width="82" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<rect x="625" y="340" width="82" height="26" rx="13" fill="#EFEEEA" stroke="#d3d1c7" stroke-width="0.75"/>
+<text class="fn" x="204" y="357" text-anchor="middle">water</text>
+<text class="fn" x="290" y="357" text-anchor="middle">soil &amp; carbon</text>
+<text class="fn" x="386" y="357" text-anchor="middle">biodiversity</text>
+<text class="fn" x="481" y="357" text-anchor="middle">microclimate</text>
+<text class="fn" x="576" y="357" text-anchor="middle">agriculture</text>
+<text class="fn" x="666" y="357" text-anchor="middle">community</text>
 
 <!-- ============ regionality band ============ -->
 <rect class="card" x="10" y="402" width="840" height="60" rx="7" stroke-dasharray="4 3"/>
