@@ -146,11 +146,11 @@
 <text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Ecology</text>
 <text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Water</text>
 
-<polygon points="690.0,111.7 712.1,150.0 690.0,177.6 638.1,150.0" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="690.0" cy="111.7" r="2.2" fill="#2c5580"/>
-<circle cx="712.1" cy="150.0" r="2.2" fill="#2c5580"/>
-<circle cx="690.0" cy="177.6" r="2.2" fill="#2c5580"/>
-<circle cx="638.1" cy="150.0" r="2.2" fill="#2c5580"/>
+<polygon points="690,112 720,150 690,200 640,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
+<circle cx="690" cy="112" r="2.2" fill="#2c5580"/>
+<circle cx="720" cy="150" r="2.2" fill="#2c5580"/>
+<circle cx="690" cy="200" r="2.2" fill="#2c5580"/>
+<circle cx="640" cy="150" r="2.2" fill="#2c5580"/>
 
 <text x="690" y="234" fill="#7a7973" font-size="9.5" font-style="italic" text-anchor="middle">benefit at the rim, harm at the center</text>
 <text x="690" y="246" fill="#8a8880" font-size="9" font-style="italic" text-anchor="middle">dashed ring: no harm either way</text>
