@@ -104,6 +104,11 @@ nocite: |
 - Gallaher, A., Koch, T., Kalies, E.L., Woodbury, P.B. & Grodsky, S.M. (2026). Sustainability trade-offs at the nexus of solar energy, agriculture, and biodiversity. *Geography and Sustainability* 7:100483. DOI 10.1016/j.geosus.2026.100483. — *the New York State optimization behind §-@sec-sharing-sparing's displacement boundary, §-@sec-conflicts's 0.17% cost result, and §-@sec-regionality's prior-land-cover contrast.*
 - Brock, C., Roehrdanz, P.R., Beringer, T., Chaplin-Kramer, R., Enquist, B.J., Frazier, A.E., et al. (2026). Balancing land use for conservation, agriculture, and renewable energy. *Nature Communications* 17:3623. DOI 10.1038/s41467-026-69952-6. — *global multi-sector land allocation; cited in §-@sec-open-issues for its explicit inability to represent co-location, which is the space this lexicon describes.*
 
+**Design theory borrowed from architecture (§-@sec-levers-ch)**
+
+- Brand, S. (1994). *How Buildings Learn: What Happens After They're Built.* Viking, New York. — *the shearing-layers argument, after Frank Duffy: a building is several layers of differing longevity, and a design works when the fast layers can move without tearing the slow ones. The lexicon borrows the pattern rather than the layers, to explain why management is both the most powerful lever at utility scale and the most fragile.*
+- Habraken, N.J. (2002). The uses of levels. *Open House International* 27(2). — *open-building levels, each with its own decision-maker. Originally a keynote to the UNESCO Regional Seminar on Shelter for the Homeless, Seoul 1988, and re-issued in 2002; cite the 2002 re-issue and note the 1988 delivery. The source for the claim that a decision category implies a decider, which is the ownership lever stated as design theory.*
+
 **Permanent-crop agrivoltaics (§-@sec-archetypes, emerging)**
 
 - Yu, L. et al. (2022). Rain shelter cultivation and downy mildew in table grape. *Plants*. — *leaf wetness duration down 85% and 76%, downy mildew delayed 28 and 21 days, disease index down 82–83%. A plastic rain shelter, not PV. Volume and DOI unconfirmed; trace before citing.*
@@ -131,6 +136,10 @@ nocite: |
 - **Bessette, D.L., White, J., Mills, S.B., Hoen, B., Rand, J., Nilson, R. & Hoesch, K. (2024).** *Supporting community-centered solar development: a guide to hosting community conversations about large-scale solar development.* Michigan State University & Lawrence Berkeley National Laboratory (CCSD guidebook). — *REAL team publication; the community-benefit guidance behind §-@sec-fn-community, which the chapter is careful to label gray literature.*
 - **Gagnon, P., Margolis, R., Melius, J., Phillips, C. & Elmore, R. (2016).** *Rooftop Solar Photovoltaic Technical Potential in the United States: A Detailed Assessment.* NREL/TP-6A20-65298, Golden, CO. DOI 10.2172/1236153. — *the rooftop alternative to ground-mount siting; a 2016 assessment, so check it against a current edition before quoting a number.*
 - **U.S. Energy Information Administration (2024).** Today in Energy: solar and battery storage to make up 81% of new US electric-generating capacity in 2024 (eia.gov). — *agency web page; a single-year projection that is superseded annually — re-check the current release before citing.*
+
+**Landscape-architecture prior art on maintenance (§-@sec-levers-ch)**
+
+- Douglas, S. & Deming, M.E. (2015). *From the Field: Maintenance, the Missing Link.* Landscape Architecture Foundation, Case Study Investigation. <https://www.lafoundation.org/news/2015/06/csi-uiuc> — *the field named this before the lexicon did: parts of many projects fail in the first year or two because maintenance staff have no voice during design and the designer's scope ends at the final walkthrough. Cited for that priority. Professional-foundation web article, unrefereed and undated on the page beyond its URL; trace to a dated version before citing in a paper.*
 
 **Working-landscapes framing (§-@sec-functions) — still not in `references.bib`**
 
