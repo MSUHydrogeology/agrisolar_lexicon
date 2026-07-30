@@ -2,6 +2,8 @@
 
 A project does not turn out restorative. Somebody decides which lever will carry that work and commits the design to it, early enough that the decision survives the last round of cost cutting. That choice is the project's [**restoration mode**](terminology.qmd#term-restoration-mode), and it is the third thing this document puts on a project. [Scale](scale-transect.qmd) says what was available. The [siting axis](siting-axis.qmd) says what happened to production. The mode says which lever actually did the restoring, which is the one of the three a designer chooses outright.
 
+One thing to clear first, because this audience carries a different meaning already. In a solar lease or a siting filing, *site restoration* is a decommissioning obligation: what the developer owes the ground when the lease ends. A restoration mode is not that. It is a choice made at design, about which lever will carry restorative work through the operating life, and it is settled decades before anyone reads the decommissioning clause.
+
 ## The five modes {#sec-lv-mode}
 
 Five of the six [design levers](design-levers.qmd) can be made to carry the work.
