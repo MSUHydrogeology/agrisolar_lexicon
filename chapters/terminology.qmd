@@ -12,6 +12,8 @@ Developed in [§-@sec-transect, The Scale Transect](scale-transect.qmd).
 
 A single gradient from farmstead (A1) to regional (A5) that most other terms are read against, defined by covarying attribute bundles rather than capacity thresholds. See [The Scale Transect](scale-transect.qmd).
 
+*Borrowed, and turned.* The device is the rural-to-urban Transect of the New Urbanism [@dpz2014], which is where the lexicon takes its name and its method of calibration points. One thing changes in the borrowing, and it matters: that transect is a gradient across the ground, a line you could walk from wilderness to urban core, while this one is a gradient of project size. Two A2 projects can sit a mile apart, and an A5 can surround an A1.
+
 ### A0 — the zero-land case {#term-a0}
 
 Arrays mounted on buildings, which take no ground at all: no siting latitude to spend, no ground layer to design, and no [sharing–sparing position](#term-sharing-sparing) to hold. It sits at the transect's origin rather than on it. See [§-@sec-zones](scale-transect.qmd#sec-zones).
@@ -158,7 +160,7 @@ A restorative capacity a project can be designed to deliver, obtainable to varyi
 
 ### Hydrologic function {#term-fn-hydrologic}
 
-Water quantity and quality as design objectives. On **quantity**: infiltration and recharge raised, soil moisture buffered, and at scale consumptive use retired from a basin's budget. On **quality**, two routes needing opposite ground: **avoided loading**, siting on the leaching field so the fertilizer and pesticide programs stop with the cropping, and **interception**, siting on the flow path below it so runoff gives up its nutrients and sediment before reaching a channel. See [§-@sec-fn-hydrologic](restorative-functions.qmd#sec-fn-hydrologic).
+Water quantity and quality as design objectives. On **quantity**: infiltration and recharge raised, soil moisture buffered, and at scale consumptive use retired from a basin's budget. On **quality**, two routes needing opposite ground: **avoided loading**, siting on the ground that is doing the leaching, which the water-quality literature calls a critical source area, so the fertilizer and pesticide programs stop with the cropping, and **interception**, siting on the flow path below it so runoff gives up its nutrients and sediment before reaching a channel. See [§-@sec-fn-hydrologic](restorative-functions.qmd#sec-fn-hydrologic).
 
 ### Soil & carbon function {#term-fn-soil}
 
@@ -280,6 +282,8 @@ A production-based term: co-location that keeps *active agricultural production*
 
 The frame of this entire lexicon rather than a dimension within it. Applied when ecological, hydrological, or economic ground-layer function is a design objective co-equal with generation, not an incidental byproduct. US arrays are designed primarily to maximize output and minimize cost; co-benefits arrive incidentally or through a patchwork of state and local policy [@hernandez2014; @mccall2023]. *Restorative* names the deliberate alternative.
 
+*Borrowed, and worth placing.* The word comes from restorative design [@reed2007], where it sits one rung below *regenerative*: restorative returns a system to health, regenerative leaves it able to keep renewing itself. The lexicon keeps that modesty deliberately and widens the scope, so the word covers hydrologic, agricultural, and community function and not ecology alone. It is not the solar trade's *site restoration*, which is what a decommissioning plan owes when a lease ends, and not restoration to a reference ecosystem in the sense ecological restoration uses. The compound *restorative agrisolar* is the lexicon's own.
+
 ### Co-location vs. Integration {#term-colocation-integration}
 
 The pair that makes [agrisolar](#term-agrisolar) the superset and [agrivoltaics](#term-agrivoltaics) one member of it.
@@ -345,3 +349,59 @@ The standard dual-use productivity metric: the land a monoculture would need to 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 
 The end-of-life questions a 25–40-year asset raises: *decommissioning* (removing the array and restoring the ground), *repowering* (replacing modules to extend the site), and *reversibility* (how completely the prior land use can return). Foundation type, soil disturbance, and financial assurance (decommissioning bonds) set how reversible a project is; reversibility is often the crux of the farmland-protection argument, and is itself one of the nine [design pressures](design-pressures.qmd#sec-pressures) (§-@sec-pressures).
+
+## The trade's vocabulary {#sec-terms-trade}
+
+Terms the lexicon uses but does not own. They come from the solar industry, from utility practice, and from the USDA soil survey, and they are given here in the sense a developer or a county planner would use them, so that a reader meeting one in these pages is not sent elsewhere to find out what it means.
+
+### Interconnection {#term-interconnection}
+
+The physical and legal connection between an array and the electric grid: the line it ties into, the equipment that ties it, and the utility's permission to energize. The wait in an interconnection queue routinely runs years, and it commonly settles a project's size and its site before any design question is asked.
+
+### Substation {#term-substation}
+
+The facility where voltage is stepped between distribution and transmission. Nearness to one is the siting criterion farming does not share, which is why it pulls large arrays toward ground chosen for the grid rather than for the soil.
+
+### Offtake {#term-offtake}
+
+The contract naming who buys the power and at what price: a utility power purchase agreement, a corporate buyer, a subscriber list, or the farm's own meter. It sets project size more directly than the solar resource does.
+
+### Behind-the-meter {#term-behind-the-meter}
+
+Generation serving a load on the customer's side of the utility meter, so the power offsets a bill rather than being sold. The milking parlor, the cold store, and the well pump are behind-the-meter loads.
+
+### Utility-scale {#term-utility-scale}
+
+Not a fixed threshold. In ordinary use it means an array selling wholesale rather than serving a local load, which begins somewhere above [A3](#term-a3) and is routine at [A4](#term-a4) and [A5](#term-a5). Berkeley Lab splits its two national datasets at 5 MW-AC.
+
+### Community solar {#term-community-solar}
+
+A distribution-connected array whose output is subscribed by households and businesses that cannot host panels of their own. Program caps commonly sit at 5 MW, which is one reason [A3](#term-a3) tops out where it does. The phrase carries at least four distinct meanings in current circulation (§-@sec-community-scale).
+
+### Clearance {#term-clearance}
+
+The vertical gap between the ground and the lowest edge of a panel. It decides what can work underneath, from nothing at all, to sheep, to a tractor, and buying more of it costs steel. The lexicon names clearance as a lever and declines to fix a number for it.
+
+### Row spacing {#term-row-spacing}
+
+The distance from one row of panels to the next, normally measured centerline to centerline rather than as the open gap between rows. With clearance it settles what equipment can work inside the array, and with panel size it sets the [ground coverage ratio](#term-gcr).
+
+### Racking {#term-racking}
+
+The steel carrying the modules: posts, beams, and the fasteners between them. Foundation type, usually driven pile, ground screw, or surface ballast, governs how much soil is disturbed at construction and how completely the ground can be returned at [end of life](#term-decommissioning).
+
+### Tracker {#term-tracker}
+
+Racking that rotates the modules through the day, almost always about a single north–south axis. Trackers raise output and cost, need more room between rows, and their rotation schedule is a design lever in its own right, because it decides how much light reaches the ground and at what hour.
+
+### Mass grading {#term-mass-grading}
+
+Reshaping an entire site with earthmoving equipment before construction, rather than setting foundations to the existing contour. It is the most consequential single decision for soil carbon and site hydrology, and it is usually taken on cost grounds.
+
+### Land assembly {#term-land-assembly}
+
+Putting together enough contiguous acreage, often across several owners, to make a large project financeable. It is what removes [siting latitude](#term-siting-latitude) at [A4](#term-a4) and [A5](#term-a5): the array lands where parcels could be assembled near a [substation](#term-substation), not where the ground most wanted it.
+
+### Prime farmland {#term-prime-farmland}
+
+A USDA classification for land whose physical and chemical properties can sustain high yields under ordinary management. It is a property of the soil map unit rather than of the field's realized yield, which is why a parcel classed prime can still carry persistently unproductive ground (§-@sec-community-scale).

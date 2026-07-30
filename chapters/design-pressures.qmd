@@ -4,7 +4,7 @@ The developer, neighbor, farmer, buyer, and county do not want the same thing fr
 
 ## The pressures {#sec-pressures}
 
-Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the reversibility argument in §-@sec-conflicts the hard one.
+Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the [reversibility](terminology.qmd#term-decommissioning) argument in §-@sec-conflicts the hard one.
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
@@ -32,7 +32,7 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 **Operations and maintenance vs. everything.** Gravel and herbicide are easy; diverse perennial cover is not. The maintenance bill decides many restorative designs.
 
-**Grid and market demands vs. restorative goals.** Buyers and scorecards can spread good ground-layer practice, but a rule written at a distance can also lock in a poor local fit for the term of a contract [@epri2021].
+**Grid and market demands vs. restorative goals.** Buyers and scorecards can spread good [ground-layer](terminology.qmd#term-ground-layer) practice, but a rule written at a distance can also lock in a poor local fit for the term of a contract [@epri2021].
 
 **Energy yield vs. restorative goals.** Clearance, spacing, and crop shade tolerance interact. Vegetation can also cool modules, reduce dust, and lower panel-washing demand, so the two pressures occasionally align [@merheb2025].
 
@@ -44,19 +44,19 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 ## The levers across the transect {#sec-lever-matrix}
 
-Every one of the [design levers](design-levers.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect. Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
+Every one of the [design levers](design-levers.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the [transect](terminology.qmd#term-scale-transect). Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
 | ***Dominant [restoration mode](design-levers.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
 | **Siting** | | | | | |
-| Placement — siting latitude | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
+| Placement — [siting latitude](terminology.qmd#term-siting-latitude) | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
 | **Structure** | | | | | |
 | Mounting & clearance | ad hoc | crop-driven | tunable | standardized | commodity |
-| Row geometry / GCR | set by footprint | crop- / machine-set | live tradeoff | cost-optimized | cost-set, minimal pore space |
-| Module technology | off-the-shelf or bespoke | bespoke viable | some specialty | commodity | commodity only |
+| Row geometry / [GCR](terminology.qmd#term-gcr) | set by footprint | crop- / machine-set | live tradeoff | cost-optimized | cost-set, minimal [pore space](terminology.qmd#term-pore-space) |
+| [Module technology](terminology.qmd#term-module-technology) | off-the-shelf or bespoke | bespoke viable | some specialty | commodity | commodity only |
 | Grading & site works | next to none | follows the field | a live choice: slope-tolerant racking or a level plane | cost-driven, and mass graded where the tracker needs it | standardized earthworks at scale |
-| Edge — built | minimal, neighborly | setbacks appear | a social-license lever | major buffer element | screening + siting both |
+| Edge — built | minimal, neighborly | setbacks appear | a social-license lever | major buffer element | [screening](terminology.qmd#term-screening) + siting both |
 | **Management** | | | | | |
 | Ground layer & management | hand-tended | farmer-managed | purpose-built | contract-enterprise | ranch-scale contract |
 | Edge — planted | a hedge somebody keeps | farmer-planted | seeded with the site | contracted with the mowing | contracted, and rarely checked |
@@ -68,4 +68,4 @@ Every one of the [design levers](design-levers.qmd) exists at every size, and al
 
 : The design levers across the scale transect, showing what each one usually looks like at each zone and how much room is left in it. A description of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
 
-Read each cell as the latitude remaining in a lever rather than a fixed fact about a zone. The pattern down the columns is the argument: structural freedom is widest at the farmstead, siting peaks in the middle and is gone by A5, and management arrives only once a project is large enough to pay somebody to do it. Ownership is the row that moves furthest, and it moves the generation revenue with it. The two paper rows trade against each other: ownership does restorative work for nothing at the farmstead and none at all by A5, and the contract rows fill in behind it, which is why the paper levers still have reach on exactly the projects where the ground levers have run out.
+Read each cell as the latitude remaining in a lever rather than a fixed fact about a zone. The pattern down the columns is the argument: structural freedom is widest at the farmstead, siting peaks in the middle and is gone by [A5](terminology.qmd#term-a5), and management arrives only once a project is large enough to pay somebody to do it. Ownership is the row that moves furthest, and it moves the generation revenue with it. The two paper rows trade against each other: ownership does restorative work for nothing at the farmstead and none at all by A5, and the contract rows fill in behind it, which is why the paper levers still have reach on exactly the projects where the ground levers have run out.

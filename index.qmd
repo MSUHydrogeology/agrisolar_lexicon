@@ -10,16 +10,16 @@ not settled.
 ::: {.welcome}
 Solar and farming want the same flat, open, well-drained ground. An array can carry pollinator habitat or gravel, slow runoff or redirect it, shade stock, retire irrigation demand, or help sustain a farm. Those are design decisions.
 
-**Agrisolar** names solar generation on agricultural land, whether or not production continues below it. **Agrivoltaics** is the narrower case of crops or livestock inside the footprint. Direct crop production under or between panels is under two percent of built practice, and it carries a large share of the research attention [@stid2022; @macknick2022]. A working vocabulary has to describe the other ninety-eight percent as precisely as it describes the exception.
+[**Agrisolar**](chapters/terminology.qmd#term-agrisolar) names solar generation on agricultural land, whether or not production continues below it. [**Agrivoltaics**](chapters/terminology.qmd#term-agrivoltaics) is the narrower case of crops or livestock inside the [footprint](chapters/terminology.qmd#term-footprint-influence). Direct crop production under or between panels is under two percent of built practice, and it carries a large share of the research attention [@stid2022; @macknick2022]. A working vocabulary has to describe the other ninety-eight percent as precisely as it describes the exception.
 
 Where the boundary is drawn decides what counts. Most accounting stops at the fence line, the top of the modules, and a meter into the soil. This document draws it around the farm operation and the community hosting it, so a lease that keeps a farm solvent, the water leaving the field, and the habitat next door are all inside the frame.
 
-**Restorative agrisolar design** holds that ecological, hydrological, and community function belong among a project's objectives. This document gives that claim a vocabulary that can be tested on real ground.
+[**Restorative agrisolar design**](chapters/terminology.qmd#term-restorative) holds that ecological, hydrological, and community function belong among a project's objectives. This document gives that claim a vocabulary that can be tested on real ground.
 :::
 
 ## A shared language
 
-A solar grazier, township planner, hydrologist, and developer can describe the same eighty acres in incompatible terms. This lexicon is for the people deciding what an array does to an operation and a place.
+A [solar grazier](chapters/terminology.qmd#term-rangevoltaics), township planner, hydrologist, and developer can describe the same eighty acres in incompatible terms. This lexicon is for the people deciding what an array does to an operation and a place.
 
 Those decisions are being made now, and mostly in an information-poor setting: townships write ordinances without comparable data, developers and neighbors argue past each other, and several states have moved permitting authority away from the communities that host the projects [@susskind2022; @bessette2024]. Shared terms will not resolve those arguments. They let people find out what they are actually arguing about.
 
@@ -27,7 +27,7 @@ The build-out is not a forecast. Around 15,000 ground-mounted arrays already cov
 
 ## How the language works
 
-A project is a long list of decisions, and almost all of them fall into six groups: how much ground to take, which ground, what gets built on it, what grows there and how the place is run, who holds the asset, and what the parties signed. Those are the [design levers](chapters/design-levers.qmd), and they are the spine of everything else here. The pressures push on them, and what comes out the far end is a project's scale, its position on the sharing–sparing axis, and the functions the ground ends up performing.
+A project is a long list of decisions, and almost all of them fall into six groups: how much ground to take, which ground, what gets built on it, what grows there and how the place is run, who holds the asset, and what the parties signed. Those are the [design levers](chapters/design-levers.qmd), and they are the spine of everything else here. The [pressures](chapters/terminology.qmd#term-design-pressures) push on them, and what comes out the far end is a project's scale, its position on the [sharing–sparing axis](chapters/terminology.qmd#term-sharing-sparing), and the [functions](chapters/terminology.qmd#term-restorative-function) the ground ends up performing.
 
 ![How the pieces fit. The levers are the only things anyone can actually change; everything to their left is a force acting on them, and everything to their right is a consequence of how they were set.](figures/fig_language_structure.svg){#fig-language-structure}
 
