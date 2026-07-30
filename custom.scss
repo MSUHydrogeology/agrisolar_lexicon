@@ -298,3 +298,32 @@ figure img,
 // document, so it is hidden rather than deleted. Removing the heading from
 // index.qmd brings the off-by-one straight back.
 main.content > h1.unnumbered:first-child { display: none; }
+
+// The lever table is the chapter's main graphic. Rows are banded by what the
+// lever acts on, because that split is the chapter's argument: scale sets the
+// frame, three levers work the ground and are limited by it, and two act on
+// paper and are not. Colours follow the zone ramp (green = ground) and the
+// example box (warm grey = paper), so the page reads against the rest of the site.
+.lever-table table {
+  width: 100%;
+  font-size: 0.93rem;
+  border-collapse: collapse;
+}
+.lever-table thead th {
+  background-color: #f2f1ec;
+  border-bottom: 2px solid #b4b2a9;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6f6d66;
+}
+.lever-table td, .lever-table th { padding: 0.55rem 0.7rem; vertical-align: top; }
+.lever-table tbody tr td:first-child { white-space: nowrap; }
+.lever-table tbody tr:nth-child(1) td { background-color: #e6e4dc; }            // scale: the frame
+.lever-table tbody tr:nth-child(2) td { background-color: #eef5e3; }            // ground levers
+.lever-table tbody tr:nth-child(3) td { background-color: #e6f0d6; }
+.lever-table tbody tr:nth-child(4) td { background-color: #ddebc8; }
+.lever-table tbody tr:nth-child(n+5) td { background-color: #faf6ee; }          // paper levers
+.lever-table tbody tr:nth-child(1) td:first-child { border-left: 4px solid #8a8880; }
+.lever-table tbody tr:nth-child(n+2):nth-child(-n+4) td:first-child { border-left: 4px solid #639922; }
+.lever-table tbody tr:nth-child(n+5) td:first-child { border-left: 4px solid #b5843a; }

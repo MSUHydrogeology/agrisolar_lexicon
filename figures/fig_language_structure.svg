@@ -1,76 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="446" viewBox="0 0 880 446" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="404" viewBox="0 0 880 404" role="img">
 <title>How the design language fits together</title>
-<desc>Nine design pressures push on six design levers: scale, siting, structure, management, ownership, and contracts. Setting the levers produces three things the rest of the document is organized around: a position on the scale transect, which comes from the scale lever; a position on the sharing-sparing axis, which comes jointly from siting, structure, and management; and the restorative functions, which come from the remaining levers. A recurring set of lever settings is an archetype. Regionality changes how hard each pressure pushes, so the same levers are set differently in different places.</desc>
+<desc>Six design levers are drawn as sliders, each set to a different position: scale, siting, structure, management, ownership, and contracts. The first four act on ground and the last two act on paper. Nine design pressures push in from the left, arguing over where each lever is set. Out of the settings, on the right, come a place on the scale transect, a place on the sharing and sparing axis, and the restorative functions the ground ends up performing. A recurring set of settings is an archetype, and regionality changes how hard each pressure pushes, so the same levers are set differently in different places.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.eb{font-size:10.5px;font-weight:700;fill:#8a8880;letter-spacing:.06em}
-.ct{font-size:15.5px;font-weight:600;fill:#2c2c2a}
-.cs{font-size:11.5px;fill:#75736c}
-.lv{font-size:12.5px;font-weight:600;fill:#2c2c2a}
-.lvs{font-size:10.5px;fill:#75736c}
-.ot{font-size:12.5px;font-weight:600;fill:#2c2c2a}
-.os{font-size:10.5px;fill:#75736c}
-.ft{font-size:11.5px;fill:#5f5e5a}
-.card{fill:none;stroke:#d3d1c7;stroke-width:1}
-.hero{fill:#f6f5f1;stroke:#b4b2a9;stroke-width:1.4}
+.eb{font-size:10.5px;font-weight:700;fill:#8a8880;letter-spacing:.07em}
+.nm{font-size:12.5px;font-weight:600;fill:#2c2c2a}
+.gl{font-size:10.5px;fill:#8a8880}
+.out{font-size:12.5px;fill:#3d3d3a}
+.ft{font-size:11px;fill:#8a8880}
 </style>
-<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#b4b2a9"/></marker></defs>
-<text class="eb" x="16" y="30">WHAT PUSHES</text>
-<rect class="card" x="16" y="42" width="212" height="258" rx="6"/>
-<text class="ct" x="32" y="70">Design pressures</text>
-<text class="cs" x="32" y="90">nine forces, genuinely opposed</text>
-<circle cx="38" cy="108" r="3" fill="#35887a"/>
-<text class="lvs" x="48" y="112">restorative goals</text>
-<circle cx="38" cy="123" r="3" fill="#35887a"/>
-<text class="lvs" x="48" y="127">community benefit</text>
-<circle cx="38" cy="138" r="3" fill="#35887a"/>
-<text class="lvs" x="48" y="142">end-of-life</text>
-<circle cx="38" cy="153" r="3" fill="#6f6d66"/>
-<text class="lvs" x="48" y="157">farming</text>
-<circle cx="38" cy="168" r="3" fill="#6f6d66"/>
-<text class="lvs" x="48" y="172">grid and market</text>
-<circle cx="38" cy="183" r="3" fill="#6f6d66"/>
-<text class="lvs" x="48" y="187">policy</text>
-<circle cx="38" cy="198" r="3" fill="#b5643a"/>
-<text class="lvs" x="48" y="202">energy yield</text>
-<circle cx="38" cy="213" r="3" fill="#b5643a"/>
-<text class="lvs" x="48" y="217">build cost</text>
-<circle cx="38" cy="228" r="3" fill="#b5643a"/>
-<text class="lvs" x="48" y="232">upkeep</text>
-<text class="cs" x="32" y="272">three toward, three away,</text>
-<text class="cs" x="32" y="288">three either way</text>
-<line x1="228" y1="147" x2="266" y2="147" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#ar)"/>
-<text class="eb" x="274" y="30">WHAT YOU DECIDE</text>
-<rect class="hero" x="274" y="42" width="248" height="258" rx="6"/>
-<text class="ct" x="292" y="70">Design levers</text>
-<text class="cs" x="292" y="90">the only things anyone can change</text>
-<text class="lv" x="292" y="114">Scale</text>
-<text class="lvs" x="396" y="114">how much ground</text>
-<text class="lv" x="292" y="137">Siting</text>
-<text class="lvs" x="396" y="137">which ground</text>
-<text class="lv" x="292" y="160">Structure</text>
-<text class="lvs" x="396" y="160">what gets built</text>
-<text class="lv" x="292" y="183">Management</text>
-<text class="lvs" x="396" y="183">what grows and how</text>
-<text class="lv" x="292" y="206">Ownership</text>
-<text class="lvs" x="396" y="206">who holds it</text>
-<text class="lv" x="292" y="229">Contracts</text>
-<text class="lvs" x="396" y="229">what was signed</text>
-<text class="cs" x="292" y="280">four act on ground, two on paper</text>
-<line x1="522" y1="147" x2="560" y2="147" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#ar)"/>
-<text class="eb" x="568" y="30">WHAT COMES OUT</text>
-<rect class="card" x="568" y="42" width="296" height="258" rx="6"/>
-<text class="ot" x="586" y="76">A place on the scale transect</text>
-<text class="os" x="586" y="94">read straight off the scale lever</text>
-<text class="ot" x="586" y="128">A place on the sharing–sparing axis</text>
-<text class="os" x="586" y="146">siting, structure, and management together</text>
-<text class="ot" x="586" y="180">Restorative functions</text>
-<text class="os" x="586" y="198">water, soil, ecology, microclimate,</text>
-<text class="os" x="586" y="216">agriculture, community</text>
-<line x1="586" y1="244" x2="846" y2="244" stroke="#e2e0d8" stroke-width="1"/>
-<text class="os" x="586" y="264">a recurring set of settings is an <tspan font-weight="600" fill="#2c2c2a">archetype</tspan></text>
-<line x1="16" y1="336" x2="864" y2="336" stroke="#d3d1c7" stroke-width="1"/>
-<text class="eb" x="16" y="366">REGIONALITY</text>
-<text class="ft" x="16" y="392">Sun, water, crop, and grid conditions change how hard each pressure pushes, so the same levers get set</text>
-<text class="ft" x="16" y="410">differently in California and in Iowa. The aim is argued; the dimensions are left to the site.</text>
+<defs><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#c2beb4"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#8a8880"/></marker></defs>
+<text class="eb" x="16" y="76">NINE PRESSURES</text>
+<line x1="16" y1="112" x2="190" y2="112" stroke="#c2beb4" stroke-width="2" marker-end="url(#p)"/>
+<line x1="16" y1="144" x2="190" y2="144" stroke="#c2beb4" stroke-width="2" marker-end="url(#p)"/>
+<line x1="16" y1="176" x2="190" y2="176" stroke="#c2beb4" stroke-width="2" marker-end="url(#p)"/>
+<line x1="16" y1="208" x2="190" y2="208" stroke="#c2beb4" stroke-width="2" marker-end="url(#p)"/>
+<line x1="16" y1="240" x2="190" y2="240" stroke="#c2beb4" stroke-width="2" marker-end="url(#p)"/>
+<text class="gl" x="16" y="290">they argue over where</text>
+<text class="gl" x="16" y="306">each lever gets set</text>
+<rect x="208" y="62" width="450" height="220" rx="10" fill="#faf9f6" stroke="#e2e0d8"/>
+<text class="eb" x="224" y="52">SIX LEVERS · THE ONLY THINGS ANYONE CAN CHANGE</text>
+<rect x="243" y="92" width="10" height="174" rx="5" fill="#eceae3"/>
+<rect x="243" y="130" width="10" height="136" rx="5" fill="#8a8880" opacity="0.32"/>
+<rect x="235" y="123" width="26" height="14" rx="4" fill="#8a8880"/>
+<text class="nm" x="248" y="288" text-anchor="middle">Scale</text>
+<text class="gl" x="248" y="303" text-anchor="middle">how much</text>
+<rect x="317" y="92" width="10" height="174" rx="5" fill="#eceae3"/>
+<rect x="317" y="158" width="10" height="108" rx="5" fill="#639922" opacity="0.32"/>
+<rect x="309" y="151" width="26" height="14" rx="4" fill="#639922"/>
+<text class="nm" x="322" y="288" text-anchor="middle">Siting</text>
+<text class="gl" x="322" y="303" text-anchor="middle">which ground</text>
+<rect x="391" y="92" width="10" height="174" rx="5" fill="#eceae3"/>
+<rect x="391" y="188" width="10" height="78" rx="5" fill="#5f7fa8" opacity="0.32"/>
+<rect x="383" y="181" width="26" height="14" rx="4" fill="#5f7fa8"/>
+<text class="nm" x="396" y="288" text-anchor="middle">Structure</text>
+<text class="gl" x="396" y="303" text-anchor="middle">what is built</text>
+<rect x="465" y="92" width="10" height="174" rx="5" fill="#eceae3"/>
+<rect x="465" y="144" width="10" height="122" rx="5" fill="#b5843a" opacity="0.32"/>
+<rect x="457" y="137" width="26" height="14" rx="4" fill="#b5843a"/>
+<text class="nm" x="470" y="288" text-anchor="middle">Management</text>
+<text class="gl" x="470" y="303" text-anchor="middle">what grows</text>
+<rect x="539" y="92" width="10" height="174" rx="5" fill="#eceae3"/>
+<rect x="539" y="207" width="10" height="59" rx="5" fill="#8a6ba8" opacity="0.32"/>
+<rect x="531" y="200" width="26" height="14" rx="4" fill="#8a6ba8"/>
+<text class="nm" x="544" y="288" text-anchor="middle">Ownership</text>
+<text class="gl" x="544" y="303" text-anchor="middle">who holds it</text>
+<rect x="613" y="92" width="10" height="174" rx="5" fill="#eceae3"/>
+<rect x="613" y="170" width="10" height="96" rx="5" fill="#2f7f70" opacity="0.32"/>
+<rect x="605" y="163" width="26" height="14" rx="4" fill="#2f7f70"/>
+<text class="nm" x="618" y="288" text-anchor="middle">Contracts</text>
+<text class="gl" x="618" y="303" text-anchor="middle">what is signed</text>
+<line x1="222" y1="320" x2="274" y2="320" stroke="#8a8880" stroke-width="2.5"/>
+<line x1="296" y1="320" x2="496" y2="320" stroke="#639922" stroke-width="2.5"/>
+<line x1="518" y1="320" x2="644" y2="320" stroke="#b5843a" stroke-width="2.5" stroke-dasharray="5 3"/>
+<text class="gl" x="248" y="338" text-anchor="middle" fill="#6f6d66">sets the frame</text>
+<text class="gl" x="396" y="338" text-anchor="middle" fill="#3b6d11">act on ground, limited by scale</text>
+<text class="gl" x="581.0" y="338" text-anchor="middle" fill="#8a5f27">act on paper</text>
+<line x1="634" y1="150" x2="660" y2="150" stroke="#8a8880" stroke-width="2" marker-end="url(#o)"/>
+<text class="eb" x="670" y="76">WHAT COMES OUT</text>
+<text class="out" x="670" y="124">a place on the transect</text>
+<text class="out" x="670" y="154">a sharing–sparing position</text>
+<text class="out" x="670" y="184">the restorative functions</text>
+<text class="gl" x="670" y="228">a recurring set of settings</text>
+<text class="gl" x="670" y="244">is an <tspan font-weight="600" fill="#2c2c2a">archetype</tspan></text>
+<line x1="16" y1="356" x2="864" y2="356" stroke="#e2e0d8"/>
+<text class="ft" x="16" y="382">Regionality changes how hard each pressure pushes, so the same levers get set differently in California and in Iowa.</text>
 </svg>
