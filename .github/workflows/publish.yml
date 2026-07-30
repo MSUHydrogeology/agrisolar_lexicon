@@ -12,8 +12,12 @@ permissions:
   id-token: write
 
 # Allow one concurrent deployment; newer pushes cancel in-progress ones.
+# The group is keyed per pull request and per branch, so that a push to main
+# cancels only the previous main run. A single shared group meant any push to
+# main also cancelled the build check running on an open pull request, and
+# branch protection requires that check to pass before the PR can merge.
 concurrency:
-  group: pages
+  group: pages-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
