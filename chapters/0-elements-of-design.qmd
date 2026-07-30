@@ -12,15 +12,15 @@ A solar project is a very long list of decisions, and almost all of them fall in
 
 Everything else in this document sits on one side or the other of them. The [scale transect](1-the-scale-transect.qmd) and the [sharing–sparing axis](2-the-sharingsparing-axis.qmd) describe the hand a project was dealt. The [design pressures](3-design-pressures.qmd) are the forces arguing over what to do with it. The [restorative functions](4-restorative-functions.qmd) are what comes out the far end. The five elements are the decisions in between, which is why a project can hold the same scale and the same position as its neighbor and do something completely different to the ground.
 
-| Element | What it decides | Where it is strongest | What it can deliver |
-|:--|:--|:--|:--|
-| **Siting** | which ground the array takes, and where on it | A2–A3, where latitude peaks | water quality, habitat context, service to nearby fields |
-| **Structure** | mounting, height, row spacing, ground coverage, module type | A1, and wherever a crop sets the geometry | microclimate, clearance for farming, light to the ground layer |
-| **Management** | what grows underneath, and how the site is run for thirty years | A4–A5, where placement is already fixed | soil and carbon, habitat, most of the water balance |
-| **Ownership** | who holds the asset, decides the rest, and captures what it earns | shifts across the whole transect | a share of generation revenue for the people on the ground |
-| **Contracts** | lease, offtake, tax, benefit, and end-of-life terms | every scale, at full strength | the community function, and durability for all of the above |
+| Element | What it decides | What it can deliver |
+|:--|:--|:--|
+| **Siting** | which ground the array takes, where on the parcel it sits, whether it stands upslope or downslope of a problem, how near it is to the fields it might serve, and whether a landscape holds a few large arrays or many small ones | water quality, habitat context, service to nearby fields |
+| **Structure** | mounting type and clearance, row spacing and [ground coverage](7-terminology.qmd#term-gcr), [pore space](7-terminology.qmd#term-pore-space), [module technology](7-terminology.qmd#term-module-technology), grading and site works, and the built half of [screening](7-terminology.qmd#term-screening): berm, wall, fence line | microclimate, clearance for farming, light to the ground layer |
+| **Management** | the [ground layer](7-terminology.qmd#term-ground-layer) and how it is established, the mowing and grazing calendar, [stocking density](7-terminology.qmd#term-stocking-density), [tracking and curtailment](7-terminology.qmd#term-tracking-curtailment), construction sequencing and traffic lanes, and the planted half of screening | soil and carbon, habitat, most of the water balance |
+| **Ownership** | who holds the asset, decides the rest, and captures what it earns: owner-operator, landowner, developer, utility, cooperative, or shared | a share of generation revenue for the people on the ground |
+| **Contracts** | lease terms and duration, offtake structure, interconnection posture, the [community-benefit](7-terminology.qmd#term-community-benefit) instruments, easements, and the [decommissioning](7-terminology.qmd#term-decommissioning) bond | the community function, and durability for all of the above |
 
-: The five elements of agrisolar design. The first three act on ground and the last two act on paper. Scale narrows siting and structure, widens management, and moves ownership away from the operator; only contracts hold their full range everywhere. {#tbl-elements}
+: The five elements of agrisolar design. The first three act on ground and the last two act on paper. What the [scale transect](1-the-scale-transect.qmd#sec-siting-latitude) does to each of them is set out in §1.3, and it does something different to every one. {#tbl-elements}
 
 ## The three that act on ground {#sec-el-ground}
 
@@ -57,3 +57,17 @@ The mode is worth stating because it tells a reader what to copy. A design that 
 The five are separable enough to name and not separable enough to decide one at a time. Row spacing and ground layer are a single decision rather than two, because crops differ in how much shade they will trade for relief [@weselek2019]. Edge treatment is simultaneously habitat design and social-license design, and it costs land, shading, and room to farm. Grazing is a management decision that only works if the structure left clearance for the animals and the contract found somebody to keep them, which is why grazing arrangements fall apart for reasons that have nothing to do with grazing.
 
 The couplings that matter most run from paper to ground. Management is continuous and therefore fragile, and it survives only as long as somebody is paying for it and somebody else is checking. Contracts are what make a management decision durable, and ownership is what decides whether anyone wanted it durable in the first place. A project can be sited perfectly, built correctly, and planted well, and still be gravel in fifteen years, because the elements that would have held it there were treated as paperwork rather than as design.
+
+## Does the set hold? {#sec-el-completeness}
+
+A set of five is only worth having if every decision a project makes lands in one of them. The test is to take the decisions this document names elsewhere, in the [design levers](3-design-pressures.qmd#sec-levers) (§3.3), in the lever matrix (§3.4), and in the design dependencies listed under each [restorative function](4-restorative-functions.qmd) (§4), and see where each one falls. Most land cleanly. Four cases did not, and they are the ones worth stating, because they are where the set does work rather than just sorting.
+
+[Screening](7-terminology.qmd#term-screening) lands in two elements at once, and that is the right answer rather than a defect. A berm, a wall, and a fence line are built and belong to structure; a hedgerow is planted, established, and kept, and belongs to management. Splitting them matters because the two halves fail differently. The berm is still there in year twenty whether or not anyone tended it, and the hedgerow is there only if somebody did. A project that promises visual mitigation and delivers it entirely in plantings has promised something with a maintenance bill attached, and the neighbor who objected is the person who finds out.
+
+Two items in the §3.3 lever list turn out not to be elements at all. *Which ecological outcome is being aimed at* is an objective rather than a decision about the project, which makes it the [restorative goals](3-design-pressures.qmd#sec-pressures) pressure. *Which regulations and certifications apply* is not chosen by anybody building, which makes it [policy and permission](3-design-pressures.qmd#sec-pressures). Both are real and both belong in §3, and a list that carries a goal and a constraint alongside seven actual choices is sorting three different kinds of thing under one heading.
+
+Two of the definitions above had to widen to hold everything. **Structure** covers grading and site works and not only hardware, because where the earth is moved decides where the water goes, and no other element owns it. **Management** covers the construction period and not only the operating life, because construction sequencing and traffic-lane discipline decide how much of the starting soil survives to be managed at all (§4.2). Both widenings were forced by a decision that would otherwise have had nowhere to go, which is the useful kind of correction for a set like this to receive.
+
+One decision genuinely sits outside the five, and it is the size of the project. Somebody chooses to build five megawatts rather than eighty, and that choice is real, but it is the choice that settles how much of each element is left. That is why it is not an element and why the [scale transect](1-the-scale-transect.qmd) is the next chapter rather than a sixth row in the table.
+
+The set would be wrong in either of two ways, and both are worth watching for. A decision that lands in none of the five would mean the list is short. A decision that lands in all five would mean the categories are not cutting anything. Neither has turned up yet, and a counterexample of either kind is among the more useful things this chapter could be sent (§8).
