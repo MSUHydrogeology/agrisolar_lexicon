@@ -43,7 +43,7 @@ Sparing remains a landscape claim. S4 benefits only if [the land left untaken](t
 
 Read down the five and they are all answers to one kind of question: what was given up, and by whom. None of them says what the ground goes on to do afterward, which is a second kind of restorative work and is taken up in §-@sec-harm-benefit.
 
-## Which positions scale allows {#sec-wedge}
+## Scale and siting interact to determine feasibility {#sec-wedge}
 
 Scale narrows the positions available through [siting latitude](restoration-modes.qmd#sec-siting-latitude). At [A4–A5](scale-transect.qmd#sec-zones), contiguous land assembly near a substation makes selective sparing difficult. S4 thins because idle remnants are scattered; S5 can scale where impairment is regional. The *feasible wedge* is widest at A3 and narrows toward S2–S3 at both ends of the transect.
 
