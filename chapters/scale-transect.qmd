@@ -60,9 +60,6 @@ Establishment is the cost that catches people out. Measured per activity, native
 So “solar grazing” on its own names three different practices, and which one a person means is usually settled by the size of the project they last worked on.
 ::::
 
-::: {.caution}
-**Citation caution.** The figures in the table above are widely misquoted with the activity labels transposed, reporting the mowing cost incurred *at* grazing sites as the cost *of* grazing. @stewart2025 give McCall's $279/ha/yr (= $113/acre/yr) as "the median cost for sheep grazing," where in McCall's Table 4 it is the median *mowing* cost at sheep-grazed sites; grazing itself ran about $50/acre/yr. Go to @mccall2023 directly.
-:::
 
 ## Scale modulates the other five levers {#sec-master-lever}
 

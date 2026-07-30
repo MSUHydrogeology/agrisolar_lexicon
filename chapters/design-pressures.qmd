@@ -88,9 +88,3 @@ The pressures are constant but their weights are not. Designs should differ when
 What the array replaces is itself a regional fact, and it changes what a sparing argument even means. Nationally, cropland is the dominant thing US solar has displaced. In New York it is not: of utility-scale solar built to date, 48% displaced pasture and hay, 38% cultivated crops, and 11% forest [@gallaher2026]. That puts forest conversion and grassland bird habitat at the center of a conversation that in Iowa would be about row crops and nutrient export. A position on the axis travels between regions; what sits on the other side of the decision does not.
 
 This is why the document prescribes an [aim rather than dimensions](../index.qmd#sec-aim-not-dimensions). Regional calibrations are especially useful contributions: the zone bands are indicative for the US Midwest, and a region with different bands, missing zones, or a different binding constraint extends the lexicon.
-
-### Evidence status {#sec-rg-evidence}
-
-::: {.evidence}
-The quantitative figures in this chapter are *trace before citing*: they come from secondary and program sources and have not been checked against primary records. The regional argument does not depend on any one figure.
-:::
