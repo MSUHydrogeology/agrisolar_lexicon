@@ -140,7 +140,7 @@ Pressure: satisfy whoever is buying the power, the attributes, or the tax positi
 
 ### Policy and permission {#term-policy-permission}
 
-Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](regionality.qmd) as much as to §3. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: satisfy the rules that decide whether the project happens at all, and the subsidies that decide what pays. Permitting path and zoning, prime-farmland and setback rules, state programs, and federal incentives. It is the one pressure whose direction is set by the jurisdiction rather than by the site or the buyer, which is why it belongs to [regionality](design-pressures.qmd#sec-regionality) as much as to §3. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### End-of-life responsibility {#term-end-of-life}
 
@@ -148,7 +148,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 ### Design levers {#term-design-levers}
 
-The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-lever-matrix](design-pressures.qmd#sec-lever-matrix) for the levers read against the transect.
+The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are limited by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](scale-transect.qmd#sec-siting-latitude) for the levers read against the transect.
 
 ## Restorative functions {#sec-terms-functions}
 
@@ -218,27 +218,27 @@ The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE
 
 ## Regionality {#sec-terms-regionality}
 
-Developed in [§-@sec-regionality, Regionality](regionality.qmd).
+Developed in [§-@sec-regionality, Regionality](design-pressures.qmd#sec-regionality).
 
 ### Regionality {#term-regionality}
 
-The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pushes are not. See [Regionality](regionality.qmd).
+The claim that the [design pressures](#term-design-pressures) resolve differently in different places, because the factors that weight them vary across space. The vocabulary is constant everywhere; which positions are available, which functions are reachable, and how hard each pressure pushes are not. See [Regionality](design-pressures.qmd#sec-regionality).
 
 ### Regional factors {#term-regional-factors}
 
-The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](regionality.qmd#sec-rg-factors).
+The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-factors).
 
 ### Regional calibration {#term-regional-calibration}
 
-A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](regionality.qmd#sec-rg-us).
+A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](design-pressures.qmd#sec-rg-us).
 
 ### Design import {#term-design-import}
 
-The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§-@sec-rg-consequences](regionality.qmd#sec-rg-consequences).
+The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§-@sec-rg-consequences](design-pressures.qmd#sec-rg-consequences).
 
 ### Diffuse fraction {#term-diffuse-fraction}
 
-The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](regionality.qmd#sec-rg-resource).
+The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-resource).
 
 ## Field terms and metrics {#sec-terms-field}
 
@@ -336,7 +336,7 @@ The low-value ground that [idled-land sparing](siting-axis.qmd#sec-positions) (S
 
 ### Ground Coverage Ratio (GCR) {#term-gcr}
 
-The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and build cost; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§-@sec-lever-matrix).
+The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and build cost; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§-@sec-siting-latitude).
 
 ### Module Technology {#term-module-technology}
 

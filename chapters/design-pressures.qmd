@@ -24,7 +24,7 @@ Read the third column as the direction a pressure pushes, not as a verdict on an
 
 ![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-design-pressures}
 
-## The conflicts worth naming {#sec-conflicts}
+## Where the pressures collide {#sec-conflicts}
 
 Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapped for turf.
 
@@ -42,30 +42,50 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 **Community acceptance and benefit vs. build cost.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
 
-## The levers across the transect {#sec-lever-matrix}
+## The same pressures, weighted by place {#sec-regionality}
 
-Every one of the [design levers](design-levers.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the [transect](terminology.qmd#term-scale-transect). Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it limits.
+The nine act on every site and carry different weight in every region. Shade that relieves a water-stressed crop in Arizona can cut maize yield in Ohio, and [retirement](terminology.qmd#term-s5) above a depleted aquifer has no equivalent in a rain-fed county. The vocabulary travels; the weights do not. That is why this lexicon argues an aim and leaves the dimensions to the site.
 
-| Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
-|:--|:--|:--|:--|:--|:--|
-| ***Dominant [restoration mode](design-levers.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
-| **Siting** | | | | | |
-| Placement — [siting latitude](terminology.qmd#term-siting-latitude) | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
-| **Structure** | | | | | |
-| Mounting & clearance | ad hoc | crop-driven | tunable | standardized | commodity |
-| Row geometry / [GCR](terminology.qmd#term-gcr) | set by footprint | crop- / machine-set | live tradeoff | cost-optimized | cost-set, minimal [pore space](terminology.qmd#term-pore-space) |
-| [Module technology](terminology.qmd#term-module-technology) | off-the-shelf or bespoke | bespoke viable | some specialty | commodity | commodity only |
-| Grading & site works | next to none | follows the field | a live choice: slope-tolerant racking or a level plane | cost-driven, and mass graded where the tracker needs it | standardized earthworks at scale |
-| Edge — built | minimal, neighborly | setbacks appear | a social-license lever | major buffer element | [screening](terminology.qmd#term-screening) + siting both |
-| **Management** | | | | | |
-| Ground layer & management | hand-tended | farmer-managed | purpose-built | contract-enterprise | ranch-scale contract |
-| Edge — planted | a hedge somebody keeps | farmer-planted | seeded with the site | contracted with the mowing | contracted, and rarely checked |
-| **Ownership** | | | | | |
-| Who holds the asset | owner-operator | landowner (± one lease) | multi-party / community-solar | developer capital | utility / IPP |
-| **Contracts** | | | | | |
-| Offtake & interconnection | behind-the-meter | distribution edge | distribution / community | sub-transmission; developer PPA | transmission / wholesale |
-| Community-benefit structure | the household | good-neighbor scale | CBA / PILOT / subscription | PILOT + CBA customary | jurisdiction-scale |
+### Six factors that shift the weights {#sec-rg-factors}
 
-: The design levers across the scale transect, showing what each one usually looks like at each zone and how much room is left in it. A description of what is typical and available, not a schedule of required values. {#tbl-lever-matrix}
+::: {.region-table}
+| Factor | What it changes |
+|:--|:--|
+| []{#sec-rg-resource}**Resource: sun and cloud** | Cloudier regions carry a higher [diffuse share](terminology.qmd#term-diffuse-fraction), which reaches under and between panels more readily than direct beam and gives a [ground layer](terminology.qmd#term-ground-layer) a more forgiving floor. Strong beam raises the value of [tracking](terminology.qmd#term-tracking-curtailment) and the opportunity cost of clearance and wide rows |
+| **Grid operator** | The [grid market](terminology.qmd#term-grid-market) often fixes the [zone](scale-transect.qmd#sec-zones) before the land does. Queue delays and curtailment cut the value of the marginal megawatt and soften the push toward dense geometry. Where no community-solar program exists, projects jump A2 to A4 and lose the widest part of the [feasible wedge](siting-axis.qmd#sec-wedge) |
+| **Aridity** | Reverses the value of shade. Water-limited, high-radiation settings can trade light for relief; humid and temperate ones lose yield without a compensating saving, with the turn near 30 °C ambient across 367 paired observations [@merheb2025]. [Hydrologic work](terminology.qmd#term-fn-hydrologic) shifts from demand relief to interception |
+| **Latitude** | Sets sun angle, tilt, row spacing, and therefore [ground coverage](terminology.qmd#term-gcr). Wider northern rows give the ground layer more light and use more land; tighter southern arrays do the reverse. The resulting [pore space](terminology.qmd#term-pore-space) is why [vertical bifacial](terminology.qmd#term-module-technology) full sharing is not equally viable nationwide |
+| **Cropping system** | Decides whether [sharing](siting-axis.qmd#sec-positions) is plausible at all. Leafy and root horticulture and many forage grasses tolerate moderate shade; C4 grains and many fruiting crops do not, so a maize and soybean region leans on S2 and S3 rather than S1 |
+| **Irrigation** | Makes [impaired-land retirement](terminology.qmd#term-s5) possible where a district exceeds its aquifer budget, because retiring demand saves water and solar makes the retirement pay. Rain-fed regions have no consumptive use to retire, and their water work is interception instead |
+:::
 
-Read each cell as the latitude remaining in a lever rather than a fixed fact about a zone. The pattern down the columns is the argument, and §-@sec-siting-latitude draws it: the ground rows trade against each other, and the paper rows do too, which is why the paper levers still have reach on exactly the projects where the ground levers have run out.
+### A worked calibration: the United States {#sec-rg-us}
+
+The table below is one [calibration](terminology.qmd#term-regional-calibration), offered as a worked example rather than a finding. Regions are drawn loosely on the USDA resource regions and named for recognizability, and the last column is what the factors, taken together, tend to push a region toward.
+
+::: {.region-table}
+| Region | Resource & light | Water | Cropping | Market | Tends toward |
+|---|---|---|---|---|---|
+| **Desert Southwest** | Highest GHI, low diffuse, strong beam | Arid; groundwater-limited | Irrigated specialty, rangeland | CAISO / WECC, large-scale | Shade as a benefit; S1 where irrigated horticulture persists, S5 where water is the binding constraint |
+| **Central Valley & irrigated West** | High GHI | Arid, and governed under SGMA | High-value specialty, heavily irrigated | CAISO, strong offtake | Retirement at scale (S5); [water-sustainability solar](archetypes.qmd#arch-water) |
+| **High Plains** | High GHI, high latitude spread | Ogallala overdraft; declining wells | Grain, cotton, beef | SPP / ERCOT, curtailment risk | S5 where the aquifer binds; grazing (S2) at A4–A5 |
+| **Corn Belt** | Moderate GHI, moderate diffuse | Rain-fed; runoff and nutrient export | C4 grain, soybean | MISO / PJM, deep queues | S3 and S2; hydrologic function as interception, via [prairie strips](archetypes.qmd#arch-prairie-strips) and pollinator ground layers |
+| **Great Lakes & Northeast** | Lowest GHI, highest diffuse fraction | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs; A3 is real | S1–S2 at small and parcel scale; [vegetable agrivoltaics](archetypes.qmd#arch-vegetable), [barnyard shelter](archetypes.qmd#arch-barnyard) |
+| **Southeast** | Moderate-to-high GHI, humid and cloudy | Humid; rainfall intensity | Row crop, pasture, poultry | Largely non-ISO, utility-led | S2 grazing at scale; S3 with managed ground layers |
+:::
+
+Read each row as a starting hypothesis, not an assignment. Counterexamples are worth reporting.
+
+### What follows {#sec-rg-consequences}
+
+The pressures are constant but their weights are not. Designs should differ when resource, grid, crop, or water conditions differ. The characteristic failure is [importing a resolution from another region](terminology.qmd#term-design-import), often through an [offtake-conformity](terminology.qmd#term-grid-market) rule that travels farther than the evidence behind it.
+
+What the array replaces is itself a regional fact, and it changes what a sparing argument even means. Nationally, cropland is the dominant thing US solar has displaced. In New York it is not: of utility-scale solar built to date, 48% displaced pasture and hay, 38% cultivated crops, and 11% forest [@gallaher2026]. That puts forest conversion and grassland bird habitat at the center of a conversation that in Iowa would be about row crops and nutrient export. A position on the axis travels between regions; what sits on the other side of the decision does not.
+
+This is why the document prescribes an [aim rather than dimensions](../index.qmd#sec-aim-not-dimensions). Regional calibrations are especially useful contributions: the zone bands are indicative for the US Midwest, and a region with different bands, missing zones, or a different binding constraint extends the lexicon.
+
+### Evidence status {#sec-rg-evidence}
+
+::: {.evidence}
+The quantitative figures in this chapter are *trace before citing*: they come from secondary and program sources and have not been checked against primary records. The regional argument does not depend on any one figure.
+:::

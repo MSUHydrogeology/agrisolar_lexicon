@@ -78,13 +78,13 @@ under **S**.
 
 **Delivery by preservation** — the mode in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where each function applies](restorative-functions.qmd#sec-benefit-range)
 
-**Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](regionality.qmd#sec-rg-consequences)
+**Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](design-pressures.qmd#sec-rg-consequences)
 
 **Design levers** — the six kinds of decision a project can make, and the only things anyone can change: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
 
 **Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [3. Design Pressures](design-pressures.qmd)
 
-**Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](regionality.qmd#sec-rg-resource)
+**Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](design-pressures.qmd#sec-rg-resource)
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [Terminology](terminology.qmd#term-dual-use)
 
@@ -160,11 +160,11 @@ under **S**.
 
 **Rangevoltaics** — grazing under and between the panels (S2); the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
-**Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [A worked calibration](regionality.qmd#sec-rg-us)
+**Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [A worked calibration](design-pressures.qmd#sec-rg-us)
 
-**Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [Six factors](regionality.qmd#sec-rg-factors)
+**Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [Six factors](design-pressures.qmd#sec-rg-factors)
 
-**Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [6. Regionality](regionality.qmd)
+**Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [The same pressures, weighted by place](design-pressures.qmd#sec-regionality)
 
 **Restoration mode** — which design lever carried the restorative work — Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restoration-mode) · [Scale controls the dominant restoration mode](scale-transect.qmd#sec-restoration-modes)
 

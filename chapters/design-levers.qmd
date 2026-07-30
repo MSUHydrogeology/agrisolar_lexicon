@@ -15,7 +15,7 @@ Everything else in this document sits downstream of them. The [design pressures]
 | **Contracts** | lease terms and duration · [offtake](terminology.qmd#term-offtake) structure · interconnection posture · the [community-benefit](terminology.qmd#term-community-benefit) instruments · easements · the [decommissioning](terminology.qmd#term-decommissioning) bond | the community function, and durability for everything above |
 :::
 
-: The six design levers, and the decisions inside each. Scale sets the frame. The three below it act on ground and are limited by how much of it there is; the two on paper are not. §-@sec-lever-matrix reads the whole set against the transect. {#tbl-levers}
+: The six design levers, and the decisions inside each. Scale sets the frame. The three below it act on ground and are limited by how much of it there is; the two on paper are not. §-@sec-siting-latitude reads the whole set against the transect. {#tbl-levers}
 
 Two things that look like levers are not. What a project is *aiming at* is a goal rather than a decision about the project, which makes it the restorative goals pressure; what the ordinance requires is not chosen by anybody building, which makes it policy and permission. Both belong in §-@sec-pressures-ch, and a list that mixes a goal and a constraint in with actual choices is sorting three different kinds of thing under one heading.
 

@@ -34,7 +34,7 @@ Almost every decision in a solar project belongs to one of six groups, and this 
 Two levers carry enough internal structure to need a chapter each. **Scale** becomes the [scale transect](chapters/scale-transect.qmd), five calibration points from the farmstead to the region, because interconnection, decision-making, and ground management all move together along it. **Siting, structure, and management** jointly produce a position on the [siting axis](chapters/siting-axis.qmd), which records what happened to agricultural production: whether farming continues inside the footprint is settled by what was built and what is grown, and what the ground was beforehand is settled by where the array went.
 
 :::  {#sec-aim-not-dimensions}
-**The aim is argued; the dimensions are left to the site.** This document takes a position on what agrisolar is *for*, and refuses to fix a clearance height or a row spacing, because the same lever settings that restore ground in one region deplete it in another. [Regionality](chapters/regionality.qmd) is where that gets explicit.
+**The aim is argued; the dimensions are left to the site.** This document takes a position on what agrisolar is *for*, and refuses to fix a clearance height or a row spacing, because the same lever settings that restore ground in one region deplete it in another. [Regionality](chapters/design-pressures.qmd#sec-regionality) is where that gets explicit.
 :::
 
 ## What is in here
@@ -47,7 +47,7 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 | [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how the levers get set, and the conflicts worth naming |
 | [Restorative Functions](chapters/restorative-functions.qmd) | the six things a design can be aimed at, how each is delivered, and how far the result carries |
 | [Archetypal Forms](chapters/archetypes.qmd) | recurring lever settings that already exist on real ground, from barnyard shelter to solar prairie strips |
-| [Regionality](chapters/regionality.qmd) | why the same lever settings are right in California and wrong in Iowa |
+| [Regionality](chapters/design-pressures.qmd#sec-regionality) | why the same lever settings are right in California and wrong in Iowa |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
 | [Open Issues](chapters/open-issues.qmd) | what this document has not settled, and the measurements that would settle it |
 | [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
