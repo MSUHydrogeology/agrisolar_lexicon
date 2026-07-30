@@ -42,31 +42,13 @@ Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapp
 
 **Community acceptance and benefit vs. build cost.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
 
-### 3.3 Design levers {#sec-levers}
+### 3.3 The levers across the transect {#sec-lever-matrix}
 
-Pressures get resolved through the five [elements of design](0-elements-of-design.qmd), which name the kinds of decision available. The levers are the specific decisions inside each one, gathered here in a single list so a reader weighing a proposal can see the whole menu at once.
-
-*Siting:* which ground the array takes · where on the parcel it sits · whether it stands upslope or downslope of the problem it might fix · how near it is to the fields it might serve · whether a landscape carries a few large arrays or many small ones.
-
-*Structure:* mounting type (fixed, single-axis, dual-axis, vertical bifacial) · how high the panels sit · how far apart the rows are, and how much of the ground they cover · [pore-space](7-terminology.qmd#term-pore-space) configuration · module technology (monofacial, bifacial, semitransparent, spectrally selective) · grading and site works · the built half of the edge (setback, berm, wall, fence line).
-
-*Management:* what grows underneath, and how it is established · the mowing and grazing calendar · [stocking density](7-terminology.qmd#term-stocking-density) · how the array is operated ([tracking schedule, curtailment](7-terminology.qmd#term-tracking-curtailment)) · construction sequencing and traffic-lane discipline · the planted half of the edge (hedgerow, buffer, vegetative [screening](7-terminology.qmd#term-screening)).
-
-*Ownership:* who holds the asset, and therefore who decides all of the above and captures what the array earns: owner-operator, landowner, developer, utility, cooperative, or shared · co-ownership or an equity stake in place of a rent.
-
-*Contracts:* lease terms and duration · offtake structure · interconnection posture · [community-benefit](7-terminology.qmd#term-community-benefit) instruments (host or community-benefit agreement, PILOT and good-neighbor payments, community-solar subscription, decommissioning bond) · easements.
-
-**Two things that look like levers are not.** *Which ecological outcome is being aimed at* is an objective rather than a decision about the project, which makes it the restorative goals pressure in §3.1. *Which regulations and certifications apply* is not chosen by anybody building, which makes it policy and permission. Both are real and both are above, and listing them here made a menu of choices look as though it also held a goal and a constraint.
-
-**Coupled levers.** Row spacing and ground layer are one decision: crops differ in shade tolerance [@weselek2019]. The edge is split across two elements on purpose, because a berm stands in year twenty whether or not anyone tended it and a hedgerow does not. Grading is a structural decision with a soil-carbon consequence, since a racking system that needs a level plane sets the [soil ledger](4-restorative-functions.qmd#sec-fn-soil) before any seed mix is chosen (§4.2).
-
-### 3.4 Levers across the transect {#sec-lever-matrix}
-
-Every lever above exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect, grouped by the element each lever belongs to.
+Every one of the [design levers](0-design-levers.qmd) exists at every size, and almost none of them holds the same range throughout. This is the whole menu read against the transect. Scale has no row of its own here because it is the column heading: setting it is what produces the table, and the five remaining levers are what it rations.
 
 | Lever | A1 · Farmstead | A2 · Field | A3 · Parcel | A4 · Landscape | A5 · Regional |
 |:--|:--|:--|:--|:--|:--|
-| ***Dominant [restoration mode](0-elements-of-design.qmd#sec-el-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
+| ***Dominant [restoration mode](0-design-levers.qmd#sec-lv-mode)*** | structure-led (by hand) | structure- / siting-led | siting-led (peak latitude) | management-led | management-led |
 | **Siting** | | | | | |
 | Placement — siting latitude | parcel-bound | strategic choice begins | widest | narrowing | grid- / assembly-driven |
 | **Structure** | | | | | |

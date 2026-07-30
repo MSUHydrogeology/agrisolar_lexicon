@@ -145,7 +145,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 #### Design levers {#term-design-levers}
 
-The adjustable choices a designer uses to resolve the pressures, in three families: structural, land-and-ecology, and institutional, kept separable so each can be extended on its own. See [§3.3](3-design-pressures.qmd#sec-levers).
+The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. The first four act on ground and are rationed by scale, and the last two act on paper and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](0-design-levers.qmd) chapter, and [§3.3](3-design-pressures.qmd#sec-lever-matrix) for the levers read against the transect.
 
 ### 7.4 Restorative functions {#sec-terms-functions}
 
@@ -331,11 +331,11 @@ The ratio of module area to total ground area, which is the density of the array
 
 #### Module Technology {#term-module-technology}
 
-The panel itself as a lever (§3.3): *monofacial* vs *bifacial* (both faces generate); *vertical bifacial* (east–west, leaving the inter-row open to machinery, extending sharing to larger scale [@vaverkova2026]); *semitransparent / transmissivity-tuned* (passing some light to a crop below); and *spectrally selective* (transmitting the wavelengths plants use while harvesting the rest). Module choice sets how much light, and of what kind, reaches the [ground layer](#term-ground-layer).
+The panel itself as a [structure lever](0-design-levers.qmd#sec-lv-menu): *monofacial* vs *bifacial* (both faces generate); *vertical bifacial* (east–west, leaving the inter-row open to machinery, extending sharing to larger scale [@vaverkova2026]); *semitransparent / transmissivity-tuned* (passing some light to a crop below); and *spectrally selective* (transmitting the wavelengths plants use while harvesting the rest). Module choice sets how much light, and of what kind, reaches the [ground layer](#term-ground-layer).
 
 #### Tracking Schedule & Curtailment {#term-tracking-curtailment}
 
-Two operational-regime levers (§3.3). *Tracking schedule* is how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* is the deliberate reduction of output for grid, price, or ecological reasons. Both are decisions about how the array is *run*, the instrument of management-led restoration at A4–A5 (§1.3).
+Two [management levers](0-design-levers.qmd#sec-lv-menu). *Tracking schedule* is how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* is the deliberate reduction of output for grid, price, or ecological reasons. Both are decisions about how the array is *run*, the instrument of management-led restoration at A4–A5 (§1.3).
 
 #### Land Equivalent Ratio (LER) {#term-ler}
 
