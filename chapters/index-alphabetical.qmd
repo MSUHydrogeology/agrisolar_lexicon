@@ -40,7 +40,7 @@ under **S**.
 
 **Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [Terminology](terminology.qmd#term-agroenergy)
 
-**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position —  [Terminology](terminology.qmd#term-archetype) · [Archetypal Forms](archetypal_forms.qmd)
+**Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position —  [Terminology](terminology.qmd#term-archetype) · [Archetypal Forms](archetypal-forms.qmd)
 
 ## B {.unnumbered}
 
@@ -144,7 +144,7 @@ under **S**.
 
 **Operations and maintenance** — design pressure: minimize management burden across a 25–40 year asset life — [Terminology](terminology.qmd#term-operations-maintenance) · [The pressures](design-pressures.qmd#sec-pressures)
 
-**Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [Archetypal Forms](archetypal_forms.qmd)
+**Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [Archetypal Forms](archetypal-forms.qmd)
 
 **Ownership-led** — restoration mode: the work is done by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 

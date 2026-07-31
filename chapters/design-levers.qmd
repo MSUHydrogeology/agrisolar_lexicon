@@ -36,7 +36,7 @@ Scale limits these three against each other rather than uniformly. As a project 
 
 ## The institutional levers: ownership and contracts {#sec-lv-institutional}
 
-**Ownership** is who holds the asset, and it settles both who has standing to decide the rest and who captures what the array earns. An owner-operator, a cooperative, and a utility do not want the same things, and the differences show up in the [ground layer](terminology.qmd#term-ground-layer) rather than only in the accounts. [Barnyard shelter solar](archetypal_forms.qmd#arch-barnyard) is the clean case at the small end: it is restorative because the person who owns the array is the person who owns the animals under it, and no agreement was needed to align them.
+**Ownership** is who holds the asset, and it settles both who has standing to decide the rest and who captures what the array earns. An owner-operator, a cooperative, and a utility do not want the same things, and the differences show up in the [ground layer](terminology.qmd#term-ground-layer) rather than only in the accounts. [Barnyard shelter solar](archetypal-forms.qmd#arch-barnyard) is the clean case at the small end: it is restorative because the person who owns the array is the person who owns the animals under it, and no agreement was needed to align them.
 
 Ownership is also the lever the transect moves furthest, and it moves in one direction. At the farmstead the array belongs to the operator. Through the commercial and community zones it belongs to the landowner, or to a community-solar structure with many small holders. At A4 and A5 it belongs to developer capital and then to a utility or an independent power producer, and the person on the ground holds a lease instead.
 
