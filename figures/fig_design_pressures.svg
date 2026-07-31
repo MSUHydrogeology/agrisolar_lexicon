@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="600" viewBox="0 0 760 600" role="img">
 <title>Nine design pressures converging on one site, grouped by which way they push on restoration</title>
-<desc>Nine design pressures drawn as arrows converging on a central disc labelled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, build cost and operations and maintenance. Two grey wedges hold the three that go both ways: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because grey sits at both boundaries between the coloured wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
+<desc>Nine design pressures drawn as arrows converging on a central disc labelled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, build cost and operations and maintenance. Two gray wedges hold the three that go both ways: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because gray sits at both boundaries between the colored wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .nm{font-size:13px;font-weight:600;fill:#3d3d3a}
@@ -14,8 +14,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <marker id="Wb" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#6f6d66"/></marker>
 </defs>
 
-<!-- four wedges sized to their contents: 80 grey / 120 teal / 40 grey / 120 terracotta.
-     grey sits at BOTH boundaries, so toward and away never meet. mirror-symmetric about vertical. -->
+<!-- four wedges sized to their contents: 80 gray / 120 teal / 40 gray / 120 terracotta.
+     gray sits at BOTH boundaries, so toward and away never meet. mirror-symmetric about vertical. -->
 <path d="M380,300 L241.8,135.3 A215,215 0 0 1 518.2,135.3 Z" fill="#eae8e3"/>
 <path d="M380,300 L518.2,135.3 A215,215 0 0 1 453.5,502 Z" fill="#d9e9e4"/>
 <path d="M380,300 L453.5,502 A215,215 0 0 1 306.5,502 Z" fill="#eae8e3"/>

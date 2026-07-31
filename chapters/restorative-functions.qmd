@@ -11,9 +11,9 @@ Nothing about the land separates them. Where a project sits (§-@sec-transect) a
 - **Agriculture and soils** (§-@sec-fn-agricultural) — what farming gets from it, and what the ground underneath is made of
 - **Community and economy** (§-@sec-fn-community) — what the people hosting it actually get
 
-![Four functions, which lever carries each one, and which route its benefit travels. Two things the table cannot draw: carbon, which leaves by air, and land sparing, whose benefit is ground elsewhere that stayed as it was](../figures/fig_functions_overview.svg){#fig-functions-overview}
+![Four functions, which lever carries each one, and which route its benefit travels](../figures/fig_functions_overview.svg){#fig-functions-overview}
 
-Read the table by route rather than by distance. Every function here reaches beyond the fence along some route, so the useful question is not how far a benefit goes but which way it travels, since that is what decides who can check the claim and who receives it. Carbon is the exception the drawing cannot hold, leaving by air to everywhere and no one in particular, and land sparing is missing for a different reason: nothing travels at all, because its benefit is ground that stayed as it was (§-@sec-benefit-range).
+Read the table by route rather than by distance. Carbon is the exception the drawing cannot hold, leaving by air to everywhere and no one in particular, and land sparing is missing for a different reason: nothing travels at all, because its benefit is ground that stayed as it was (§-@sec-benefit-range).
 
 **Microclimate is not on the list, and used to be.** The shade is real and among the best-evidenced things an array does: daytime soil and canopy temperatures fall, nighttime minima rise, and vapor-pressure deficit drops [@sturchio2023; @pinos2026; @barrongafford2019]. But it is a mechanism rather than an outcome, and its results are already counted elsewhere. Retained soil moisture is the water function. Thermal refuge for what lives under the panels is ecology. Relief for a shade-tolerant crop, shelter for stock, and shade for the people working there are agriculture. Naming it separately counted the same shade twice, which is why the vocabulary keeps [microclimate modification](terminology.qmd#term-microclimate) as a term for the mechanism and drops it as a function.
 
@@ -108,7 +108,7 @@ One case runs backwards. Demonstration sites, field days, and school visits deli
 
 ## Evaluating outcomes {#sec-scale}
 
-The four functions each carry two outcomes, and together the eight are what a project can be judged on. Naming them separately matters because they move independently: an array can hold water on the site and still compact the soil under it, or pay a landowner well and give the neighbours nothing.
+The four functions each carry two outcomes, and together the eight are what a project can be judged on. Naming them separately matters because they move independently: an array can hold water on the site and still compact the soil under it, or pay a landowner well and give the neighbors nothing.
 
 ::: {.function-table}
 | Function | Outcomes |
@@ -124,4 +124,4 @@ Each outcome runs on the same scale, from causing harm at one end to promoting b
 
 The polygon drawn there is a worked example and not a measurement. It belongs to a project that gives up food production for soil quality and ecological diversity, which is the trade a retired or heavily planted site makes. Reading a project this way does two things a single verdict cannot. It shows the trade, because a project that gains on one axis and loses on another has a shape rather than a score. And it shows who is owed an explanation, because an outcome sitting inside the ring is a commitment the design did not keep.
 
-![The eight outcomes plotted together, four quadrants, one per function. Each spoke runs from causing harm at the centre, through the dashed ring where the outcome is left no worse than it was found, out to promoting benefit at the rim, so a larger shape is a better project.](../figures/fig_outcomes_footprint.svg){#fig-outcomes-footprint}
+![The eight outcomes plotted together, four quadrants, one per function. Each spoke runs from causing harm at the center, through the dashed ring where the outcome is left no worse than it was found, out to promoting benefit at the rim, so a larger shape is a better project.](../figures/fig_outcomes_footprint.svg){#fig-outcomes-footprint}

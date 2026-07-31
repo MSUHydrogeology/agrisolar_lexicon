@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Retired-Irrigation Solar</title>
-<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the metre, so the array runs off both edges of the frame. The centre pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its outcomes footprint sits at the right: Water almost at the rim, Agriculture in toward the centre, deliberately given up.</desc>
+<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the meter, so the array runs off both edges of the frame. The center pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its outcomes footprint sits at the right: Water almost at the rim, Agriculture in toward the center, deliberately given up.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -43,7 +43,7 @@
   <path d="M26,200 C120,199.4 300,197.6 545,197 L545,250 L26,250 Z" fill="#2b7fb0" fill-opacity="0.16"/>
   <!-- the water table today: no local feature, the well is capped and recovered -->
   <path d="M26,200 C120,199.4 300,197.6 545,197" fill="none" stroke="#2b7fb0" stroke-width="1.8"/>
-  <!-- where it would sit had pumping continued: a depression centred on the well.
+  <!-- where it would sit had pumping continued: a depression centered on the well.
        The GAP is the avoided drawdown, so it peaks at the casing and tapers out. -->
   <path d="M26,204 C110,205.5 165,211 196,211 C227,211 300,205.5 545,201" fill="none" stroke="#8a7f6a" stroke-width="1.4" stroke-dasharray="5 4" opacity="0.85"/>
   <!-- the capped well, running on below the frame -->

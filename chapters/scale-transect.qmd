@@ -28,7 +28,7 @@ Physical effects change with geometry and scale as well. Soil cooling and moistu
 | **A3 — Community** | 1–5 MW | ~6–30 acres | Distribution; community solar, mid-market PPA | Multi-party: landowner, developer, offtaker, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
 | **A4 — Utility** | 5–50 MW | ~30–300 acres | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
 | **A5 — Complex** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
-: The five zones, and the attributes that move together along them. Capacity is how a project is filed and acreage is how a place experiences it, so the acres are the better guide where the two disagree. {#tbl-zones}
+: The five zones, and the attributes that move together along them. {#tbl-zones}
 :::
 
 Capacity is how a project is filed; acreage is how landholders and communities experience it. [Trackers](terminology.qmd#term-tracking-curtailment) and [agrivoltaic](terminology.qmd#term-agrivoltaics) [clearance](terminology.qmd#term-clearance) use more land per megawatt than dense arrays, so **acreage is the better guide when the two disagree** [@gallaher2026; @sturchio2025croplands].
@@ -63,7 +63,7 @@ So “solar grazing” on its own names three different practices, and which one
 
 ## Scale modulates the other five levers {#sec-master-lever}
 
-Of the six [design levers](design-levers.qmd), scale is the only one that does no restorative work of its own. Choosing five megawatts over eighty plants nothing and obliges nobody. What it does is decide which of the other five a designer still has a hand on by the time the layout is drawn, and it is settled early, on [interconnection](terminology.qmd#term-interconnection) and capital, usually before anyone has asked what the ground needs. **Scale is the master lever because it is spent before the others are picked up**, and little later in a project wins back what it closed.
+Of the six [design levers](design-levers.qmd), scale is the only one that does no restorative work of its own. Choosing five megawatts over eighty plants nothing and obliges nobody. What it does is decide which of the other five a designer still has a hand on by the time the layout is drawn. **Scale is the master lever because it is spent before the others are picked up**, and little later in a project wins back what it closed.
 
 [Siting latitude](terminology.qmd#term-siting-latitude) shows the mechanism plainly, because the decision is physical and somebody has to point at a piece of ground. What changes with scale is whose arm does the pointing.
 

@@ -135,7 +135,7 @@ under **S**.
 
 **Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [Terminology](terminology.qmd#term-management-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
-**Marginal / Previously Disturbed Land** — the low-value ground that idled-land sparing (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Terminology](terminology.qmd#term-marginal-land)
+**Marginal / Previously Disturbed Land** — the low-value ground that low-productivity siting (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Terminology](terminology.qmd#term-marginal-land)
 
 **Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [Terminology](terminology.qmd#term-module-technology)
 
@@ -193,7 +193,7 @@ under **S**.
 
 **Setback** — the ground held open between the array and the property line, road, or dwelling; the dimension local ordinances fix most often, and where screening gets planted — [Terminology](terminology.qmd#term-setback)
 
-**Farming Axis** — *see* Farming Axis — [Terminology](terminology.qmd#term-farming-axis)
+**Siting Axis** — retired as the axis name; *see* Farming Axis — [Terminology](terminology.qmd#term-farming-axis) · [The Farming Axis](farming-axis.qmd)
 
 **Farming Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-farming-axis) · [The Farming Axis](farming-axis.qmd)
 

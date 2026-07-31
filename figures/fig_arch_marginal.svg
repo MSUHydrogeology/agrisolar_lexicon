@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
 <title>Marginal Land Solar</title>
-<desc>Section through a farm field, drawn at ten SVG units to the metre. On the level, well drained ground at left the crop stands full height, then thins and yellows toward the shoulder, with one stand gap, as the water table rises and the soil thins. Production stops at the parcel boundary and the array takes the wet, stony corner, which carries rough grass over shallow roots. Sunlight falls from the upper left, and the panels throw spaced bands of shade onto the ground. Its outcomes footprint sits at the right: Communities, Ecology, and Water all well out toward the rim, with Agriculture the one pulled in.</desc>
+<desc>Section through a farm field, drawn at ten SVG units to the meter. On the level, well drained ground at left the crop stands full height, then thins and yellows toward the shoulder, with one stand gap, as the water table rises and the soil thins. Production stops at the parcel boundary and the array takes the wet, stony corner, which carries rough grass over shallow roots. Sunlight falls from the upper left, and the panels throw spaced bands of shade onto the ground. Its outcomes footprint sits at the right: Communities, Ecology, and Water all well out toward the rim, with Agriculture the one pulled in.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -15,7 +15,7 @@
     <line x1="0" y1="-5" x2="-3.5" y2="-9" stroke="#6a9440" stroke-width="1.2"/>
     <line x1="0" y1="-5" x2="3.5" y2="-9" stroke="#6a9440" stroke-width="1.2"/>
   </g>
-  <!-- the same plant, losing height and colour toward the wet shoulder -->
+  <!-- the same plant, losing height and color toward the wet shoulder -->
   <g id="crop-82">
     <line x1="0" y1="0" x2="0" y2="-8.2" stroke="#6a9440" stroke-width="1.5"/>
     <line x1="0" y1="-4.6" x2="-3.2" y2="-8.2" stroke="#6a9440" stroke-width="1.2"/>

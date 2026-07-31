@@ -2,7 +2,7 @@
 
 The developer, neighbor, farmer, buyer, and county do not want the same thing from a solar project. The developer needs a simple rectangle it can build at the price it bid. The farmer needs clearance for a tractor and a lease that runs as long as the array. The neighbor wants a screen along the road, the buyer wants the credits its scorecard counts, and the county wants the tax revenue and its own setbacks observed. Every project settles those claims, and mostly settles them without anyone saying so: the seed mix goes to turf, or the permit stalls. These are the **pressures**: nine forces, each with a direction and an advocate. Naming them makes the disagreement arguable, and says who is carrying what the design could not settle.
 
-![Nine pressures bearing on one site at once, arranged by the direction each pushes. The two coloured groups never meet, because the three whose direction is decided by the site, the buyer, or the county sit in the grey wedges between them.](../figures/fig_design_pressures.svg){#fig-design-pressures}
+![Nine pressures bearing on one site at once, arranged by the direction each pushes. The two colored groups never meet, because the three whose direction is decided by the site, the buyer, or the county sit in the gray wedges between them.](../figures/fig_design_pressures.svg){#fig-design-pressures}
 
 ## The pressures {#sec-pressures}
 
@@ -26,8 +26,6 @@ Nine forces act on every site. Three push toward restoration, three push away, a
 A site nobody will [finance](terminology.qmd#term-cost-financing) does not get built, and none of the nine can simply be argued away.
 
 ## Where the pressures collide {#sec-conflicts}
-
-Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapped for turf.
 
 What a given design leaves unresolved is its **[design tension](terminology.qmd#term-design-tension)**. No setting of the [levers](design-levers.qmd) reduces it to nothing, because the nine cannot all be satisfied at once and a project has to be built anyway. What varies is how much is left, and which parties are carrying it: a design can be quiet because the pressures genuinely accommodated each other, or quiet because one party gave up and went home. The settings that leave the least tension are the ones that get built repeatedly, which is where the [archetypal forms](archetypal-forms.qmd) come from.
 

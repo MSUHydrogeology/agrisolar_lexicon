@@ -30,7 +30,7 @@ Pressure: minimize what the project costs to build and what it costs to finance.
 
 ### Operations and maintenance {#term-operations-maintenance}
 
-Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose build cost, since native seeding raises capex and lowers long-run opex. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose [cost and financing](#term-cost-financing), since native seeding raises capex and lowers long-run opex. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Agricultural production {#term-agricultural-production}
 
@@ -344,11 +344,11 @@ The ground held open between the array and whatever it is measured from: the pro
 
 ### Viewshed {#term-viewshed}
 
-The ground from which the array can be seen. It is the part of the [influence zone](#term-footprint-influence) that reaches people rather than water, soil, or wildlife, and the only part of a project's influence a neighbour meets directly, which is why it carries more of the [community acceptance](design-pressures.qmd#sec-pressures) argument than its physical extent suggests. It is what [screening](#term-screening) acts on.
+The ground from which the array can be seen. It is the part of the [influence zone](#term-footprint-influence) that reaches people rather than water, soil, or wildlife, and the only part of a project's influence a neighbor meets directly, which is why it carries more of the [community acceptance](design-pressures.qmd#sec-pressures) argument than its physical extent suggests. It is what [screening](#term-screening) acts on.
 
 ### Community Benefit {#term-community-benefit}
 
-The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. Distinct from acceptance: benefit and acceptance can come apart, since benefit without a fair process can read as a bribe, so the [community acceptance](design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent.
+The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. These instruments are the receipts half of the [community acceptance and benefit](#term-community-acceptance) pressure, whose entry sets out why the process half cannot be bought, so the [community acceptance](design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent.
 
 ### Microclimate {#term-microclimate}
 
@@ -362,7 +362,7 @@ Whatever occupies the surface beneath and between panels. Primary carrier of res
 
 ### Marginal / Previously Disturbed Land {#term-marginal-land}
 
-The low-value ground that [idled-land sparing](farming-axis.qmd#sec-positions) (S4) presupposes: consistently low-yielding cropland, and previously disturbed land such as reclaimed mine land, landfills, and brownfields ("brightfields"). Marginality is partly a property of the ground and partly of the market, so claims of marginal-land siting deserve scrutiny about what fraction of a footprint is genuinely marginal (§-@sec-wedge).
+The low-value ground that [low-productivity siting](farming-axis.qmd#sec-positions) (S4) presupposes: consistently low-yielding cropland, and previously disturbed land such as reclaimed mine land, landfills, and brownfields ("brightfields"). Marginality is partly a property of the ground and partly of the market, so claims of marginal-land siting deserve scrutiny about what fraction of a footprint is genuinely marginal (§-@sec-wedge).
 
 ### Pore Space {#term-pore-space}
 
@@ -374,7 +374,7 @@ The low-value ground that [idled-land sparing](farming-axis.qmd#sec-positions) (
 
 ### Ground Coverage Ratio (GCR) {#term-gcr}
 
-The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and build cost; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§-@sec-siting-latitude).
+The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and cost and financing; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§-@sec-siting-latitude).
 
 ### Module Technology {#term-module-technology}
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="276" viewBox="0 0 880 276" role="img">
 <title>The six design levers</title>
-<desc>Six levers standing in a bank, drawn as faders on a rail. Scale sits alone at the left behind a rule, in grey, because it produces no restoration mode of its own and sets the frame the others work inside. Siting, structure and management follow as a group, in three deepening shades of tan and brown, bracketed as the levers that act on the ground and are bounded by how much ground there is. Ownership and contracts follow behind a second rule, in two shades of blue, bracketed as institutional levers that are not bounded by ground. Under each lever is what it decides and what it can deliver. All the handles sit at the same height, because the drawing names the levers rather than any particular setting of them.</desc>
+<desc>Six levers standing in a bank, drawn as faders on a rail. Scale sits alone at the left behind a rule, in gray, because it produces no restoration mode of its own and sets the frame the others work inside. Siting, structure and management follow as a group, in three deepening shades of tan and brown, bracketed as the levers that act on the ground and are bounded by how much ground there is. Ownership and contracts follow behind a second rule, in two shades of blue, bracketed as institutional levers that are not bounded by ground. Under each lever is what it decides and what it can deliver. All the handles sit at the same height, because the drawing names the levers rather than any particular setting of them.</desc>
 
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
@@ -12,7 +12,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 </style>
 
 <defs>
-  <!-- one lever: a track, the travel below the handle filled in its own colour, and the handle -->
+  <!-- one lever: a track, the travel below the handle filled in its own color, and the handle -->
   <g id="lever">
     <rect x="-5" y="0" width="10" height="100" rx="5" fill="#eceae3"/>
   </g>
@@ -33,7 +33,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="160" y1="58" x2="160" y2="195" stroke="#e0ddd4" stroke-width="1.2"/>
 <line x1="578" y1="58" x2="578" y2="195" stroke="#e0ddd4" stroke-width="1.2"/>
 
-<!-- ============ SCALE — grey, because it produces no mode of its own ============ -->
+<!-- ============ SCALE — gray, because it produces no mode of its own ============ -->
 <use href="#lever" x="90" y="95"/>
 <rect x="85" y="145" width="10" height="50" rx="5" fill="#6f6d66"/>
 <rect x="72" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f6d66" stroke-width="2"/>
