@@ -4,6 +4,10 @@ A solar project is a long list of decisions, and almost all of them fall into si
 
 Everything else in this document sits downstream of them. The [design pressures](design-pressures.qmd) are the forces arguing over how the levers get set, and the [restorative functions](restorative-functions.qmd) are what the settings produce. **Two of the six are large enough to need a chapter each.** Scale is read off the [scale transect](scale-transect.qmd), five calibration points from the farmstead to the complex. Siting is read off the [siting axis](siting-axis.qmd), five positions recording what happened to the farming on the ground the array took. Those two chapters come next, and the other four levers are worked through here.
 
+![**The six design levers.** Everything anyone can actually change about a project, and nothing else. Scale stands apart because it does no restorative work of its own and sets the frame the other five work inside. Siting, structure, and management act on the ground and are bounded by how much of it there is; ownership and contracts are institutional and are not. Under each lever is what it decides and what it can deliver. The handles are drawn level because the figure names the levers rather than any particular setting of them.](../figures/fig_design_levers.svg){#fig-design-levers}
+
+## The levers {#sec-levers}
+
 ::: {.lever-table}
 | Lever | What it decides | What it can deliver |
 |:--|:--|:--|
@@ -18,9 +22,13 @@ Everything else in this document sits downstream of them. The [design pressures]
 :::
 Two things that look like levers are not. What a project is *aiming at* is a goal rather than a decision about the project, which makes it the [restorative goals](terminology.qmd#term-restorative-goals) pressure; what the ordinance requires is not chosen by anybody building, which makes it [policy and permission](terminology.qmd#term-policy-permission). Both belong in §-@sec-pressures-ch, and a list that mixes a goal and a constraint in with actual choices is sorting three different kinds of thing under one heading.
 
-## Scale limits every other lever {#sec-lv-scale}
+::: {.callout-note}
+## Scale limits every other lever
 
 Scale comes first because every other lever is bounded by it, and it earns a chapter of its own (§-@sec-transect). It is a decision for some parties and a constraint for others: a farmer with one parcel and a distribution line at the road has very little say in it, and a developer assembling acreage near a [substation](terminology.qmd#term-substation) has a great deal. Both are choosing, and only one of them knows it.
+
+How much each of the other five can still deliver once scale has settled is the subject of §-@sec-modes.
+:::
 
 ## The ground levers: siting, structure, and management {#sec-lv-ground}
 

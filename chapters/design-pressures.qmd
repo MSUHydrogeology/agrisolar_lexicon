@@ -2,6 +2,8 @@
 
 The developer, neighbor, farmer, buyer, and county do not want the same thing from a solar project. These are the **pressures**: forces with direction, conflict, and advocates. The axes say where a project sits; pressures explain how it got there. Naming them makes the actual disagreement arguable.
 
+![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-design-pressures}
+
 ## The pressures {#sec-pressures}
 
 Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's [restorative](terminology.qmd#term-restorative) claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the [reversibility](terminology.qmd#term-decommissioning) argument in §-@sec-conflicts the hard one.
@@ -22,8 +24,6 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 :::
 
 A site with no [build cost](terminology.qmd#term-build-cost) does not get built, and none of the nine can simply be argued away.
-
-![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-design-pressures}
 
 ## Where the pressures collide {#sec-conflicts}
 

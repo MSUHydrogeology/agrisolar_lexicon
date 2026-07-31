@@ -16,6 +16,17 @@ Ordinary-land siting is the center of the axis and where most projects sit; dire
 
 S4 and S5 both take ground out of production, and differ in [where the benefit goes](terminology.qmd#term-benefit-delivery): S4 spares land not taken, S5 acts on the ground taken and its downstream effects. That difference is why only one of them can be checked where it stands. **S5 names a fact about the ground the array is on; S4 names a fact about ground the array never reached.** Both names therefore record what was sited on, which is observable, and leave the sparing claim to the definition. The burden that qualifies a site for S5 has to be a measurable one: chronically low yields, high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget. Ground positioned where such a burden can be intercepted qualifies on the same reasoning. Prairie plantings on drainage-impaired crop ground illustrate the distinction [@schulte2017].
 
+::: {.position-table}
+| Position | The ground beforehand | Production afterward | Typical ground layer | Where the benefit lands |
+|---|---|---|---|---|
+| **S1 — Primary agriculture** | The use it already carried | Continues essentially unchanged | The crop, the vines, or the pasture itself | On the same ground |
+| **S2 — Secondary agriculture** | Usually cropland, sometimes the same pasture | Continues, at a lower value than before | Grazed, cut for forage or hay, or worked for hives | On the same ground, and on the farm working it |
+| **S3 — Ordinary-land siting** | Ordinary productive ground | Stops inside the footprint | Whatever is maintained; often mown | On the farm enterprise, through the lease |
+| **S4 — Low-productivity siting** | Already idle, marginal, or chronically low-yielding | Had already stopped before the array arrived | Often left to naturalize | On productive land elsewhere that went unbuilt |
+| **S5 — Impaired-land siting** | Carrying a measurable off-site burden | Stops, and the burden stops with it | Perennial cover chosen against the burden | On the ground taken, and downstream of it |
+: The five positions, and what changes across them. Read left to right, the first two columns settle the position and the last two say what follows from it. Only S4's benefit lands somewhere the site cannot show you, which is why its name records the ground rather than the sparing. {#tbl-positions}
+:::
+
 ::: {.example}
 **Corn-ethanol land: the large American S5 case.** It reverses the usual objection. About 12 million hectares of US cropland, an area the size of New York State, already grows energy rather than food. One hectare of [utility-scale](terminology.qmd#term-utility-scale) array matches the energy of roughly 31 hectares of corn grown for ethanol, so converting 3.2% of that acreage would replace all of its energy and take utility-scale solar from 3.9% to 13% of US supply. Retiring the nutrient-exporting fraction under perennial vegetation would remove an estimated 54.8 million kg of nitrogen and 26.3 million kg of phosphorus from annual application [@sturchio2025croplands].
 
