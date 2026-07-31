@@ -96,7 +96,7 @@ A single gradient from farmstead (A1) to complex (A5) that most other terms are 
 
 ### A0 — Rooftop {#term-a0}
 
-Arrays mounted on buildings, and by extension on carports and canopies, which take no ground at all: no siting latitude to spend, no ground layer to design, and no [siting axis position](#term-siting-axis) to hold. It sits at the transect's origin rather than on it. See [§-@sec-zones](scale-transect.qmd#sec-zones).
+Arrays mounted on buildings, and by extension on carports and canopies, which take no ground at all: no siting latitude to spend, no ground layer to design, and no [farming axis position](#term-farming-axis) to hold. It sits at the transect's origin rather than on it. See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
 ### A1 — Farmstead {#term-a1}
 
@@ -136,43 +136,43 @@ The season-long forage the land sustains over time, distinct from instantaneous 
 
 Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up into a logistics enterprise. See [§-@sec-zones](scale-transect.qmd#sec-grazing).
 
-## The siting axis {#sec-terms-sharing}
+## The farming axis {#sec-terms-sharing}
 
-Developed in [§-@sec-siting-axis, The Siting Axis](siting-axis.qmd).
+Developed in [§-@sec-farming-axis, The Farming Axis](farming-axis.qmd).
 
-### Siting Axis {#term-siting-axis}
+### Farming Axis {#term-farming-axis}
 
-The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3. The names run on two stems, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Siting Axis](siting-axis.qmd).
+The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3. The names run on two stems, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Farming Axis](farming-axis.qmd).
 
 *Borrowed, and turned.* In conservation ecology the sharing–sparing question asks how intensively to farm a landscape so that the remainder can be left to nature, argued at landscape scale against a fixed food target, with biodiversity the outcome that settles which way to go [@green2005; @phalan2011]. Three things change here. The thing being placed is a power plant rather than a farming regime, the unit is one project on one parcel, and the axis records what happened to production rather than scoring an outcome. That is why it has a middle: S3 is neither sharing nor sparing, and the ecology debate has no position for it.
 
 ### S1 — Primary agriculture {#term-s1}
 
-The agricultural use continues essentially as it was, with the array added over or between it: a vineyard still a vineyard, a pasture still a pasture, a row crop still cropped between the rows. This is [agrivoltaics](#term-agrivoltaics) in the strict sense, and the test is comparison with what the ground did before rather than with what the array needs. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The agricultural use continues essentially as it was, with the array added over or between it: a vineyard still a vineyard, a pasture still a pasture, a row crop still cropped between the rows. This is [agrivoltaics](#term-agrivoltaics) in the strict sense, and the test is comparison with what the ground did before rather than with what the array needs. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S2 — Secondary agriculture {#term-s2}
 
-The ground still carries an agricultural use, but a lesser one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Agriculture continues; its value is stepped down. Available at every scale, and with S3 the spine of the [feasible wedge](#term-feasible-wedge). See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The ground still carries an agricultural use, but a lesser one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Agriculture continues; its value is stepped down. Available at every scale, and with S3 the spine of the [feasible wedge](#term-feasible-wedge). See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S3 — Ordinary-land siting {#term-s3}
 
-Neither sharing nor sparing: the array takes ordinary productive ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic before it is biophysical. Where the rent reaches a non-farming owner and the operation ends, the site is [bare conversion](#term-bare-conversion) instead. The center of the axis, and where most projects sit. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+Neither sharing nor sparing: the array takes ordinary productive ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic before it is biophysical. Where the rent reaches a non-farming owner and the operation ends, the site is [bare conversion](#term-bare-conversion) instead. The center of the axis, and where most projects sit. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S4 — Low-productivity siting {#term-s4}
 
-The array takes ground that was already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it. The name records the ground taken, which can be checked on site. The benefit — that productive land elsewhere went unbuilt — is a [landscape claim](#term-displaced-benefit) and is carried by the definition rather than by the name, because it cannot be read at the site. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The array takes ground that was already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it. The name records the ground taken, which can be checked on site. The benefit — that productive land elsewhere went unbuilt — is a [landscape claim](#term-displaced-benefit) and is carried by the definition rather than by the name, because it cannot be read at the site. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S5 — Impaired-land siting {#term-s5}
 
-The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### Bare conversion {#term-bare-conversion}
 
-Ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+Ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### Feasible wedge {#term-feasible-wedge}
 
-The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes, at A5 as land assembly and build cost remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§-@sec-wedge](siting-axis.qmd#sec-wedge).
+The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes, at A5 as land assembly and build cost remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§-@sec-wedge](farming-axis.qmd#sec-wedge).
 
 *Coined here, and it collides.* A reader from energy or climate work will hear Pacala and Socolow's stabilization wedges [@pacala2004], where a wedge is a slice of avoided emissions widening to a gigaton of carbon a year and the point of the picture is that the slices add up. Nothing carries across but the shape word. This wedge is a region on the scale-by-sharing plane showing which positions are actually available, and it narrows toward both of its ends.
 
@@ -202,7 +202,7 @@ Developed in [§-@sec-functions, Restorative Functions](restorative-functions.qm
 
 A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once, the columns laid over the archetypes as rows (§-@sec-functions). Two are biophysical, one agricultural, and one socioeconomic. See [Restorative Functions](restorative-functions.qmd).
 
-*Not ecosystem services renamed.* An ecologist will read the four as the Millennium Assessment's categories in new clothes, and the overlap is real, but the sorting principle is different: services are grouped by what an ecosystem supplies, and these by what a design can be built to deliver. One of the four is socioeconomic, food production sits on the [siting axis](#term-siting-axis) instead of among the functions, and a function here is an objective a project is held to rather than an account of what a place already does. Service classifications are plural and built for the purpose at hand [@costanza2008]; this is one more of them.
+*Not ecosystem services renamed.* An ecologist will read the four as the Millennium Assessment's categories in new clothes, and the overlap is real, but the sorting principle is different: services are grouped by what an ecosystem supplies, and these by what a design can be built to deliver. One of the four is socioeconomic, food production sits on the [farming axis](#term-farming-axis) instead of among the functions, and a function here is an objective a project is held to rather than an account of what a place already does. Service classifications are plural and built for the purpose at hand [@costanza2008]; this is one more of them.
 
 ### Hydrologic function {#term-fn-hydrologic}
 
@@ -222,7 +222,7 @@ Whether organisms can move into, through, and out of a site, as against whether 
 
 []{#term-fn-soil}
 
-What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [siting axis](#term-siting-axis) restated, which records whether production continues in the footprint rather than what the project gives farming. Its [benefit delivery](#term-benefit-delivery) splits: the soil half stays in place, while the service to farming travels along living things, which makes that half the most dependent on what surrounds the site. See [§-@sec-fn-agricultural](restorative-functions.qmd#sec-fn-agricultural).
+What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [farming axis](#term-farming-axis) restated, which records whether production continues in the footprint rather than what the project gives farming. Its [benefit delivery](#term-benefit-delivery) splits: the soil half stays in place, while the service to farming travels along living things, which makes that half the most dependent on what surrounds the site. See [§-@sec-fn-agricultural](restorative-functions.qmd#sec-fn-agricultural).
 
 ### Community & economic function {#term-fn-community}
 
@@ -272,7 +272,7 @@ Energy infrastructure sited and designed to interact intentionally with agricult
 
 ### Agrisolar {#term-agrisolar}
 
-Agroenergy specific to photovoltaics. This lexicon uses it as a neutral umbrella across the [siting axis](siting-axis.qmd), including S3–S5 rather than only agricultural co-location. **Multi-use solar** is a related, narrower term covering agrivoltaics, rangevoltaics, and ecovoltaics [@merheb2025].
+Agroenergy specific to photovoltaics. This lexicon uses it as a neutral umbrella across the [farming axis](farming-axis.qmd), including S3–S5 rather than only agricultural co-location. **Multi-use solar** is a related, narrower term covering agrivoltaics, rangevoltaics, and ecovoltaics [@merheb2025].
 
 **Syn.:** multi-use solar (narrower: excludes S3–S5 without an ecological ground layer).
 
@@ -286,7 +286,7 @@ Crop or livestock production within the array footprint (S1–S2). Crop response
 
 ### Rangevoltaics {#term-rangevoltaics}
 
-Grazing under and between panels, read here as [functional sharing](siting-axis.qmd#sec-positions) (S2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§-@sec-siting-latitude). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
+Grazing under and between panels, read here as [functional sharing](farming-axis.qmd#sec-positions) (S2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§-@sec-siting-latitude). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
 
 **Syn.:** solar grazing.
 
@@ -295,14 +295,14 @@ Grazing under and between panels, read here as [functional sharing](siting-axis.
 Solar development that co-prioritizes ecosystem function with generation through siting, layout, ground-layer design, operations, and a viable business model [@sturchio2023; @tolgyesi2023]. This lexicon treats its ecological ground layer as a [restorative function](restorative-functions.qmd), not an axis position. The framework favors repair of disturbed ground over conversion of intact native ecosystems [@sturchio2025croplands].
 
 ::: {.caution}
-**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [siting axis](siting-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural production and restorative goals (§-@sec-conflicts) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
+**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [farming axis](farming-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural production and restorative goals (§-@sec-conflicts) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
 :::
 
 **Source:** @sturchio2023 — [Sources](sources.qmd).
 
 ### Dual Use {#term-dual-use}
 
-A production-based term: co-location that keeps *active agricultural production* within the array footprint across the project's life, which is American Farmland Trust's criterion. Structurally a mandate for [S1–S2](siting-axis.qmd#sec-positions). Distinct from [ecovoltaics](#term-ecovoltaics), whose ecological ground layer is a function rather than production; the two are the poles of the definitional dispute the lexicon holds open rather than adjudicates (§-@sec-wedge).
+A production-based term: co-location that keeps *active agricultural production* within the array footprint across the project's life, which is American Farmland Trust's criterion. Structurally a mandate for [S1–S2](farming-axis.qmd#sec-positions). Distinct from [ecovoltaics](#term-ecovoltaics), whose ecological ground layer is a function rather than production; the two are the poles of the definitional dispute the lexicon holds open rather than adjudicates (§-@sec-wedge).
 
 ### Restorative {#term-restorative}
 
@@ -318,7 +318,7 @@ The pair that makes [agrisolar](#term-agrisolar) the superset and [agrivoltaics]
 
 **Integration** — the two share the same ground and the same light: panel height set by livestock clearance, row spacing by forage light requirements, tracking schedule by photosynthetic timing. @stid2025 call this *vertical* or *coincident* co-location — agrivoltaics proper.
 
-Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](siting-axis.qmd#sec-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this document needs the wider word.
+Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](farming-axis.qmd#sec-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this document needs the wider word.
 
 Integration is also the line a design crosses to be restorative in the structural sense rather than in name only, though S3 is the reminder that a project can restore an enterprise without integrating anything.
 
@@ -360,7 +360,7 @@ Whatever occupies the surface beneath and between panels. Primary carrier of res
 
 ### Marginal / Previously Disturbed Land {#term-marginal-land}
 
-The low-value ground that [idled-land sparing](siting-axis.qmd#sec-positions) (S4) presupposes: consistently low-yielding cropland, and previously disturbed land such as reclaimed mine land, landfills, and brownfields ("brightfields"). Marginality is partly a property of the ground and partly of the market, so claims of marginal-land siting deserve scrutiny about what fraction of a footprint is genuinely marginal (§-@sec-wedge).
+The low-value ground that [idled-land sparing](farming-axis.qmd#sec-positions) (S4) presupposes: consistently low-yielding cropland, and previously disturbed land such as reclaimed mine land, landfills, and brownfields ("brightfields"). Marginality is partly a property of the ground and partly of the market, so claims of marginal-land siting deserve scrutiny about what fraction of a footprint is genuinely marginal (§-@sec-wedge).
 
 ### Pore Space {#term-pore-space}
 
@@ -384,9 +384,9 @@ Two [management levers](design-levers.qmd#sec-lv-ground). *Tracking schedule* is
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function, and it handles the non-production ground layers of [S3–S5](siting-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function, and it handles the non-production ground layers of [S3–S5](farming-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
 
-*Borrowed twice, and the blind spots came from the first borrowing.* LER was defined for intercropping, to say how much sole-crop land two species grown together would otherwise have needed [@mead1980]. @dupraz2011 carried it into agrivoltaics by treating electricity as the second crop. Both moves keep the founding assumption, that the two outputs are yields, comparable per unit of the same ground. That is what fails at [S3–S5](siting-axis.qmd#sec-positions), where the second output is habitat, infiltration, or a lease payment, and it is why the metric's silences are structural rather than an oversight anyone can patch.
+*Borrowed twice, and the blind spots came from the first borrowing.* LER was defined for intercropping, to say how much sole-crop land two species grown together would otherwise have needed [@mead1980]. @dupraz2011 carried it into agrivoltaics by treating electricity as the second crop. Both moves keep the founding assumption, that the two outputs are yields, comparable per unit of the same ground. That is what fails at [S3–S5](farming-axis.qmd#sec-positions), where the second output is habitat, infiltration, or a lease payment, and it is why the metric's silences are structural rather than an oversight anyone can patch.
 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 

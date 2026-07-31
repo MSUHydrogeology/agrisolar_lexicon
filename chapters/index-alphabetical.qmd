@@ -11,14 +11,14 @@ site search (top of every page) complements both, since search finds a word
 anywhere in the prose, while this list is the curated set of terms the
 document actually defines.
 
-Zone codes **A0–A5** are grouped under **A**; siting axis positions **S1–S5**
+Zone codes **A0–A5** are grouped under **A**; farming axis positions **S1–S5**
 under **S**.
 
 ---
 
 ## A {.unnumbered}
 
-**A0 — Rooftop** — arrays on buildings, and by extension carports and canopies, which take no ground at all: no siting latitude, no ground layer, and no siting axis position; the transect's origin rather than a point on it — [Terminology](terminology.qmd#term-a0) · [The Zones](scale-transect.qmd#sec-zones)
+**A0 — Rooftop** — arrays on buildings, and by extension carports and canopies, which take no ground at all: no siting latitude, no ground layer, and no farming axis position; the transect's origin rather than a point on it — [Terminology](terminology.qmd#term-a0) · [The Zones](scale-transect.qmd#sec-zones)
 
 **A1 — Farmstead** — <100 kW, behind-the-meter, single owner-operator, existing farm labor — [Terminology](terminology.qmd#term-a1) · [The Zones](scale-transect.qmd#sec-zones)
 
@@ -32,9 +32,9 @@ under **S**.
 
 **Agricultural production** — design pressure: keep working land working — [Terminology](terminology.qmd#term-agricultural-production) · [The pressures](design-pressures.qmd#sec-pressures)
 
-**Agriculture and soils function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the siting axis restated — [Terminology](terminology.qmd#term-fn-agricultural) · [Agriculture and soils](restorative-functions.qmd#sec-fn-agricultural)
+**Agriculture and soils function** — restorative function: what the array does for farming, on its ground and the fields around it, via pollination, pest regulation, forage and shelter, and the lease that keeps the operation running; not the farming axis restated — [Terminology](terminology.qmd#term-fn-agricultural) · [Agriculture and soils](restorative-functions.qmd#sec-fn-agricultural)
 
-**Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the siting axis — [Terminology](terminology.qmd#term-agrisolar)
+**Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the farming axis — [Terminology](terminology.qmd#term-agrisolar)
 
 **Agrivoltaics** — crop or livestock production within the array footprint (S1–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [Terminology](terminology.qmd#term-agrivoltaics)
 
@@ -44,7 +44,7 @@ under **S**.
 
 ## B {.unnumbered}
 
-**Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](siting-axis.qmd#sec-positions)
+**Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](farming-axis.qmd#sec-positions)
 
 **Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or institutions), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
@@ -54,7 +54,7 @@ under **S**.
 
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [Terminology](terminology.qmd#term-carrying-capacity) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
-**Coexistence** — retired as a position name; *see* S3 — Ordinary-land siting, the center of the siting axis, neither sharing nor sparing — [Terminology](terminology.qmd#term-s3) · [The positions](siting-axis.qmd#sec-positions)
+**Coexistence** — retired as a position name; *see* S3 — Ordinary-land siting, the center of the farming axis, neither sharing nor sparing — [Terminology](terminology.qmd#term-s3) · [The positions](farming-axis.qmd#sec-positions)
 
 **Co-benefit** — the field's usual word for a restorative function; recorded but not adopted, because its grammar demotes what it names to something arriving alongside the real objective — [Terminology](terminology.qmd#term-cobenefit)
 
@@ -102,7 +102,7 @@ under **S**.
 
 ## F {.unnumbered}
 
-**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [Terminology](terminology.qmd#term-feasible-wedge) · [Which positions scale allows](siting-axis.qmd#sec-wedge)
+**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [Terminology](terminology.qmd#term-feasible-wedge) · [Which positions scale allows](farming-axis.qmd#sec-wedge)
 
 **Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [Terminology](terminology.qmd#term-footprint-influence)
 
@@ -128,9 +128,9 @@ under **S**.
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [Terminology](terminology.qmd#term-ler)
 
-**Land sharing** — production continues on the ground the array occupies; the sharing wing of the axis (S1–S2). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
+**Land sharing** — production continues on the ground the array occupies; the sharing wing of the axis (S1–S2). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-farming-axis) · [The Farming Axis](farming-axis.qmd)
 
-**Land sparing** — ground comes out of production so other ground can be left alone; the sparing wing of the axis (S4–S5). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
+**Land sparing** — ground comes out of production so other ground can be left alone; the sparing wing of the axis (S4–S5). Borrowed from conservation ecology — [Terminology](terminology.qmd#term-farming-axis) · [The Farming Axis](farming-axis.qmd)
 
 ## M {.unnumbered}
 
@@ -176,15 +176,15 @@ under **S**.
 
 ## S {.unnumbered}
 
-**S1 — Primary agriculture** — the agricultural use continues essentially as it was, with the array added over or between it — [Terminology](terminology.qmd#term-s1) · [The positions](siting-axis.qmd#sec-positions)
+**S1 — Primary agriculture** — the agricultural use continues essentially as it was, with the array added over or between it — [Terminology](terminology.qmd#term-s1) · [The positions](farming-axis.qmd#sec-positions)
 
-**S2 — Secondary agriculture** — a farm still works the ground, at a lower value than it carried before; grazing on former cropland, forage, hay, hives — [Terminology](terminology.qmd#term-s2) · [The positions](siting-axis.qmd#sec-positions)
+**S2 — Secondary agriculture** — a farm still works the ground, at a lower value than it carried before; grazing on former cropland, forage, hay, hives — [Terminology](terminology.qmd#term-s2) · [The positions](farming-axis.qmd#sec-positions)
 
-**S3 — Ordinary-land siting** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the center of the axis — [Terminology](terminology.qmd#term-s3) · [The positions](siting-axis.qmd#sec-positions)
+**S3 — Ordinary-land siting** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the center of the axis — [Terminology](terminology.qmd#term-s3) · [The positions](farming-axis.qmd#sec-positions)
 
-**S4 — Low-productivity siting** — the array takes ground already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it; arrays on buildings take no ground and hold no position (A0) — [Terminology](terminology.qmd#term-s4) · [The positions](siting-axis.qmd#sec-positions)
+**S4 — Low-productivity siting** — the array takes ground already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it; arrays on buildings take no ground and hold no position (A0) — [Terminology](terminology.qmd#term-s4) · [The positions](farming-axis.qmd#sec-positions)
 
-**S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](siting-axis.qmd#sec-positions)
+**S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](farming-axis.qmd#sec-positions)
 
 **outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
 
@@ -194,9 +194,9 @@ under **S**.
 
 **Setback** — the ground held open between the array and the property line, road, or dwelling; the dimension local ordinances fix most often, and where screening gets planted — [Terminology](terminology.qmd#term-setback)
 
-**Siting Axis** — *see* Siting Axis — [Terminology](terminology.qmd#term-siting-axis)
+**Farming Axis** — *see* Farming Axis — [Terminology](terminology.qmd#term-farming-axis)
 
-**Siting Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
+**Farming Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-farming-axis) · [The Farming Axis](farming-axis.qmd)
 
 **Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale constrains design leverage](restoration-modes.qmd#sec-siting-latitude)
 
