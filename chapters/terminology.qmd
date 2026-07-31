@@ -42,7 +42,7 @@ Pressure: make ecological, hydrological, and economic resilience a design object
 
 ### Community acceptance and benefit {#term-community-acceptance}
 
-Pressure: secure and sustain community acceptance *and* community benefit, two forces that can come apart, held under one name because they have to be advanced together. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: secure and sustain community acceptance *and* community benefit. **Acceptance is about process**: who was asked, when, whether the answer could still change the design, and whether the people who live with the result trust how it was reached. **Benefit is about receipts**: who ends up with money, opportunity, resilience, or protection from a harm they would otherwise carry. Held under one name because a design has to advance both, and worth holding apart because they come apart in both directions — a project can pay a community it never consulted, and consult one thoroughly while leaving it nothing. Neither substitutes for the other, and paying first is not consent [@crawford2022; @ryder2023]. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Grid and market demands {#term-grid-market}
 
