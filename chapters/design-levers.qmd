@@ -4,7 +4,7 @@ A solar project is a long list of decisions, and almost all of them fall into si
 
 Everything else in this document sits downstream of them. The [design pressures](design-pressures.qmd) are the forces arguing over how the levers get set, and the [restorative functions](restorative-functions.qmd) are what the settings produce. **Two of the six are large enough to need a chapter each.** Scale is read off the [scale transect](scale-transect.qmd), five calibration points from the farmstead to the complex. Siting, structure, and management jointly produce a position on the [farming axis](farming-axis.qmd), five positions recording what happened to the farming on the ground the array took. Those two chapters come next, and the other four levers are worked through here.
 
-![**The six design levers.** Six sliders on a rail, with what each decides and can deliver underneath: scale alone behind a rule, then siting, structure, and management, then ownership and contracts. The handles sit level because the figure names the levers, not any setting of them.](../figures/fig_design_levers.svg){#fig-design-levers}
+![**The six design levers.** Six sliders on a rail, with what each decides and can deliver underneath: scale alone behind a rule, then siting, structure, and management, then ownership and contracts. The handles sit at different heights because a lever is something set rather than a fixed label; where each one happens to sit here is arbitrary and describes no project.](../figures/fig_design_levers.svg){#fig-design-levers}
 
 ## The levers {#sec-levers}
 
