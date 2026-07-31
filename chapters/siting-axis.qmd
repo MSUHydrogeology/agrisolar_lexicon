@@ -6,9 +6,9 @@ The axis answers one question: **what happened to agricultural production on thi
 
 Most public argument about solar on farmland is an argument about this axis, conducted without it [@moore2022]. About half of the ~3,000 km² (740,000 acres) of US ground-mounted solar was built on former cropland and about a third on agricultural grassland [@kruitwagen2021; @fujita2023], and globally croplands are the prior cover for roughly 59% of PV sites [@merheb2025]. Naming the position first clarifies what a project can claim, what it must still argue for, and which objections apply. The framing borrows the neutrality of conservation ecology's land-sharing and land-sparing debate [@green2005; @phalan2011]; it does not rank positions by definition. The closest existing scheme sorts solar landscapes by design ambition, as mixed-production, nature-based, or landscape-inclusive [@oudes2022]; this axis cuts across all three, because it asks only what happened to production.
 
-## The positions {#sec-positions}
-
 ![**Siting Axis Positions.** What happened to the farming on the ground the array took, drawn five ways. Every panel is at the same scale, unlike the [transect](scale-transect.qmd), because the array itself barely changes across the set and the ground under and beside it changes completely. Production continues in the same ground at **S1** and in a subordinate ground layer at **S2**. It stops at **S3**, where an ordinary field goes and the lease keeps the farm beyond the fence. At **S4** it had already stopped on the awkward remnant the array took, with the good ground still working alongside. At **S5** it ends on ground that was carrying a burden, here a field draining toward a watercourse with the array standing between them. The tint diverges from a neutral centre at S3, which is neither sharing nor sparing, blue toward the sharing end and purple toward the sparing end.](../figures/fig_siting_positions.svg){#fig-siting-positions}
+
+## The positions {#sec-positions}
 
 Both sharing positions are narrower than they sound. **S1** means the crop itself under or between the rows, which is [agrivoltaics](terminology.qmd#term-agrivoltaics) in the strict sense, and **S2** is a productive ground layer that serves the array as much as the farm, which in practice is nearly always [solar grazing](terminology.qmd#term-rangevoltaics).
 
