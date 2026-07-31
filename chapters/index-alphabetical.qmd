@@ -18,17 +18,17 @@ under **S**.
 
 ## A {.unnumbered}
 
-**A0 — the zero-land case** — arrays on buildings, which take no ground at all: no siting latitude, no ground layer, and no siting axis position; the transect's origin rather than a point on it — [Terminology](terminology.qmd#term-a0) · [The Zones](scale-transect.qmd#sec-zones)
+**A0 — Rooftop** — arrays on buildings, and by extension carports and canopies, which take no ground at all: no siting latitude, no ground layer, and no siting axis position; the transect's origin rather than a point on it — [Terminology](terminology.qmd#term-a0) · [The Zones](scale-transect.qmd#sec-zones)
 
 **A1 — Farmstead** — <100 kW, behind-the-meter, single owner-operator, existing farm labor — [Terminology](terminology.qmd#term-a1) · [The Zones](scale-transect.qmd#sec-zones)
 
-**A2 — Field** — 100 kW–1 MW, behind-meter to distribution, landowner with possibly one lease counterparty — [Terminology](terminology.qmd#term-a2) · [The Zones](scale-transect.qmd#sec-zones)
+**A2 — Commercial** — 100 kW–1 MW, behind-meter to distribution, landowner with possibly one lease counterparty — [Terminology](terminology.qmd#term-a2) · [The Zones](scale-transect.qmd#sec-zones)
 
-**A3 — Parcel** — 1–5 MW, distribution / community solar, multi-party, purpose-built ground management — [Terminology](terminology.qmd#term-a3) · [The Zones](scale-transect.qmd#sec-zones)
+**A3 — Community** — 1–5 MW, distribution / community solar, multi-party, purpose-built ground management — [Terminology](terminology.qmd#term-a3) · [The Zones](scale-transect.qmd#sec-zones)
 
-**A4 — Landscape** — 5–50 MW, developer-led institutional capital, contract-enterprise management — [Terminology](terminology.qmd#term-a4) · [The Zones](scale-transect.qmd#sec-zones)
+**A4 — Utility** — 5–50 MW, developer-led institutional capital, contract-enterprise management — [Terminology](terminology.qmd#term-a4) · [The Zones](scale-transect.qmd#sec-zones)
 
-**A5 — Regional** — 50 MW+, transmission, utility/IPP, contract enterprise at ranch scale — [Terminology](terminology.qmd#term-a5) · [The Zones](scale-transect.qmd#sec-zones)
+**A5 — Complex** — 50 MW+, transmission, utility/IPP, contract enterprise at ranch scale — [Terminology](terminology.qmd#term-a5) · [The Zones](scale-transect.qmd#sec-zones)
 
 **Agricultural production** — design pressure: keep working land working — [Terminology](terminology.qmd#term-agricultural-production) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -186,7 +186,7 @@ under **S**.
 
 **outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
 
-**Scale Transect** — a single gradient from farmstead to regional that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
+**Scale Transect** — a single gradient from farmstead to complex that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Terminology](terminology.qmd#term-screening)
 

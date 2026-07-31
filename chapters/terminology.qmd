@@ -82,33 +82,33 @@ Developed in [§-@sec-transect, The Scale Transect](scale-transect.qmd).
 
 ### Scale Transect {#term-scale-transect}
 
-A single gradient from farmstead (A1) to regional (A5) that most other terms are read against, defined by covarying attribute bundles rather than capacity thresholds. See [The Scale Transect](scale-transect.qmd).
+A single gradient from farmstead (A1) to complex (A5) that most other terms are read against, defined by covarying attribute bundles rather than capacity thresholds. The zones are named for the size of the development rather than for the land unit it sits on, so that no zone name is outgrown by the array it describes. See [The Scale Transect](scale-transect.qmd).
 
 *Borrowed, and turned.* The device is the rural-to-urban Transect of the New Urbanism [@dpz2014], which is where the lexicon takes its name and its method of calibration points. One thing changes in the borrowing, and it matters: that transect is a gradient across the ground, a line you could walk from wilderness to urban core, while this one is a gradient of project size. Two A2 projects can sit a mile apart, and an A5 can surround an A1.
 
-### A0 — the zero-land case {#term-a0}
+### A0 — Rooftop {#term-a0}
 
-Arrays mounted on buildings, which take no ground at all: no siting latitude to spend, no ground layer to design, and no [siting axis position](#term-siting-axis) to hold. It sits at the transect's origin rather than on it. See [§-@sec-zones](scale-transect.qmd#sec-zones).
+Arrays mounted on buildings, and by extension on carports and canopies, which take no ground at all: no siting latitude to spend, no ground layer to design, and no [siting axis position](#term-siting-axis) to hold. It sits at the transect's origin rather than on it. See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
 ### A1 — Farmstead {#term-a1}
 
 <100 kW, under about an acre; behind-the-meter, single owner-operator, existing farm labor and equipment. See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
-### A2 — Field {#term-a2}
+### A2 — Commercial {#term-a2}
 
 100 kW–1 MW, roughly 0.5–8 acres; behind-meter to distribution, landowner with possibly one lease counterparty. See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
-### A3 — Parcel {#term-a3}
+### A3 — Community {#term-a3}
 
-1–5 MW, roughly 6–30 acres of array; distribution, community solar or mid-market PPA, multi-party, purpose-built ground management. Big enough that management arrives and small enough to site deliberately, which makes it the only zone carrying both restorative instruments at once and the widest part of the [feasible wedge](#term-feasible-wedge). Often called **community-scale solar**, a phrase carrying several senses at once: sized to a community's load, sited where communities already are, structured so benefit reaches a community, and building community resilience through a distributed fleet. See [§-@sec-zones](scale-transect.qmd#sec-zones) and [§-@sec-community-scale](restoration-modes.qmd#sec-community-scale).
+1–5 MW, roughly 6–30 acres of array; distribution, community solar or mid-market PPA, multi-party, purpose-built ground management. Big enough that management arrives and small enough to site deliberately, which makes it the only zone carrying both restorative instruments at once and the widest part of the [feasible wedge](#term-feasible-wedge). The zone takes its name from the trade's own **community-scale solar**, a phrase carrying several senses at once: sized to a community's load, sited where communities already are, structured so benefit reaches a community, and building community resilience through a distributed fleet. That the name is also the name of an [outcomes footprint](#term-scale-footprint) domain is not a collision but the argument: A3 is the zone where community outcomes are most likely to land. See [§-@sec-zones](scale-transect.qmd#sec-zones) and [§-@sec-community-scale](restoration-modes.qmd#sec-community-scale).
 
-### A4 — Landscape {#term-a4}
+### A4 — Utility {#term-a4}
 
-5–50 MW, roughly 30–300 acres; developer-led institutional capital, contract-enterprise ground management. The widest band on the transect, and it probably contains a jurisdictional break near 20–25 MW, the capacity at which several states move siting from local boards to a state office. Not split yet (§-@sec-zones). See [§-@sec-zones](scale-transect.qmd#sec-zones).
+5–50 MW, roughly 30–300 acres; developer-led institutional capital, contract-enterprise ground management. The zone where a project is first built to serve the grid rather than a load on the site, which is what [utility-scale](#term-utility-scale) names in the trade. The widest band on the transect, and it probably contains a jurisdictional break near 20–25 MW, the capacity at which several states move siting from local boards to a state office. Not split yet (§-@sec-zones). See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
-### A5 — Regional {#term-a5}
+### A5 — Complex {#term-a5}
 
-50 MW+, from roughly 300 acres to 10,000 and beyond; transmission, utility or IPP across jurisdictions, contract enterprise at ranch scale. Open-ended by design. See [§-@sec-zones](scale-transect.qmd#sec-zones).
+50 MW+, from roughly 300 acres to 10,000 and beyond; transmission, utility or IPP across jurisdictions, contract enterprise at ranch scale. Open-ended by design, and named for what it becomes at that size: not one array but several run as one, often across parcels that do not touch. See [§-@sec-zones](scale-transect.qmd#sec-zones).
 
 ### Siting latitude {#term-siting-latitude}
 

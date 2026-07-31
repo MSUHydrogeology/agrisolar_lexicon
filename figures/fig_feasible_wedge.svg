@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" role="img">
 <title>The feasible region as a lens on a five-position axis centred on coexistence (S3)</title>
-<desc>Centred sharing-sparing axis with five positions. Full and functional sharing (S1-S2) sit above the scale line; coexistence (S3) sits on it; idled-land sparing and impaired-land retirement (S4-S5) sit below. The feasible region is widest at A3 (Parcel) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Animals run S2 at every scale, from the farm's own barnyard shelter through contract grazing to a grazing enterprise; coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
+<desc>Centred sharing-sparing axis with five positions. Full and functional sharing (S1-S2) sit above the scale line; coexistence (S3) sits on it; idled-land sparing and impaired-land retirement (S4-S5) sit below. The feasible region is widest at A3 (Community) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Animals run S2 at every scale, from the farm's own barnyard shelter through contract grazing to a grazing enterprise; coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
 <defs>
 <pattern id="hatchL" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="7" stroke="#8f8d84" stroke-width="1"/></pattern>
 <pattern id="hatchD" width="3.5" height="3.5" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="3.5" stroke="#8f8d84" stroke-width="1"/></pattern>
@@ -32,10 +32,10 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="rl" x="142" y="262" text-anchor="end">S4 idled land</text>
 <text class="rl" x="142" y="322" text-anchor="end">S5 impaired land</text>
 <text class="ts" x="152" y="358" text-anchor="middle">A1</text><text class="an" x="152" y="373" text-anchor="middle">Farmstead</text>
-<text class="ts" x="296" y="358" text-anchor="middle">A2</text><text class="an" x="296" y="373" text-anchor="middle">Field</text>
-<text class="ts" x="440" y="358" text-anchor="middle">A3</text><text class="an" x="440" y="373" text-anchor="middle">Parcel</text>
-<text class="ts" x="583" y="358" text-anchor="middle">A4</text><text class="an" x="583" y="373" text-anchor="middle">Landscape</text>
-<text class="ts" x="725" y="358" text-anchor="middle">A5</text><text class="an" x="725" y="373" text-anchor="middle">Regional</text>
+<text class="ts" x="296" y="358" text-anchor="middle">A2</text><text class="an" x="296" y="373" text-anchor="middle">Commercial</text>
+<text class="ts" x="440" y="358" text-anchor="middle">A3</text><text class="an" x="440" y="373" text-anchor="middle">Community</text>
+<text class="ts" x="583" y="358" text-anchor="middle">A4</text><text class="an" x="583" y="373" text-anchor="middle">Utility</text>
+<text class="ts" x="725" y="358" text-anchor="middle">A5</text><text class="an" x="725" y="373" text-anchor="middle">Complex</text>
 <text class="gy" x="240" y="114" text-anchor="middle">animals shelter beside it</text>
 <text class="gy" x="310" y="303" text-anchor="middle">sparing here spares very little</text>
 <circle cx="182" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="182" y="154" text-anchor="middle" fill="#993C1D">barnyard shelter</text>

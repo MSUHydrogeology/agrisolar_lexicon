@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="252" viewBox="0 0 880 252" role="img">
 <title>Scale transect zones</title>
-<desc>Six zones across the gradient. A0 Building, any capacity, no ground taken, drawn with an empty white band because it sits at the origin of the gradient rather than on it. A1 Farmstead, under 100 kW and under about an acre. A2 Field, 100 kW to 1 MW on roughly half an acre to eight acres. A3 Parcel, 1 to 5 MW on roughly six to thirty acres. A4 Landscape, 5 to 50 MW on roughly thirty to three hundred acres. A5 Regional, above 50 MW on three hundred acres and up. The color band above each label deepens from A1 to A5, and an arrow beneath runs the length of the set.</desc>
+<desc>Six zones across the gradient. A0 Rooftop, any capacity, no ground taken, drawn with an empty white band because it sits at the origin of the gradient rather than on it. A1 Farmstead, under 100 kW and under about an acre. A2 Commercial, 100 kW to 1 MW on roughly half an acre to eight acres. A3 Community, 1 to 5 MW on roughly six to thirty acres. A4 Utility, 5 to 50 MW on roughly thirty to three hundred acres. A5 Complex, above 50 MW on three hundred acres and up. The color band above each label deepens from A1 to A5, and an arrow beneath runs the length of the set.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .zn{font-size:13.5px;font-weight:600;fill:#173404}
@@ -14,7 +14,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <!-- A0: on the set but off the ramp, so its band is left empty -->
 <rect x="16" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
 <rect x="17" y="17" width="127" height="118" rx="6" fill="#ffffff"/>
-<text class="zn0" x="80.5" y="160" text-anchor="middle">A0 · Building</text>
+<text class="zn0" x="80.5" y="160" text-anchor="middle">A0 · Rooftop</text>
 <text class="zc0" x="80.5" y="180" text-anchor="middle">any capacity</text>
 <text class="zf" x="80.5" y="198" text-anchor="middle">no ground taken</text>
 
@@ -26,25 +26,25 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <rect x="302" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
 <rect x="303" y="17" width="127" height="118" rx="6" fill="#DCEBC8"/>
-<text class="zn" x="366.5" y="160" text-anchor="middle">A2 · Field</text>
+<text class="zn" x="366.5" y="160" text-anchor="middle">A2 · Commercial</text>
 <text class="zc" x="366.5" y="180" text-anchor="middle">100 kW – 1 MW</text>
 <text class="zf" x="366.5" y="198" text-anchor="middle">~0.5–8 acres</text>
 
 <rect x="445" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
 <rect x="446" y="17" width="127" height="118" rx="6" fill="#C0DD97"/>
-<text class="zn" x="509.5" y="160" text-anchor="middle">A3 · Parcel</text>
+<text class="zn" x="509.5" y="160" text-anchor="middle">A3 · Community</text>
 <text class="zc" x="509.5" y="180" text-anchor="middle">1 – 5 MW</text>
 <text class="zf" x="509.5" y="198" text-anchor="middle">~6–30 acres</text>
 
 <rect x="588" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
 <rect x="589" y="17" width="127" height="118" rx="6" fill="#AED483"/>
-<text class="zn" x="652.5" y="160" text-anchor="middle">A4 · Landscape</text>
+<text class="zn" x="652.5" y="160" text-anchor="middle">A4 · Utility</text>
 <text class="zc" x="652.5" y="180" text-anchor="middle">5 – 50 MW</text>
 <text class="zf" x="652.5" y="198" text-anchor="middle">~30–300 acres</text>
 
 <rect x="731" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
 <rect x="732" y="17" width="127" height="118" rx="6" fill="#97C459"/>
-<text class="zn" x="795.5" y="160" text-anchor="middle">A5 · Regional</text>
+<text class="zn" x="795.5" y="160" text-anchor="middle">A5 · Complex</text>
 <text class="zc" x="795.5" y="180" text-anchor="middle">50 MW +</text>
 <text class="zf" x="795.5" y="198" text-anchor="middle">~300–10,000+ acres</text>
 

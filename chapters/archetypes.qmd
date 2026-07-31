@@ -4,7 +4,7 @@ Certain designs keep turning up. A farmer's flock under panels, a prairie strip 
 
 Scale and [siting axis position](terminology.qmd#term-siting-axis) decide which pressures can win. A farmer who owns the herd, the array, and the labor can let agricultural production beat generation, because the array is sized to the parlor and nobody is asking it to clear a hurdle rate. At five hundred acres that argument has no one to make it, and restoration has to come from how the ground is run instead. This is also why an archetype can disappear: when the policy or the market that let a pressure win is withdrawn, the shape stops being built. Archetypes classify how the pressures were resolved, while [hardware taxonomies](terminology.qmd#term-overhead-interspace) classify what was built, and the two can be read together.
 
-Six featured archetypes carry a documented case each, ordered from farmstead to region, and seven others are sketched more briefly.
+Six featured archetypes carry a documented case each, ordered from farmstead to complex, and seven others are sketched more briefly.
 
 ## Archetypes across scale and siting {#sec-scale-position}
 
@@ -14,10 +14,10 @@ Every archetype below carries a compact code under its name: its [zone](scale-tr
 | Zone | Forms that recur here |
 |---|---|
 | **A1 — Farmstead** | [**Barnyard Shelter Solar**](#arch-barnyard) |
-| **A2 — Field** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) |
-| **A3 — Parcel** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Pollinator Meadow Solar](#arch-community-solar) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
-| **A4 — Landscape** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Solar Fencerows](#arch-vertical-bifacial) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
-| **A5 — Regional** | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
+| **A2 — Commercial** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) |
+| **A3 — Community** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Solar Prairie Strips**](#arch-prairie-strips) · [**Vegetable Agrivoltaics**](#arch-vegetable) · [**Marginal Land Solar**](#arch-marginal) · [Pollinator Meadow Solar](#arch-community-solar) · [Solar Fencerows](#arch-vertical-bifacial) · [Pivot-Corner Recharge](#arch-recharge) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A4 — Utility** | [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Solar Fencerows](#arch-vertical-bifacial) · [Farm-Load Microgrid](#arch-microgrid) · [Brightfield](#arch-brightfield) |
+| **A5 — Complex** | [**Regenerative Solar Grazing**](#arch-grazing) · [**Retired-Irrigation Solar**](#arch-water) · [Restored-Grassland Solar](#arch-native-grassland) · [Brightfield](#arch-brightfield) |
 : Which forms recur at each zone. Bold entries are the six developed in full below; the rest are sketched. Crowding at A3 is the feasible wedge in practical form. {#tbl-forms-by-zone}
 :::
 
