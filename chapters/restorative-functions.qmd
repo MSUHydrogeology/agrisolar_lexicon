@@ -94,7 +94,7 @@ What this document adds is that the useful question is **not how far a benefit g
 
 **By preservation.** [Land sparing](siting-axis.qmd#sec-positions) delivers nothing that moves at all. Its benefit is ground elsewhere that stayed as it was, which makes this the one mode that is counterfactual rather than observed. It is still local, since a developer assembling acreage near a substation chooses among parcels within a fairly narrow radius, so the ground a project spares is realistically in the same county. That is what gives the claim somewhere to be checked, against the local land market and the sites genuinely in play.
 
-One case runs backwards. Demonstration sites, field days, and school visits deliver value by bringing people *to* the array rather than sending anything out from it, which is much of what [Jack's Solar Garden](archetypes.qmd#arch-vegetable) produces. It is among the easiest things to design for and the most often left to chance.
+One case runs backwards. Demonstration sites, field days, and school visits deliver value by bringing people *to* the array rather than sending anything out from it, which is much of what [Jack's Solar Garden](archetypal_forms.qmd#arch-vegetable) produces. It is among the easiest things to design for and the most often left to chance.
 
 ::: {.how-to}
 **What naming the route settles.** Three questions otherwise easily run together.

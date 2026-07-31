@@ -230,15 +230,15 @@ A whole-project reading across four domains, Communities, Agriculture, Water, an
 
 ## Archetypal forms {#sec-terms-archetypes}
 
-Developed in [§-@sec-archetypes, Archetypal Forms](archetypes.qmd).
+Developed in [§-@sec-archetypes, Archetypal Forms](archetypal_forms.qmd).
 
 ### Archetype {#term-archetype}
 
-A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. See [Archetypes](archetypes.qmd).
+A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. See [Archetypes](archetypal_forms.qmd).
 
 ### Overhead and interspace systems {#term-overhead-interspace}
 
-The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy): *overhead* systems mount modules above the working surface, *interspace* systems mount them low with the crop or cover between the rows. It classifies the structure, where an archetype classifies the resolution of pressures. See [Archetypes](archetypes.qmd).
+The engineering standards' hardware typology (DIN SPEC 91434; the NREL / InSPIRE configuration taxonomy): *overhead* systems mount modules above the working surface, *interspace* systems mount them low with the crop or cover between the rows. It classifies the structure, where an archetype classifies the resolution of pressures. See [Archetypes](archetypal_forms.qmd).
 
 ## Field terms and metrics {#sec-terms-field}
 

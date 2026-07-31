@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="372" viewBox="0 0 1106 372" role="img">
+<title>How a form settles</title>
+<desc>The nine design pressures enter at the left, each in the colour of the direction it pushes. Build cost and energy yield run straight through three constrictions, marked permitting, value engineering, and the last round of cost cutting, because they are rarely the ones that give way. The other seven converge into the constrictions as faint threads and one solid line comes out, drawn without saying which, because a form needs only one of them to last the whole way. Where that one arrives, the project settles into an archetype, drawn as a table over vegetated ground. Where it does not, only cost and yield are left, and the result is the same array anywhere, drawn as the same table over gravel.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
+.gt{font-size:9.5px;font-weight:700;letter-spacing:.12em;fill:#8a8880}
+.pn{font-size:11px;fill:#3d3d3a}
+.tt{font-size:12.5px;font-weight:600;fill:#3d3d3a}
+</style>
+<defs>
+  <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,2 L9,5 L0,8 z" fill="#5f5e5a"/></marker>
+  <g id="tuft">
+    <line x1="0" y1="0" x2="-2.4" y2="-5" stroke="#6f8a41" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <line x1="0" y1="0" x2="0" y2="-6.2" stroke="#6f8a41" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <line x1="0" y1="0" x2="2.4" y2="-5" stroke="#6f8a41" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+  </g>
+</defs>
+
+<text class="hd" x="18" y="26">HOW A FORM SETTLES</text>
+<path d="M226,21 H1088" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="18" y="42" width="1070" height="308" fill="#f0eee8"/>
+<rect x="387" y="42" width="26" height="308" fill="#e5e0d3" stroke="#d6d0c0" stroke-width="1"/>
+<text class="gt" x="400" y="36" text-anchor="middle">PERMITTING</text>
+<rect x="567" y="42" width="26" height="308" fill="#e5e0d3" stroke="#d6d0c0" stroke-width="1"/>
+<text class="gt" x="580" y="36" text-anchor="middle">VALUE ENGINEERING</text>
+<rect x="747" y="42" width="26" height="308" fill="#e5e0d3" stroke="#d6d0c0" stroke-width="1"/>
+<text class="gt" x="760" y="36" text-anchor="middle">COST CUTTING</text>
+<path d="M250,77 H366 C520,77 600,150 773,150" fill="none" stroke="#35887a" stroke-width="1.4" opacity="0.45"/>
+<path d="M250,105 H366 C520,105 600,150 773,150" fill="none" stroke="#35887a" stroke-width="1.4" opacity="0.45"/>
+<path d="M250,133 H366 C520,133 600,150 773,150" fill="none" stroke="#35887a" stroke-width="1.4" opacity="0.45"/>
+<path d="M250,161 H366 C520,161 600,150 773,150" fill="none" stroke="#6f6d66" stroke-width="1.4" opacity="0.45"/>
+<path d="M250,189 H366 C520,189 600,150 773,150" fill="none" stroke="#6f6d66" stroke-width="1.4" opacity="0.45"/>
+<path d="M250,217 H366 C520,217 600,150 773,150" fill="none" stroke="#6f6d66" stroke-width="1.4" opacity="0.45"/>
+<path d="M250,245 H366 C520,245 600,150 773,150" fill="none" stroke="#b5643a" stroke-width="1.4" opacity="0.45"/>
+<path d="M773,150 H790" fill="none" stroke="#6f6d66" stroke-width="2.8"/>
+<path d="M250,273 H700" fill="none" stroke="#b5643a" stroke-width="3"/>
+<path d="M700,273 C730,273 734,292 760,292" fill="none" stroke="#b5643a" stroke-width="3"/>
+<path d="M250,301 H700" fill="none" stroke="#b5643a" stroke-width="3"/>
+<path d="M700,301 C730,301 734,292 760,292" fill="none" stroke="#b5643a" stroke-width="3"/>
+<path d="M760,292 H790" fill="none" stroke="#b5643a" stroke-width="3"/>
+<path d="M790,150 C826,150 826,182 856,182" fill="none" stroke="#6f6d66" stroke-width="2.8"/>
+<path d="M790,292 C826,292 826,182 856,182" fill="none" stroke="#b5643a" stroke-width="3"/>
+<path d="M856,182 H886" fill="none" stroke="#5f5e5a" stroke-width="3.4" marker-end="url(#ar)"/>
+<path d="M790,292 H886" fill="none" stroke="#b5643a" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="30" y="66" width="220" height="22" rx="4" fill="#d5e7e2" stroke="#35887a" stroke-width="1.2"/>
+<rect x="30" y="66" width="4" height="22" rx="2" fill="#35887a"/>
+<text class="pn" x="44" y="81">Restorative goals</text>
+<rect x="30" y="94" width="220" height="22" rx="4" fill="#d5e7e2" stroke="#35887a" stroke-width="1.2"/>
+<rect x="30" y="94" width="4" height="22" rx="2" fill="#35887a"/>
+<text class="pn" x="44" y="109">Community acceptance and benefit</text>
+<rect x="30" y="122" width="220" height="22" rx="4" fill="#d5e7e2" stroke="#35887a" stroke-width="1.2"/>
+<rect x="30" y="122" width="4" height="22" rx="2" fill="#35887a"/>
+<text class="pn" x="44" y="137">End-of-life responsibility</text>
+<rect x="30" y="150" width="220" height="22" rx="4" fill="#efeeea" stroke="#6f6d66" stroke-width="1.2"/>
+<rect x="30" y="150" width="4" height="22" rx="2" fill="#6f6d66"/>
+<text class="pn" x="44" y="165">Agricultural production</text>
+<rect x="30" y="178" width="220" height="22" rx="4" fill="#efeeea" stroke="#6f6d66" stroke-width="1.2"/>
+<rect x="30" y="178" width="4" height="22" rx="2" fill="#6f6d66"/>
+<text class="pn" x="44" y="193">Grid and market demands</text>
+<rect x="30" y="206" width="220" height="22" rx="4" fill="#efeeea" stroke="#6f6d66" stroke-width="1.2"/>
+<rect x="30" y="206" width="4" height="22" rx="2" fill="#6f6d66"/>
+<text class="pn" x="44" y="221">Policy and permission</text>
+<rect x="30" y="234" width="220" height="22" rx="4" fill="#f4ded2" stroke="#b5643a" stroke-width="1.2"/>
+<rect x="30" y="234" width="4" height="22" rx="2" fill="#b5643a"/>
+<text class="pn" x="44" y="249">Operations and maintenance</text>
+<rect x="30" y="262" width="220" height="22" rx="4" fill="#f4ded2" stroke="#b5643a" stroke-width="1.2"/>
+<rect x="30" y="262" width="4" height="22" rx="2" fill="#b5643a"/>
+<text class="pn" x="44" y="277">Energy yield</text>
+<rect x="30" y="290" width="220" height="22" rx="4" fill="#f4ded2" stroke="#b5643a" stroke-width="1.2"/>
+<rect x="30" y="290" width="4" height="22" rx="2" fill="#b5643a"/>
+<text class="pn" x="44" y="305">Build cost</text>
+<path d="M894,182 H1070" stroke="#b3ac9b" stroke-width="1.4"/><use href="#tuft" x="898" y="183"/><use href="#tuft" x="909" y="182"/><use href="#tuft" x="920" y="183"/><use href="#tuft" x="931" y="182"/><use href="#tuft" x="942" y="183"/><use href="#tuft" x="953" y="182"/><use href="#tuft" x="964" y="183"/><use href="#tuft" x="975" y="182"/><use href="#tuft" x="986" y="183"/><use href="#tuft" x="997" y="182"/><use href="#tuft" x="1008" y="183"/><use href="#tuft" x="1019" y="182"/><use href="#tuft" x="1030" y="183"/><use href="#tuft" x="1041" y="182"/><use href="#tuft" x="1052" y="183"/><use href="#tuft" x="1063" y="182"/><path d="M982,182 V156" stroke="#6f6e68" stroke-width="2.6"/><line x1="952" y1="166" x2="1012" y2="150" stroke="#5b6b7a" stroke-width="6"/>
+<path d="M894,300 H1070" stroke="#b3ac9b" stroke-width="1.4"/><g fill="#b3aa99"><circle cx="898" cy="298" r="1.5"/><circle cx="907" cy="299" r="1.5"/><circle cx="916" cy="300" r="1.5"/><circle cx="925" cy="298" r="1.5"/><circle cx="934" cy="299" r="1.5"/><circle cx="943" cy="300" r="1.5"/><circle cx="952" cy="298" r="1.5"/><circle cx="961" cy="299" r="1.5"/><circle cx="970" cy="300" r="1.5"/><circle cx="979" cy="298" r="1.5"/><circle cx="988" cy="299" r="1.5"/><circle cx="997" cy="300" r="1.5"/><circle cx="1006" cy="298" r="1.5"/><circle cx="1015" cy="299" r="1.5"/><circle cx="1024" cy="300" r="1.5"/><circle cx="1033" cy="298" r="1.5"/><circle cx="1042" cy="299" r="1.5"/><circle cx="1051" cy="300" r="1.5"/><circle cx="1060" cy="298" r="1.5"/></g><path d="M982,300 V274" stroke="#6f6e68" stroke-width="2.6"/><line x1="952" y1="284" x2="1012" y2="268" stroke="#5b6b7a" stroke-width="6"/>
+<text class="tt" x="982" y="212" text-anchor="middle">An archetype</text>
+<text class="tt" x="982" y="330" text-anchor="middle">The same array anywhere</text>
+<rect x="18" y="42" width="1070" height="308" fill="none" stroke="#d3d1c7" stroke-width="1"/>
+
+</svg>
