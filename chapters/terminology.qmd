@@ -2,7 +2,7 @@
 
 Definitions are grouped by subject, in the order the chapters introduce them, and each links to its fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
-![**Where the spatial vocabulary lives.** Above, the parcel in plan: what the array physically occupies, the larger and lopsided area it affects, and the character of the ground it was put on. Below, four rows of one array in section, where the geometry settles what can grow and work underneath. Terms defined in this chapter that name an idea rather than a place, among them [agrisolar](#term-agrisolar), [ecovoltaics](#term-ecovoltaics), [dual use](#term-dual-use), and the [land equivalent ratio](#term-ler), have nothing here to point at.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
+![**Where the spatial vocabulary lives.** Above, the parcel in plan: what the array occupies, the two holdings it had to be assembled from, the larger and lopsided area it affects, the character of the ground it was put on, and the line out to the substation that settled how big it could be. Below, five rows of one array in section, where the geometry decides what can grow and work underneath, standing over the surface that was there before the site was graded. The fifth row stands vertical, which is one of the module technologies rather than a drawing error. Terms defined in this chapter that name an idea rather than a place, among them [agrisolar](#term-agrisolar), [ecovoltaics](#term-ecovoltaics), [dual use](#term-dual-use), and the [land equivalent ratio](#term-ler), have nothing here to point at.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
 
 ## Design levers and pressures {#sec-terms-pressures}
 
