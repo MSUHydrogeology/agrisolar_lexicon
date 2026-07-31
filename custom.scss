@@ -7,6 +7,7 @@
 
 // Wide tables scroll inside their own container rather than the page body.
 #tbl-lever-matrix,
+.function-table,
 .position-table,
 .pressure-table,
 .region-table,
@@ -99,10 +100,13 @@ figure img,
 // weight. Blue #7FB3D9 · #BFDAEC — neutral #EFEEEA — purple #D9CBE6 · #B69ED4.
 // All five clear WCAG AA for #2c2c2a body text (5.9:1 at the darkest).
 // Regions stay unshaded: they are a set, not an order.
+.function-table table,
 .position-table table,
 .region-table table {
   border-collapse: collapse;
 }
+.function-table table th,
+.function-table table td,
 .position-table table th,
 .position-table table td,
 .region-table table th,
@@ -127,6 +131,22 @@ figure img,
 .position-table tbody td a { color: #1f4f75; }
 .position-table tbody tr:nth-child(4) td a,
 .position-table tbody tr:nth-child(5) td a { color: #4a2f6b; }
+
+// ===== Restorative functions (§6.7) =====
+// One band per function, taking the colour that function already wears on the
+// outcomes footprint, so a reader who has met Water as blue in the diagram meets
+// it as blue in the table. Tints are the domain colour at a fifth strength; the
+// full colour goes on the left edge, where it can be saturated without costing
+// legibility.
+.function-table tbody tr:nth-child(1) td { background-color: #dce7ee; color: #2c2c2a; } // water
+.function-table tbody tr:nth-child(2) td { background-color: #e0ebd3; color: #2c2c2a; } // ecology
+.function-table tbody tr:nth-child(3) td { background-color: #eee7dc; color: #2c2c2a; } // agriculture and soils
+.function-table tbody tr:nth-child(4) td { background-color: #d5e5e2; color: #2c2c2a; } // community and economy
+
+.function-table tbody tr:nth-child(1) td:first-child { border-left: 4px solid #4f86a8; }
+.function-table tbody tr:nth-child(2) td:first-child { border-left: 4px solid #639922; }
+.function-table tbody tr:nth-child(3) td:first-child { border-left: 4px solid #a8894f; }
+.function-table tbody tr:nth-child(4) td:first-child { border-left: 4px solid #2f7f70; }
 
 // ===== Design pressures (§3.1) =====
 // Banded by which way the pressure pushes on restoration, in three states
@@ -324,6 +344,7 @@ main.content > h1.unnumbered:first-child { display: none; }
 // the header should not also vary, because a reader uses it to recognize that
 // they are looking at a table rather than to tell one table from another.
 .zone-table thead th,
+.function-table thead th,
 .position-table thead th,
 .region-table thead th,
 .pressure-table thead th,

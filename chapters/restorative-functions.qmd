@@ -110,6 +110,7 @@ One case runs backwards. Demonstration sites, field days, and school visits deli
 
 The four functions each carry two outcomes, and together the eight are what a project can be judged on. Naming them separately matters because they move independently: an array can hold water on the site and still compact the soil under it, or pay a landowner well and give the neighbours nothing.
 
+::: {.function-table}
 | Function | Outcomes |
 |:--|:--|
 | **Water** | quantity, meaning what soaks in and what leaves · quality, meaning what the water carries with it |
@@ -117,6 +118,7 @@ The four functions each carry two outcomes, and together the eight are what a pr
 | **Agriculture and soils** | food production, meaning what the ground still grows · soil quality, meaning what it is made of |
 | **Community and economy** | financial security, meaning durable local income · livability, meaning whether people can live alongside it and had a real say |
 : The eight outcomes, two to a function. {#tbl-outcomes}
+:::
 
 Each outcome runs on the same scale, from causing harm at one end to promoting benefit at the other, with a point in between where the project leaves that outcome no worse than it found it. @fig-outcomes-footprint plots all eight at once. **The middle ring is a zero point rather than a pass mark.** It marks where the sign changes, and nothing here says how far past it a project ought to travel, which is a question the lexicon has deliberately not answered.
 
