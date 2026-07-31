@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="380" viewBox="0 0 1104 380" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="352" viewBox="0 0 1104 352" role="img">
 <title>The scale transect, drawn</title>
 <desc>Six panels side by side, one per zone, each drawn at its own scale so the array grows while the frame stays the same size. A0 Rooftop is a close view of a hip-roofed barn carrying panels on its roof and taking no ground, on a grey band because it sits at the origin of the gradient rather than on it. A1 Farmstead is a farmyard where three rows sit beside the barn and the cattle keep the yard. A2 Commercial is a small array in an awkward field corner with the crop still working the rest. A3 Community is a mid-sized array filling one field, bordered by a sown strip, with houses and a distribution line nearby. A4 Utility is rows across assembled ground with a substation and a contract flock. A5 Complex is array to the horizon under transmission, with a gap where the assembly did not get the ground. The ground colour deepens from A1 to A5.</desc>
 
@@ -8,9 +8,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .cd{font-size:21px;font-weight:700;fill:#ffffff}
 .cd0{font-size:21px;font-weight:700;fill:#e8e6e0}
 .nm{font-size:12.5px;font-weight:700;letter-spacing:.07em;fill:#ffffff}
-.ca{font-size:10px;letter-spacing:.02em;fill:#cfcdc6}
-.ac{font-size:9.5px;letter-spacing:.02em;fill:#a8a69f}
-.ft{font-size:10px;font-style:italic;fill:#75736c}
+.ca{font-size:10px;letter-spacing:.02em;fill:#e0e8d6}
+.ac{font-size:9.5px;letter-spacing:.02em;fill:#bccdaa}
 </style>
 
 <defs>
@@ -234,11 +233,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ the label bar ============ -->
 <rect x="18"  y="288" width="178" height="58" fill="#6f6d66"/>
-<rect x="196" y="288" width="178" height="58" fill="#3d3d3a"/>
-<rect x="374" y="288" width="178" height="58" fill="#3d3d3a"/>
-<rect x="552" y="288" width="178" height="58" fill="#3d3d3a"/>
-<rect x="730" y="288" width="178" height="58" fill="#3d3d3a"/>
-<rect x="908" y="288" width="178" height="58" fill="#3d3d3a"/>
+<rect x="196" y="288" width="178" height="58" fill="#4C6636"/>
+<rect x="374" y="288" width="178" height="58" fill="#435C2F"/>
+<rect x="552" y="288" width="178" height="58" fill="#3A5228"/>
+<rect x="730" y="288" width="178" height="58" fill="#314821"/>
+<rect x="908" y="288" width="178" height="58" fill="#283E1A"/>
 <g stroke="#ffffff" stroke-width="1.5">
   <path d="M196,288 v58 M374,288 v58 M552,288 v58 M730,288 v58 M908,288 v58"/>
 </g>
@@ -250,5 +249,4 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="cd" x="743" y="325">A4</text><text class="nm" x="780" y="308">UTILITY</text><text class="ca" x="780" y="324">5 – 50 MW</text><text class="ac" x="780" y="339">~30–300 acres</text>
 <text class="cd" x="921" y="325">A5</text><text class="nm" x="958" y="308">COMPLEX</text><text class="ca" x="958" y="324">50 MW +</text><text class="ac" x="958" y="339">~300–10,000+ acres</text>
 
-<text class="ft" x="18" y="364">Each panel is drawn at its own scale, so the array grows while the frame does not. The gradient is one of project size, not a walk across the ground: two A2 projects can sit a mile apart, and an A5 can surround an A1.</text>
 </svg>
