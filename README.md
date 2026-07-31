@@ -105,7 +105,7 @@ em-dash inside a running paragraph is not.
 ## Contributing
 
 See `CONTRIBUTING.md`. Proposed terms, corrections, and counterexamples are all in scope —
-particularly counterexamples to the claim, in *Which positions scale allows* in the siting-axis
+particularly counterexamples to the claim, in *Which positions scale allows* in the farming-axis
 chapter, that sparing is largely unavailable at A5.
 
 ## Citation

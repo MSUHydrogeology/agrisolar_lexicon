@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img">
 <title>How the design language fits together</title>
-<desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the colour of the restoration mode it produces. Scale is neutral because it produces no mode. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the siting axis from S1 to S5, the restoration modes the setting leaves active, and the SCALE footprint, a reading across Sustainable Communities, Agriculture, Landscapes, and Energy that runs from causing harm at the rim to promoting benefit at the centre.</desc>
+<desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the colour of the restoration mode it produces. Scale is neutral because it produces no mode. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the farming axis from S1 to S5, the restoration modes the setting leaves active, and the restorative functions, read as a footprint across Communities, Agriculture, Water, and Ecology that runs from causing harm at the centre out to promoting benefit at the rim.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .eb{font-size:11px;font-weight:700;fill:#8a8880;letter-spacing:.07em}
@@ -63,8 +63,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="298" y1="150" x2="342" y2="150" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="196" x2="342" y2="196" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="242" x2="342" y2="242" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
-<line x1="490.0" y1="346" x2="490.0" y2="378" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
-<text class="eb" x="30" y="406">C · SCALE AND SITING POSITION</text>
+<line x1="470.0" y1="344" x2="318.0" y2="390" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
+<text class="eb" x="30" y="406">C · SCALE AND FARMING POSITION</text>
 <text class="eb" x="344" y="406">D · RESTORATION MODES, FUNCTIONS, AND OUTCOMES</text>
 <text class="ot" x="30" y="442">scale transect position</text>
 <rect x="30" y="456" width="42" height="30" rx="5" fill="#EAF3DE" stroke="#c9c6bc" stroke-width="0.5"/>
@@ -77,7 +77,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="cd" x="189.0" y="476" text-anchor="middle">A4</text>
 <rect x="214" y="456" width="42" height="30" rx="5" fill="#97C459" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="235.0" y="476" text-anchor="middle">A5</text>
-<text class="ot" x="30" y="528">siting axis position</text>
+<text class="ot" x="30" y="528">farming axis position</text>
 <rect x="30" y="542" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="51.0" y="562" text-anchor="middle">S1</text>
 <rect x="76" y="542" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>

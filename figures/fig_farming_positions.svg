@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1106" height="374" viewBox="0 0 1106 374" role="img">
-<title>The siting axis, drawn</title>
+<title>The farming axis, drawn</title>
 <desc>Five panels side by side, one per position, all drawn at the same scale because the axis does not depend on how big a project is. S1 Primary agriculture: the use the ground already carried, continued under wide rows, with the crop still growing in the ground between and under them. S2 Secondary agriculture: ordinary rows over a forage ground layer with a flock grazing beneath. S3 Ordinary-land siting: the array takes the field outright and the ground under it carries nothing, while the farmstead and its crop go on beyond the fence. S4 Low-productivity siting: good cropland is left working and short ragged rows sit on the awkward remnant below it, among scrub and stone. S5 Impaired-land siting: the field above drains toward a watercourse below, and the array stands between them on perennial prairie. The ground tint diverges from a neutral centre at S3, blue toward the sharing end and purple toward the sparing end, and the label bar beneath carries the same ramp.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
@@ -57,7 +57,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="hd" x="18" y="26">&#9664;</text>
 <text class="hd" x="40" y="26">LAND SHARING</text>
 <g stroke="#b4b2a9" stroke-width="1.2"><path d="M190,15 v11 M220,15 v11 M250,15 v11 M280,15 v11 M310,15 v11 M340,15 v11 M370,15 v11 M400,15 v11 M430,15 v11"/></g>
-<text class="hd" x="553" y="26" text-anchor="middle">SITING AXIS</text>
+<text class="hd" x="553" y="26" text-anchor="middle">FARMING AXIS</text>
 <g stroke="#b4b2a9" stroke-width="1.2"><path d="M655,15 v11 M685,15 v11 M715,15 v11 M745,15 v11 M775,15 v11 M805,15 v11 M835,15 v11 M865,15 v11 M895,15 v11"/></g>
 <text class="hd" x="1064" y="26" text-anchor="end">LAND SPARING</text>
 <text class="hd" x="1086" y="26" text-anchor="end">&#9654;</text>
