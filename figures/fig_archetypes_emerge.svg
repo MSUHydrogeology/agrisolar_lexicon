@@ -1,58 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="426" viewBox="0 0 1106 426" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="392" viewBox="0 0 1106 392" role="img">
 <title>How an archetype emerges</title>
-<desc>Two landscapes, one above the other, drawn like a potential-energy curve. Each has four basins at the same four positions along it, and each basin is a combination of the six design levers that holds together: regenerative solar grazing, retired-irrigation solar, solar prairie strips, and vegetable agrivoltaics. Projects are drawn as balls that have rolled to the bottom of a basin. The upper landscape is an arid region and the lower one is humid. The same four basins exist in both, but not at the same depth: retired irrigation is the deepest basin in the arid landscape and is nearly flat in the humid one, while solar prairie strips is the reverse. A basin that flattens holds almost nothing.</desc>
+<desc>A curve read like a potential-energy landscape. The vertical axis is design tension, highest at the top. The horizontal axis is the design pressures, where a position along it is one way the nine can come out. The curve has four low spots, each named for the form that sits in it: regenerative solar grazing, retired-irrigation solar, solar prairie strips, and vegetable agrivoltaics, with the scale and siting code each carries. Projects are drawn as balls resting at the bottom of the low spots. A second dashed curve shows the same landscape where the region is arid: the retired irrigation basin deepens and the prairie strips basin flattens almost away.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
-.rg{font-size:10px;font-weight:700;letter-spacing:.12em}
+.ax{font-size:10.5px;font-weight:700;letter-spacing:.14em;fill:#6f6d66}
+.ky{font-size:10px;font-weight:700;letter-spacing:.1em;fill:#a8895f}
 .fm{font-size:12.5px;font-weight:600;fill:#3d3d3a;text-anchor:middle}
 .cd{font-size:10px;letter-spacing:.03em;fill:#8a8880;text-anchor:middle}
 </style>
+<defs>
+  <marker id="up" viewBox="0 0 10 10" refX="5" refY="1" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,9 L5,1 L9,9 z" fill="#8a8880"/></marker>
+</defs>
 
 <text class="hd" x="18" y="26">HOW AN ARCHETYPE EMERGES</text>
 <path d="M296,21 H1088" stroke="#d3d1c7" stroke-width="1"/>
-<g stroke="#cfc8b8" stroke-width="1" stroke-dasharray="3 4"><path d="M220,46 V400 M440,46 V400 M660,46 V400 M880,46 V400"/></g>
-<rect x="18" y="42" width="1070" height="168" fill="#f0eee8"/>
-<path d="M44,92 C132,92 132,148 220,148 C275,148 275,92 330,92 C385,92 385,164 440,164 C495,164 495,92 550,92 C605,92 605,110 660,110 C715,110 715,92 770,92 C825,92 825,126 880,126 C971,126 971,92 1062,92 V202 H44 Z" fill="#ece3d3"/>
-<path d="M44,92 C132,92 132,148 220,148 C275,148 275,92 330,92 C385,92 385,164 440,164 C495,164 495,92 550,92 C605,92 605,110 660,110 C715,110 715,92 770,92 C825,92 825,126 880,126 C971,126 971,92 1062,92" fill="none" stroke="#8a8880" stroke-width="1.6"/>
-<circle cx="203.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="214.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="225.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="236.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="418.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="429.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="440.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="451.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="462.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="660.0" cy="104.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="874.5" cy="120.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<circle cx="885.5" cy="120.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
-<text class="rg" x="34" y="64" fill="#a8895f">ARID REGION</text>
-<rect x="18" y="42" width="1070" height="168" fill="none" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="18" y="224" width="1070" height="168" fill="#f0eee8"/>
-<path d="M44,274 C132,274 132,328 220,328 C275,328 275,274 330,274 C385,274 385,290 440,290 C495,290 495,274 550,274 C605,274 605,344 660,344 C715,344 715,274 770,274 C825,274 825,312 880,312 C971,312 971,274 1062,274 V384 H44 Z" fill="#dee8ee"/>
-<path d="M44,274 C132,274 132,328 220,328 C275,328 275,274 330,274 C385,274 385,290 440,290 C495,290 495,274 550,274 C605,274 605,344 660,344 C715,344 715,274 770,274 C825,274 825,312 880,312 C971,312 971,274 1062,274" fill="none" stroke="#8a8880" stroke-width="1.6"/>
-<circle cx="203.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="214.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="225.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="236.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="440.0" cy="284.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="638.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="649.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="660.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="671.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="682.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="874.5" cy="306.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<circle cx="885.5" cy="306.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
-<text class="rg" x="34" y="246" fill="#5d8397">HUMID REGION</text>
-<rect x="18" y="224" width="1070" height="168" fill="none" stroke="#d3d1c7" stroke-width="1"/>
-<text class="fm" x="220" y="410">Regenerative Solar Grazing</text>
-<text class="cd" x="220" y="424">A4–A5 · S2</text>
-<text class="fm" x="440" y="410">Retired-Irrigation Solar</text>
-<text class="cd" x="440" y="424">A4–A5 · S5</text>
-<text class="fm" x="660" y="410">Solar Prairie Strips</text>
-<text class="cd" x="660" y="424">A3 · S5</text>
-<text class="fm" x="880" y="410">Vegetable Agrivoltaics</text>
-<text class="cd" x="880" y="424">A2–A3 · S1</text>
+<rect x="18" y="42" width="1070" height="338" fill="#f0eee8"/>
+<path d="M70,318 V62" fill="none" stroke="#8a8880" stroke-width="1.2" marker-end="url(#up)"/>
+<path d="M70,318 H1078" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text class="ax" x="46" y="187" text-anchor="middle" transform="rotate(-90 46 187)">DESIGN TENSION</text>
+<text class="ax" x="567" y="344" text-anchor="middle">DESIGN PRESSURES</text>
+<path d="M96,92 C163,92 163,196 230,196 C286,196 286,92 342,92 C398,92 398,176 455,176 C511,176 511,92 567,92 C624,92 624,176 680,176 C736,176 736,92 792,92 C848,92 848,154 905,154 C984,154 984,92 1064,92 V316 H96 Z" fill="#e7e3d6"/>
+<path d="M96,92 C163,92 163,200 230,200 C286,200 286,92 342,92 C398,92 398,238 455,238 C511,238 511,92 567,92 C624,92 624,122 680,122 C736,122 736,92 792,92 C848,92 848,138 905,138 C984,138 984,92 1064,92" fill="none" stroke="#a8895f" stroke-width="1.7" stroke-dasharray="6 4"/>
+<path d="M96,92 C163,92 163,196 230,196 C286,196 286,92 342,92 C398,92 398,176 455,176 C511,176 511,92 567,92 C624,92 624,176 680,176 C736,176 736,92 792,92 C848,92 848,154 905,154 C984,154 984,92 1064,92" fill="none" stroke="#6f6e68" stroke-width="1.8"/>
+<circle cx="208.0" cy="190.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="219.0" cy="190.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="230.0" cy="190.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="241.0" cy="190.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="252.0" cy="190.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="438.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="449.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="460.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="471.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="663.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="674.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="685.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="696.5" cy="170.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="894.0" cy="148.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="905.0" cy="148.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<circle cx="916.0" cy="148.5" r="5" fill="#5f6e78" stroke="#ffffff" stroke-width="1"/>
+<text class="fm" x="230" y="226">Regenerative Solar Grazing</text>
+<text class="cd" x="230" y="240">A4–A5 · S2</text>
+<text class="fm" x="455" y="264">Retired-Irrigation Solar</text>
+<text class="cd" x="455" y="278">A4–A5 · S5</text>
+<text class="fm" x="680" y="202">Solar Prairie Strips</text>
+<text class="cd" x="680" y="216">A3 · S5</text>
+<text class="fm" x="905" y="180">Vegetable Agrivoltaics</text>
+<text class="cd" x="905" y="194">A2–A3 · S1</text>
+<path d="M858,72 h26" fill="none" stroke="#a8895f" stroke-width="1.7" stroke-dasharray="6 4"/>
+<text class="ky" x="892" y="76">WHERE THE REGION IS ARID</text>
+<rect x="18" y="42" width="1070" height="338" fill="none" stroke="#d3d1c7" stroke-width="1"/>
 
 </svg>

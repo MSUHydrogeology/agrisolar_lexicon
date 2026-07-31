@@ -4,7 +4,7 @@ The developer, neighbor, farmer, buyer, and county do not want the same thing fr
 
 ## The pressures {#sec-pressures}
 
-Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's restorative claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the [reversibility](terminology.qmd#term-decommissioning) argument in §-@sec-conflicts the hard one.
+Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's [restorative](terminology.qmd#term-restorative) claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the [reversibility](terminology.qmd#term-decommissioning) argument in §-@sec-conflicts the hard one.
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
@@ -21,7 +21,7 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 : The nine pressures and the direction each one pushes. Read the third column as a direction rather than a verdict on anyone advocating it, since every one of the nine has someone arguing for it in good faith. {#tbl-pressures}
 :::
 
-A site with no build cost does not get built, and none of the nine can simply be argued away.
+A site with no [build cost](terminology.qmd#term-build-cost) does not get built, and none of the nine can simply be argued away.
 
 ![Nine pressures bearing on one site at once, grouped by the direction they push. Three push toward restoration on the right and three push away on the left, with the three whose direction the site, the buyer, or the county decides sitting in the gray wedges between them, so the two colored groups never meet. Restorative goals is the pressure this lexicon exists to advance, and is still a force among forces rather than a coordinate to score a project against.](../figures/fig_design_pressures.svg){#fig-design-pressures}
 
@@ -29,19 +29,19 @@ A site with no build cost does not get built, and none of the nine can simply be
 
 Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapped for turf.
 
-**Agricultural production vs. restorative goals.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
+**[Agricultural production](terminology.qmd#term-agricultural-production) vs. restorative goals.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
 
-**Operations and maintenance vs. everything.** Gravel and herbicide are easy; diverse perennial cover is not. The maintenance bill decides many restorative designs.
+**[Operations and maintenance](terminology.qmd#term-operations-maintenance) vs. everything.** Gravel and herbicide are easy; diverse perennial cover is not. The maintenance bill decides many restorative designs.
 
-**Grid and market demands vs. restorative goals.** Buyers and scorecards can spread good [ground-layer](terminology.qmd#term-ground-layer) practice, but a rule written at a distance can also lock in a poor local fit for the term of a contract [@epri2021].
+**Grid and market demands vs. [restorative goals](terminology.qmd#term-restorative-goals).** Buyers and scorecards can spread good [ground-layer](terminology.qmd#term-ground-layer) practice, but a rule written at a distance can also lock in a poor local fit for the term of a contract [@epri2021].
 
-**Energy yield vs. restorative goals.** Clearance, spacing, and crop shade tolerance interact. Vegetation can also cool modules, reduce dust, and lower panel-washing demand, so the two pressures occasionally align [@merheb2025].
+**[Energy yield](terminology.qmd#term-energy-yield) vs. restorative goals.** [Clearance](terminology.qmd#term-clearance), spacing, and crop shade tolerance interact. Vegetation can also cool modules, reduce dust, and lower panel-washing demand, so the two pressures occasionally align [@merheb2025].
 
 **Build cost vs. operations and maintenance.** Often mistaken for a single pressure. They split on what to plant, how high to mount, and how to get equipment in: cheap to build is frequently expensive to keep.
 
-**End-of-life responsibility vs. restorative goals.** The hard one, because both pressures push toward restoration and still collide. Established habitat and rebuilt soil take years to create and resist clean removal: a project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
+**[End-of-life responsibility](terminology.qmd#term-end-of-life) vs. restorative goals.** The hard one, because both pressures push toward restoration and still collide. Established habitat and rebuilt soil take years to create and resist clean removal: a project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
 
-**Community acceptance and benefit vs. build cost.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
+**[Community acceptance and benefit](terminology.qmd#term-community-acceptance) vs. build cost.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
 
 ## The same pressures, weighted by place {#sec-regionality}
 
@@ -85,6 +85,6 @@ Read each row as a starting hypothesis, not an assignment. Counterexamples are w
 
 The pressures are constant but their weights are not. Designs should differ when resource, grid, crop, or water conditions differ. The characteristic failure is [importing a resolution from another region](terminology.qmd#term-design-import), often through an [offtake-conformity](terminology.qmd#term-grid-market) rule that travels farther than the evidence behind it.
 
-What the array replaces is itself a regional fact, and it changes what a sparing argument even means. Nationally, cropland is the dominant thing US solar has displaced. In New York it is not: of utility-scale solar built to date, 48% displaced pasture and hay, 38% cultivated crops, and 11% forest [@gallaher2026]. That puts forest conversion and grassland bird habitat at the center of a conversation that in Iowa would be about row crops and nutrient export. A position on the axis travels between regions; what sits on the other side of the decision does not.
+What the array replaces is itself a regional fact, and it changes what a sparing argument even means. Nationally, cropland is the dominant thing US solar has displaced. In New York it is not: of [utility-scale](terminology.qmd#term-utility-scale) solar built to date, 48% displaced pasture and hay, 38% cultivated crops, and 11% forest [@gallaher2026]. That puts forest conversion and grassland bird habitat at the center of a conversation that in Iowa would be about row crops and nutrient export. A position on the axis travels between regions; what sits on the other side of the decision does not.
 
 This is why the document prescribes an [aim rather than dimensions](../index.qmd#sec-aim-not-dimensions). Regional calibrations are especially useful contributions: the zone bands are indicative for the US Midwest, and a region with different bands, missing zones, or a different binding constraint extends the lexicon.
