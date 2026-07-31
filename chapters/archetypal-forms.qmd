@@ -6,7 +6,7 @@ Scale and [siting axis position](terminology.qmd#term-siting-axis) decide which 
 
 Six featured archetypes carry a documented case each, ordered from farmstead to complex, and seven others are sketched more briefly.
 
-![**How an archetype emerges.** Each column is one project and each row is one [design lever](design-levers.qmd), so a column is the whole set of decisions that project made. Shaded by setting and sorted, the columns fall into blocks, and a block is a form that keeps recurring. That is all an archetype is: not something a design process outputs, but what many projects turn out to have in common. The odd cell out of step inside a block is the point rather than a defect, since recurrence is not uniformity. Scale and siting carry the codes each block shares, which is where the `A4–A5 · S2` notation used below comes from. What makes a combination recur at all is the [pressures](design-pressures.qmd), and [a region weights them differently](design-pressures.qmd#sec-regionality), which is why the arid and the humid projects do not fill the blocks evenly.](../figures/fig_archetypes_emerge.svg){#fig-archetypes-emerge}
+![**How an archetype emerges.** An energy landscape, where each basin is a setting of the six [design levers](design-levers.qmd) that holds together. Projects roll to the bottom of whichever basin they are near, so the deep ones fill and the shallow ones do not, and a setting that keeps filling is what this chapter calls an archetype. Nothing here is a design process: no project chose its basin, and the basins are the shape the [pressures](design-pressures.qmd) leave behind once they have finished arguing. [A region weights those pressures differently](design-pressures.qmd#sec-regionality), which reshapes the landscape rather than moving projects around inside it. Retiring irrigated ground is the deepest basin in an arid region and nearly flat in a humid one; prairie strips are the reverse. **A basin that flattens is a form that stops being built.**](../figures/fig_archetypes_emerge.svg){#fig-archetypes-emerge}
 
 ## Archetypes across scale and siting {#sec-scale-position}
 
@@ -28,12 +28,12 @@ The crowding at A3 is the [feasible wedge](siting-axis.qmd#sec-wedge) in practic
 ::: {.position-table}
 | Position | Forms that sit here |
 |---|---|
-| **S1 — Full sharing** | [**Vegetable Agrivoltaics**](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [Vineyard and Orchard Canopy](#arch-permanent-crop) |
-| **S2 — Functional sharing** | [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) · [**Marginal Land Solar**](#arch-marginal) where stock stays on |
-| **S3 — Coexistence** | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
-| **S4 — Idled-land sparing** | [**Marginal Land Solar**](#arch-marginal) · [Pivot-Corner Recharge](#arch-recharge) · [Brightfield](#arch-brightfield) · [Farm-Load Microgrid](#arch-microgrid) |
-| **S5 — Impaired-land retirement** | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Retired-Irrigation Solar**](#arch-water) |
-: The same forms arranged by what happened to agricultural production, rather than by size. A form appearing at more than one position is one whose ground layer can be run more than one way. {#tbl-forms-by-position}
+| **S1 — Primary agriculture** | [**Vegetable Agrivoltaics**](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) on ground that was already pasture |
+| **S2 — Secondary agriculture** | [**Regenerative Solar Grazing**](#arch-grazing) on former cropland · [**Marginal Land Solar**](#arch-marginal) where stock stays on · [Pollinator Meadow Solar](#arch-community-solar) where hives are kept |
+| **S3 — Ordinary-land siting** | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
+| **S4 — Low-productivity siting** | [**Marginal Land Solar**](#arch-marginal) · [Pivot-Corner Recharge](#arch-recharge) · [Brightfield](#arch-brightfield) · [Farm-Load Microgrid](#arch-microgrid) |
+| **S5 — Impaired-land siting** | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Retired-Irrigation Solar**](#arch-water) |
+: The same forms arranged by what happened to agricultural production, rather than by size. A form appearing at more than one position is one whose ground layer can be run more than one way, or one whose position turns on what the ground carried before it. {#tbl-forms-by-position}
 :::
 
 The sharing wing is thin and structure-led: holding a crop under panels takes geometry that costs money, so only three forms manage it. The sparing wing is where siting does the work. Grazing is the one form that reaches utility scale without giving up a productive ground layer, which is most of why it is the commonest restorative practice on large arrays.
@@ -47,7 +47,7 @@ The figures given for each form are indicative, drawn from the worked case and f
 
 ### Barnyard Shelter Solar {#arch-barnyard}
 
-[A1](scale-transect.qmd#sec-zones) scale · **[S1–S2](siting-axis.qmd#sec-positions)** siting · *[ownership-led](restoration-modes.qmd#sec-siting-latitude)* restoration
+[A1](scale-transect.qmd#sec-zones) scale · **[S1](siting-axis.qmd#sec-positions)** siting · *[ownership-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
 ![Barnyard shelter solar in section. The array is sized to the parlor rather than to the grid, which pushes Agriculture out toward the rim and leaves Ecology short of the ring. The drawing carries what the profile cannot: shade gathers the herd, and the ground beneath it compacts.](../figures/fig_arch_barnyard.svg){#fig-arch-barnyard}
 
@@ -95,7 +95,7 @@ Minnesota has a built case in **Ramsey Renewable Station**, where 3.4 megawatts 
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
-[A4–A5](scale-transect.qmd#sec-zones) scale · **[S2](siting-axis.qmd#sec-positions)** siting · *[management-led](restoration-modes.qmd#sec-siting-latitude)* restoration
+[A4–A5](scale-transect.qmd#sec-zones) scale · **[S1–S2](siting-axis.qmd#sec-positions)** siting · *[management-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
 ![Regenerative solar grazing in section. Water reaches furthest, on held cover and year-round roots, while Communities is pulled just inside the ring, because the agriculture here is a tenancy rather than the farm's own operation. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
 

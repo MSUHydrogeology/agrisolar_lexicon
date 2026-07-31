@@ -1,185 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="356" viewBox="0 0 1106 356" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="426" viewBox="0 0 1106 426" role="img">
 <title>How an archetype emerges</title>
-<desc>A grid. Each column is one project and each row is one of the six design levers, so a column is the whole set of decisions a project made. A cell is shaded by which setting the lever was given, light for the low end and dark for the high end. Sorted this way, the columns fall into four blocks of near-identical shading, and each block is a form that keeps recurring: regenerative solar grazing, retired-irrigation solar, solar prairie strips, and vegetable agrivoltaics. The scale and siting rows carry the codes those blocks share. A strip above each column marks whether the project sits in an arid or a humid region, and the blocks are not evenly filled from the two.</desc>
+<desc>Two landscapes, one above the other, drawn like a potential-energy curve. Each has four basins at the same four positions along it, and each basin is a combination of the six design levers that holds together: regenerative solar grazing, retired-irrigation solar, solar prairie strips, and vegetable agrivoltaics. Projects are drawn as balls that have rolled to the bottom of a basin. The upper landscape is an arid region and the lower one is humid. The same four basins exist in both, but not at the same depth: retired irrigation is the deepest basin in the arid landscape and is nearly flat in the humid one, while solar prairie strips is the reverse. A basin that flattens holds almost nothing.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
-.gt{font-size:9.5px;font-weight:700;letter-spacing:.12em;fill:#8a8880}
-.lv{font-size:11.5px;font-weight:600;text-anchor:end}
-.fm{font-size:12px;font-weight:600;fill:#3d3d3a}
-.cd{font-size:10px;font-weight:700;letter-spacing:.04em;text-anchor:middle}
+.rg{font-size:10px;font-weight:700;letter-spacing:.12em}
+.fm{font-size:12.5px;font-weight:600;fill:#3d3d3a;text-anchor:middle}
+.cd{font-size:10px;letter-spacing:.03em;fill:#8a8880;text-anchor:middle}
 </style>
 
 <text class="hd" x="18" y="26">HOW AN ARCHETYPE EMERGES</text>
 <path d="M296,21 H1088" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="18" y="42" width="1070" height="296" fill="#f0eee8"/>
-<rect x="201" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="242" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="283" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="324" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="365" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="406" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="447" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="500" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="541" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="582" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="623" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="664" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="717" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="758" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="799" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="840" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="881" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="934" y="102" width="39" height="12" rx="3" fill="#a8895f"/>
-<rect x="975" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<rect x="1016" y="102" width="39" height="12" rx="3" fill="#5d8397"/>
-<text class="gt" x="186" y="112" text-anchor="end">REGION</text>
-<path d="M201,92 v-8 H486 v8" fill="none" stroke="#b3ac9b" stroke-width="1.2"/>
-<text class="fm" x="343" y="76" text-anchor="middle">Regenerative Solar Grazing</text>
-<path d="M500,92 v-8 H703 v8" fill="none" stroke="#b3ac9b" stroke-width="1.2"/>
-<text class="fm" x="601" y="76" text-anchor="middle">Retired-Irrigation Solar</text>
-<path d="M717,92 v-8 H920 v8" fill="none" stroke="#b3ac9b" stroke-width="1.2"/>
-<text class="fm" x="818" y="76" text-anchor="middle">Solar Prairie Strips</text>
-<path d="M934,92 v-8 H1055 v8" fill="none" stroke="#b3ac9b" stroke-width="1.2"/>
-<text class="fm" x="994" y="76" text-anchor="middle">Vegetable Agrivoltaics</text>
-<text class="lv" x="186" y="146" fill="#6f6d66">Scale</text>
-<rect x="200" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="241" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="282" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="323" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="364" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="405" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="446" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="499" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="540" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="581" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="622" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="663" y="129" width="41" height="26" fill="#6f6d66"/>
-<rect x="716" y="129" width="41" height="26" fill="#b1b0ac"/>
-<rect x="757" y="129" width="41" height="26" fill="#b1b0ac"/>
-<rect x="798" y="129" width="41" height="26" fill="#b1b0ac"/>
-<rect x="839" y="129" width="41" height="26" fill="#b1b0ac"/>
-<rect x="880" y="129" width="41" height="26" fill="#b1b0ac"/>
-<rect x="933" y="129" width="41" height="26" fill="#d4d3d1"/>
-<rect x="974" y="129" width="41" height="26" fill="#d4d3d1"/>
-<rect x="1015" y="129" width="41" height="26" fill="#d4d3d1"/>
-<text class="cd" x="343" y="146" fill="#ffffff">A4–A5</text>
-<text class="cd" x="601" y="146" fill="#ffffff">A4–A5</text>
-<text class="cd" x="818" y="146" fill="#3d3d3a">A3</text>
-<text class="cd" x="994" y="146" fill="#3d3d3a">A2–A3</text>
-<text class="lv" x="186" y="174" fill="#b8934a">Siting</text>
-<rect x="200" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="241" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="282" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="323" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="364" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="405" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="446" y="157" width="41" height="26" fill="#eadfc9"/>
-<rect x="499" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="540" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="581" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="622" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="663" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="716" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="757" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="798" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="839" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="880" y="157" width="41" height="26" fill="#b8934a"/>
-<rect x="933" y="157" width="41" height="26" fill="#f6f2e9"/>
-<rect x="974" y="157" width="41" height="26" fill="#f6f2e9"/>
-<rect x="1015" y="157" width="41" height="26" fill="#f6f2e9"/>
-<text class="cd" x="343" y="174" fill="#3d3d3a">S2</text>
-<text class="cd" x="601" y="174" fill="#ffffff">S5</text>
-<text class="cd" x="818" y="174" fill="#ffffff">S5</text>
-<text class="cd" x="994" y="174" fill="#3d3d3a">S1</text>
-<text class="lv" x="186" y="202" fill="#97783f">Structure</text>
-<rect x="200" y="185" width="41" height="26" fill="#e0d6c5"/>
-<rect x="241" y="185" width="41" height="26" fill="#e0d6c5"/>
-<rect x="282" y="185" width="41" height="26" fill="#e0d6c5"/>
-<rect x="323" y="185" width="41" height="26" fill="#e0d6c5"/>
-<rect x="364" y="185" width="41" height="26" fill="#f3efe8"/>
-<rect x="405" y="185" width="41" height="26" fill="#e0d6c5"/>
-<rect x="446" y="185" width="41" height="26" fill="#e0d6c5"/>
-<rect x="499" y="185" width="41" height="26" fill="#ae9669"/>
-<rect x="540" y="185" width="41" height="26" fill="#ae9669"/>
-<rect x="581" y="185" width="41" height="26" fill="#ae9669"/>
-<rect x="622" y="185" width="41" height="26" fill="#ae9669"/>
-<rect x="663" y="185" width="41" height="26" fill="#ae9669"/>
-<rect x="716" y="185" width="41" height="26" fill="#c7b697"/>
-<rect x="757" y="185" width="41" height="26" fill="#c7b697"/>
-<rect x="798" y="185" width="41" height="26" fill="#c7b697"/>
-<rect x="839" y="185" width="41" height="26" fill="#c7b697"/>
-<rect x="880" y="185" width="41" height="26" fill="#c7b697"/>
-<rect x="933" y="185" width="41" height="26" fill="#f3efe8"/>
-<rect x="974" y="185" width="41" height="26" fill="#f3efe8"/>
-<rect x="1015" y="185" width="41" height="26" fill="#f3efe8"/>
-<text class="lv" x="186" y="230" fill="#6f5730">Management</text>
-<rect x="200" y="213" width="41" height="26" fill="#d4cdc1"/>
-<rect x="241" y="213" width="41" height="26" fill="#d4cdc1"/>
-<rect x="282" y="213" width="41" height="26" fill="#d4cdc1"/>
-<rect x="323" y="213" width="41" height="26" fill="#d4cdc1"/>
-<rect x="364" y="213" width="41" height="26" fill="#d4cdc1"/>
-<rect x="405" y="213" width="41" height="26" fill="#d4cdc1"/>
-<rect x="446" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="499" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="540" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="581" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="622" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="663" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="716" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="757" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="798" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="839" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="880" y="213" width="41" height="26" fill="#b1a48f"/>
-<rect x="933" y="213" width="41" height="26" fill="#eeebe6"/>
-<rect x="974" y="213" width="41" height="26" fill="#eeebe6"/>
-<rect x="1015" y="213" width="41" height="26" fill="#eeebe6"/>
-<text class="lv" x="186" y="258" fill="#4a6d8c">Ownership</text>
-<rect x="200" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="241" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="282" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="323" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="364" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="405" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="446" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="499" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="540" y="241" width="41" height="26" fill="#c9d3dc"/>
-<rect x="581" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="622" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="663" y="241" width="41" height="26" fill="#9db0c1"/>
-<rect x="716" y="241" width="41" height="26" fill="#c9d3dc"/>
-<rect x="757" y="241" width="41" height="26" fill="#c9d3dc"/>
-<rect x="798" y="241" width="41" height="26" fill="#c9d3dc"/>
-<rect x="839" y="241" width="41" height="26" fill="#c9d3dc"/>
-<rect x="880" y="241" width="41" height="26" fill="#c9d3dc"/>
-<rect x="933" y="241" width="41" height="26" fill="#e9edf1"/>
-<rect x="974" y="241" width="41" height="26" fill="#e9edf1"/>
-<rect x="1015" y="241" width="41" height="26" fill="#e9edf1"/>
-<text class="lv" x="186" y="286" fill="#33506b">Contracts</text>
-<rect x="200" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="241" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="282" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="323" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="364" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="405" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="446" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="499" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="540" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="581" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="622" y="269" width="41" height="26" fill="#60768c"/>
-<rect x="663" y="269" width="41" height="26" fill="#91a0af"/>
-<rect x="716" y="269" width="41" height="26" fill="#c2cad3"/>
-<rect x="757" y="269" width="41" height="26" fill="#c2cad3"/>
-<rect x="798" y="269" width="41" height="26" fill="#c2cad3"/>
-<rect x="839" y="269" width="41" height="26" fill="#c2cad3"/>
-<rect x="880" y="269" width="41" height="26" fill="#c2cad3"/>
-<rect x="933" y="269" width="41" height="26" fill="#e7eaed"/>
-<rect x="974" y="269" width="41" height="26" fill="#e7eaed"/>
-<rect x="1015" y="269" width="41" height="26" fill="#e7eaed"/>
-<circle cx="204" cy="318" r="4.5" fill="#a8895f"/>
-<text class="gt" x="214" y="322">ARID</text>
-<circle cx="296" cy="318" r="4.5" fill="#5d8397"/>
-<text class="gt" x="306" y="322">HUMID</text>
-<rect x="18" y="42" width="1070" height="296" fill="none" stroke="#d3d1c7" stroke-width="1"/>
+<g stroke="#cfc8b8" stroke-width="1" stroke-dasharray="3 4"><path d="M220,46 V400 M440,46 V400 M660,46 V400 M880,46 V400"/></g>
+<rect x="18" y="42" width="1070" height="168" fill="#f0eee8"/>
+<path d="M44,92 C132,92 132,148 220,148 C275,148 275,92 330,92 C385,92 385,164 440,164 C495,164 495,92 550,92 C605,92 605,110 660,110 C715,110 715,92 770,92 C825,92 825,126 880,126 C971,126 971,92 1062,92 V202 H44 Z" fill="#ece3d3"/>
+<path d="M44,92 C132,92 132,148 220,148 C275,148 275,92 330,92 C385,92 385,164 440,164 C495,164 495,92 550,92 C605,92 605,110 660,110 C715,110 715,92 770,92 C825,92 825,126 880,126 C971,126 971,92 1062,92" fill="none" stroke="#8a8880" stroke-width="1.6"/>
+<circle cx="203.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="214.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="225.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="236.5" cy="142.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="418.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="429.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="440.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="451.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="462.0" cy="158.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="660.0" cy="104.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="874.5" cy="120.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<circle cx="885.5" cy="120.5" r="5" fill="#a8895f" stroke="#ffffff" stroke-width="1"/>
+<text class="rg" x="34" y="64" fill="#a8895f">ARID REGION</text>
+<rect x="18" y="42" width="1070" height="168" fill="none" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="18" y="224" width="1070" height="168" fill="#f0eee8"/>
+<path d="M44,274 C132,274 132,328 220,328 C275,328 275,274 330,274 C385,274 385,290 440,290 C495,290 495,274 550,274 C605,274 605,344 660,344 C715,344 715,274 770,274 C825,274 825,312 880,312 C971,312 971,274 1062,274 V384 H44 Z" fill="#dee8ee"/>
+<path d="M44,274 C132,274 132,328 220,328 C275,328 275,274 330,274 C385,274 385,290 440,290 C495,290 495,274 550,274 C605,274 605,344 660,344 C715,344 715,274 770,274 C825,274 825,312 880,312 C971,312 971,274 1062,274" fill="none" stroke="#8a8880" stroke-width="1.6"/>
+<circle cx="203.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="214.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="225.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="236.5" cy="322.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="440.0" cy="284.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="638.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="649.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="660.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="671.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="682.0" cy="338.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="874.5" cy="306.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<circle cx="885.5" cy="306.5" r="5" fill="#5d8397" stroke="#ffffff" stroke-width="1"/>
+<text class="rg" x="34" y="246" fill="#5d8397">HUMID REGION</text>
+<rect x="18" y="224" width="1070" height="168" fill="none" stroke="#d3d1c7" stroke-width="1"/>
+<text class="fm" x="220" y="410">Regenerative Solar Grazing</text>
+<text class="cd" x="220" y="424">A4–A5 · S2</text>
+<text class="fm" x="440" y="410">Retired-Irrigation Solar</text>
+<text class="cd" x="440" y="424">A4–A5 · S5</text>
+<text class="fm" x="660" y="410">Solar Prairie Strips</text>
+<text class="cd" x="660" y="424">A3 · S5</text>
+<text class="fm" x="880" y="410">Vegetable Agrivoltaics</text>
+<text class="cd" x="880" y="424">A2–A3 · S1</text>
 
 </svg>

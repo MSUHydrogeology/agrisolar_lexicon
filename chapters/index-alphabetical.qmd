@@ -54,7 +54,7 @@ under **S**.
 
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [Terminology](terminology.qmd#term-carrying-capacity) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
-**Coexistence (S3)** — *see* S3 — Coexistence; the center of the siting axis, neither sharing nor sparing — [Terminology](terminology.qmd#term-s3) · [The positions](siting-axis.qmd#sec-positions)
+**Coexistence** — retired as a position name; *see* S3 — Ordinary-land siting, the center of the siting axis, neither sharing nor sparing — [Terminology](terminology.qmd#term-s3) · [The positions](siting-axis.qmd#sec-positions)
 
 **Co-benefit** — the field's usual word for a restorative function; recorded but not adopted, because its grammar demotes what it names to something arriving alongside the real objective — [Terminology](terminology.qmd#term-cobenefit)
 
@@ -174,15 +174,15 @@ under **S**.
 
 ## S {.unnumbered}
 
-**S1 — Full sharing** — production continues within the array footprint, in the same ground — [Terminology](terminology.qmd#term-s1) · [The positions](siting-axis.qmd#sec-positions)
+**S1 — Primary agriculture** — the agricultural use continues essentially as it was, with the array added over or between it — [Terminology](terminology.qmd#term-s1) · [The positions](siting-axis.qmd#sec-positions)
 
-**S2 — Functional sharing** — ground layer productive but subordinate to the array; grazing, forage — [Terminology](terminology.qmd#term-s2) · [The positions](siting-axis.qmd#sec-positions)
+**S2 — Secondary agriculture** — a farm still works the ground, at a lower value than it carried before; grazing on former cropland, forage, hay, hives — [Terminology](terminology.qmd#term-s2) · [The positions](siting-axis.qmd#sec-positions)
 
-**S3 — Coexistence** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the center of the axis — [Terminology](terminology.qmd#term-s3) · [The positions](siting-axis.qmd#sec-positions)
+**S3 — Ordinary-land siting** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the center of the axis — [Terminology](terminology.qmd#term-s3) · [The positions](siting-axis.qmd#sec-positions)
 
-**S4 — Idled-land sparing** — array occupies ground already idle, marginal, or out of production, so productive land is spared; arrays on buildings take no ground and hold no position (A0) — [Terminology](terminology.qmd#term-s4) · [The positions](siting-axis.qmd#sec-positions)
+**S4 — Low-productivity siting** — the array takes ground already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it; arrays on buildings take no ground and hold no position (A0) — [Terminology](terminology.qmd#term-s4) · [The positions](siting-axis.qmd#sec-positions)
 
-**S5 — Impaired-land retirement** — production ends on ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](siting-axis.qmd#sec-positions)
+**S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](siting-axis.qmd#sec-positions)
 
 **outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
 

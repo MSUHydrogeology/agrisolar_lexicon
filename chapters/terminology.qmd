@@ -132,27 +132,27 @@ Developed in [§-@sec-siting-axis, The Siting Axis](siting-axis.qmd).
 
 ### Siting Axis {#term-siting-axis}
 
-The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3. See [The Siting Axis](siting-axis.qmd).
+The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3. The names run on two stems, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Siting Axis](siting-axis.qmd).
 
-### S1 — Full sharing {#term-s1}
+### S1 — Primary agriculture {#term-s1}
 
-Production continues within the array footprint, in the same ground, as in vegetable [agrivoltaics](#term-agrivoltaics), crops between rows. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The agricultural use continues essentially as it was, with the array added over or between it: a vineyard still a vineyard, a pasture still a pasture, a row crop still cropped between the rows. This is [agrivoltaics](#term-agrivoltaics) in the strict sense, and the test is comparison with what the ground did before rather than with what the array needs. See [§-@sec-positions](siting-axis.qmd#sec-positions).
 
-### S2 — Functional sharing {#term-s2}
+### S2 — Secondary agriculture {#term-s2}
 
-The ground layer is productive but subordinate to the array, as in grazing or forage. Available at every scale, and with S3 the spine of the [feasible wedge](#term-feasible-wedge). See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The ground still carries an agricultural use, but a lesser one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Agriculture continues; its value is stepped down. Available at every scale, and with S3 the spine of the [feasible wedge](#term-feasible-wedge). See [§-@sec-positions](siting-axis.qmd#sec-positions).
 
-### S3 — Coexistence {#term-s3}
+### S3 — Ordinary-land siting {#term-s3}
 
-Neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic before it is biophysical. The center of the axis, and where most projects sit. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+Neither sharing nor sparing: the array takes ordinary productive ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic before it is biophysical. Where the rent reaches a non-farming owner and the operation ends, the site is [bare conversion](#term-bare-conversion) instead. The center of the axis, and where most projects sit. See [§-@sec-positions](siting-axis.qmd#sec-positions).
 
-### S4 — Idled-land sparing {#term-s4}
+### S4 — Low-productivity siting {#term-s4}
 
-The array occupies ground already idle, marginal, or out of production, so that productive land is spared; the benefit accrues to the land *not* taken. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The array takes ground that was already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it. The name records the ground taken, which can be checked on site. The benefit — that productive land elsewhere went unbuilt — is a [landscape claim](#term-displaced-benefit) and is carried by the definition rather than by the name, because it cannot be read at the site. See [§-@sec-positions](siting-axis.qmd#sec-positions).
 
-### S5 — Impaired-land retirement {#term-s5}
+### S5 — Impaired-land siting {#term-s5}
 
-Production ends on ground that carried a measurable off-site burden such as chronically low yields, high runoff, nutrient or pesticide export, irrigation draw beyond the aquifer's budget, or on ground positioned where that burden can be intercepted. The removal acts on the ground taken itself. See [§-@sec-positions](siting-axis.qmd#sec-positions).
+The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. See [§-@sec-positions](siting-axis.qmd#sec-positions).
 
 ### Bare conversion {#term-bare-conversion}
 
