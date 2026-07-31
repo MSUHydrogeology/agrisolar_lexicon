@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1104" height="352" viewBox="0 0 1104 352" role="img">
 <title>The scale transect, drawn</title>
-<desc>Six panels side by side, one per zone, each drawn at its own scale so the array grows while the frame stays the same size. A0 Rooftop is a close view of a hip-roofed barn carrying panels on its roof and taking no ground, on a grey band because it sits at the origin of the gradient rather than on it. A1 Farmstead is a farmyard where three rows sit beside the barn and the cattle keep the yard. A2 Commercial is a small array in an awkward field corner with the crop still working the rest. A3 Community is a mid-sized array filling one field, bordered by a sown strip, with houses and a distribution line nearby. A4 Utility is rows across assembled ground with a substation and a contract flock. A5 Complex is array to the horizon under transmission, with a gap where the assembly did not get the ground. The ground colour deepens from A1 to A5.</desc>
+<desc>Six panels side by side, one per zone, each drawn at its own scale so the array grows while the frame stays the same size. A0 Rooftop is a close view of a hip-roofed barn carrying panels on its roof and taking no ground, on a grey band because it sits at the origin of the gradient rather than on it. A1 Farmstead is a farmyard where three rows sit beside the barn and the cattle keep the yard. A2 Commercial is a small array in an awkward field corner with the crop still working the rest. A3 Community is a mid-sized array filling one field, bordered by a sown strip, with houses and a distribution line nearby. A4 Utility is rows across assembled ground with a substation and a contract flock. A5 Complex is array to the horizon under transmission, with a gap where the assembly did not get the ground. The ground colour deepens from A1 to A5 and fills each panel, with no sky above it.</desc>
 
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
@@ -73,13 +73,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="hd" x="1064" y="26" text-anchor="end">LARGE</text>
 <text class="hd" x="1086" y="26" text-anchor="end">&#9654;</text>
 
-<!-- ============ sky ============ -->
-<rect x="18" y="42" width="1068" height="21" fill="#F1EFE9"/>
-
 <!-- ============ A0 · Rooftop — takes no ground, so the band stays grey ============ -->
 <g clip-path="url(#p0)"><g transform="translate(0,-42)">
-  <rect x="18" y="105" width="178" height="225" fill="#EBE9E2"/>
-  <path d="M18,105 h178" stroke="#dcd9d0" stroke-width="1.4"/>
+  <rect x="18" y="84" width="178" height="246" fill="#EBE9E2"/>
   <!-- silo -->
   <path d="M26,308 v-84 a9,9 0 0 1 18,0 v84 z" fill="#ffffff" stroke="#6b6b63" stroke-width="1.5" stroke-linejoin="round"/>
   <path d="M26,248 h18 M26,272 h18" stroke="#d3d1c7" stroke-width="1"/>
@@ -102,8 +98,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ A1 · Farmstead — three rows beside the yard ============ -->
 <g clip-path="url(#p1)"><g transform="translate(0,-42)">
-  <rect x="196" y="105" width="178" height="225" fill="#EAF3DE"/>
-  <path d="M196,105 h178" stroke="#c9d9b4" stroke-width="1.4"/>
+  <rect x="196" y="84" width="178" height="246" fill="#EAF3DE"/>
   <use href="#tree" transform="translate(208,150) scale(0.75)"/>
   <use href="#tree" transform="translate(226,147) scale(0.62)"/>
   <use href="#tree" transform="translate(356,300) scale(1.35)"/>
@@ -122,8 +117,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ A2 · Commercial — the crop keeps the field, the array takes the corner ============ -->
 <g clip-path="url(#p2)"><g transform="translate(0,-42)">
-  <rect x="374" y="105" width="178" height="225" fill="#DCEBC8"/>
-  <path d="M374,105 h178" stroke="#bcd3a0" stroke-width="1.4"/>
+  <rect x="374" y="84" width="178" height="246" fill="#DCEBC8"/>
   <use href="#tree" transform="translate(384,132) scale(0.6)"/>
   <use href="#tree" transform="translate(398,130) scale(0.6)"/>
   <use href="#tree" transform="translate(412,132) scale(0.6)"/>
@@ -145,8 +139,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ A3 · Community — one field's worth, and the people it is sized to ============ -->
 <g clip-path="url(#p3)"><g transform="translate(0,-42)">
-  <rect x="552" y="105" width="178" height="225" fill="#C0DD97"/>
-  <path d="M552,105 h178" stroke="#a3c777" stroke-width="1.4"/>
+  <rect x="552" y="84" width="178" height="246" fill="#C0DD97"/>
   <use href="#house" transform="translate(562,134) scale(0.7)"/>
   <use href="#house" transform="translate(580,134) scale(0.7)"/>
   <use href="#house" transform="translate(598,134) scale(0.7)"/>
@@ -177,8 +170,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ A4 · Utility — assembled ground, contract flock, substation ============ -->
 <g clip-path="url(#p4)"><g transform="translate(0,-42)">
-  <rect x="730" y="105" width="178" height="225" fill="#AED483"/>
-  <path d="M730,105 h178" stroke="#93bf65" stroke-width="1.4"/>
+  <rect x="730" y="84" width="178" height="246" fill="#AED483"/>
   <use href="#tower" transform="translate(744,150) scale(0.5)"/>
   <use href="#row" transform="translate(732,138) scale(2.4,0.66)"/>
   <use href="#row" transform="translate(732,162) scale(2.5,0.74)"/>
@@ -198,8 +190,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ A5 · Complex — to the horizon, with ground the assembly did not get ============ -->
 <g clip-path="url(#p5)"><g transform="translate(0,-42)">
-  <rect x="908" y="105" width="178" height="225" fill="#97C459"/>
-  <path d="M908,105 h178" stroke="#7fae44" stroke-width="1.4"/>
+  <rect x="908" y="84" width="178" height="246" fill="#97C459"/>
   <use href="#row" transform="translate(906,118) scale(2.6,0.50)"/>
   <use href="#row" transform="translate(906,132) scale(2.65,0.54)"/>
   <use href="#row" transform="translate(906,148) scale(2.7,0.58)"/>
