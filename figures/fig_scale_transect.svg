@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="252" viewBox="0 0 880 252" role="img">
 <title>Scale transect zones</title>
-<desc>Six zones across the gradient. A0 Rooftop, any capacity, no ground taken, drawn with an empty white band because it sits at the origin of the gradient rather than on it. A1 Farmstead, under 100 kW and under about an acre. A2 Commercial, 100 kW to 1 MW on roughly half an acre to eight acres. A3 Community, 1 to 5 MW on roughly six to thirty acres. A4 Utility, 5 to 50 MW on roughly thirty to three hundred acres. A5 Complex, above 50 MW on three hundred acres and up. The color band above each label deepens from A1 to A5, and an arrow beneath runs the length of the set.</desc>
+<desc>Six zones across the gradient. A0 Rooftop, any capacity, no ground taken, drawn with an empty white band because it sits at the origin of the gradient rather than on it. A1 Farmstead, under 100 kW and under about an acre. A2 Commercial, 100 kW to 1 MW on roughly half an acre to eight acres. A3 Community, 1 to 5 MW on roughly six to thirty acres. A4 Utility, 5 to 50 MW on roughly thirty to three hundred acres. A5 Complex, above 50 MW on three hundred acres and up. The color band above each label deepens from A1 to A5, and an arrow beneath, labelled increasing scale, runs the length of the set.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .zn{font-size:13.5px;font-weight:600;fill:#173404}
@@ -8,6 +8,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .zf{font-size:11px;fill:#75736c}
 .zn0{font-size:13.5px;font-weight:600;fill:#6f6d66}
 .zc0{font-size:12px;fill:#8a8880}
+.dir{font-size:10.5px;font-weight:700;letter-spacing:.05em;fill:#75736c}
 </style>
 <defs><marker id="gr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,2 L9,5 L0,8 z" fill="#b4b2a9"/></marker></defs>
 
@@ -48,5 +49,6 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="zc" x="795.5" y="180" text-anchor="middle">50 MW +</text>
 <text class="zf" x="795.5" y="198" text-anchor="middle">~300–10,000+ acres</text>
 
-<line x1="16" y1="234" x2="860" y2="234" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#gr)"/>
+<text class="dir" x="16" y="238">INCREASING SCALE</text>
+<line x1="142" y1="234" x2="860" y2="234" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#gr)"/>
 </svg>
