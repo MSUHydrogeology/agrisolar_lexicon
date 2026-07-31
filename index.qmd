@@ -42,7 +42,7 @@ The document answers five questions in order, and a reader who only wants one of
 
 Almost every decision in a solar project belongs to one of six groups, and this document calls them the [design levers](chapters/design-levers.qmd): scale, siting, structure, management, ownership, and contracts. They are the spine of everything else here. The [pressures](chapters/terminology.qmd#term-design-pressures) push on them, and what comes out the far end is a project's scale, its position on the [farming axis](chapters/terminology.qmd#term-farming-axis), and the [functions](chapters/terminology.qmd#term-restorative-function) the ground ends up performing.
 
-![How the pieces fit. **Top row:** the nine design pressures and the six levers they argue over, each coloured by the [restoration mode](chapters/restoration-modes.qmd) it carries. **Bottom row:** what a setting produces: positions on the scale transect and the farming axis, the restoration modes committed to, and a footprint across the four outcome domains.](figures/fig_language_structure.svg){#fig-language-structure}
+![How the pieces fit. **Top row:** the nine design pressures, grouped by the direction each pushes, and the six levers they argue over, five of them coloured by the [restoration mode](chapters/restoration-modes.qmd) that lever carries. **Bottom row:** what a setting produces: positions on the scale transect and the farming axis, the restoration modes committed to, and a footprint across the four outcome domains.](figures/fig_language_structure.svg){#fig-language-structure}
 
 Three of the nine pressures push toward restoration, three push away, and the direction of the last three is settled by the site, the buyer, or the county (@fig-design-pressures). Each one pushes harder in some regions than in others, which is why a California project and an Iowa project set the same six levers differently. A setting of the levers that recurs on real ground is an [archetype](chapters/archetypal-forms.qmd): an array sized to the milking parlor, or one standing on ground whose irrigation was retired.
 
@@ -70,7 +70,7 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 
 ## Joining in {#sec-joining}
 
-This is a working document, and it improves by being disagreed with. Corrections,
+Corrections,
 counterexamples, and proposed terms are welcome as issues or pull requests on
 [GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon). Especially useful: an archetype
 that recurs in your region and is missing here, a term that lands badly with the people who have

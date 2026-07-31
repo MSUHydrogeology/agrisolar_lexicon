@@ -6,7 +6,7 @@ The developer, neighbor, farmer, buyer, and county do not want the same thing fr
 
 ## The pressures {#sec-pressures}
 
-Three of the nine push toward restoration, three push away, and the direction of the remaining three is settled by the site, the buyer, or the county. Restorative goals is the one this lexicon exists to advance, and it is still a force among forces rather than a score to hold a project against. Nine forces act on every site. The third column is the one worth arguing about, because it is where a project's [restorative](terminology.qmd#term-restorative) claim is won or lost. Three push toward restoration, three push away, and three go both ways depending on the site, the buyer, or the county. Two pressures can point the same way and still collide, which is what makes the [reversibility](terminology.qmd#term-decommissioning) argument in §-@sec-conflicts the hard one.
+Nine forces act on every site. Three push toward restoration, three push away, and the direction of the remaining three is settled by the site, the buyer, or the county. Restorative goals is the one this lexicon exists to advance, and it is still a force among forces rather than a score to hold a project against. The third column is the one worth arguing about, because it is where a project's [restorative](terminology.qmd#term-restorative) claim is won or lost. Two pressures can point the same way and still collide, which is what makes the [reversibility](terminology.qmd#term-decommissioning) argument in §-@sec-conflicts the hard one.
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
@@ -23,7 +23,7 @@ Three of the nine push toward restoration, three push away, and the direction of
 : The nine pressures and the direction each one pushes. Read the third column as a direction rather than a verdict on anyone advocating it, since every one of the nine has someone arguing for it in good faith. {#tbl-pressures}
 :::
 
-A site with no [build cost](terminology.qmd#term-cost-financing) does not get built, and none of the nine can simply be argued away.
+A site nobody will [finance](terminology.qmd#term-cost-financing) does not get built, and none of the nine can simply be argued away.
 
 ## Where the pressures collide {#sec-conflicts}
 
@@ -43,7 +43,7 @@ What a given design leaves unresolved is its **[design tension](terminology.qmd#
 
 **[End-of-life responsibility](terminology.qmd#term-end-of-life) vs. restorative goals.** The hard one, because both pressures push toward restoration and still collide. Established habitat and rebuilt soil take years to create and resist clean removal: a project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
 
-**[Community acceptance and benefit](terminology.qmd#term-community-acceptance) vs. build cost.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
+**[Community acceptance and benefit](terminology.qmd#term-community-acceptance) vs. cost and financing.** Community benefit costs money but cannot substitute for fair process. Its cost should be calculated, not assumed: a biodiversity-conscious New York portfolio was only 0.17% above the least-cost case, although farmland preservation made other tradeoffs [@gallaher2026].
 
 ## The same pressures, weighted by place {#sec-regionality}
 
@@ -57,9 +57,9 @@ The nine act on every site and carry different weight in every region. Shade tha
 | []{#sec-rg-resource}**Resource: sun and cloud** | Cloudier regions carry a higher [diffuse share](terminology.qmd#term-diffuse-fraction), which reaches under and between panels more readily than direct beam and gives a [ground layer](terminology.qmd#term-ground-layer) a more forgiving floor. Strong beam raises the value of [tracking](terminology.qmd#term-tracking-curtailment) and the opportunity cost of clearance and wide rows |
 | **Grid operator** | The [grid market](terminology.qmd#term-grid-market) often fixes how big a project will be before the land does. Queue delays and curtailment cut the value of the marginal megawatt and soften the push toward dense geometry. Where no community-solar program exists, projects skip the middle sizes entirely and lose the range where the most design choices stay open |
 | **Aridity** | Reverses the value of shade. Water-limited, high-radiation settings can trade light for relief; humid and temperate ones lose yield without a compensating saving, with the turn near 30 °C ambient across 367 paired observations [@merheb2025]. [Hydrologic work](terminology.qmd#term-fn-hydrologic) shifts from demand relief to interception |
-| **Latitude** | Sets sun angle, tilt, row spacing, and therefore [ground coverage](terminology.qmd#term-gcr). Wider northern rows give the ground layer more light and use more land; tighter southern arrays do the reverse. The resulting [pore space](terminology.qmd#term-pore-space) is why [vertical bifacial](terminology.qmd#term-module-technology) full sharing is not equally viable nationwide |
+| **Latitude** | Sets sun angle, tilt, row spacing, and therefore [ground coverage](terminology.qmd#term-gcr). Wider northern rows give the ground layer more light and use more land; tighter southern arrays do the reverse. The resulting [pore space](terminology.qmd#term-pore-space) is why [vertical bifacial](terminology.qmd#term-module-technology) primary agriculture (S1) is not equally viable nationwide |
 | **Cropping system** | Decides whether keeping a crop under the panels is plausible at all. Leafy and root horticulture and many forage grasses tolerate moderate shade; C4 grains and many fruiting crops do not, so a maize and soybean region leans on grazing and on leases rather than on cropping through |
-| **Irrigation** | Makes [impaired-land retirement](terminology.qmd#term-s5) possible where a district exceeds its aquifer budget, because retiring demand saves water and solar makes the retirement pay. Rain-fed regions have no consumptive use to retire, and their water work is interception instead |
+| **Irrigation** | Makes [impaired-land siting](terminology.qmd#term-s5) possible where a district exceeds its aquifer budget, because retiring demand saves water and solar makes the retirement pay. Rain-fed regions have no consumptive use to retire, and their water work is interception instead |
 : The six regional factors and what each one changes. The vocabulary travels between regions; the weights do not. {#tbl-regional-factors}
 :::
 

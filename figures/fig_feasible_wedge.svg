@@ -25,11 +25,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line class="cen" x1="152" y1="198" x2="725" y2="198"/>
 <text class="dir" x="140" y="56" text-anchor="end">SHARING &#8593;</text>
 <text class="dir2" x="140" y="338" text-anchor="end">SPARING &#8595;</text>
-<text class="rl" x="142" y="78" text-anchor="end">S1 full sharing</text>
-<text class="rl" x="142" y="140" text-anchor="end">S2 functional</text>
+<text class="rl" x="142" y="78" text-anchor="end">S1 primary agriculture</text>
+<text class="rl" x="142" y="140" text-anchor="end">S2 secondary agric.</text>
 <text class="rl" x="142" y="195" text-anchor="end">S3 ordinary-land siting</text>
 <text class="ctr" x="142" y="210" text-anchor="end">neither</text>
-<text class="rl" x="142" y="262" text-anchor="end">S4 idled land</text>
+<text class="rl" x="142" y="262" text-anchor="end">S4 low-productivity</text>
 <text class="rl" x="142" y="322" text-anchor="end">S5 impaired land</text>
 <text class="ts" x="152" y="358" text-anchor="middle">A1</text><text class="an" x="152" y="373" text-anchor="middle">Farmstead</text>
 <text class="ts" x="296" y="358" text-anchor="middle">A2</text><text class="an" x="296" y="373" text-anchor="middle">Commercial</text>
