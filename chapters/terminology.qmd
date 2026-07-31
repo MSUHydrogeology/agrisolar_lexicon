@@ -2,7 +2,7 @@
 
 Definitions are grouped by subject, in the order the chapters introduce them, and each links to its fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
-![The lexicon's spatial vocabulary anchored across two scales: a parcel-scale plan (siting-led restoration) and an array-scale section (structure- and management-led restoration), with the footprint as the shared anchor between them. Structure terms are drawn in charcoal; the [restorative functions](restorative-functions.qmd) appear in color at their physical homes. The conceptual naming terms defined below, including agrisolar, ecovoltaics, dual use, and LER, have no single element to point to.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
+![**Where the spatial vocabulary lives.** Above, the parcel in plan: what the array physically occupies, the larger and lopsided area it affects, and the character of the ground it was put on. Below, four rows of one array in section, where the geometry settles what can grow and work underneath. Terms defined in this chapter that name an idea rather than a place, among them [agrisolar](#term-agrisolar), [ecovoltaics](#term-ecovoltaics), [dual use](#term-dual-use), and the [land equivalent ratio](#term-ler), have nothing here to point at.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
 
 ## Design levers and pressures {#sec-terms-pressures}
 
