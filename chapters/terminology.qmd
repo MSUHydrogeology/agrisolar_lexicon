@@ -154,7 +154,7 @@ The agricultural use continues essentially as it was, with the array added over 
 
 ### S2 — Secondary agriculture {#term-s2}
 
-The ground still carries an agricultural use, but a lesser one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Agriculture continues; its value is stepped down. Available at every scale, and with S3 the spine of the [feasible wedge](#term-feasible-wedge). See [§-@sec-positions](farming-axis.qmd#sec-positions).
+The ground still carries an agricultural use, but a lesser one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Agriculture continues; its value is stepped down. Available at every scale, and with [S1](#term-s1) and [S3](#term-s3) the spine of the [feasible wedge](#term-feasible-wedge), since grazing splits across S1 and S2 by what the ground carried before. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S3 — Ordinary-land siting {#term-s3}
 
