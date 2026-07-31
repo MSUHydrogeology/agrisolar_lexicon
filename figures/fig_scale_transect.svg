@@ -1,54 +1,253 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="252" viewBox="0 0 880 252" role="img">
-<title>Scale transect zones</title>
-<desc>Six zones across the gradient. A0 Rooftop, any capacity, no ground taken, drawn with an empty white band because it sits at the origin of the gradient rather than on it. A1 Farmstead, under 100 kW and under about an acre. A2 Commercial, 100 kW to 1 MW on roughly half an acre to eight acres. A3 Community, 1 to 5 MW on roughly six to thirty acres. A4 Utility, 5 to 50 MW on roughly thirty to three hundred acres. A5 Complex, above 50 MW on three hundred acres and up. The color band above each label deepens from A1 to A5, and an arrow beneath, labelled increasing scale, runs the length of the set.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="422" viewBox="0 0 1104 422" role="img">
+<title>The scale transect, drawn</title>
+<desc>Six panels side by side, one per zone, each drawn at its own scale so the array grows while the frame stays the same size. A0 Rooftop is a close view of a hip-roofed barn carrying panels on its roof and taking no ground, on a grey band because it sits at the origin of the gradient rather than on it. A1 Farmstead is a farmyard where three rows sit beside the barn and the cattle keep the yard. A2 Commercial is a small array in an awkward field corner with the crop still working the rest. A3 Community is a mid-sized array filling one field, bordered by a sown strip, with houses and a distribution line nearby. A4 Utility is rows across assembled ground with a substation and a contract flock. A5 Complex is array to the horizon under transmission, with a gap where the assembly did not get the ground. The ground colour deepens from A1 to A5.</desc>
+
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.zn{font-size:13.5px;font-weight:600;fill:#173404}
-.zc{font-size:12px;fill:#3b6d11}
-.zf{font-size:11px;fill:#75736c}
-.zn0{font-size:13.5px;font-weight:600;fill:#6f6d66}
-.zc0{font-size:12px;fill:#8a8880}
-.dir{font-size:10.5px;font-weight:700;letter-spacing:.05em;fill:#75736c}
+.hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
+.cd{font-size:21px;font-weight:700;fill:#ffffff}
+.cd0{font-size:21px;font-weight:700;fill:#e8e6e0}
+.nm{font-size:12.5px;font-weight:700;letter-spacing:.07em;fill:#ffffff}
+.ca{font-size:10px;letter-spacing:.02em;fill:#cfcdc6}
+.ac{font-size:9.5px;letter-spacing:.02em;fill:#a8a69f}
+.ft{font-size:10px;font-style:italic;fill:#75736c}
 </style>
-<defs><marker id="gr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,2 L9,5 L0,8 z" fill="#b4b2a9"/></marker></defs>
 
-<!-- A0: on the set but off the ramp, so its band is left empty -->
-<rect x="16" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="17" y="17" width="127" height="118" rx="6" fill="#ffffff"/>
-<text class="zn0" x="80.5" y="160" text-anchor="middle">A0 · Rooftop</text>
-<text class="zc0" x="80.5" y="180" text-anchor="middle">any capacity</text>
-<text class="zf" x="80.5" y="198" text-anchor="middle">no ground taken</text>
+<defs>
+  <!-- one row of tables seen obliquely; scaled per row so rows recede -->
+  <g id="row">
+    <polygon points="0,0 60,0 64,-7 4,-7" fill="#5b6b7a" stroke="#3d4a55" stroke-width="0.9" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <g stroke="#8d9aa6" stroke-width="0.7" vector-effect="non-scaling-stroke">
+      <path d="M12,0 L16,-7 M24,0 L28,-7 M36,0 L40,-7 M48,0 L52,-7"/>
+    </g>
+  </g>
+  <g id="tree">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#7a6a4e" stroke-width="1.6" vector-effect="non-scaling-stroke"/>
+    <circle cx="0" cy="-15" r="7.5" fill="#8fae5f" stroke="#6f8c46" stroke-width="1" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g id="house">
+    <polygon points="-9,0 -9,-9 0,-16 9,-9 9,0" fill="#ffffff" stroke="#6b6b63" stroke-width="1.1" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g id="cow">
+    <rect x="-8" y="-9" width="16" height="6" rx="2.4" fill="#ffffff" stroke="#3d3a34" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <line x1="-5" y1="-3" x2="-5" y2="0" stroke="#3d3a34" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <line x1="4" y1="-3" x2="4" y2="0" stroke="#3d3a34" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <path d="M8,-8 q4,0 4,3" fill="none" stroke="#3d3a34" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g id="sheep">
+    <ellipse cx="0" cy="-4" rx="4.2" ry="3" fill="#ffffff" stroke="#4a4740" stroke-width="0.9" vector-effect="non-scaling-stroke"/>
+    <circle cx="4.2" cy="-5.6" r="1.4" fill="#4a4740"/>
+  </g>
+  <g id="tuft">
+    <line x1="0" y1="0" x2="-3" y2="-6.5" stroke="#6f8a41" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <line x1="0" y1="0" x2="0" y2="-8" stroke="#6f8a41" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+    <line x1="0" y1="0" x2="3" y2="-6.5" stroke="#6f8a41" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g id="pole">
+    <line x1="0" y1="0" x2="0" y2="-26" stroke="#8a7f6a" stroke-width="1.5" vector-effect="non-scaling-stroke"/>
+    <line x1="-6" y1="-22" x2="6" y2="-22" stroke="#8a7f6a" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g id="tower">
+    <path d="M-9,0 L0,-34 L9,0" fill="none" stroke="#7d8b6a" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+    <path d="M-12,-23 L12,-23 M-10,-28.5 L10,-28.5" stroke="#7d8b6a" stroke-width="1.3" vector-effect="non-scaling-stroke"/>
+    <path d="M-5,-11 L5,-11" stroke="#7d8b6a" stroke-width="1.1" vector-effect="non-scaling-stroke"/>
+  </g>
 
-<rect x="159" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="160" y="17" width="127" height="118" rx="6" fill="#EAF3DE"/>
-<text class="zn" x="223.5" y="160" text-anchor="middle">A1 · Farmstead</text>
-<text class="zc" x="223.5" y="180" text-anchor="middle">&lt;100 kW</text>
-<text class="zf" x="223.5" y="198" text-anchor="middle">under ~1 acre</text>
+  <clipPath id="p0"><rect x="18" y="42" width="178" height="288"/></clipPath>
+  <clipPath id="p1"><rect x="196" y="42" width="178" height="288"/></clipPath>
+  <clipPath id="p2"><rect x="374" y="42" width="178" height="288"/></clipPath>
+  <clipPath id="p3"><rect x="552" y="42" width="178" height="288"/></clipPath>
+  <clipPath id="p4"><rect x="730" y="42" width="178" height="288"/></clipPath>
+  <clipPath id="p5"><rect x="908" y="42" width="178" height="288"/></clipPath>
+</defs>
 
-<rect x="302" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="303" y="17" width="127" height="118" rx="6" fill="#DCEBC8"/>
-<text class="zn" x="366.5" y="160" text-anchor="middle">A2 · Commercial</text>
-<text class="zc" x="366.5" y="180" text-anchor="middle">100 kW – 1 MW</text>
-<text class="zf" x="366.5" y="198" text-anchor="middle">~0.5–8 acres</text>
+<!-- ============ header rule, after the rural-to-urban plate ============ -->
+<text class="hd" x="18" y="26">&#9664;</text>
+<text class="hd" x="40" y="26">SMALL</text>
+<g stroke="#b4b2a9" stroke-width="1.2">
+  <path d="M118,15 v11 M148,15 v11 M178,15 v11 M208,15 v11 M238,15 v11 M268,15 v11 M298,15 v11 M328,15 v11 M358,15 v11 M388,15 v11 M418,15 v11"/>
+</g>
+<text class="hd" x="552" y="26" text-anchor="middle">SCALE TRANSECT</text>
+<g stroke="#b4b2a9" stroke-width="1.2">
+  <path d="M686,15 v11 M716,15 v11 M746,15 v11 M776,15 v11 M806,15 v11 M836,15 v11 M866,15 v11 M896,15 v11 M926,15 v11 M956,15 v11 M986,15 v11"/>
+</g>
+<text class="hd" x="1064" y="26" text-anchor="end">LARGE</text>
+<text class="hd" x="1086" y="26" text-anchor="end">&#9654;</text>
 
-<rect x="445" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="446" y="17" width="127" height="118" rx="6" fill="#C0DD97"/>
-<text class="zn" x="509.5" y="160" text-anchor="middle">A3 · Community</text>
-<text class="zc" x="509.5" y="180" text-anchor="middle">1 – 5 MW</text>
-<text class="zf" x="509.5" y="198" text-anchor="middle">~6–30 acres</text>
+<!-- ============ sky ============ -->
+<rect x="18" y="42" width="1068" height="63" fill="#F1EFE9"/>
 
-<rect x="588" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="589" y="17" width="127" height="118" rx="6" fill="#AED483"/>
-<text class="zn" x="652.5" y="160" text-anchor="middle">A4 · Utility</text>
-<text class="zc" x="652.5" y="180" text-anchor="middle">5 – 50 MW</text>
-<text class="zf" x="652.5" y="198" text-anchor="middle">~30–300 acres</text>
+<!-- ============ A0 · Rooftop — takes no ground, so the band stays grey ============ -->
+<g clip-path="url(#p0)">
+  <rect x="18" y="105" width="178" height="225" fill="#EBE9E2"/>
+  <path d="M18,105 h178" stroke="#dcd9d0" stroke-width="1.4"/>
+  <!-- silo -->
+  <path d="M26,308 v-84 a9,9 0 0 1 18,0 v84 z" fill="#ffffff" stroke="#6b6b63" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M26,248 h18 M26,272 h18" stroke="#d3d1c7" stroke-width="1"/>
+  <!-- barn -->
+  <rect x="52" y="206" width="108" height="102" fill="#ffffff" stroke="#6b6b63" stroke-width="1.6"/>
+  <polygon points="44,206 75,154 137,154 168,206" fill="#ffffff" stroke="#6b6b63" stroke-width="1.6" stroke-linejoin="round"/>
+  <!-- the roof array: the whole of A0 -->
+  <polygon points="78,166 134,166 152,198 60,198" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1.1" stroke-linejoin="round"/>
+  <g stroke="#8d9aa6" stroke-width="0.9">
+    <path d="M92,166 L83,198 M106,166 L106,198 M120,166 L129,198 M69,182 L143,182"/>
+  </g>
+  <!-- door and window -->
+  <rect x="90" y="266" width="32" height="42" fill="none" stroke="#6b6b63" stroke-width="1.3"/>
+  <line x1="106" y1="266" x2="106" y2="308" stroke="#6b6b63" stroke-width="1"/>
+  <rect x="132" y="222" width="18" height="16" fill="none" stroke="#6b6b63" stroke-width="1.1"/>
+  <!-- the yard, untouched -->
+  <path d="M18,320 h178" stroke="#e4e1d8" stroke-width="9"/>
+</g>
 
-<rect x="731" y="16" width="129" height="196" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
-<rect x="732" y="17" width="127" height="118" rx="6" fill="#97C459"/>
-<text class="zn" x="795.5" y="160" text-anchor="middle">A5 · Complex</text>
-<text class="zc" x="795.5" y="180" text-anchor="middle">50 MW +</text>
-<text class="zf" x="795.5" y="198" text-anchor="middle">~300–10,000+ acres</text>
+<!-- ============ A1 · Farmstead — three rows beside the yard ============ -->
+<g clip-path="url(#p1)">
+  <rect x="196" y="105" width="178" height="225" fill="#EAF3DE"/>
+  <path d="M196,105 h178" stroke="#c9d9b4" stroke-width="1.4"/>
+  <use href="#tree" transform="translate(208,150) scale(0.75)"/>
+  <use href="#tree" transform="translate(226,147) scale(0.62)"/>
+  <use href="#tree" transform="translate(356,300) scale(1.35)"/>
+  <!-- barn -->
+  <rect x="206" y="214" width="46" height="78" fill="#ffffff" stroke="#6b6b63" stroke-width="1.4"/>
+  <polygon points="202,214 216,186 242,186 256,214" fill="#ffffff" stroke="#6b6b63" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="220" y="262" width="18" height="30" fill="none" stroke="#6b6b63" stroke-width="1.1"/>
+  <!-- the array: a patch, not a field -->
+  <use href="#row" transform="translate(284,248) scale(0.9,0.95)"/>
+  <use href="#row" transform="translate(280,282) scale(1.0,1.05)"/>
+  <use href="#row" transform="translate(276,320) scale(1.1,1.15)"/>
+  <!-- the herd that keeps the yard -->
+  <use href="#cow" transform="translate(222,308) scale(1.5)"/>
+  <use href="#cow" transform="translate(252,326) scale(1.5)"/>
+</g>
 
-<text class="dir" x="16" y="238">INCREASING SCALE</text>
-<line x1="142" y1="234" x2="860" y2="234" stroke="#b4b2a9" stroke-width="1.6" marker-end="url(#gr)"/>
+<!-- ============ A2 · Commercial — the crop keeps the field, the array takes the corner ============ -->
+<g clip-path="url(#p2)">
+  <rect x="374" y="105" width="178" height="225" fill="#DCEBC8"/>
+  <path d="M374,105 h178" stroke="#bcd3a0" stroke-width="1.4"/>
+  <use href="#tree" transform="translate(384,132) scale(0.6)"/>
+  <use href="#tree" transform="translate(398,130) scale(0.6)"/>
+  <use href="#tree" transform="translate(412,132) scale(0.6)"/>
+  <use href="#house" transform="translate(434,132) scale(0.62)"/>
+  <!-- the crop still working most of it -->
+  <g stroke="#87a04f" stroke-width="1.15">
+    <path d="M377,160 v-4 M383,160 v-4 M389,160 v-4 M395,160 v-4 M401,160 v-4 M407,160 v-4 M413,160 v-4 M419,160 v-4 M425,160 v-4 M431,160 v-4 M437,160 v-4 M443,160 v-4 M449,160 v-4 M455,160 v-4 M461,160 v-4 M467,160 v-4"/>
+    <path d="M376,186 v-5 M383,186 v-5 M390,186 v-5 M397,186 v-5 M404,186 v-5 M411,186 v-5 M418,186 v-5 M425,186 v-5 M432,186 v-5 M439,186 v-5 M446,186 v-5 M453,186 v-5 M460,186 v-5 M467,186 v-5"/>
+    <path d="M375,215 v-6 M383,215 v-6 M391,215 v-6 M399,215 v-6 M407,215 v-6 M415,215 v-6 M423,215 v-6 M431,215 v-6 M439,215 v-6 M447,215 v-6 M455,215 v-6 M463,215 v-6"/>
+    <path d="M374,249 v-7 M384,249 v-7 M394,249 v-7 M404,249 v-7 M414,249 v-7 M424,249 v-7 M434,249 v-7 M444,249 v-7 M454,249 v-7 M464,249 v-7"/>
+    <path d="M374,289 v-9 M386,289 v-9 M398,289 v-9 M410,289 v-9 M422,289 v-9 M434,289 v-9 M446,289 v-9 M458,289 v-9"/>
+    <path d="M374,327 v-11 M388,327 v-11 M402,327 v-11 M416,327 v-11 M430,327 v-11 M444,327 v-11 M458,327 v-11"/>
+  </g>
+  <!-- the awkward corner -->
+  <use href="#row" transform="translate(478,232) scale(0.75,0.8)"/>
+  <use href="#row" transform="translate(474,266) scale(0.85,0.9)"/>
+  <use href="#row" transform="translate(470,304) scale(0.95,1.0)"/>
+</g>
+
+<!-- ============ A3 · Community — one field's worth, and the people it is sized to ============ -->
+<g clip-path="url(#p3)">
+  <rect x="552" y="105" width="178" height="225" fill="#C0DD97"/>
+  <path d="M552,105 h178" stroke="#a3c777" stroke-width="1.4"/>
+  <use href="#house" transform="translate(562,134) scale(0.7)"/>
+  <use href="#house" transform="translate(580,134) scale(0.7)"/>
+  <use href="#house" transform="translate(598,134) scale(0.7)"/>
+  <use href="#tree" transform="translate(614,134) scale(0.55)"/>
+  <!-- the distribution line it ties into -->
+  <use href="#pole" transform="translate(714,166) scale(0.75)"/>
+  <use href="#pole" transform="translate(686,152) scale(0.6)"/>
+  <path d="M686,136 L714,148" stroke="#8a7f6a" stroke-width="0.9" fill="none"/>
+  <!-- the array -->
+  <use href="#row" transform="translate(570,178) scale(1.3,0.72)"/>
+  <use href="#row" transform="translate(566,204) scale(1.5,0.82)"/>
+  <use href="#row" transform="translate(562,234) scale(1.7,0.92)"/>
+  <use href="#row" transform="translate(558,270) scale(1.9,1.02)"/>
+  <use href="#row" transform="translate(554,312) scale(2.1,1.12)"/>
+  <!-- the sown border -->
+  <g>
+    <use href="#tuft" x="556" y="328"/><use href="#tuft" x="570" y="330"/><use href="#tuft" x="584" y="327"/>
+    <use href="#tuft" x="598" y="330"/><use href="#tuft" x="612" y="328"/><use href="#tuft" x="626" y="330"/>
+    <use href="#tuft" x="640" y="327"/><use href="#tuft" x="654" y="330"/><use href="#tuft" x="668" y="328"/>
+    <use href="#tuft" x="682" y="330"/><use href="#tuft" x="696" y="327"/><use href="#tuft" x="710" y="330"/>
+    <use href="#tuft" x="724" y="328"/>
+  </g>
+  <g fill="#c8853f">
+    <circle cx="563" cy="322" r="1.6"/><circle cx="605" cy="324" r="1.6"/><circle cx="647" cy="321" r="1.6"/>
+    <circle cx="689" cy="324" r="1.6"/><circle cx="717" cy="322" r="1.6"/>
+  </g>
+</g>
+
+<!-- ============ A4 · Utility — assembled ground, contract flock, substation ============ -->
+<g clip-path="url(#p4)">
+  <rect x="730" y="105" width="178" height="225" fill="#AED483"/>
+  <path d="M730,105 h178" stroke="#93bf65" stroke-width="1.4"/>
+  <use href="#tower" transform="translate(744,150) scale(0.5)"/>
+  <use href="#row" transform="translate(732,138) scale(2.4,0.66)"/>
+  <use href="#row" transform="translate(732,162) scale(2.5,0.74)"/>
+  <use href="#row" transform="translate(731,190) scale(2.6,0.83)"/>
+  <use href="#row" transform="translate(730,224) scale(2.7,0.93)"/>
+  <use href="#row" transform="translate(730,264) scale(2.8,1.04)"/>
+  <use href="#row" transform="translate(730,308) scale(2.4,1.15)"/>
+  <!-- substation in the gap the last row leaves -->
+  <rect x="878" y="292" width="28" height="17" fill="#ffffff" stroke="#6b6b63" stroke-width="1.2"/>
+  <path d="M883,292 v-8 M892,292 v-11 M901,292 v-8" stroke="#7d8b6a" stroke-width="1"/>
+  <!-- the flock that does the mowing -->
+  <use href="#sheep" transform="translate(748,326) scale(1.1)"/>
+  <use href="#sheep" transform="translate(776,329) scale(1.1)"/>
+  <use href="#sheep" transform="translate(806,326) scale(1.1)"/>
+  <use href="#sheep" transform="translate(834,329) scale(1.1)"/>
+</g>
+
+<!-- ============ A5 · Complex — to the horizon, with ground the assembly did not get ============ -->
+<g clip-path="url(#p5)">
+  <rect x="908" y="105" width="178" height="225" fill="#97C459"/>
+  <path d="M908,105 h178" stroke="#7fae44" stroke-width="1.4"/>
+  <use href="#row" transform="translate(906,118) scale(2.6,0.50)"/>
+  <use href="#row" transform="translate(906,132) scale(2.65,0.54)"/>
+  <use href="#row" transform="translate(906,148) scale(2.7,0.58)"/>
+  <use href="#row" transform="translate(906,166) scale(2.75,0.62)"/>
+  <!-- the gap: ground the assembly did not get -->
+  <use href="#row" transform="translate(906,188) scale(1.30,0.68)"/>
+  <use href="#row" transform="translate(1024,188) scale(1.02,0.68)"/>
+  <use href="#row" transform="translate(906,214) scale(1.30,0.74)"/>
+  <use href="#row" transform="translate(1024,214) scale(1.02,0.74)"/>
+  <use href="#row" transform="translate(906,244) scale(1.30,0.82)"/>
+  <use href="#row" transform="translate(1024,244) scale(1.02,0.82)"/>
+  <use href="#row" transform="translate(906,282) scale(3.0,0.95)"/>
+  <use href="#row" transform="translate(906,322) scale(3.0,1.10)"/>
+  <!-- somebody's woodlot, which is why the gap is there -->
+  <use href="#tree" transform="translate(996,240) scale(0.6)"/>
+  <use href="#tree" transform="translate(1011,234) scale(0.5)"/>
+  <use href="#tree" transform="translate(1001,214) scale(0.42)"/>
+  <use href="#tower" transform="translate(958,176) scale(0.40)"/>
+  <use href="#tower" transform="translate(1050,266) scale(0.60)"/>
+  <use href="#tower" transform="translate(936,320) scale(0.82)"/>
+</g>
+
+<!-- ============ frame and dividers ============ -->
+<rect x="18" y="42" width="1068" height="288" fill="none" stroke="#d3d1c7" stroke-width="1"/>
+<g stroke="#ffffff" stroke-width="2.5" opacity="0.92">
+  <path d="M196,42 v288 M374,42 v288 M552,42 v288 M730,42 v288 M908,42 v288"/>
+</g>
+<g stroke="#b4b2a9" stroke-width="0.8">
+  <path d="M196,42 v288 M374,42 v288 M552,42 v288 M730,42 v288 M908,42 v288"/>
+</g>
+
+<!-- ============ the label bar ============ -->
+<rect x="18"  y="330" width="178" height="58" fill="#6f6d66"/>
+<rect x="196" y="330" width="178" height="58" fill="#3d3d3a"/>
+<rect x="374" y="330" width="178" height="58" fill="#3d3d3a"/>
+<rect x="552" y="330" width="178" height="58" fill="#3d3d3a"/>
+<rect x="730" y="330" width="178" height="58" fill="#3d3d3a"/>
+<rect x="908" y="330" width="178" height="58" fill="#3d3d3a"/>
+<g stroke="#ffffff" stroke-width="1.5">
+  <path d="M196,330 v58 M374,330 v58 M552,330 v58 M730,330 v58 M908,330 v58"/>
+</g>
+
+<text class="cd0" x="31" y="367">A0</text><text class="nm" x="68" y="350">ROOFTOP</text><text class="ca" x="68" y="366">any capacity</text><text class="ac" x="68" y="381">no ground taken</text>
+<text class="cd" x="209" y="367">A1</text><text class="nm" x="246" y="350">FARMSTEAD</text><text class="ca" x="246" y="366">&lt;100 kW</text><text class="ac" x="246" y="381">under ~1 acre</text>
+<text class="cd" x="387" y="367">A2</text><text class="nm" x="424" y="350">COMMERCIAL</text><text class="ca" x="424" y="366">100 kW – 1 MW</text><text class="ac" x="424" y="381">~0.5–8 acres</text>
+<text class="cd" x="565" y="367">A3</text><text class="nm" x="602" y="350">COMMUNITY</text><text class="ca" x="602" y="366">1 – 5 MW</text><text class="ac" x="602" y="381">~6–30 acres</text>
+<text class="cd" x="743" y="367">A4</text><text class="nm" x="780" y="350">UTILITY</text><text class="ca" x="780" y="366">5 – 50 MW</text><text class="ac" x="780" y="381">~30–300 acres</text>
+<text class="cd" x="921" y="367">A5</text><text class="nm" x="958" y="350">COMPLEX</text><text class="ca" x="958" y="366">50 MW +</text><text class="ac" x="958" y="381">~300–10,000+ acres</text>
+
+<text class="ft" x="18" y="406">Each panel is drawn at its own scale, so the array grows while the frame does not. The gradient is one of project size, not a walk across the ground: two A2 projects can sit a mile apart, and an A5 can surround an A1.</text>
 </svg>
