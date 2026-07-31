@@ -84,6 +84,8 @@ under **S**.
 
 **Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [Design Pressures](design-pressures.qmd)
 
+**Design tension** — what a resolution of the design pressures leaves unresolved; never nil, so the question is how much remains and who carries it, and the settings that leave least are the ones that recur — [Terminology](terminology.qmd#term-design-tension) · [Where the pressures collide](design-pressures.qmd#sec-conflicts)
+
 **Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](design-pressures.qmd#sec-rg-resource)
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [Terminology](terminology.qmd#term-dual-use)

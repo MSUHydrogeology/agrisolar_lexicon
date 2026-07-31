@@ -12,6 +12,12 @@ Developed in [§-@sec-levers-ch, Design Levers](design-levers.qmd) and [§-@sec-
 
 The competing forces every site must resolve. Unlike axes they have direction, they conflict, and real parties advocate for them. Nine are named. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
+### Design tension {#term-design-tension}
+
+What a resolution of the [design pressures](#term-design-pressures) leaves unresolved. It is never nil, because the nine cannot all be satisfied at once and the project gets built regardless, so the question is how much remains and who is carrying it. Low tension is not the same as agreement: a design can be quiet because the pressures accommodated each other, or quiet because a party with a real claim stopped pressing it. The settings that leave least are the ones that recur, which is what an [archetype](#term-archetype) is. See [§-@sec-conflicts](design-pressures.qmd#sec-conflicts).
+
+*Coined here, and it collides.* An engineer reading a racking specification will meet *design tension* as the tensile load a member is sized to carry. Nothing crosses over but the word: this one is a property of an argument, not of steel.
+
 ### Energy yield {#term-energy-yield}
 
 Pressure: maximize energy per unit land. Pushes toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).

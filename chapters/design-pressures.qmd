@@ -29,6 +29,8 @@ A site with no [build cost](terminology.qmd#term-build-cost) does not get built,
 
 Left unnamed, these conflicts show up late: a stalled permit or a seed mix swapped for turf.
 
+What a given design leaves unresolved is its **[design tension](terminology.qmd#term-design-tension)**. No setting of the [levers](design-levers.qmd) reduces it to nothing, because the nine cannot all be satisfied at once and a project has to be built anyway. What varies is how much is left, and which parties are carrying it: a design can be quiet because the pressures genuinely accommodated each other, or quiet because one party gave up and went home. The settings that leave the least tension are the ones that get built repeatedly, which is where the [archetypal forms](archetypal-forms.qmd) come from.
+
 **[Agricultural production](terminology.qmd#term-agricultural-production) vs. restorative goals.** Should the ground under the panels grow food, or habitat? This is the American Farmland Trust / [ecovoltaics](terminology.qmd#term-ecovoltaics) argument. Requiring crops rules out pollinator plantings; choosing habitat gives up the farmland-protection case. Both sides are defending something real, which is why treating it as a misuse of words settles nothing.
 
 **[Operations and maintenance](terminology.qmd#term-operations-maintenance) vs. everything.** Gravel and herbicide are easy; diverse perennial cover is not. The maintenance bill decides many restorative designs.
