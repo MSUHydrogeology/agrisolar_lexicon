@@ -10,7 +10,7 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 
 ::: {.pressure-table}
 | Pressure | What it asks for | Push on restoration |
-|---|---|---|
+|:--|:--|:--|
 | **Restorative goals** | Wider rows, mixed ground cover, a plan covering all thirty years, and choices made for the sake of what grows underneath [@hernandez2019] | **Toward.** The one this document argues for. It still loses to the other eight most of the time |
 | **Community acceptance and benefit** | Early engagement that can change the design, plus [what the project pays back](terminology.qmd#term-community-benefit): tax revenue, agreements, subscriptions, local hiring, part-ownership | **Toward,** mostly. A township that gets a real say usually asks for more than a check. It can also ask for mown grass and a taller fence. And paying people without asking them first buys resentment, not consent [@crawford2022; @ryder2023] |
 | **End-of-life responsibility** | Removable foundations, less digging, funded [decommissioning](terminology.qmd#term-decommissioning), ground that can go back to what it was | **Toward.** Every trench and every graded acre is soil somebody has to rebuild later. The cheapest decommissioning is the one designed on day one, and the bond is what keeps the cost off the county |
