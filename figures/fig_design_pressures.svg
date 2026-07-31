@@ -47,7 +47,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="256.6" y1="447.1" x2="341.4" y2="346" stroke="#b5643a" stroke-width="2.6" marker-end="url(#Wa)"/>
 <text class="nm" x="231" y="472" text-anchor="end">Operations and</text><text class="nm" x="231" y="487" text-anchor="end">maintenance</text>
 <line x1="190.9" y1="333.3" x2="320.9" y2="310.4" stroke="#b5643a" stroke-width="2.6" marker-end="url(#Wa)"/>
-<text class="nm" x="155" y="344" text-anchor="end">Build cost</text>
+<text class="nm" x="155" y="344" text-anchor="end">Cost and financing</text>
 <line x1="213.7" y1="204" x2="328" y2="270" stroke="#b5643a" stroke-width="2.6" marker-end="url(#Wa)"/>
 <text class="nm" x="185" y="184" text-anchor="end">Energy yield</text>
 

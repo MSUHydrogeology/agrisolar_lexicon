@@ -24,9 +24,9 @@ What a resolution of the [design pressures](#term-design-pressures) leaves unres
 
 Pressure: maximize energy per unit land. Pushes toward dense row spacing, optimal tilt and tracking, low clearance, whole-field coverage. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
-### Build cost {#term-build-cost}
+### Cost and financing {#term-cost-financing}
 
-Pressure: minimize installed cost per watt. Pushes toward standard racking, low clearance, minimal ground preparation, conventional geometry. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: minimize what the project costs to build and what it costs to finance. The first pushes toward standard racking, low clearance, minimal ground preparation, and conventional geometry. The second is a different force with the same sign: transaction costs do not scale down, so a 2 MW project carries much the same paperwork as a 200 MW one, and a small offtaker is likelier to lack a credit rating. Held under one name because a design has to clear both, and a project that pencils on capex can still fail to raise the money. It is why the zone with the most design freedom has the least access to capital (§-@sec-community-scale). See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Operations and maintenance {#term-operations-maintenance}
 

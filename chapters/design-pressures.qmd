@@ -19,11 +19,11 @@ Nine forces act on every site. The third column is the one worth arguing about, 
 | **Policy and permission** | Whatever the rules require before the project can happen at all: the permitting path, prime-farmland and setback rules, state programs, and the subsidies that decide what pays | **Both.** In California, groundwater law pays a grower to retire irrigated ground. In Iowa, the ethanol mandate pays a grower to keep planting it. Same pressure, opposite instruction, and the state line decides |
 | **Operations and maintenance** | Cover that is simple to mow, or gravel that does not grow at all, for twenty-five to forty years | **Away, then toward.** Somebody mows that ground for the next thirty years. Gravel never needs mowing, which is how gravel wins. Natives cost more for three years and less every year after, so which way this pushes depends on how far ahead the owner is looking |
 | **Energy yield** | Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field | **Away.** This is why the standard array looks the way it does: low, tight, edge to edge. Not always opposed, though. Plants under the panels hold the dust down and keep the modules cool, and cool modules make more power [@merheb2025] |
-| **Build cost** | Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes | **Away.** Anything unusual costs more and somebody will ask why it is worth it. Sometimes the answer is cheap: siting New York's entire 2050 build around biodiversity came to 0.17% more than the cheapest version [@gallaher2026] |
+| **Cost and financing** | Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes · a project big enough, and an offtaker sound enough, to raise the money against | **Away,** twice over. Anything unusual costs more and somebody will ask why it is worth it. And the paperwork does not scale down, so the middle of the transect pays a premium per watt for reasons that have nothing to do with how it was built. Sometimes the answer is cheap: siting New York's entire 2050 build around biodiversity came to 0.17% more than the cheapest version [@gallaher2026] |
 : The nine pressures and the direction each one pushes. Read the third column as a direction rather than a verdict on anyone advocating it, since every one of the nine has someone arguing for it in good faith. {#tbl-pressures}
 :::
 
-A site with no [build cost](terminology.qmd#term-build-cost) does not get built, and none of the nine can simply be argued away.
+A site with no [build cost](terminology.qmd#term-cost-financing) does not get built, and none of the nine can simply be argued away.
 
 ## Where the pressures collide {#sec-conflicts}
 
@@ -39,7 +39,7 @@ What a given design leaves unresolved is its **[design tension](terminology.qmd#
 
 **[Energy yield](terminology.qmd#term-energy-yield) vs. restorative goals.** [Clearance](terminology.qmd#term-clearance), spacing, and crop shade tolerance interact. Vegetation can also cool modules, reduce dust, and lower panel-washing demand, so the two pressures occasionally align [@merheb2025].
 
-**Build cost vs. operations and maintenance.** Often mistaken for a single pressure. They split on what to plant, how high to mount, and how to get equipment in: cheap to build is frequently expensive to keep.
+**Cost and financing vs. operations and maintenance.** Often mistaken for a single pressure. They split on what to plant, how high to mount, and how to get equipment in: cheap to build is frequently expensive to keep.
 
 **[End-of-life responsibility](terminology.qmd#term-end-of-life) vs. restorative goals.** The hard one, because both pressures push toward restoration and still collide. Established habitat and rebuilt soil take years to create and resist clean removal: a project designed to disappear cleanly and a project designed to heal the ground are not always the same project.
 

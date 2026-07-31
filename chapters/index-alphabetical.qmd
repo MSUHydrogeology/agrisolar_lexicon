@@ -48,8 +48,6 @@ under **S**.
 
 **Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or institutions), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
-**Build cost** — design pressure: minimize installed cost per watt — [Terminology](terminology.qmd#term-build-cost) · [The pressures](design-pressures.qmd#sec-pressures)
-
 ## C {.unnumbered}
 
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [Terminology](terminology.qmd#term-carrying-capacity) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
@@ -72,6 +70,7 @@ under **S**.
 
 **Contract-led** — restoration mode: the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site; the mode the community and economic function runs on — [Terminology](terminology.qmd#term-contract-led) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
+**Cost and financing** — design pressure: minimize what the project costs to build and what it costs to finance — [Terminology](terminology.qmd#term-cost-financing) · [The pressures](design-pressures.qmd#sec-pressures)
 ## D {.unnumbered}
 
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [Terminology](terminology.qmd#term-decommissioning)
