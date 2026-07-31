@@ -23,8 +23,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="nm" x="16" y="90">Water</text>
 <text class="md" x="236" y="84">siting-led, then</text>
 <text class="md" x="236" y="97">management-led</text>
-<rect fill="#5f5e5a" x="400" y="75" width="78" height="22" rx="3"/>
-<rect fill="#5f5e5a" x="488" y="75" width="78" height="22" rx="3"/>
+<rect fill="#4f86a8" x="400" y="75" width="78" height="22" rx="3"/>
+<rect fill="#4f86a8" x="488" y="75" width="78" height="22" rx="3"/>
 <text class="sub" x="527" y="110" text-anchor="middle">field below, then basin</text>
 <rect class="on" stroke-dasharray="3 2" x="576" y="75" width="78" height="22" rx="3"/>
 <rect class="on" stroke-dasharray="3 2" x="664" y="75" width="78" height="22" rx="3"/>
@@ -32,9 +32,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="nm" x="16" y="152">Ecology</text>
 <text class="md" x="236" y="146">management-led, and</text>
 <text class="md" x="236" y="159">siting-led for connectivity</text>
-<rect fill="#5f5e5a" x="400" y="137" width="78" height="22" rx="3"/>
+<rect fill="#639922" x="400" y="137" width="78" height="22" rx="3"/>
 <rect class="on" stroke-dasharray="3 2" x="488" y="137" width="78" height="22" rx="3"/>
-<rect fill="#5f5e5a" x="576" y="137" width="78" height="22" rx="3"/>
+<rect fill="#639922" x="576" y="137" width="78" height="22" rx="3"/>
 <text class="sub" x="615" y="172" text-anchor="middle">foraging, then dispersal</text>
 <rect class="on" stroke-dasharray="3 2" x="664" y="137" width="78" height="22" rx="3"/>
 
@@ -42,20 +42,20 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="md" x="236" y="201">structure-led at build,</text>
 <text class="md" x="236" y="214">then siting- and</text>
 <text class="md" x="236" y="227">management-led</text>
-<rect fill="#5f5e5a" x="400" y="199" width="78" height="22" rx="3"/>
+<rect fill="#a8894f" x="400" y="199" width="78" height="22" rx="3"/>
 <text class="sub" x="439" y="234" text-anchor="middle">carbon leaves by air</text>
 <rect class="on" stroke-dasharray="3 2" x="488" y="199" width="78" height="22" rx="3"/>
-<rect fill="#5f5e5a" x="576" y="199" width="78" height="22" rx="3"/>
-<rect fill="#5f5e5a" x="664" y="199" width="78" height="22" rx="3"/>
+<rect fill="#a8894f" x="576" y="199" width="78" height="22" rx="3"/>
+<rect fill="#a8894f" x="664" y="199" width="78" height="22" rx="3"/>
 <text class="sub" x="703" y="234" text-anchor="middle">the lease</text>
 
 <text class="nm" x="16" y="276">Community and economy</text>
 <text class="md" x="236" y="276">contract-led</text>
-<rect fill="#5f5e5a" x="400" y="261" width="78" height="22" rx="3"/>
+<rect fill="#2f7f70" x="400" y="261" width="78" height="22" rx="3"/>
 <text class="sub" x="439" y="296" text-anchor="middle">hiring and spend</text>
 <rect class="on" stroke-dasharray="3 2" x="488" y="261" width="78" height="22" rx="3"/>
 <rect class="on" stroke-dasharray="3 2" x="576" y="261" width="78" height="22" rx="3"/>
-<rect fill="#5f5e5a" x="664" y="261" width="78" height="22" rx="3"/>
+<rect fill="#2f7f70" x="664" y="261" width="78" height="22" rx="3"/>
 <text class="sub" x="703" y="296" text-anchor="middle">tenure and tax</text>
 
 <line x1="16" y1="318" x2="744" y2="318" stroke="#d3d1c7" stroke-width="1"/>
