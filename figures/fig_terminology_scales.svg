@@ -19,8 +19,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
   <g id="shrub"><circle cx="0" cy="-5" r="5.2" fill="#8fae5f" stroke="#6f8c46" stroke-width="1" vector-effect="non-scaling-stroke"/></g>
   <g id="house"><polygon points="-11,0 -11,-11 0,-20 11,-11 11,0" fill="#ffffff" stroke="#6b6b63" stroke-width="1.2" stroke-linejoin="round"/></g>
   <g id="sheep">
-    <ellipse cx="0" cy="-5" rx="5.4" ry="3.8" fill="#ffffff" stroke="#4a4740" stroke-width="1" vector-effect="non-scaling-stroke"/>
-    <circle cx="5.4" cy="-7.2" r="1.8" fill="#4a4740"/>
+    <g stroke="#4a4740" stroke-width="1" vector-effect="non-scaling-stroke">
+      <path d="M-3.2,-2.6 V0 M2.8,-2.6 V0"/>
+    </g>
+    <ellipse cx="0" cy="-6" rx="5.4" ry="3.8" fill="#ffffff" stroke="#4a4740" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M5,-8.4 a2,2 0 1 1 1.6,3.2 z" fill="#4a4740"/>
   </g>
   <clipPath id="pa"><rect x="18" y="42" width="1070" height="302"/></clipPath>
   <clipPath id="pb"><rect x="18" y="392" width="1070" height="298"/></clipPath>
@@ -30,39 +33,43 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <path d="M242,21 H1088" stroke="#d3d1c7" stroke-width="1"/>
 <g clip-path="url(#pa)">
 <rect x="18" y="42" width="1070" height="302" fill="#f0eee8"/>
-<rect x="92" y="70" width="508" height="248" fill="#eae7dd" stroke="#b3ac9b" stroke-width="1.2"/>
-<rect x="600" y="70" width="380" height="248" fill="#e6e2d6" stroke="#b3ac9b" stroke-width="1.2"/>
-<path d="M600,70 V318" stroke="#8a8880" stroke-width="1.6" stroke-dasharray="8 4"/>
-<path d="M112,222 q40,-26 92,-14 q52,12 74,34 q16,26 -14,44 q-52,20 -108,4 q-52,-16 -44,-68 z" fill="#ded8c6" stroke="#c6bfab" stroke-width="1.2"/>
-<g stroke="#cbc3ae" stroke-width="1"><path d="M112,292 l34,-64"/><path d="M126,292 l34,-64"/><path d="M140,292 l34,-64"/><path d="M154,292 l34,-64"/><path d="M168,292 l34,-64"/><path d="M182,292 l34,-64"/><path d="M196,292 l34,-64"/><path d="M210,292 l34,-64"/><path d="M224,292 l34,-64"/></g>
-<path d="M300,104 q180,-30 358,-8 q206,26 292,86 q72,52 -18,96 q-114,46 -316,42 q-200,-4 -288,-46 q-82,-42 -50,-106 q10,-42 34,-64 z" fill="none" stroke="#9c927f" stroke-width="1.4" stroke-dasharray="7 5"/>
-<path d="M92,296 q126,-24 248,-6 q134,18 262,-4 q132,-24 316,10" fill="none" stroke="#8fb6cf" stroke-width="8" stroke-linecap="round"/>
-<use href="#house" transform="translate(452,66)"/>
-<use href="#house" transform="translate(496,62) scale(0.82)"/>
-<rect x="332" y="126" width="428" height="130" fill="#e4e1d7" stroke="#8a8880" stroke-width="1.2"/>
-<g fill="#5b6b7a"><rect x="342" y="134" width="408" height="6" rx="1"/><rect x="342" y="149" width="408" height="6" rx="1"/><rect x="342" y="164" width="408" height="6" rx="1"/><rect x="342" y="179" width="408" height="6" rx="1"/><rect x="342" y="194" width="408" height="6" rx="1"/><rect x="342" y="209" width="408" height="6" rx="1"/><rect x="342" y="224" width="408" height="6" rx="1"/><rect x="342" y="239" width="408" height="6" rx="1"/></g>
-<use href="#shrub" transform="translate(338,120)"/><use href="#shrub" transform="translate(355,120)"/><use href="#shrub" transform="translate(372,120)"/><use href="#shrub" transform="translate(389,120)"/><use href="#shrub" transform="translate(406,120)"/><use href="#shrub" transform="translate(423,120)"/><use href="#shrub" transform="translate(440,120)"/><use href="#shrub" transform="translate(457,120)"/><use href="#shrub" transform="translate(474,120)"/><use href="#shrub" transform="translate(491,120)"/><use href="#shrub" transform="translate(508,120)"/><use href="#shrub" transform="translate(525,120)"/><use href="#shrub" transform="translate(542,120)"/><use href="#shrub" transform="translate(559,120)"/><use href="#shrub" transform="translate(576,120)"/><use href="#shrub" transform="translate(593,120)"/><use href="#shrub" transform="translate(610,120)"/><use href="#shrub" transform="translate(627,120)"/><use href="#shrub" transform="translate(644,120)"/><use href="#shrub" transform="translate(661,120)"/><use href="#shrub" transform="translate(678,120)"/><use href="#shrub" transform="translate(695,120)"/><use href="#shrub" transform="translate(712,120)"/><use href="#shrub" transform="translate(729,120)"/><use href="#shrub" transform="translate(746,120)"/>
-<use href="#shrub" transform="translate(766,118)"/><use href="#shrub" transform="translate(782,117)"/><use href="#shrub" transform="translate(798,116)"/><use href="#shrub" transform="translate(814,115)"/><use href="#shrub" transform="translate(830,113)"/><use href="#shrub" transform="translate(846,112)"/><use href="#shrub" transform="translate(862,111)"/><use href="#shrub" transform="translate(878,110)"/><use href="#shrub" transform="translate(894,109)"/>
-<use href="#shrub" transform="translate(900,92) scale(1.25)"/><use href="#shrub" transform="translate(917,92) scale(1.25)"/><use href="#shrub" transform="translate(934,92) scale(1.25)"/><use href="#shrub" transform="translate(951,92) scale(1.25)"/><use href="#shrub" transform="translate(900,77) scale(1.25)"/><use href="#shrub" transform="translate(917,77) scale(1.25)"/><use href="#shrub" transform="translate(934,77) scale(1.25)"/><use href="#shrub" transform="translate(951,77) scale(1.25)"/><use href="#shrub" transform="translate(900,62) scale(1.25)"/><use href="#shrub" transform="translate(917,62) scale(1.25)"/><use href="#shrub" transform="translate(934,62) scale(1.25)"/>
-<path d="M760,192 H1010" stroke="#8a8880" stroke-width="1.2" stroke-dasharray="5 4"/>
-<rect x="1010" y="178" width="46" height="28" fill="#ffffff" stroke="#6b6b63" stroke-width="1.3"/>
-<g stroke="#8a8880" stroke-width="1.1"><path d="M1020,178 v-12 M1033,178 v-16 M1046,178 v-12"/></g>
+<rect x="92" y="84" width="508" height="236" fill="#eae7dd" stroke="#b3ac9b" stroke-width="1.2"/>
+<rect x="600" y="84" width="380" height="236" fill="#e6e2d6" stroke="#b3ac9b" stroke-width="1.2"/>
+<path d="M600,84 V320" stroke="#8a8880" stroke-width="1.6" stroke-dasharray="8 4"/>
+<path d="M112,236 q40,-26 92,-14 q52,12 74,34 q16,26 -14,44 q-52,20 -108,4 q-52,-16 -44,-68 z" fill="#ded8c6" stroke="#c6bfab" stroke-width="1.2"/>
+<g stroke="#cbc3ae" stroke-width="1"><path d="M112,306 l34,-64"/><path d="M126,306 l34,-64"/><path d="M140,306 l34,-64"/><path d="M154,306 l34,-64"/><path d="M168,306 l34,-64"/><path d="M182,306 l34,-64"/><path d="M196,306 l34,-64"/><path d="M210,306 l34,-64"/><path d="M224,306 l34,-64"/></g>
+<path d="M300,118 q180,-30 358,-8 q206,26 292,86 q72,52 -18,96 q-114,46 -316,42 q-200,-4 -288,-46 q-82,-42 -50,-106 q10,-42 34,-64 z" fill="none" stroke="#9c927f" stroke-width="1.4" stroke-dasharray="7 5"/>
+<path d="M92,308 q126,-24 248,-6 q134,18 262,-4 q132,-24 316,10" fill="none" stroke="#8fb6cf" stroke-width="8" stroke-linecap="round"/>
+<path d="M452,86 L336,136 L572,136 z" fill="#d6cdb5" opacity="0.9" stroke="#b8ae96" stroke-width="1.1" stroke-dasharray="5 4"/>
+<use href="#house" transform="translate(452,84)"/>
+<use href="#house" transform="translate(496,80) scale(0.82)"/>
+<rect x="332" y="140" width="428" height="126" fill="#e4e1d7" stroke="#8a8880" stroke-width="1.2"/>
+<g fill="#5b6b7a"><rect x="342" y="148" width="408" height="6" rx="1"/><rect x="342" y="163" width="408" height="6" rx="1"/><rect x="342" y="178" width="408" height="6" rx="1"/><rect x="342" y="193" width="408" height="6" rx="1"/><rect x="342" y="208" width="408" height="6" rx="1"/><rect x="342" y="223" width="408" height="6" rx="1"/><rect x="342" y="238" width="408" height="6" rx="1"/></g>
+<use href="#shrub" transform="translate(338,134)"/><use href="#shrub" transform="translate(355,134)"/><use href="#shrub" transform="translate(372,134)"/><use href="#shrub" transform="translate(389,134)"/><use href="#shrub" transform="translate(406,134)"/><use href="#shrub" transform="translate(423,134)"/><use href="#shrub" transform="translate(440,134)"/><use href="#shrub" transform="translate(457,134)"/><use href="#shrub" transform="translate(474,134)"/><use href="#shrub" transform="translate(491,134)"/><use href="#shrub" transform="translate(508,134)"/><use href="#shrub" transform="translate(525,134)"/><use href="#shrub" transform="translate(542,134)"/><use href="#shrub" transform="translate(559,134)"/><use href="#shrub" transform="translate(576,134)"/><use href="#shrub" transform="translate(593,134)"/><use href="#shrub" transform="translate(610,134)"/><use href="#shrub" transform="translate(627,134)"/><use href="#shrub" transform="translate(644,134)"/><use href="#shrub" transform="translate(661,134)"/><use href="#shrub" transform="translate(678,134)"/><use href="#shrub" transform="translate(695,134)"/><use href="#shrub" transform="translate(712,134)"/><use href="#shrub" transform="translate(729,134)"/><use href="#shrub" transform="translate(746,134)"/>
+<use href="#shrub" transform="translate(766,132)"/><use href="#shrub" transform="translate(782,131)"/><use href="#shrub" transform="translate(798,130)"/><use href="#shrub" transform="translate(814,129)"/><use href="#shrub" transform="translate(830,127)"/><use href="#shrub" transform="translate(846,126)"/><use href="#shrub" transform="translate(862,125)"/><use href="#shrub" transform="translate(878,124)"/><use href="#shrub" transform="translate(894,123)"/>
+<use href="#shrub" transform="translate(900,106) scale(1.25)"/><use href="#shrub" transform="translate(917,106) scale(1.25)"/><use href="#shrub" transform="translate(934,106) scale(1.25)"/><use href="#shrub" transform="translate(951,106) scale(1.25)"/><use href="#shrub" transform="translate(900,91) scale(1.25)"/><use href="#shrub" transform="translate(917,91) scale(1.25)"/><use href="#shrub" transform="translate(934,91) scale(1.25)"/><use href="#shrub" transform="translate(951,91) scale(1.25)"/><use href="#shrub" transform="translate(900,76) scale(1.25)"/><use href="#shrub" transform="translate(917,76) scale(1.25)"/><use href="#shrub" transform="translate(934,76) scale(1.25)"/>
+<path d="M760,206 H1010" stroke="#8a8880" stroke-width="1.2" stroke-dasharray="5 4"/>
+<rect x="1010" y="192" width="46" height="28" fill="#ffffff" stroke="#6b6b63" stroke-width="1.3"/>
+<g stroke="#8a8880" stroke-width="1.1"><path d="M1020,192 v-12 M1033,192 v-16 M1046,192 v-12"/></g>
+<path class="dim" d="M380,266 V320" marker-start="url(#al)" marker-end="url(#ar)"/>
 </g>
 <rect x="18" y="42" width="1070" height="302" fill="none" stroke="#d3d1c7" stroke-width="1"/>
-<path class="ld" d="M326,114 L338,118"/>
-<text class="tt" x="320" y="118" text-anchor="end">Screening</text>
-<path class="ld" d="M918,118 L918,138"/>
-<text class="tt" x="918" y="152" text-anchor="middle">Connectivity</text>
-<text class="tt" x="546" y="280" text-anchor="middle">Footprint</text>
-<path class="ld" d="M600,78 L600,62"/>
-<text class="tt" x="600" y="56" text-anchor="middle">Land assembly</text>
-<path class="ld" d="M330,102 L306,92"/>
-<text class="tt" x="300" y="96" text-anchor="end">Influence zone</text>
-<path class="ld" d="M196,196 L196,176"/>
-<text class="tt" x="196" y="170" text-anchor="middle">Marginal land</text>
-<path class="ld" d="M880,192 L880,214"/>
-<text class="tt" x="880" y="228" text-anchor="middle">Interconnection</text>
-<text class="tt" x="1033" y="228" text-anchor="middle">Substation</text>
+<path class="ld" d="M326,128 L338,132"/>
+<text class="tt" x="320" y="132" text-anchor="end">Screening</text>
+<text class="tt" x="452" y="114" text-anchor="middle">Viewshed</text>
+<path class="ld" d="M918,132 L918,152"/>
+<text class="tt" x="918" y="166" text-anchor="middle">Connectivity</text>
+<text class="tt" x="566" y="288" text-anchor="middle">Footprint</text>
+<text class="tt" x="392" y="292" text-anchor="start">Setback</text>
+<path class="ld" d="M600,92 L600,74"/>
+<text class="tt" x="600" y="68" text-anchor="middle">Land assembly</text>
+<path class="ld" d="M332,124 L302,110"/>
+<text class="tt" x="296" y="114" text-anchor="end">Influence zone</text>
+<path class="ld" d="M196,224 L196,204"/>
+<text class="tt" x="196" y="198" text-anchor="middle">Marginal land</text>
+<path class="ld" d="M880,206 L880,228"/>
+<text class="tt" x="880" y="242" text-anchor="middle">Interconnection</text>
+<text class="tt" x="1033" y="242" text-anchor="middle">Substation</text>
 
 <text class="hd" x="18" y="376">ARRAY SCALE &#183; SECTION</text>
 <path d="M262,371 H1088" stroke="#d3d1c7" stroke-width="1"/>
@@ -93,10 +100,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="956" y="504" width="8" height="92" fill="#5b6b7a" stroke="#3d4a55" stroke-width="1"/>
 <g stroke="#8d9aa6" stroke-width="0.9"><path d="M956,528 h8 M956,556 h8"/></g>
 <path d="M960,596 v14" stroke="#a8a294" stroke-width="3.4" stroke-dasharray="3 3"/>
-<use href="#sheep" transform="translate(154,598) scale(1.0)"/>
-<use href="#sheep" transform="translate(186,598) scale(1.05)"/>
-<use href="#sheep" transform="translate(220,598) scale(1.0)"/>
-<use href="#sheep" transform="translate(256,598) scale(0.95)"/>
+<use href="#sheep" transform="translate(146,599) scale(2.2)"/>
+<use href="#sheep" transform="translate(186,599) scale(2.3)"/>
+<use href="#sheep" transform="translate(228,599) scale(2.15)"/>
 <path d="M347,504 a32,32 0 0 1 56,10" fill="none" stroke="#8a8880" stroke-width="1.4" marker-end="url(#ar)"/>
 </g>
 <rect x="18" y="392" width="1070" height="298" fill="none" stroke="#d3d1c7" stroke-width="1"/>
@@ -106,11 +112,12 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <path class="dim" d="M180,652 H375" marker-start="url(#al)" marker-end="url(#ar)"/>
 <g class="ld"><path d="M180,600 V652"/><path d="M375,600 V652"/></g>
 <text class="tt" x="277" y="670" text-anchor="middle">Row spacing</text>
-<path class="dim" d="M534,652 H606" marker-start="url(#al)" marker-end="url(#ar)"/>
-<g class="ld"><path d="M534,604 V652"/><path d="M606,604 V652"/></g>
-<text class="tt" x="570" y="670" text-anchor="middle">Ground coverage</text>
-<path class="ld" d="M180,574 L180,476"/>
-<text class="tt" x="180" y="470" text-anchor="middle">Stocking density</text>
+<path class="dim" d="M534,652 H729" marker-start="url(#al)" marker-end="url(#ar)"/>
+<path d="M534,652 H606" stroke="#5b6b7a" stroke-width="4.5"/>
+<g class="ld"><path d="M534,604 V652"/><path d="M606,604 V652"/><path d="M729,604 V652"/></g>
+<text class="tt" x="631" y="670" text-anchor="middle">Ground coverage ratio</text>
+<path class="ld" d="M246,576 L232,586"/>
+<text class="tt" x="252" y="580" text-anchor="start">Stocking density</text>
 <path class="ld" d="M375,488 L375,476"/>
 <text class="tt" x="375" y="470" text-anchor="middle">Tracking and curtailment</text>
 <path class="ld" d="M960,500 L960,476"/>

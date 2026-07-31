@@ -2,7 +2,7 @@
 
 Definitions are grouped by subject, in the order the chapters introduce them, and each links to its fuller treatment. The [alphabetical index](index-alphabetical.qmd) provides the same terms A–Z.
 
-![**Where the spatial vocabulary lives.** Above, the parcel in plan: what the array occupies, the two holdings it had to be assembled from, the larger and lopsided area it affects, the character of the ground it was put on, and the line out to the substation that settled how big it could be. Below, five rows of one array in section, where the geometry decides what can grow and work underneath, standing over the surface that was there before the site was graded. The fifth row stands vertical, which is one of the module technologies rather than a drawing error. Terms defined in this chapter that name an idea rather than a place, among them [agrisolar](#term-agrisolar), [ecovoltaics](#term-ecovoltaics), [dual use](#term-dual-use), and the [land equivalent ratio](#term-ler), have nothing here to point at.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
+![**Where the spatial vocabulary lives.** Above, the parcel in plan: what the array occupies, the two holdings it had to be assembled from, the ground held open at its edge, the larger and lopsided area it affects, the reach of that area that lands on a neighbour rather than on the ground, the character of the land it was put on, and the line out to the substation that settled how big it could be. Below, five rows of one array in section, where the geometry decides what can grow and work underneath, standing over the surface that was there before the site was graded. The fifth row stands vertical, which is one of the module technologies rather than a drawing error. Terms defined in this chapter that name an idea rather than a place, among them [agrisolar](#term-agrisolar), [ecovoltaics](#term-ecovoltaics), [dual use](#term-dual-use), and the [land equivalent ratio](#term-ler), have nothing here to point at.](../figures/fig_terminology_scales.svg){#fig-terminology-scales}
 
 ## Design levers and pressures {#sec-terms-pressures}
 
@@ -313,6 +313,14 @@ Neither sense should be confused with the [outcomes footprint](restorative-funct
 ### Screening {#term-screening}
 
 The management of the array's outward visual presence: perimeter setbacks, vegetative buffers (hedgerows, tree/shrub belts), earthen berms, fencing treatment, and glint/glare control. It acts on the *visual* portion of the [Influence Zone](#term-footprint-influence). Screening is dual-function, since the same vegetative buffer that buys [community acceptance](design-pressures.qmd#sec-pressures) can carry habitat and connectivity value, so it is pushed by both community acceptance and restorative goals, while costing generation (edge shade), land, and sometimes agricultural production; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows. Descriptive only: the lexicon names the lever, not a required buffer width, berm height, or setback.
+
+### Setback {#term-setback}
+
+The ground held open between the array and whatever it is measured from: the property line, the road, or a dwelling. It is the dimension local ordinances fix most often, which makes it the commonest way a township rule reaches inside a project, and the land it holds back is where [screening](#term-screening) gets planted and where a hedgerow can carry [connectivity](#term-connectivity). Named here as a decision; no distance is proposed for it.
+
+### Viewshed {#term-viewshed}
+
+The ground from which the array can be seen. It is the part of the [influence zone](#term-footprint-influence) that reaches people rather than water, soil, or wildlife, and the only part of a project's influence a neighbour meets directly, which is why it carries more of the [community acceptance](design-pressures.qmd#sec-pressures) argument than its physical extent suggests. It is what [screening](#term-screening) acts on.
 
 ### Community Benefit {#term-community-benefit}
 

@@ -190,6 +190,8 @@ under **S**.
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Terminology](terminology.qmd#term-screening)
 
+**Setback** — the ground held open between the array and the property line, road, or dwelling; the dimension local ordinances fix most often, and where screening gets planted — [Terminology](terminology.qmd#term-setback)
+
 **Siting Axis** — *see* Siting Axis — [Terminology](terminology.qmd#term-siting-axis)
 
 **Siting Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-siting-axis) · [The Siting Axis](siting-axis.qmd)
@@ -207,3 +209,7 @@ under **S**.
 ## T {.unnumbered}
 
 **Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [Terminology](terminology.qmd#term-tracking-curtailment)
+
+## V {.unnumbered}
+
+**Viewshed** — the ground from which the array can be seen; the part of the influence zone that reaches people rather than water, soil, or wildlife, and what screening acts on — [Terminology](terminology.qmd#term-viewshed)
