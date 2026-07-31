@@ -35,45 +35,45 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 
 <!-- ============ SCALE — grey, because it produces no mode of its own ============ -->
 <use href="#lever" x="90" y="95"/>
-<rect x="85" y="145" width="10" height="50" rx="5" fill="#c9c7c0"/>
-<rect x="72" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#8a8880" stroke-width="2"/>
+<rect x="85" y="145" width="10" height="50" rx="5" fill="#6f6d66"/>
+<rect x="72" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f6d66" stroke-width="2"/>
 <text class="nm0" x="90" y="218" text-anchor="middle">SCALE</text>
 <text class="de"  x="90" y="235" text-anchor="middle">how much ground</text>
 <text class="dl"  x="90" y="251" text-anchor="middle">the frame itself</text>
 
 <!-- ============ the three ground levers ============ -->
 <use href="#lever" x="250" y="95"/>
-<rect x="245" y="145" width="10" height="50" rx="5" fill="#639922"/>
-<rect x="232" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#639922" stroke-width="2"/>
+<rect x="245" y="145" width="10" height="50" rx="5" fill="#b8934a"/>
+<rect x="232" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#b8934a" stroke-width="2"/>
 <text class="nm" x="250" y="218" text-anchor="middle">SITING</text>
 <text class="de" x="250" y="235" text-anchor="middle">which ground</text>
 <text class="dl" x="250" y="251" text-anchor="middle">water, habitat</text>
 
 <use href="#lever" x="370" y="95"/>
-<rect x="365" y="145" width="10" height="50" rx="5" fill="#5f7fa8"/>
-<rect x="352" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#5f7fa8" stroke-width="2"/>
+<rect x="365" y="145" width="10" height="50" rx="5" fill="#97783f"/>
+<rect x="352" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#97783f" stroke-width="2"/>
 <text class="nm" x="370" y="218" text-anchor="middle">STRUCTURE</text>
 <text class="de" x="370" y="235" text-anchor="middle">what gets built</text>
 <text class="dl" x="370" y="251" text-anchor="middle">microclimate, light</text>
 
 <use href="#lever" x="490" y="95"/>
-<rect x="485" y="145" width="10" height="50" rx="5" fill="#b5843a"/>
-<rect x="472" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#b5843a" stroke-width="2"/>
+<rect x="485" y="145" width="10" height="50" rx="5" fill="#6f5730"/>
+<rect x="472" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f5730" stroke-width="2"/>
 <text class="nm" x="490" y="218" text-anchor="middle">MANAGEMENT</text>
 <text class="de" x="490" y="235" text-anchor="middle">what grows there</text>
 <text class="dl" x="490" y="251" text-anchor="middle">soil, habitat, water</text>
 
 <!-- ============ the two institutional levers ============ -->
 <use href="#lever" x="665" y="95"/>
-<rect x="660" y="145" width="10" height="50" rx="5" fill="#8a6ba8"/>
-<rect x="647" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#8a6ba8" stroke-width="2"/>
+<rect x="660" y="145" width="10" height="50" rx="5" fill="#4a6d8c"/>
+<rect x="647" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#4a6d8c" stroke-width="2"/>
 <text class="nm" x="665" y="218" text-anchor="middle">OWNERSHIP</text>
 <text class="de" x="665" y="235" text-anchor="middle">who holds it</text>
 <text class="dl" x="665" y="251" text-anchor="middle">a share of revenue</text>
 
 <use href="#lever" x="785" y="95"/>
-<rect x="780" y="145" width="10" height="50" rx="5" fill="#2f7f70"/>
-<rect x="767" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#2f7f70" stroke-width="2"/>
+<rect x="780" y="145" width="10" height="50" rx="5" fill="#33506b"/>
+<rect x="767" y="138" width="36" height="14" rx="3" fill="#ffffff" stroke="#33506b" stroke-width="2"/>
 <text class="nm" x="785" y="218" text-anchor="middle">CONTRACTS</text>
 <text class="de" x="785" y="235" text-anchor="middle">what was signed</text>
 <text class="dl" x="785" y="251" text-anchor="middle">durability</text>
