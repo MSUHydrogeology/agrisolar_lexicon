@@ -89,15 +89,15 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="214" y="542" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="235.0" y="562" text-anchor="middle">S5</text>
 <line x1="262" y1="512" x2="316" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
-<text class="ot" x="344" y="442">active restoration modes</text>
+<text class="ot" x="344" y="442">restoration modes</text>
 <rect x="344" y="456" width="168" height="20" rx="5" fill="#b8934a"/>
 <text class="cw" x="428" y="470" text-anchor="middle">siting-led</text>
 <rect x="344" y="482" width="168" height="20" rx="5" fill="#97783f"/>
 <text class="cw" x="428" y="496" text-anchor="middle">structure-led</text>
 <rect x="344" y="508" width="168" height="20" rx="5" fill="#6f5730"/>
 <text class="cw" x="428" y="522" text-anchor="middle">management-led</text>
-<rect x="344" y="534" width="168" height="20" rx="5" fill="#e6e4dc"/>
-<text class="cw" x="428" y="548" text-anchor="middle" fill='#9c988e'>ownership-led</text>
+<rect x="344" y="534" width="168" height="20" rx="5" fill="#4a6d8c"/>
+<text class="cw" x="428" y="548" text-anchor="middle">ownership-led</text>
 <rect x="344" y="560" width="168" height="20" rx="5" fill="#33506b"/>
 <text class="cw" x="428" y="574" text-anchor="middle">contract-led</text>
 <text class="ot" x="700" y="442" text-anchor="middle">restorative functions</text>
