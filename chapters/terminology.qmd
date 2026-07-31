@@ -174,7 +174,7 @@ Ordinary ground converted with the farm operation ended: the same ground fact as
 
 ### Feasible wedge {#term-feasible-wedge}
 
-The feasible region across scale and sharing, shaped like a lens: all five positions open at A3, closing toward the S2–S3 middle at both extremes, at A5 as land assembly and build cost remove the poles, at A1 as in-footprint farming and meaningful sparing both need more scale to be real. Each thinned corner has a documented exception. See [§-@sec-wedge](farming-axis.qmd#sec-wedge).
+The feasible region across scale and sharing, and it is not symmetric. The sharing edge runs flat across the whole transect, because farming carries on under panels at every size, from the operator's own yard at A1 to a contracted flock on former pasture at A5. It is the sparing edge that opens with scale, from almost nothing at A1 to the full range by A3. Only [S4](#term-s4) thins toward A5, because land assembly cannot collect scattered remnants. Each thinned corner has a documented exception. See [§-@sec-wedge](farming-axis.qmd#sec-wedge).
 
 *Coined here, and it collides.* A reader from energy or climate work will hear Pacala and Socolow's stabilization wedges [@pacala2004], where a wedge is a slice of avoided emissions widening to a gigaton of carbon a year and the point of the picture is that the slices add up. Nothing carries across but the shape word. This wedge is a region on the scale-by-sharing plane showing which positions are actually available, and it narrows toward both of its ends.
 
@@ -212,7 +212,7 @@ Water quantity and quality as design objectives. On **quantity**: infiltration a
 
 ### Ecological function {#term-fn-biodiversity}
 
-What can live on the ground and what can move through it. Habitat is built from the ground layer up, through floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix; [connectivity](#term-connectivity) is the other half. Reachable across S2–S5, which is why it is a function and not a position. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
+What can live on the ground and what can move through it. Habitat is built from the ground layer up, through floral resources, nesting substrate, and vegetation structure, with mowing and grazing *timing* as decisive as the seed mix; [connectivity](#term-connectivity) is the other half. Reachable across S1–S5, which is why it is a function and not a position: a grazed array on former pasture is S1 and can still carry a pollinator understory. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
 
 ### Connectivity {#term-connectivity}
 
@@ -288,7 +288,7 @@ Crop or livestock production within the array footprint (S1–S2). Crop response
 
 ### Rangevoltaics {#term-rangevoltaics}
 
-Grazing under and between panels, read here as [functional sharing](farming-axis.qmd#sec-positions) (S2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§-@sec-siting-latitude). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
+Grazing under and between panels. Its position turns on what the ground carried before: a flock on land that was already pasture is [S1](#term-s1), and the same flock on former cropland is [S2](#term-s2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§-@sec-siting-latitude). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
 
 **Syn.:** solar grazing.
 

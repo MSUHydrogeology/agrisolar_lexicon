@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" role="img">
-<title>The feasible region as a lens on a five-position axis centred on ordinary-land siting (S3)</title>
-<desc>Centred sharing-sparing axis with five positions. Primary and secondary agriculture (S1-S2) sit above the scale line; ordinary-land siting (S3) sits on it; low-productivity and impaired-land siting (S4-S5) sit below. The feasible region is widest at A3 (Community) and closes toward the S2-S3 middle at both extremes of scale. Solid points populate the robust region; hollow points are exceptions in the thinned corners: greenhouse PV and barn roof at small scale, vertical bifacial, brightfield and water-sustainability at large scale. Animals run S2 at every scale, from the farm's own barnyard shelter through contract grazing to a grazing enterprise; coexistence runs S3 at every scale. Light hatch marks small-scale zones that are feasible but atypical or negligible; dense hatch marks large-scale zones that are strongly constrained.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="796" height="392" viewBox="-36 0 796 392" role="img">
+<title>Which combinations of scale and farming position actually get built</title>
+<desc>A centred sharing-sparing axis with five positions. Primary and secondary agriculture (S1-S2) sit above the scale line, ordinary-land siting (S3) sits on it, and low-productivity and impaired-land siting (S4-S5) sit below. The feasible region is not a lens. It is flat along the top from A1 to A5, because a farm can carry on under panels at any size: at the small end it is the operator's own yard, and at the large end it is a contracted flock on ground that was already pasture. It opens downward from A1 to A3 as sparing becomes worth doing, and stays open to A5. Light hatching at the small end marks sparing that is possible but too small to matter. A dense hatched wedge at the large end marks low-productivity siting thinning toward A5, because idle remnants are scattered and land assembly cannot collect them. Solid points are practices you can go and look at; hollow points are exceptions that reopen a corner the rest of the evidence says is shut.</desc>
 <defs>
 <pattern id="hatchL" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="7" stroke="#8f8d84" stroke-width="1"/></pattern>
 <pattern id="hatchD" width="3.5" height="3.5" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="3.5" stroke="#8f8d84" stroke-width="1"/></pattern>
@@ -15,11 +15,16 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .ctr{font-size:12px;font-weight:600;letter-spacing:.04em;fill:#6f6e68}
 .ax{stroke:#b4b2a9;stroke-width:1}.cen{stroke:#9c9a92;stroke-width:1;stroke-dasharray:4 4}
 </style>
-<polygon points="440,74 725,74 725,136" fill="url(#hatchD)" opacity="0.85"/>
-<polygon points="440,318 725,318 725,198" fill="url(#hatchD)" opacity="0.85"/>
-<polygon points="152,74 440,74 152,136" fill="url(#hatchL)" opacity="0.7"/>
-<polygon points="152,318 440,318 152,198" fill="url(#hatchL)" opacity="0.7"/>
-<polygon points="152,136 440,74 725,136 725,198 440,318 152,198" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
+
+<!-- sparing at the small end: available, and not worth much -->
+<polygon points="152,198 440,318 152,318" fill="url(#hatchL)" opacity="0.7"/>
+
+<!-- the feasible region: flat along the sharing edge, opening downward to A3 -->
+<polygon points="152,74 725,74 725,318 440,318 152,198" fill="#E6F1FB" stroke="#378ADD" stroke-width="1.5"/>
+
+<!-- low-productivity siting thins toward A5: remnants are scattered and assembly cannot collect them -->
+<polygon points="497,262 725,230 725,294" fill="url(#hatchD)" opacity="0.9"/>
+
 <line class="ax" x1="152" y1="50" x2="152" y2="334"/>
 <line class="ax" x1="138" y1="198" x2="740" y2="198"/>
 <line class="cen" x1="152" y1="198" x2="725" y2="198"/>
@@ -36,18 +41,22 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="ts" x="440" y="358" text-anchor="middle">A3</text><text class="an" x="440" y="373" text-anchor="middle">Community</text>
 <text class="ts" x="583" y="358" text-anchor="middle">A4</text><text class="an" x="583" y="373" text-anchor="middle">Utility</text>
 <text class="ts" x="725" y="358" text-anchor="middle">A5</text><text class="an" x="725" y="373" text-anchor="middle">Complex</text>
-<text class="gy" x="240" y="114" text-anchor="middle">animals shelter beside it</text>
-<text class="gy" x="310" y="303" text-anchor="middle">sparing here spares very little</text>
-<circle cx="182" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="182" y="154" text-anchor="middle" fill="#993C1D">barnyard shelter</text>
-<circle cx="440" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="440" y="154" text-anchor="middle" fill="#993C1D">contract grazing</text>
-<circle cx="632" cy="136" r="5.5" fill="#D85A30"/><text class="ts" x="632" y="154" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
+
+<text class="gy" x="300" y="52" text-anchor="middle">the farming carries on at every size</text>
+<text class="gy" x="286" y="303" text-anchor="middle">sparing here spares very little</text>
+<text class="gy" x="648" y="278" text-anchor="middle">remnants will not assemble</text>
+
+<circle cx="182" cy="88" r="5.5" fill="#D85A30"/><text class="ts" x="182" y="106" text-anchor="middle" fill="#993C1D">barnyard shelter</text>
 <circle cx="404" cy="88" r="5.5" fill="#D85A30"/><text class="ts" x="417" y="84" text-anchor="start" fill="#993C1D">vegetables</text>
+<circle cx="655" cy="105" r="5.5" fill="#D85A30"/><text class="ts" x="655" y="126" text-anchor="middle" fill="#993C1D">grazing enterprise</text>
+<circle cx="440" cy="120" r="5.5" fill="#D85A30"/><text class="ts" x="440" y="141" text-anchor="middle" fill="#993C1D">contract grazing</text>
 <circle cx="282" cy="198" r="5.5" fill="#D85A30"/><text class="ts" x="282" y="216" text-anchor="middle" fill="#993C1D">lease income</text>
-<circle cx="658" cy="198" r="5.5" fill="#D85A30"/><text class="ts" x="658" y="216" text-anchor="middle" fill="#993C1D">native grassland</text>
-<circle cx="404" cy="258" r="5.5" fill="#D85A30"/><text class="ts" x="404" y="247" text-anchor="middle" fill="#993C1D">marginal land</text>
+<circle cx="612" cy="198" r="5.5" fill="#D85A30"/><text class="ts" x="612" y="216" text-anchor="middle" fill="#993C1D">native grassland</text>
+<circle cx="404" cy="262" r="5.5" fill="#D85A30"/><text class="ts" x="404" y="251" text-anchor="middle" fill="#993C1D">marginal land</text>
 <circle cx="466" cy="304" r="5.5" fill="#D85A30"/><text class="ts" x="466" y="322" text-anchor="middle" fill="#993C1D">solar prairie strips</text>
-<circle cx="296" cy="95" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="296" y="84" text-anchor="middle">greenhouse PV</text>
-<circle cx="556" cy="92" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="556" y="81" text-anchor="middle">vertical bifacial</text>
-<circle cx="632" cy="252" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="632" y="241" text-anchor="middle">brightfield</text>
-<circle cx="686" cy="296" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="686" y="314" text-anchor="middle">water-sustainability</text>
+<circle cx="700" cy="312" r="5.5" fill="#D85A30"/><text class="ts" x="700" y="332" text-anchor="middle" fill="#993C1D">retired irrigation</text>
+
+<circle cx="296" cy="98" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="296" y="120" text-anchor="middle">greenhouse PV</text>
+<circle cx="556" cy="80" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="556" y="69" text-anchor="middle">vertical bifacial</text>
+<circle cx="640" cy="248" r="5.5" fill="none" stroke="#D85A30" stroke-width="1.5"/><text class="ex" x="640" y="237" text-anchor="middle">brightfield</text>
 </svg>

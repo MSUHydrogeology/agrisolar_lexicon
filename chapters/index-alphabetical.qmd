@@ -101,7 +101,7 @@ under **S**.
 
 ## F {.unnumbered}
 
-**Feasible wedge** — the feasible region across scale and sharing: all five sharing positions stay open through A3, narrowing toward the S2–S3 middle at both extremes — [Terminology](terminology.qmd#term-feasible-wedge) · [Which positions scale allows](farming-axis.qmd#sec-wedge)
+**Feasible wedge** — the feasible region across scale and sharing: the sharing edge runs flat across the whole transect, the sparing edge opens with scale, and only S4 thins toward A5 — [Terminology](terminology.qmd#term-feasible-wedge) · [Which positions scale allows](farming-axis.qmd#sec-wedge)
 
 **Footprint** — land physically occupied by racking, panels, and access infrastructure; paired with influence zone — [Terminology](terminology.qmd#term-footprint-influence)
 
@@ -157,7 +157,7 @@ under **S**.
 
 ## R {.unnumbered}
 
-**Rangevoltaics** — grazing under and between the panels (S2); the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
+**Rangevoltaics** — grazing under and between the panels, S1 on ground that was already pasture and S2 on former cropland; the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
 
 **Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [A worked calibration](design-pressures.qmd#sec-rg-us)
 

@@ -30,15 +30,15 @@ The crowding at A3 is the [feasible wedge](farming-axis.qmd#sec-wedge) in practi
 ::: {.position-table}
 | Position | Forms that sit here |
 |---|---|
-| **S1 — Primary agriculture** | [**Vegetable Agrivoltaics**](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) on ground that was already pasture |
-| **S2 — Secondary agriculture** | [**Regenerative Solar Grazing**](#arch-grazing) on former cropland · [**Marginal Land Solar**](#arch-marginal) where stock stays on · [Pollinator Meadow Solar](#arch-community-solar) where hives are kept |
+| **S1 — Primary agriculture** | [**Vegetable Agrivoltaics**](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [Vineyard and Orchard Canopy](#arch-permanent-crop) · [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) on ground that was already pasture · [**Marginal Land Solar**](#arch-marginal) where stock stays on |
+| **S2 — Secondary agriculture** | [**Regenerative Solar Grazing**](#arch-grazing) on former cropland · [Pollinator Meadow Solar](#arch-community-solar) where hives are kept |
 | **S3 — Ordinary-land siting** | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
 | **S4 — Low-productivity siting** | [**Marginal Land Solar**](#arch-marginal) · [Pivot-Corner Recharge](#arch-recharge) · [Brightfield](#arch-brightfield) · [Farm-Load Microgrid](#arch-microgrid) |
 | **S5 — Impaired-land siting** | [**Solar Prairie Strips**](#arch-prairie-strips) · [**Retired-Irrigation Solar**](#arch-water) |
 : The same forms arranged by what happened to agricultural production, rather than by size. A form appearing at more than one position is one whose ground layer can be run more than one way, or one whose position turns on what the ground carried before it. {#tbl-forms-by-position}
 :::
 
-The sharing wing is thin and structure-led: holding a crop under panels takes geometry that costs money, so only three forms manage it. The sparing wing is where siting does the work. Grazing is the one form that reaches utility scale without giving up a productive ground layer, which is most of why it is the commonest [restorative](terminology.qmd#term-restorative) practice on large arrays.
+The sharing wing is wider than it looks, and it is wide for two different reasons. Holding a *crop* under panels takes geometry that costs money, which is why only three forms manage it. Keeping a *pasture* takes nothing but the decision to put the array where the stock already were, which is why grazing reaches the largest zones without leaving the sharing wing at all. The sparing wing is where siting does the work. Grazing is the one form that reaches utility scale without giving up a productive ground layer, which is most of why it is the commonest [restorative](terminology.qmd#term-restorative) practice on large arrays.
 
 ## Six featured archetypes {#sec-featured}
 
@@ -73,7 +73,7 @@ The fullest working example sits in Colorado, where **Jack's Solar Garden** puts
 
 ### Marginal Land Solar {#arch-marginal}
 
-[A2–A3](scale-transect.qmd#sec-zones) scale · **[S4](farming-axis.qmd#sec-positions)** siting · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
+[A2–A3](scale-transect.qmd#sec-zones) scale · **[S4](farming-axis.qmd#sec-positions)**, or **[S1](farming-axis.qmd#sec-positions)** where stock stays on · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
 ![Marginal land solar in section. The siting decision is the archetype: the array takes the wet, stony corner and the field keeps farming. Communities, Water, and Ecology all sit well out toward the rim, and Agriculture is the one pulled back to the ring.](../figures/fig_arch_marginal.svg){#fig-arch-marginal}
 
@@ -81,7 +81,7 @@ The fullest working example sits in Colorado, where **Jack's Solar Garden** puts
 
 What made a parcel marginal for farming often makes it marginal for solar: ballast on rock, an array elevated above a floodplain, extra cable down a long interconnect run to reach the line. [Build cost](terminology.qmd#term-cost-financing) is the pressure that dominates, for exactly that reason, and generation is what gets yielded, since ground shaped by water and stone is rarely shaped for output. What the form is for is the [community & economic function](restorative-functions.qmd#sec-fn-community), income off acres that were not paying, and that income has to clear the added cost before the array is worth building.
 
-At Cozy Cove Farm in Gurley, Alabama, a llama-and-alpaca farm set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath it, and sells the power to the TVA while the pasture keeps working. *This particular site reads as [S2](farming-axis.qmd#sec-positions), not S4: the siting decision was the marginal corner, but production never stopped there, since the herd still grazes beneath the panels. It is the archetype's sharing variant, and the reading rule in §-@sec-positions settles it.*
+At Cozy Cove Farm in Gurley, Alabama, a llama-and-alpaca farm set a 50-kilowatt array on a flood-prone corner of riverside pasture, raised about seven feet so the herd grazes and shelters beneath it, and sells the power to the TVA while the pasture keeps working. *This particular site reads as [S1](farming-axis.qmd#sec-positions), not S4: the siting decision was the marginal corner, but the ground was riverside pasture before the array and is riverside pasture under it, so the use it had is the use it kept. It is the archetype's sharing variant, and the reading rule in §-@sec-positions settles it.*
 
 ### Solar Prairie Strips {#arch-prairie-strips}
 
