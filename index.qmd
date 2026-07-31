@@ -23,9 +23,22 @@ A [solar grazier](chapters/terminology.qmd#term-rangevoltaics), township planner
 
 Those decisions are being made now, and mostly in an information-poor setting: townships write ordinances without comparable data, developers and neighbors argue past each other, and several states have moved permitting authority away from the communities that host the projects [@susskind2022; @bessette2024]. Shared terms will not resolve those arguments. They let people find out what they are actually arguing about.
 
+**Nothing here is finished, and that is the point.** Agrisolar has no profession yet: no accreditation, no standard of care, no agreed name for most of what it does. This document does not declare one closed. It offers a language precise enough that one could form around it, which is why the [terminology](chapters/terminology.qmd), the [evidence base](chapters/open-issues.qmd), and the [sources](chapters/sources.qmd) are chapters rather than appendices — they are where a reader can trace a term, dispute a claim, and improve the work (§-@sec-joining).
+
 The build-out is not a forecast. Around 15,000 ground-mounted arrays already cover some 3,000 km² of the United States; roughly half of that ground was cropland beforehand and another third agricultural grassland [@stid2022; @sturchio2025croplands]. A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of the contiguous United States [@larson2021]. Most of what comes next will be farmland too.
 
 ## How the language works
+
+The document answers five questions in order, and a reader who only wants one of them can start there.
+
+| | The question | Where it is answered |
+|---|:--|:--|
+| **1** | What can this project actually change? | [Design Levers](chapters/design-levers.qmd) — six decisions, and nothing else |
+| **2** | Who wants what from it, and who is going to lose? | [Design Pressures](chapters/design-pressures.qmd) — nine forces, with advocates |
+| **3** | How much ground does it take? | [The Scale Transect](chapters/scale-transect.qmd) — a barn roof to ten thousand acres |
+| **4** | What happens to the farming on that ground? | [The Siting Axis](chapters/siting-axis.qmd) — carried on, cut back, or ended |
+| **5** | What gets better, and who receives it? | [Restoration Modes](chapters/restoration-modes.qmd) and [Restorative Functions](chapters/restorative-functions.qmd) |
+: The five questions, and the chapter that takes each one up. The formal vocabulary below is what the answers are written in; the questions are what it is for. {#tbl-questions}
 
 Almost every decision in a solar project belongs to one of six groups, and this document calls them the [design levers](chapters/design-levers.qmd): scale, siting, structure, management, ownership, and contracts. They are the spine of everything else here. The [pressures](chapters/terminology.qmd#term-design-pressures) push on them, and what comes out the far end is a project's scale, its position on the [siting axis](chapters/terminology.qmd#term-siting-axis), and the [functions](chapters/terminology.qmd#term-restorative-function) the ground ends up performing.
 
@@ -53,7 +66,7 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 | [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
 : The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
 
-## Joining in
+## Joining in {#sec-joining}
 
 This is a working document, and it improves by being disagreed with. Corrections,
 counterexamples, and proposed terms are welcome as issues or pull requests on
