@@ -233,11 +233,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
   <path d="M196,288 v80 M374,288 v80 M552,288 v80 M730,288 v80 M908,288 v80"/>
 </g>
 
-<text class="cd0" x="31" y="338">A0</text><text class="nm" x="72" y="316">ROOFTOP</text><text class="ca" x="72" y="344">any capacity</text><text class="ac" x="72" y="362">no ground taken</text>
-<text class="cd" x="209" y="338">A1</text><text class="nm" x="250" y="316">FARMSTEAD</text><text class="ca" x="250" y="344">&lt;100 kW</text><text class="ac" x="250" y="362">under ~1 acre</text>
-<text class="cd" x="387" y="338">A2</text><text class="nm" x="428" y="316">COMMERCIAL</text><text class="ca" x="428" y="344">100 kW – 1 MW</text><text class="ac" x="428" y="362">~0.5–8 acres</text>
-<text class="cd" x="565" y="338">A3</text><text class="nm" x="606" y="316">COMMUNITY</text><text class="ca" x="606" y="344">1 – 5 MW</text><text class="ac" x="606" y="362">~6–30 acres</text>
-<text class="cd" x="743" y="338">A4</text><text class="nm" x="784" y="316">UTILITY</text><text class="ca" x="784" y="344">5 – 50 MW</text><text class="ac" x="784" y="362">~30–300 acres</text>
-<text class="cd" x="921" y="338">A5</text><text class="nm" x="962" y="316">COMPLEX</text><text class="ca" x="962" y="344">50 MW +</text><text class="ac" x="962" y="362">~300–10,000+ acres</text>
+<text class="cd0" x="31" y="337">A0</text><text class="nm" x="72" y="310">ROOFTOP</text><text class="ca" x="72" y="338">any capacity</text><text class="ac" x="72" y="356">no ground taken</text>
+<text class="cd" x="209" y="337">A1</text><text class="nm" x="250" y="310">FARMSTEAD</text><text class="ca" x="250" y="338">&lt;100 kW</text><text class="ac" x="250" y="356">under ~1 acre</text>
+<text class="cd" x="387" y="337">A2</text><text class="nm" x="428" y="310">COMMERCIAL</text><text class="ca" x="428" y="338">100 kW – 1 MW</text><text class="ac" x="428" y="356">~0.5–8 acres</text>
+<text class="cd" x="565" y="337">A3</text><text class="nm" x="606" y="310">COMMUNITY</text><text class="ca" x="606" y="338">1 – 5 MW</text><text class="ac" x="606" y="356">~6–30 acres</text>
+<text class="cd" x="743" y="337">A4</text><text class="nm" x="784" y="310">UTILITY</text><text class="ca" x="784" y="338">5 – 50 MW</text><text class="ac" x="784" y="356">~30–300 acres</text>
+<text class="cd" x="921" y="337">A5</text><text class="nm" x="962" y="310">COMPLEX</text><text class="ca" x="962" y="338">50 MW +</text><text class="ac" x="962" y="356">~300–10,000+ acres</text>
 
 </svg>
