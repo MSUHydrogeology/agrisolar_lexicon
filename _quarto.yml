@@ -29,7 +29,7 @@ book:
     - chapters/restorative-functions.qmd
     - chapters/archetypal-forms.qmd
     - chapters/terminology.qmd
-    - chapters/open-issues.qmd
+    - chapters/evidence-and-needs.qmd
     - chapters/sources.qmd
   appendices:
     - chapters/index-alphabetical.qmd

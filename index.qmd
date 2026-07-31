@@ -3,7 +3,7 @@
 ::: {.draft-note}
 **Working draft, circulated for comment.** Some citations are
 [not yet verified](chapters/sources.qmd) and are marked where they appear, and the
-[evidence base](chapters/open-issues.qmd) says what is established, what is
+[evidence base](chapters/evidence-and-needs.qmd) says what is established, what is
 inferred, and what nobody has measured.
 :::
 
@@ -23,7 +23,7 @@ A [solar grazier](chapters/terminology.qmd#term-rangevoltaics), township planner
 
 Those decisions are being made now, and mostly in an information-poor setting: townships write ordinances without comparable data, developers and neighbors argue past each other, and several states have moved permitting authority away from the communities that host the projects [@susskind2022; @bessette2024]. Shared terms will not resolve those arguments. They let people find out what they are actually arguing about.
 
-**Nothing here is finished, and that is the point.** Agrisolar has no profession yet: no accreditation, no standard of care, no agreed name for most of what it does. This document does not declare one closed. It offers a language precise enough that one could form around it, which is why the [terminology](chapters/terminology.qmd), the [evidence base](chapters/open-issues.qmd), and the [sources](chapters/sources.qmd) are chapters rather than appendices — they are where a reader can trace a term, dispute a claim, and improve the work, and [Joining in](#sec-joining) says how.
+**Nothing here is finished, and that is the point.** Agrisolar has no profession yet: no accreditation, no standard of care, no agreed name for most of what it does. This document does not declare one closed. It offers a language precise enough that one could form around it, which is why the [terminology](chapters/terminology.qmd), the [evidence base](chapters/evidence-and-needs.qmd), and the [sources](chapters/sources.qmd) are chapters rather than appendices — they are where a reader can trace a term, dispute a claim, and improve the work, and [Joining in](#sec-joining) says how.
 
 The build-out is not a forecast. Around 15,000 ground-mounted arrays already cover some 3,000 km² of the United States; roughly half of that ground was cropland beforehand and another third agricultural grassland [@stid2022; @sturchio2025croplands]. A net-zero grid by 2050 could put solar on 60,000–90,000 km², roughly 1% of the contiguous United States [@larson2021]. Most of what comes next will be farmland too.
 
@@ -64,7 +64,7 @@ Two levers carry enough internal structure to need a chapter each. **Scale** bec
 | [Restorative Functions](chapters/restorative-functions.qmd) | the four functions a design can be aimed at, the eight outcomes they carry, and which route each benefit travels to whoever receives it |
 | [Archetypal Forms](chapters/archetypal-forms.qmd) | recurring settings of the levers that already exist on real ground, six worked through and seven sketched, from barnyard shelter to solar prairie strips |
 | [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
-| [Evidence Base and Research Needs](chapters/open-issues.qmd) | how well each claim is evidenced, stated once rather than hedged everywhere, and the measurements that would settle what is still inferred |
+| [Evidence Base and Research Needs](chapters/evidence-and-needs.qmd) | how well each claim is evidenced, stated once rather than hedged everywhere, and the measurements that would settle what is still inferred |
 | [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
 : The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
 
