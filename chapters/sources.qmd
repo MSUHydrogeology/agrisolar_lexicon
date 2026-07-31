@@ -94,8 +94,19 @@ nocite: |
 - Pascaris, A.S., Schelly, C., Burnham, L. & Pearce, J.M. (2021). Integrating solar energy with agriculture: industry perspectives on the market, community, and socio-political dimensions of agrivoltaics. *Energy Research & Social Science* 75:102023. DOI 10.1016/j.erss.2021.102023.
 - Pascaris, A.S., Gerlak, A.K. & Barron-Gafford, G.A. (2023). From niche-innovation to mainstream markets: drivers and challenges of industry adoption of agrivoltaics in the U.S. *Energy Policy* 181:113694. DOI 10.1016/j.enpol.2023.113694.
 
+**Where the terms came from (§-@sec-terminology)** — traced for the provenance notes on individual glossary entries.
+
+- Goetzberger, A. & Zastrow, A. (1982). On the coexistence of solar-energy conversion and plant cultivation. *International Journal of Solar Energy* 1(1):55–69. DOI 10.1080/01425918208909875. — *the agrivoltaic concept, with its geometry, nearly thirty years before the English word. Often miscited as 1981; the published issue is 1982.*
+- Dupraz, C., Marrou, H., Talbot, G., Dufour, L., Nogier, A. & Ferard, Y. (2011). Combining solar photovoltaic panels and food crops for optimising land use: towards new agrivoltaic schemes. *Renewable Energy* 36(10):2725–2732. DOI 10.1016/j.renene.2011.03.005. — *the English coinage of* agrivoltaic, *and what carried the land equivalent ratio into the field.*
+- Mead, R. & Willey, R.W. (1980). The concept of a 'land equivalent ratio' and advantages in yields from intercropping. *Experimental Agriculture* 16(3):217–228. DOI 10.1017/S0014479700010978. — *where LER was defined, for intercropping, which is where its assumption of commensurable yields comes from.*
+- Taylor, P.D., Fahrig, L., Henein, K. & Merriam, G. (1993). Connectivity is a vital element of landscape structure. *Oikos* 68(3):571–573. DOI 10.2307/3544927. — *landscape ecology's functional sense of* connectivity, *which this lexicon uses unchanged and which collides with both the map-adjacency and the electrical senses.*
+- Pacala, S. & Socolow, R. (2004). Stabilization wedges: solving the climate problem for the next 50 years with current technologies. *Science* 305(5686):968–972. DOI 10.1126/science.1100103. — *not a source for anything here; cited because the* feasible wedge *is coined in this document and will be heard against these wedges.*
+- Eisenack, K., Oberlack, C. & Sietz, D. (2021). Avenues of archetype analysis: roots, achievements, and next steps in sustainability research. *Ecology and Society* 26(2):31. DOI 10.5751/ES-12484-260231. — *the formal method this lexicon's* archetypes *are deliberately not.*
+- Salafsky, N., Salzer, D., Stattersfield, A.J., Hilton-Taylor, C., Neugarten, R., Butchart, S.H.M., Collen, B., Cox, N., Master, L.L., O'Connor, S. & Wilkie, D. (2008). A standard lexicon for biodiversity conservation: unified classifications of threats and actions. *Conservation Biology* 22(4):897–911. DOI 10.1111/j.1523-1739.2008.00937.x. — *the IUCN-CMP conservation actions classification, the nearest prior art for sorting interventions by the instrument that delivers them.*
+
 **Regulatory frameworks**
 
+- US Department of Agriculture. *Prime and Unique Farmlands*, 7 CFR Part 657 (657.5). https://www.ecfr.gov/current/title-7/subtitle-B/chapter-VI/subchapter-F/part-657 — *the federal definition behind* prime farmland; *a rule rather than a description, and the one glossary term that can by itself stop a project. Current eCFR text as accessed July 2026.*
 - McDonnell, N. (2025). The multi-functionality of ecovoltaics: comparative analysis of large-scale solar regulatory frameworks in New South Wales and England. *Journal of Energy & Natural Resources Law* 43(3):401–423. DOI 10.1080/02646811.2025.2540700.
 
 **Prairie strips**
