@@ -65,7 +65,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="298" y1="242" x2="342" y2="242" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="470.0" y1="344" x2="318.0" y2="390" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
 <text class="eb" x="30" y="406">C · SCALE AND FARMING POSITION</text>
-<text class="eb" x="344" y="406">D · RESTORATION MODES, FUNCTIONS, AND OUTCOMES</text>
+<text class="eb" x="360" y="406">D · RESTORATION MODES, FUNCTIONS, AND OUTCOMES</text>
 <text class="ot" x="30" y="442">scale transect position</text>
 <rect x="30" y="456" width="42" height="30" rx="5" fill="#EAF3DE" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="51.0" y="476" text-anchor="middle">A1</text>
@@ -88,28 +88,28 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="cd" x="189.0" y="562" text-anchor="middle">S4</text>
 <rect x="214" y="542" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="235.0" y="562" text-anchor="middle">S5</text>
-<line x1="262" y1="512" x2="316" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
-<text class="ot" x="344" y="442">restoration modes</text>
-<rect x="344" y="456" width="168" height="20" rx="5" fill="#b8934a"/>
-<text class="cw" x="428" y="470" text-anchor="middle">siting-led</text>
-<rect x="344" y="482" width="168" height="20" rx="5" fill="#97783f"/>
-<text class="cw" x="428" y="496" text-anchor="middle">structure-led</text>
-<rect x="344" y="508" width="168" height="20" rx="5" fill="#6f5730"/>
-<text class="cw" x="428" y="522" text-anchor="middle">management-led</text>
-<rect x="344" y="534" width="168" height="20" rx="5" fill="#4a6d8c"/>
-<text class="cw" x="428" y="548" text-anchor="middle">ownership-led</text>
-<rect x="344" y="560" width="168" height="20" rx="5" fill="#33506b"/>
-<text class="cw" x="428" y="574" text-anchor="middle">contract-led</text>
-<text class="ot" x="700" y="442" text-anchor="middle">restorative functions</text>
-<circle cx="700" cy="530" r="76" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
-<circle cx="700" cy="530" r="44" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
-<line x1="700" y1="530" x2="753.7" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="700" y1="530" x2="753.7" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="700" y1="530" x2="646.3" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="700" y1="530" x2="646.3" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
-<polygon points="739.8,490.2 732.2,562.2 655.9,574.1 672.1,502.1" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
-<text class="sc" x="766" y="467" text-anchor="start">Communities</text>
-<text class="sc" x="766" y="599" text-anchor="start">Agriculture</text>
-<text class="sc" x="634" y="599" text-anchor="end">Water</text>
-<text class="sc" x="634" y="467" text-anchor="end">Ecology</text>
+<line x1="262" y1="512" x2="332" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
+<text class="ot" x="360" y="442">restoration modes</text>
+<rect x="360" y="456" width="168" height="20" rx="5" fill="#b8934a"/>
+<text class="cw" x="444" y="470" text-anchor="middle">siting-led</text>
+<rect x="360" y="482" width="168" height="20" rx="5" fill="#97783f"/>
+<text class="cw" x="444" y="496" text-anchor="middle">structure-led</text>
+<rect x="360" y="508" width="168" height="20" rx="5" fill="#6f5730"/>
+<text class="cw" x="444" y="522" text-anchor="middle">management-led</text>
+<rect x="360" y="534" width="168" height="20" rx="5" fill="#4a6d8c"/>
+<text class="cw" x="444" y="548" text-anchor="middle">ownership-led</text>
+<rect x="360" y="560" width="168" height="20" rx="5" fill="#33506b"/>
+<text class="cw" x="444" y="574" text-anchor="middle">contract-led</text>
+<text class="ot" x="716" y="442" text-anchor="middle">restorative functions</text>
+<circle cx="716" cy="530" r="76" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
+<circle cx="716" cy="530" r="44" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="716" y1="530" x2="769.7" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="716" y1="530" x2="769.7" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="716" y1="530" x2="662.3" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
+<line x1="716" y1="530" x2="662.3" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
+<polygon points="755.8,490.2 748.2,562.2 671.9,574.1 688.1,502.1" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
+<text class="sc" x="782" y="467" text-anchor="start">Communities</text>
+<text class="sc" x="782" y="599" text-anchor="start">Agriculture</text>
+<text class="sc" x="650" y="599" text-anchor="end">Water</text>
+<text class="sc" x="650" y="467" text-anchor="end">Ecology</text>
 </svg>
