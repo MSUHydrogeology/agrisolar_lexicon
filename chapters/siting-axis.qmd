@@ -8,20 +8,13 @@ Most public argument about solar on farmland is an argument about this axis, con
 
 ## The positions {#sec-positions}
 
-::: {.position-table}
-| Position | Description | Characteristic |
-|---|---|---|
-| **S1 — Full sharing** | Production continues within the array footprint, in the same ground | Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics); crops between rows |
-| **S2 — Functional sharing** | Ground layer is productive but subordinate to the array; grazing, forage | [Solar grazing](terminology.qmd#term-rangevoltaics) at any scale |
-| **S3 — Coexistence** | *Neither sharing nor sparing.* The array takes ordinary ground outright, production stops on it, and the revenue sustains the farm enterprise that holds it. Land and farm coexist at the level of the business rather than the field | The lease that keeps a working farm solvent and in operation |
-| **S4 — Idled-land sparing** | Array occupies ground already idle, marginal, or out of production, so that productive land is spared | Awkward remnants, fallow ground, brightfields |
-| **S5 — Impaired-land retirement** | Production ends on ground that carried a measurable off-site burden, such as chronically low yields, high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or on ground positioned where that burden can be intercepted | Prairie strips on runoff-prone ground; retiring drainage-impaired irrigated fields |
-: The five positions, from production continuing in the same ground to production ended on ground that was carrying a burden. A position records what happened to the farming, not the merit of the project. {#tbl-positions}
-:::
+![**Siting Axis Positions.** Five readings of one question, from production continuing in the same ground to production ended on ground that was carrying a burden. The colour diverges from a neutral centre at **S3 — Coexistence**, which is neither sharing nor sparing, running blue toward the sharing end and purple toward the sparing end. The line beneath each name is the ground fact that defines the position, and the grey line under it is what that looks like on real ground.](../figures/fig_siting_positions.svg){#fig-siting-positions}
+
+Both sharing positions are narrower than they sound. **S1** means the crop itself under or between the rows, which is [agrivoltaics](terminology.qmd#term-agrivoltaics) in the strict sense, and **S2** is a productive ground layer that serves the array as much as the farm, which in practice is nearly always [solar grazing](terminology.qmd#term-rangevoltaics).
 
 Coexistence is the center of the axis and where most projects sit; direct crop production under panels remains a small share of US installations [@stid2022; @macknick2022]. **S3 is where restoration is socioeconomic before it is biophysical**: the lease sustains the farm enterprise although production stops in the [footprint](terminology.qmd#term-footprint-influence). Where rent reaches a non-farming owner and the operation ends, the site is **bare conversion**, the non-restorative baseline. The distinction must be made for the landowner and tenant separately (§-@sec-fn-community) [@stid2025].
 
-S4 and S5 both end production but differ in [where the benefit goes](terminology.qmd#term-benefit-delivery): S4 spares land not taken, S5 acts on the ground taken and its downstream effects. Prairie plantings on drainage-impaired crop ground illustrate the distinction [@schulte2017].
+S4 and S5 both end production but differ in [where the benefit goes](terminology.qmd#term-benefit-delivery): S4 spares land not taken, S5 acts on the ground taken and its downstream effects. The burden that qualifies a site for S5 has to be a measurable one: chronically low yields, high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget. Ground positioned where such a burden can be intercepted qualifies on the same reasoning. Prairie plantings on drainage-impaired crop ground illustrate the distinction [@schulte2017].
 
 ::: {.example}
 **Corn-ethanol land: the large American S5 case.** It reverses the usual objection. About 12 million hectares of US cropland, an area the size of New York State, already grows energy rather than food. One hectare of utility-scale array matches the energy of roughly 31 hectares of corn grown for ethanol, so converting 3.2% of that acreage would replace all of its energy and take utility-scale solar from 3.9% to 13% of US supply. Retiring the nutrient-exporting fraction under perennial vegetation would remove an estimated 54.8 million kg of nitrogen and 26.3 million kg of phosphorus from annual application [@sturchio2025croplands].

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="272" viewBox="0 0 980 272" role="img">
+<title>The five siting positions</title>
+<desc>Five positions across the siting axis. S1 Full sharing, production continues in the same ground the array takes, as in vegetable agrivoltaics. S2 Functional sharing, the ground layer is productive but subordinate to the array, as in solar grazing. S3 Coexistence, the array takes ordinary ground outright and production stops, as in a lease that keeps a farm going. S4 Idled-land sparing, ground already idle or marginal, so productive land is spared, as in remnants, fallow ground, and brightfields. S5 Impaired-land retirement, production ends on ground that carried an off-site burden, as in prairie strips and retired fields. The colour band above each label diverges from a neutral centre at S3, running blue toward the sharing end and purple toward the sparing end, and a double-headed arrow beneath runs from land sharing at the left to land sparing at the right.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.pc{font-size:34px;font-weight:700;letter-spacing:.02em}
+.pn{font-size:12.5px;font-weight:600}
+.pd{font-size:11.5px}
+.pf{font-size:11px;fill:#75736c}
+.dir{font-size:10.5px;font-weight:700;letter-spacing:.05em;fill:#75736c}
+.sh{fill:#1f4f75}.shd{fill:#356b95}
+.ct{fill:#57534b}.ctd{fill:#6b665c}
+.sp{fill:#4a2f6b}.spd{fill:#65458a}
+</style>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,2 L9,5 L0,8 z" fill="#b4b2a9"/></marker>
+<marker id="al" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10,2 L1,5 L10,8 z" fill="#b4b2a9"/></marker>
+</defs>
+
+<!-- S1 -->
+<rect x="17" y="16" width="181" height="214" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="18" y="17" width="179" height="118" rx="6" fill="#7fb3d9"/>
+<text class="pc" x="107.5" y="88" text-anchor="middle" fill="#4b86b4">S1</text>
+<text class="pn sh" x="107.5" y="160" text-anchor="middle">Full sharing</text>
+<text class="pd shd" x="107.5" y="180" text-anchor="middle">Production continues in the</text>
+<text class="pd shd" x="107.5" y="196" text-anchor="middle">same ground the array takes</text>
+<text class="pf" x="107.5" y="216" text-anchor="middle">vegetable agrivoltaics</text>
+
+<!-- S2 -->
+<rect x="208" y="16" width="181" height="214" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="209" y="17" width="179" height="118" rx="6" fill="#bfdaec"/>
+<text class="pc" x="298.5" y="88" text-anchor="middle" fill="#89b6d6">S2</text>
+<text class="pn sh" x="298.5" y="160" text-anchor="middle">Functional sharing</text>
+<text class="pd shd" x="298.5" y="180" text-anchor="middle">The ground layer is productive</text>
+<text class="pd shd" x="298.5" y="196" text-anchor="middle">but subordinate to the array</text>
+<text class="pf" x="298.5" y="216" text-anchor="middle">solar grazing, at any scale</text>
+
+<!-- S3 -->
+<rect x="399" y="16" width="181" height="214" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="400" y="17" width="179" height="118" rx="6" fill="#efeeea"/>
+<text class="pc" x="489.5" y="88" text-anchor="middle" fill="#c8c4b8">S3</text>
+<text class="pn ct" x="489.5" y="160" text-anchor="middle">Coexistence</text>
+<text class="pd ctd" x="489.5" y="180" text-anchor="middle">The array takes ordinary ground</text>
+<text class="pd ctd" x="489.5" y="196" text-anchor="middle">outright; production stops</text>
+<text class="pf" x="489.5" y="216" text-anchor="middle">a lease that keeps a farm going</text>
+
+<!-- S4 -->
+<rect x="590" y="16" width="181" height="214" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="591" y="17" width="179" height="118" rx="6" fill="#d9cbe6"/>
+<text class="pc" x="680.5" y="88" text-anchor="middle" fill="#b69ed4">S4</text>
+<text class="pn sp" x="680.5" y="160" text-anchor="middle">Idled-land sparing</text>
+<text class="pd spd" x="680.5" y="180" text-anchor="middle">Ground already idle or marginal,</text>
+<text class="pd spd" x="680.5" y="196" text-anchor="middle">so productive land is spared</text>
+<text class="pf" x="680.5" y="216" text-anchor="middle">remnants, fallow, brightfields</text>
+
+<!-- S5 -->
+<rect x="781" y="16" width="181" height="214" rx="7" fill="#ffffff" stroke="#d3d1c7" stroke-width="1"/>
+<rect x="782" y="17" width="179" height="118" rx="6" fill="#b69ed4"/>
+<text class="pc" x="871.5" y="88" text-anchor="middle" fill="#8f70b7">S5</text>
+<text class="pn sp" x="871.5" y="160" text-anchor="middle">Impaired-land retirement</text>
+<text class="pd spd" x="871.5" y="180" text-anchor="middle">Production ends on ground that</text>
+<text class="pd spd" x="871.5" y="196" text-anchor="middle">carried an off-site burden</text>
+<text class="pf" x="871.5" y="216" text-anchor="middle">prairie strips; retired fields</text>
+
+<text class="dir" x="17" y="256">LAND SHARING</text>
+<line x1="115" y1="252" x2="864" y2="252" stroke="#b4b2a9" stroke-width="1.6" marker-start="url(#al)" marker-end="url(#ar)"/>
+<text class="dir" x="962" y="256" text-anchor="end">LAND SPARING</text>
+</svg>
