@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="392" viewBox="0 0 880 392" role="img">
 <title>Restoration potential across the scale transect</title>
 <desc>Two panels over the same five zones. The upper panel holds the three levers that act on ground. Structure starts highest at A1, where an array can be built to fit one particular yard, and falls to commodity racking at A5. Siting is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Structure and management cross at A3, siting peaks there, and ownership and contracts cross there too. The lower panel holds the two levers that act institutional. Ownership starts highest at A1, where the operator owns both the array and the animals under it and no agreement is needed, and falls to almost nothing at A5, where the owner is absentee. Contracts run the opposite way, close to nothing at A1 because there is no counterparty to write to, and the main instrument by A5. Both hand-offs happen at the same place, A3. Scale is the axis and has no curve of its own.</desc>
+<!-- Management runs #4f3d1c here, one step darker than the #6f5730 it carries in
+     chapter 1 and on the landing figure. Same hue and same family; the extra value
+     is what separates it from structure on a pane where three bronzes cross. -->
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .ax{font-size:11px;fill:#8a8880}
@@ -31,13 +34,13 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="387.1" y="103.1" width="5.9" height="5.9" fill="#97783f"/>
 <rect x="526.1" y="137.1" width="5.9" height="5.9" fill="#97783f"/>
 <rect x="665.1" y="157.1" width="5.9" height="5.9" fill="#97783f"/>
-<path d="M112,168 C170,168 193,140 251,140 C309,140 332,106 390,106 C448,106 471,68 529,68 C587,68 610,56 668,56" fill="none" stroke="#6f5730" stroke-width="2.6" stroke-linecap="round"/>
-<path d="M112.0,164.2 L115.8,168.0 L112.0,171.8 L108.2,168.0 z" fill="#6f5730"/>
-<path d="M251.0,136.2 L254.8,140.0 L251.0,143.8 L247.2,140.0 z" fill="#6f5730"/>
-<path d="M390.0,102.2 L393.8,106.0 L390.0,109.8 L386.2,106.0 z" fill="#6f5730"/>
-<path d="M529.0,64.2 L532.8,68.0 L529.0,71.8 L525.2,68.0 z" fill="#6f5730"/>
-<path d="M668.0,52.2 L671.8,56.0 L668.0,59.8 L664.2,56.0 z" fill="#6f5730"/>
-<text class="cl" x="680" y="60" fill="#6f5730">management</text>
+<path d="M112,168 C170,168 193,140 251,140 C309,140 332,106 390,106 C448,106 471,68 529,68 C587,68 610,56 668,56" fill="none" stroke="#4f3d1c" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M112.0,164.2 L115.8,168.0 L112.0,171.8 L108.2,168.0 z" fill="#4f3d1c"/>
+<path d="M251.0,136.2 L254.8,140.0 L251.0,143.8 L247.2,140.0 z" fill="#4f3d1c"/>
+<path d="M390.0,102.2 L393.8,106.0 L390.0,109.8 L386.2,106.0 z" fill="#4f3d1c"/>
+<path d="M529.0,64.2 L532.8,68.0 L529.0,71.8 L525.2,68.0 z" fill="#4f3d1c"/>
+<path d="M668.0,52.2 L671.8,56.0 L668.0,59.8 L664.2,56.0 z" fill="#4f3d1c"/>
+<text class="cl" x="680" y="60" fill="#4f3d1c">management</text>
 <text class="cl" x="680" y="164" fill="#97783f">structure</text>
 <text class="cl" x="680" y="186" fill="#b8934a">siting</text>
 <text class="eb" x="112" y="222">INSTITUTIONAL</text>
